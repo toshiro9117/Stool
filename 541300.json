@@ -4,8 +4,8 @@
     "name": "Survive the Nights",
     "schinese_name": "生存之夜",
     "isfreeapp": "0",
-    "change_number": "28349228",
-    "update_time": "2025-04-08 00:05:07",
+    "change_number": "28903400",
+    "update_time": "2025-05-09 22:16:22",
     "depot": {
         "541301": {
             "config": {
@@ -42,9 +42,9 @@
                     "download": "4539025824"
                 },
                 "demo": {
-                    "gid": "7146743234842621646",
-                    "size": "5546530129",
-                    "download": "2563773024"
+                    "gid": "4554496210956558006",
+                    "size": "5546727295",
+                    "download": "2560984672"
                 },
                 "experimental": {
                     "gid": "1114772580370436587",
@@ -67,9 +67,9 @@
                 "timeupdated": "1744041902"
             },
             "demo": {
-                "buildid": "18013108",
+                "buildid": "18310537",
                 "description": "Testing the demo build",
-                "timeupdated": "1744038576"
+                "timeupdated": "1746112052"
             },
             "experimental": {
                 "buildid": "18012813",
