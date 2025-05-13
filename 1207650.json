@@ -4,8 +4,8 @@
     "name": "Suzerain",
     "schinese_name": "宗主国",
     "isfreeapp": "0",
-    "change_number": "28492110",
-    "update_time": "2025-04-16 01:09:55",
+    "change_number": "28904914",
+    "update_time": "2025-05-09 23:45:36",
     "depot": {
         "hasdepotsindlc": "0",
         "1207651": {
@@ -15,6 +15,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7238270900327275067",
+                    "size": "1382276193",
+                    "download": "1147549584"
+                },
+                "legacy3.0.9": {
                     "gid": "6834909163177145501",
                     "size": "1993061206",
                     "download": "1716881424"
@@ -29,6 +34,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4907158994654266733",
+                    "size": "1576924574",
+                    "download": "1165168560"
+                },
+                "legacy3.0.9": {
                     "gid": "6763430676057143134",
                     "size": "2021809006",
                     "download": "1724393472"
@@ -38,8 +48,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "18347956",
+                "timeupdated": "1746630947"
+            },
+            "legacy3.0.9": {
                 "buildid": "14875541",
-                "timeupdated": "1719600562"
+                "description": "Suzerain 3.0.9 Legacy Branch",
+                "timeupdated": "1746452075"
             }
         },
         "privatebranches": "1"
