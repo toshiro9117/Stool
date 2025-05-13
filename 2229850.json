@@ -4,8 +4,8 @@
     "name": "Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™",
     "schinese_name": "《命令与征服：红色警戒 2 及尤里的复仇》",
     "isfreeapp": "0",
-    "change_number": "27913620",
-    "update_time": "2025-03-12 23:04:05",
+    "change_number": "28871384",
+    "update_time": "2025-05-08 07:02:48",
     "depot": {
         "228989": {
             "config": {
@@ -105,6 +105,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c77d357feaf80aeffec05b1e927bb30c6fd94bf15a98088112db8416e70d13ee"
     }
 }
