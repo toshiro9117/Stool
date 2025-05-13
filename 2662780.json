@@ -4,8 +4,8 @@
     "name": "Heat Death: Survival Train",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28468845",
-    "update_time": "2025-04-14 22:51:45",
+    "change_number": "28782503",
+    "update_time": "2025-05-02 16:54:39",
     "depot": {
         "228981": {
             "config": {
@@ -66,27 +66,27 @@
         "2662781": {
             "manifests": {
                 "public": {
-                    "gid": "4056672763130372040",
-                    "size": "3366822297",
-                    "download": "2933253808"
+                    "gid": "7176452070469070942",
+                    "size": "3450748388",
+                    "download": "3011361376"
                 },
                 "openbeta": {
-                    "gid": "4056672763130372040",
-                    "size": "3366822297",
-                    "download": "2933253808"
+                    "gid": "7176452070469070942",
+                    "size": "3450748388",
+                    "download": "3011361376"
                 }
             },
             "decryptionkey": "ed24354acad5e4184839fc73f8566220cb531f97a71d4bfae7ba7251b890a8f4"
         },
         "branches": {
             "public": {
-                "buildid": "17618028",
-                "timeupdated": "1741886518"
+                "buildid": "18095451",
+                "timeupdated": "1745676255"
             },
             "openbeta": {
-                "buildid": "17618028",
+                "buildid": "18095451",
                 "description": "Open Beta",
-                "timeupdated": "1741432465"
+                "timeupdated": "1745077816"
             }
         },
         "privatebranches": "1"
