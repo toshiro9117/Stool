@@ -4,8 +4,8 @@
     "name": "Empyrion - Galactic Survival",
     "schinese_name": "帝国霸业：银河生存",
     "isfreeapp": "0",
-    "change_number": "28519437",
-    "update_time": "2025-04-17 09:14:32",
+    "change_number": "28872844",
+    "update_time": "2025-05-08 09:17:28",
     "depot": {
         "workshopdepot": "383120",
         "hasdepotsindlc": "1",
@@ -61,11 +61,6 @@
                     "gid": "4532113771825280900",
                     "size": "9128180753",
                     "download": "3985802592"
-                },
-                "experimental": {
-                    "gid": "3874750359557769963",
-                    "size": "17191573931",
-                    "download": "10028961456"
                 }
             },
             "decryptionkey": "34c1757941c6a2a64511d2d07327a24569014d7bd684b4259ec76f37f7aedc55"
@@ -109,11 +104,6 @@
                 "buildid": "3799908",
                 "description": "Archive: Alpha 9",
                 "timeupdated": "1587836017"
-            },
-            "experimental": {
-                "buildid": "17851724",
-                "description": "Experimental branch",
-                "timeupdated": "1742909914"
             }
         },
         "privatebranches": "1",
