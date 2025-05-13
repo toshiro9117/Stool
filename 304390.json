@@ -4,8 +4,8 @@
     "name": "For Honor",
     "schinese_name": "荣耀战魂",
     "isfreeapp": "0",
-    "change_number": "28531541",
-    "update_time": "2025-04-17 22:53:06",
+    "change_number": "28904977",
+    "update_time": "2025-05-09 23:49:41",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "304391": {
             "manifests": {
                 "public": {
-                    "gid": "6980517175055715030",
-                    "size": "116483299495",
-                    "download": "115222847440"
+                    "gid": "6335956325428615752",
+                    "size": "116984280161",
+                    "download": "115735977312"
                 },
                 "local": {
                     "gid": "40822287544783651",
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17694327",
-                "timeupdated": "1741871486"
+                "buildid": "17897714",
+                "timeupdated": "1745500032"
             },
             "local": {
                 "buildid": "10618292",
