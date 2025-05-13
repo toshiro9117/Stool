@@ -4,23 +4,23 @@
     "name": "恐龙岛",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28475987",
-    "update_time": "2025-04-15 06:55:24",
+    "change_number": "28899098",
+    "update_time": "2025-05-09 17:55:47",
     "depot": {
         "3139891": {
             "manifests": {
                 "public": {
-                    "gid": "5698254290550338258",
-                    "size": "23030214066",
-                    "download": "19126921056"
+                    "gid": "7423520903743899348",
+                    "size": "22224405176",
+                    "download": "18685791232"
                 }
             },
             "decryptionkey": "0d6a1dd1b167221ae493fcfd7d637899ead4a54a8381f2603ba1c21c870541f4"
         },
         "branches": {
             "public": {
-                "buildid": "18028023",
-                "timeupdated": "1744161018"
+                "buildid": "18265497",
+                "timeupdated": "1745894806"
             }
         },
         "privatebranches": "1"
