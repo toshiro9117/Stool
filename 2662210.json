@@ -4,8 +4,8 @@
     "name": "Astro Colony Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27437449",
-    "update_time": "2025-02-12 18:45:11",
+    "change_number": "28919017",
+    "update_time": "2025-05-11 01:25:12",
     "depot": {
         "1004": {
             "config": {
@@ -66,17 +66,17 @@
         "2662211": {
             "manifests": {
                 "public": {
-                    "gid": "3667707566382328789",
-                    "size": "414061704",
-                    "download": "214264912"
+                    "gid": "1271898639142215924",
+                    "size": "416962501",
+                    "download": "216602256"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17334537",
-                "timeupdated": "1739357106"
+                "buildid": "18415473",
+                "timeupdated": "1746897907"
             }
         }
     }
