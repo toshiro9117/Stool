@@ -4,17 +4,17 @@
     "name": "Rain World",
     "schinese_name": "雨世界",
     "isfreeapp": "0",
-    "change_number": "28494621",
-    "update_time": "2025-04-16 03:59:19",
+    "change_number": "28880323",
+    "update_time": "2025-05-08 19:02:21",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "312521": {
             "manifests": {
                 "public": {
-                    "gid": "8166643505761973033",
-                    "size": "4111934378",
-                    "download": "2821636960"
+                    "gid": "679063911786930262",
+                    "size": "4114919389",
+                    "download": "2823799872"
                 },
                 "classic": {
                     "gid": "6365756072218008879",
@@ -27,14 +27,14 @@
                     "download": "2335583216"
                 },
                 "legacy-remix": {
-                    "gid": "3945011423293327412",
-                    "size": "3100322321",
-                    "download": "2162457968"
+                    "gid": "5779085981904129925",
+                    "size": "3100322322",
+                    "download": "2164676400"
                 },
                 "legacy-remix-1.9.15b": {
-                    "gid": "718883250732890085",
-                    "size": "3400741853",
-                    "download": "2168791696"
+                    "gid": "383223282069780539",
+                    "size": "3410242772",
+                    "download": "2163507312"
                 }
             },
             "decryptionkey": "f36b23dfaca5b387508e33fe17732bcd48a16ab0fef3b1eb819494ad76d5ce2a"
@@ -42,8 +42,8 @@
         "workshopdepot": "312520",
         "branches": {
             "public": {
-                "buildid": "18118000",
-                "timeupdated": "1744747154"
+                "buildid": "18283987",
+                "timeupdated": "1745958313"
             },
             "classic": {
                 "buildid": "1748904",
@@ -56,14 +56,14 @@
                 "timeupdated": "1672855746"
             },
             "legacy-remix": {
-                "buildid": "17911067",
+                "buildid": "18312160",
                 "description": "v1.9.07b",
-                "timeupdated": "1743271660"
+                "timeupdated": "1746122921"
             },
             "legacy-remix-1.9.15b": {
-                "buildid": "17911076",
+                "buildid": "18312143",
                 "description": "v1.9.15b",
-                "timeupdated": "1743271671"
+                "timeupdated": "1746122907"
             }
         },
         "privatebranches": "1",
