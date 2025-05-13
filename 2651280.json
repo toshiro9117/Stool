@@ -4,8 +4,8 @@
     "name": "Marvel's Spider-Man 2",
     "schinese_name": "漫威蜘蛛侠2",
     "isfreeapp": "0",
-    "change_number": "28541526",
-    "update_time": "2025-04-18 10:20:56",
+    "change_number": "28912989",
+    "update_time": "2025-05-10 10:11:30",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,arabic,brazilian,greek,latam,vietnamese,indonesian",
         "228989": {
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "283784848121784975",
+                    "size": "111693466086",
+                    "download": "93135373408"
+                },
+                "previous_version": {
                     "gid": "1130781422434892506",
                     "size": "111693413582",
                     "download": "93136370688"
-                },
-                "previous_version": {
-                    "gid": "1017909781968647904",
-                    "size": "111693897626",
-                    "download": "93131563344"
                 }
             },
             "decryptionkey": "9874571b52ba0c01cbdfd32c5d81920d1093f42fbcf76d02a1e4589746a3b497"
@@ -41,14 +41,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "2122344807553709723",
+                    "size": "898917564",
+                    "download": "564849424"
+                },
+                "previous_version": {
                     "gid": "3160414479632315825",
                     "size": "898825076",
                     "download": "564843840"
-                },
-                "previous_version": {
-                    "gid": "4628329690453434546",
-                    "size": "898720292",
-                    "download": "564815520"
                 }
             },
             "decryptionkey": "ab459f096f7d0fd0720dd711f19036f532f2678314af4155ed197882c260b539"
@@ -61,14 +61,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "128537672446059904",
+                    "size": "6490510308",
+                    "download": "1310066576"
+                },
+                "previous_version": {
                     "gid": "158685609862226506",
                     "size": "6490220002",
                     "download": "1309898656"
-                },
-                "previous_version": {
-                    "gid": "4198295456302130025",
-                    "size": "6490207714",
-                    "download": "1310501360"
                 }
             },
             "decryptionkey": ""
@@ -333,13 +333,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18029697",
-                "timeupdated": "1744283079"
+                "buildid": "18388889",
+                "timeupdated": "1746786598"
             },
             "previous_version": {
-                "buildid": "17943107",
+                "buildid": "18029697",
                 "description": "Rollback to previous version",
-                "timeupdated": "1744282952"
+                "timeupdated": "1746786545"
             }
         },
         "privatebranches": "1"
