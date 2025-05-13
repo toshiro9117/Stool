@@ -4,8 +4,8 @@
     "name": "Cyber Knights: Flashpoint",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28522138",
-    "update_time": "2025-04-17 13:22:30",
+    "change_number": "28917982",
+    "update_time": "2025-05-10 23:05:15",
     "depot": {
         "baselanguages": "english",
         "1021212": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4439921680530252540",
-                    "size": "12127025041",
-                    "download": "7190160816"
+                    "gid": "3661285024535951256",
+                    "size": "12132481233",
+                    "download": "7191527456"
                 }
             },
             "decryptionkey": "ca8eecda387085ee0ddead4b8e6f11eb31acbf246bff8341d302488f02613fc4"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1561281532915954215",
-                    "size": "12311500771",
-                    "download": "7278025232"
+                    "gid": "2181307046988827469",
+                    "size": "12317867879",
+                    "download": "7279333344"
                 }
             }
         },
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8867814275107574697",
-                    "size": "11834329195",
-                    "download": "7082671984"
+                    "gid": "254849085558805522",
+                    "size": "11925051016",
+                    "download": "7117249680"
                 }
             }
         },
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18162807",
-                "timeupdated": "1745016253"
+                "buildid": "18414841",
+                "timeupdated": "1746889510"
             }
         },
         "privatebranches": "1"
