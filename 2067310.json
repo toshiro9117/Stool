@@ -4,8 +4,8 @@
     "name": "Neon Blood",
     "schinese_name": "霓虹之血",
     "isfreeapp": "0",
-    "change_number": "28489002",
-    "update_time": "2025-04-15 22:30:31",
+    "change_number": "28840321",
+    "update_time": "2025-05-06 19:27:33",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "2067311": {
             "manifests": {
                 "public": {
-                    "gid": "5362642650676018277",
-                    "size": "5931985222",
-                    "download": "1098910560"
+                    "gid": "1717698473285574919",
+                    "size": "5923658420",
+                    "download": "1099762848"
                 }
             },
             "decryptionkey": "250ca541652dc67026fe0060efa93ad7cafce6a026c62aca851a85902771c927"
@@ -41,8 +41,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16763673",
-                "timeupdated": "1734381602"
+                "buildid": "18278686",
+                "timeupdated": "1745923773"
             }
         }
     }
