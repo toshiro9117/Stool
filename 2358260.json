@@ -4,8 +4,8 @@
     "name": "Cricket 24",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28338831",
-    "update_time": "2025-04-07 11:24:06",
+    "change_number": "28855612",
+    "update_time": "2025-05-07 14:28:00",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "2358261": {
             "manifests": {
                 "public": {
-                    "gid": "6583371275793907574",
-                    "size": "89999000938",
-                    "download": "81045967008"
+                    "gid": "4050646547669502370",
+                    "size": "96668168086",
+                    "download": "86875526480"
                 }
             },
             "decryptionkey": "d2480c418615ed3b9881736c176ae2e4d455b3394906ee7f34651ee1367897ac"
         },
         "branches": {
             "public": {
-                "buildid": "15685936",
-                "timeupdated": "1726581321"
+                "buildid": "18290736",
+                "timeupdated": "1746015841"
             }
         },
         "privatebranches": "1"
