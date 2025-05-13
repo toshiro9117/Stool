@@ -4,8 +4,8 @@
     "name": "The Planet Crafter",
     "schinese_name": "星球工匠",
     "isfreeapp": "0",
-    "change_number": "28529608",
-    "update_time": "2025-04-17 21:17:06",
+    "change_number": "28862800",
+    "update_time": "2025-05-07 21:53:24",
     "depot": {
         "1284192": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "2604001792"
                 },
                 "development": {
-                    "gid": "3734017505073142517",
-                    "size": "4842893510",
-                    "download": "2839688400"
+                    "gid": "4287366352670925092",
+                    "size": "5120867199",
+                    "download": "2902562976"
                 }
             },
             "decryptionkey": "1f10eb10bfc54e336b5f2e2a5c05001817700491d0c79a7931637a9158c41dc0"
@@ -28,9 +28,9 @@
                 "timeupdated": "1739268860"
             },
             "development": {
-                "buildid": "18144292",
+                "buildid": "18373218",
                 "description": "Dev branch. This is a work in progress branch. May contains bugs & broken features. May affect or corrupt save files..",
-                "timeupdated": "1744895822"
+                "timeupdated": "1746619334"
             }
         },
         "privatebranches": "1"
