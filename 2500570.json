@@ -4,8 +4,8 @@
     "name": "Little Droid",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28372843",
-    "update_time": "2025-04-09 03:49:00",
+    "change_number": "28867917",
+    "update_time": "2025-05-08 02:39:05",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,russian",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2556720098189464885",
-                    "size": "134511519",
-                    "download": "80026096"
+                    "gid": "6573829067618397080",
+                    "size": "134516965",
+                    "download": "80029712"
                 }
             },
             "decryptionkey": "67e194ec93d367fd593a021cbb6bd93c069592d147c0ca407779cd28fa6be603"
         },
         "branches": {
             "public": {
-                "buildid": "18031116",
-                "timeupdated": "1744141734"
+                "buildid": "18378418",
+                "timeupdated": "1746643140"
             }
         }
     }
