@@ -1,0 +1,42 @@
+{
+    "appid": "3647480",
+    "type": "Game",
+    "name": "Unknown Host",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28919479",
+    "update_time": "2025-05-11 02:34:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "3647481": {
+            "manifests": {
+                "public": {
+                    "gid": "6265087301325972049",
+                    "size": "3164844186",
+                    "download": "2813952272"
+                }
+            },
+            "decryptionkey": "2491cc94dbb31679962e4190538d8ed21496a1773bd0d2c8aacf70df3d79ff60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415544",
+                "timeupdated": "1746898778"
+            }
+        }
+    }
+}
