@@ -4,8 +4,8 @@
     "name": "SVFI",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28377133",
-    "update_time": "2025-04-09 09:43:22",
+    "change_number": "28699697",
+    "update_time": "2025-04-28 13:28:57",
     "depot": {
         "228988": {
             "config": {
@@ -40,14 +40,14 @@
                     "download": "2698964304"
                 },
                 "beta": {
-                    "gid": "7812801207695276899",
-                    "size": "14143161179",
-                    "download": "6184903584"
+                    "gid": "1954145702402870689",
+                    "size": "14143560486",
+                    "download": "6185034256"
                 },
                 "beta-cu128": {
-                    "gid": "6145697283726943708",
-                    "size": "17250097612",
-                    "download": "6800068592"
+                    "gid": "7704393933474811391",
+                    "size": "17100112650",
+                    "download": "6793170512"
                 },
                 "revision-1": {
                     "gid": "8313844098382470838",
@@ -68,14 +68,14 @@
                 "timeupdated": "1698293509"
             },
             "beta": {
-                "buildid": "18034263",
+                "buildid": "18255909",
                 "description": "SVFI Beta Test",
-                "timeupdated": "1744162985"
+                "timeupdated": "1745758950"
             },
             "beta-cu128": {
-                "buildid": "17347529",
+                "buildid": "18260885",
                 "description": "Blackwell Support",
-                "timeupdated": "1739428795"
+                "timeupdated": "1745818131"
             },
             "revision-1": {
                 "buildid": "14333239",
