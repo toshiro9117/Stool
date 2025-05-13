@@ -4,8 +4,8 @@
     "name": "Fields of Mistria",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540062",
-    "update_time": "2025-04-18 08:04:05",
+    "change_number": "28836666",
+    "update_time": "2025-05-06 15:50:27",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1206114676459628348",
-                    "size": "402346232",
-                    "download": "204785584"
+                    "gid": "7361307065991971193",
+                    "size": "402357809",
+                    "download": "204779568"
                 }
             },
             "decryptionkey": "b0773c2441743d1c8975c20922ec8e1bfc9122d75cff9bb8cdb6e99ba5c0d030"
@@ -38,8 +38,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18102114",
-                "timeupdated": "1744650826"
+                "buildid": "18300540",
+                "timeupdated": "1746040576"
             }
         },
         "privatebranches": "1"
