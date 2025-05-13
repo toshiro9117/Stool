@@ -4,8 +4,8 @@
     "name": "Another Crab's Treasure",
     "schinese_name": "蟹蟹寻宝奇遇",
     "isfreeapp": "0",
-    "change_number": "28519309",
-    "update_time": "2025-04-17 09:08:05",
+    "change_number": "28892204",
+    "update_time": "2025-05-09 07:57:34",
     "depot": {
         "1887842": {
             "config": {
@@ -18,9 +18,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "339460321503769681",
-                    "size": "7725382134",
-                    "download": "2591879728"
+                    "gid": "3081673839246088221",
+                    "size": "8297535435",
+                    "download": "2669585824"
                 },
                 "beta": {
                     "gid": "339460321503769681",
@@ -32,8 +32,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15067762",
-                "timeupdated": "1721775586"
+                "buildid": "18396035",
+                "timeupdated": "1746748650"
             },
             "beta": {
                 "buildid": "15067762",
