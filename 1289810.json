@@ -4,8 +4,8 @@
     "name": "Siralim Ultimate",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28297131",
-    "update_time": "2025-04-04 05:20:40",
+    "change_number": "28919018",
+    "update_time": "2025-05-11 01:25:16",
     "depot": {
         "228988": {
             "config": {
@@ -31,6 +31,11 @@
                     "gid": "2606261130902773772",
                     "size": "501156782",
                     "download": "314948656"
+                },
+                "patch-1x": {
+                    "gid": "2606261130902773772",
+                    "size": "501156782",
+                    "download": "314948656"
                 }
             },
             "decryptionkey": "7fa2933dccbea29e87886ddd66e11f17df0d68319985eadf4307197a8b54655b"
@@ -42,6 +47,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1391923650786982702",
+                    "size": "482413102",
+                    "download": "315954320"
+                },
+                "patch-1x": {
                     "gid": "1391923650786982702",
                     "size": "482413102",
                     "download": "315954320"
@@ -59,6 +69,11 @@
                     "gid": "8181257486677567942",
                     "size": "599583619",
                     "download": "336849840"
+                },
+                "patch-1x": {
+                    "gid": "8181257486677567942",
+                    "size": "599583619",
+                    "download": "336849840"
                 }
             },
             "decryptionkey": ""
@@ -67,6 +82,11 @@
             "public": {
                 "buildid": "9266810",
                 "timeupdated": "1660390456"
+            },
+            "patch-1x": {
+                "buildid": "9266810",
+                "description": "Patch 1.x series",
+                "timeupdated": "1745975381"
             }
         },
         "privatebranches": "1"
