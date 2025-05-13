@@ -4,8 +4,8 @@
     "name": "Combots",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28506746",
-    "update_time": "2025-04-16 19:20:10",
+    "change_number": "28626362",
+    "update_time": "2025-04-24 00:43:40",
     "depot": {
         "baselanguages": "",
         "228988": {
@@ -25,9 +25,9 @@
         "1657811": {
             "manifests": {
                 "public": {
-                    "gid": "6583130733929927718",
-                    "size": "686709835",
-                    "download": "486169376"
+                    "gid": "8007818484659158810",
+                    "size": "750097328",
+                    "download": "548617952"
                 },
                 "v200": {
                     "gid": "1964486143334044273",
@@ -39,8 +39,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14803763",
-                "timeupdated": "1719054293"
+                "buildid": "18210727",
+                "timeupdated": "1745426616"
             },
             "v200": {
                 "buildid": "8203422",
