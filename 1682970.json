@@ -4,8 +4,8 @@
     "name": "Uncrashed : FPV Drone Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541205",
-    "update_time": "2025-04-18 09:52:00",
+    "change_number": "28889190",
+    "update_time": "2025-05-09 03:42:20",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4019426174954183862",
-                    "size": "18728638231",
-                    "download": "17982223184"
+                    "gid": "6736515878631889489",
+                    "size": "18728635810",
+                    "download": "17982386496"
                 }
             },
             "decryptionkey": "b624e2fc8bd702706ce1a60197150203bca12f0b0b1eb6b19232061dc24b05d2"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8690238370063737096",
-                    "size": "20039006718",
-                    "download": "18157716384"
+                    "gid": "1647888184581975813",
+                    "size": "20039207226",
+                    "download": "18157819776"
                 }
             }
         },
         "workshopdepot": "1682970",
         "branches": {
             "public": {
-                "buildid": "18160216",
-                "timeupdated": "1744997840"
+                "buildid": "18227927",
+                "timeupdated": "1745528106"
             }
         },
         "privatebranches": "1",
