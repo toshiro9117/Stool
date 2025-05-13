@@ -4,8 +4,8 @@
     "name": "Train World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28526028",
-    "update_time": "2025-04-17 17:45:00",
+    "change_number": "28918634",
+    "update_time": "2025-05-11 00:28:29",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2132351": {
             "manifests": {
                 "public": {
-                    "gid": "8058512601216249482",
-                    "size": "4383147248",
-                    "download": "2354111968"
+                    "gid": "7120933009847818840",
+                    "size": "4387557726",
+                    "download": "2356497504"
                 },
                 "release_1_12": {
                     "gid": "6801984390074294301",
@@ -44,8 +44,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian,ukrainian",
         "branches": {
             "public": {
-                "buildid": "18141858",
-                "timeupdated": "1744883096"
+                "buildid": "18415212",
+                "timeupdated": "1746894503"
             },
             "release_1_12": {
                 "buildid": "12387020",
