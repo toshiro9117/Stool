@@ -4,8 +4,8 @@
     "name": "NORCO",
     "schinese_name": "诺科",
     "isfreeapp": "0",
-    "change_number": "28455786",
-    "update_time": "2025-04-14 02:55:34",
+    "change_number": "28879357",
+    "update_time": "2025-05-08 18:00:17",
     "depot": {
         "baselanguages": "english",
         "1221251": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4381959750751442899",
-                    "size": "3441911156",
-                    "download": "612256528"
+                    "gid": "6045893344735096708",
+                    "size": "3441912024",
+                    "download": "612257056"
                 }
             },
             "decryptionkey": "0b426679c1a4645ceffb450c2cc7429f642700e86834de9d7bbfd6fe53f37a25"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3014153549200262808",
-                    "size": "3449853152",
-                    "download": "614407360"
+                    "gid": "2158165918698248102",
+                    "size": "3449853780",
+                    "download": "614408304"
                 }
             },
             "decryptionkey": "4732571eb94fbee50ef9df204c750bbb946eeb5cb145eb5b321c41e1d5b688ee"
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17422583",
-                "timeupdated": "1739969131"
+                "buildid": "18386978",
+                "timeupdated": "1746698413"
             }
         },
         "privatebranches": "1"
