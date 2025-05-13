@@ -4,8 +4,8 @@
     "name": "Sushi Ben Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540699",
-    "update_time": "2025-04-18 09:01:36",
+    "change_number": "28922100",
+    "update_time": "2025-05-11 09:49:32",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2773841": {
             "manifests": {
                 "public": {
-                    "gid": "2515474352348600054",
-                    "size": "3449249729",
-                    "download": "2769824720"
+                    "gid": "1632677588958634811",
+                    "size": "3329218518",
+                    "download": "2685237696"
                 }
             },
             "decryptionkey": "38e87b510f80eca48807d512c963de9bba38cec8d8d745312f629cc52063a5b2"
         },
         "branches": {
             "public": {
-                "buildid": "13410438",
-                "timeupdated": "1707446240"
+                "buildid": "18417489",
+                "timeupdated": "1746927727"
             }
         },
         "privatebranches": "1"
