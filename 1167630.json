@@ -4,22 +4,22 @@
     "name": "Teardown",
     "schinese_name": "拆迁",
     "isfreeapp": "0",
-    "change_number": "28528232",
-    "update_time": "2025-04-17 19:59:07",
+    "change_number": "28902509",
+    "update_time": "2025-05-09 21:22:45",
     "depot": {
         "workshopdepot": "1167630",
         "hasdepotsindlc": "1",
         "1167634": {
             "manifests": {
                 "public": {
-                    "gid": "2921763231420441897",
-                    "size": "4495918074",
-                    "download": "3108308032"
+                    "gid": "1346986730204105785",
+                    "size": "4463096658",
+                    "download": "3092157792"
                 },
                 "experimental": {
-                    "gid": "5457967570003553540",
-                    "size": "4473883877",
-                    "download": "3102802800"
+                    "gid": "1346986730204105785",
+                    "size": "4463096658",
+                    "download": "3092157792"
                 },
                 "local": {
                     "gid": "4134993019620652135",
@@ -41,13 +41,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16602375",
-                "timeupdated": "1733313625"
+                "buildid": "18292162",
+                "timeupdated": "1746000596"
             },
             "experimental": {
-                "buildid": "15966823",
+                "buildid": "18292162",
                 "description": "The latest features and fixes",
-                "timeupdated": "1728460763"
+                "timeupdated": "1746777291"
             },
             "local": {
                 "buildid": "9967226",
