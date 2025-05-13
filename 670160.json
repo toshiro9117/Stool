@@ -4,8 +4,8 @@
     "name": "D'LIRIUM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28086153",
-    "update_time": "2025-03-22 18:03:57",
+    "change_number": "28911874",
+    "update_time": "2025-05-10 08:02:54",
     "depot": {
         "baselanguages": "english,german,french,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "hasdepotsindlc": "1",
@@ -17,29 +17,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3529282753943147543",
-                    "size": "538496335",
-                    "download": "239847872"
+                    "gid": "5739531772510468607",
+                    "size": "538508623",
+                    "download": "239813792"
                 },
                 "vm_stable": {
-                    "gid": "4975316573991644579",
-                    "size": "515545691",
-                    "download": "236202160"
+                    "gid": "1069171029527562269",
+                    "size": "515547611",
+                    "download": "236201344"
                 }
             },
             "decryptionkey": "2772a1ea6667775a9bcbdfb20c5c8a6eea1aa04aeb3b4e8056e8b574515fa0d7"
         },
         "branches": {
             "public": {
-                "buildid": "17819598",
-                "timeupdated": "1742637833"
+                "buildid": "18410171",
+                "timeupdated": "1746835370"
             },
             "vm_stable": {
-                "buildid": "17819498",
+                "buildid": "18409980",
                 "description": "More demanding on hardware, but verbose error output.",
-                "timeupdated": "1742636196"
+                "timeupdated": "1746833629"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9831eb16e16ae9d24fa70566adc11e1f61b532e1706540a26d21442a992a282c"
     }
 }
