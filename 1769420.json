@@ -4,30 +4,30 @@
     "name": "Noble Fates",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28434259",
-    "update_time": "2025-04-12 01:22:24",
+    "change_number": "28829320",
+    "update_time": "2025-05-06 04:27:42",
     "depot": {
         "1769421": {
             "manifests": {
                 "public": {
-                    "gid": "6817146033440239310",
-                    "size": "1351937867",
-                    "download": "528482592"
+                    "gid": "9131677780097272251",
+                    "size": "1354428923",
+                    "download": "530742688"
                 },
                 "development": {
-                    "gid": "8738871321597007880",
-                    "size": "1383241154",
-                    "download": "535414112"
+                    "gid": "1034117025712474785",
+                    "size": "1385745062",
+                    "download": "537683504"
                 },
                 "experimental": {
-                    "gid": "6817146033440239310",
-                    "size": "1351937867",
-                    "download": "528482592"
+                    "gid": "9131677780097272251",
+                    "size": "1354428923",
+                    "download": "530742688"
                 },
                 "experimental_development": {
-                    "gid": "8738871321597007880",
-                    "size": "1383241154",
-                    "download": "535414112"
+                    "gid": "1034117025712474785",
+                    "size": "1385745062",
+                    "download": "537683504"
                 },
                 "retired_0_23": {
                     "gid": "8378217613132405165",
@@ -105,23 +105,23 @@
         "workshopdepot": "1769420",
         "branches": {
             "public": {
-                "buildid": "18049027",
-                "timeupdated": "1744392088"
+                "buildid": "18350876",
+                "timeupdated": "1746476856"
             },
             "development": {
-                "buildid": "18049088",
+                "buildid": "18350839",
                 "description": "Mod Development, Unstable",
-                "timeupdated": "1744392140"
+                "timeupdated": "1746476832"
             },
             "experimental": {
-                "buildid": "18049027",
+                "buildid": "18350876",
                 "description": "Try out the next update",
-                "timeupdated": "1744392069"
+                "timeupdated": "1746476841"
             },
             "experimental_development": {
-                "buildid": "18049088",
+                "buildid": "18350839",
                 "description": "Try out the next update, Mod Development, Unstable",
-                "timeupdated": "1744392133"
+                "timeupdated": "1746476825"
             },
             "retired_0_23": {
                 "buildid": "8152080",
