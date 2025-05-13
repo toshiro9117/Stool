@@ -4,8 +4,8 @@
     "name": "Virtual Handheld",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27293129",
-    "update_time": "2025-02-04 01:20:19",
+    "change_number": "28888205",
+    "update_time": "2025-05-09 02:27:24",
     "depot": {
         "2622141": {
             "config": {
@@ -20,9 +20,9 @@
                     "download": "29582144"
                 },
                 "osc-beta": {
-                    "gid": "3556255067659097671",
-                    "size": "96884882",
-                    "download": "29634304"
+                    "gid": "821123249854540316",
+                    "size": "96938519",
+                    "download": "29642816"
                 }
             },
             "decryptionkey": "f610f0d1e29f613aad524d2301d42bc97f4374dd5ec069fb52a0c226151d24f0"
@@ -33,9 +33,9 @@
                 "timeupdated": "1735762916"
             },
             "osc-beta": {
-                "buildid": "17445112",
+                "buildid": "18364374",
                 "description": "VH OSC Beta Test",
-                "timeupdated": "1740083519"
+                "timeupdated": "1746560970"
             }
         }
     }
