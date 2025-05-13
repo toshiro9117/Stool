@@ -4,8 +4,8 @@
     "name": "Return to Shironagasu Island",
     "schinese_name": "重返蓝鲸岛 -Return to Shironagasu Island-",
     "isfreeapp": "0",
-    "change_number": "28307087",
-    "update_time": "2025-04-04 19:10:36",
+    "change_number": "28783300",
+    "update_time": "2025-05-02 18:00:16",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,polish,latam",
         "hasdepotsindlc": "0",
@@ -335,9 +335,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5913403402257761356",
+                    "gid": "519305919125427866",
                     "size": "2743593324",
-                    "download": "2565498720"
+                    "download": "2565497792"
                 },
                 "old_bgm_version": {
                     "gid": "2752467249203836819",
@@ -359,8 +359,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17983766",
-                "timeupdated": "1743765031"
+                "buildid": "18319923",
+                "timeupdated": "1746180010"
             },
             "old_bgm_version": {
                 "buildid": "10193406",
