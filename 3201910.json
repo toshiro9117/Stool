@@ -1,0 +1,48 @@
+{
+    "appid": "3201910",
+    "type": "Game",
+    "name": "RailGods of Hysterra",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28921393",
+    "update_time": "2025-05-11 07:31:27",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3201911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6639267677792786047",
+                    "size": "7713507257",
+                    "download": "7425938560"
+                }
+            },
+            "decryptionkey": "46a048eabbe26d9436a14036da2caa89bb0aedc6120abe014d8a647ca5abb411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18410144",
+                "timeupdated": "1746838060"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
