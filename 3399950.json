@@ -4,15 +4,15 @@
     "name": "你的老母",
     "schinese_name": "你的老母",
     "isfreeapp": "0",
-    "change_number": "28540545",
-    "update_time": "2025-04-18 08:48:46",
+    "change_number": "28891638",
+    "update_time": "2025-05-09 07:02:28",
     "depot": {
         "3399951": {
             "manifests": {
                 "public": {
-                    "gid": "1916075909675886117",
-                    "size": "270863941",
-                    "download": "55946944"
+                    "gid": "2423379053680529240",
+                    "size": "408989834",
+                    "download": "102684848"
                 }
             },
             "decryptionkey": "2c92e94b99f89d1f72a0f462f61ad2e1b36e4b8d28c4f660ba501a4bd37276c2"
@@ -20,8 +20,8 @@
         "workshopdepot": "3399950",
         "branches": {
             "public": {
-                "buildid": "17653467",
-                "timeupdated": "1741542388"
+                "buildid": "18354060",
+                "timeupdated": "1746501046"
             }
         },
         "privatebranches": "1",
