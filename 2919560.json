@@ -4,8 +4,8 @@
     "name": "👑Idle Calibur：Zero👑",
     "schinese_name": "👑选王之剑：零👑",
     "isfreeapp": "0",
-    "change_number": "28100507",
-    "update_time": "2025-03-24 08:20:03",
+    "change_number": "28584572",
+    "update_time": "2025-04-21 22:59:21",
     "depot": {
         "2919561": {
             "manifests": {
@@ -25,6 +25,6 @@
                 "timeupdated": "1738573863"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5f86b2d0adfe20075ff688afb89b85c75b02eff623bc2c1f717540d2aa66e967"
     }
 }
