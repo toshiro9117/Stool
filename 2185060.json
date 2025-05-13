@@ -4,8 +4,8 @@
     "name": "Two Point Museum",
     "schinese_name": "双点博物馆",
     "isfreeapp": "0",
-    "change_number": "28543116",
-    "update_time": "2025-04-18 12:59:01",
+    "change_number": "28921488",
+    "update_time": "2025-05-11 07:52:33",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,turkish,brazilian",
         "workshopdepot": "2185060",
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7899045969234151481",
-                    "size": "4211074766",
-                    "download": "3524871120"
+                    "gid": "1904986526911921693",
+                    "size": "4282323788",
+                    "download": "3536633232"
                 },
                 "public_beta": {
-                    "gid": "4892821957060433522",
-                    "size": "4311866953",
-                    "download": "3552137184"
+                    "gid": "6955940347869762627",
+                    "size": "4337143356",
+                    "download": "3561792624"
                 },
                 "museum_mac_beta": {
                     "gid": "4010459036750289946",
@@ -45,14 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1253188959509594026",
-                    "size": "4198650351",
-                    "download": "3443528816"
+                    "gid": "4424286399033451044",
+                    "size": "4126618765",
+                    "download": "3424795808"
                 },
                 "public_beta": {
-                    "gid": "1225642959607885262",
-                    "size": "4183514481",
-                    "download": "3450219648"
+                    "gid": "3527347234298535246",
+                    "size": "4126735195",
+                    "download": "3424783136"
                 },
                 "museum_mac_beta": {
                     "gid": "225426683092493285",
@@ -68,14 +68,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3577430683630304559",
-                    "size": "4344762256",
-                    "download": "3507937984"
+                    "gid": "2350351828498706293",
+                    "size": "4422780357",
+                    "download": "3494347072"
                 },
                 "public_beta": {
-                    "gid": "23271145465541303",
-                    "size": "4506638221",
-                    "download": "3524623312"
+                    "gid": "82584135067438218",
+                    "size": "4424110193",
+                    "download": "3495322016"
                 },
                 "museum_mac_beta": {
                     "gid": "6718765693423041658",
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7349757496213653109",
-                    "size": "53604684",
-                    "download": "46880720"
+                    "gid": "6818594149935656873",
+                    "size": "53605651",
+                    "download": "46882944"
                 },
                 "public_beta": {
                     "gid": "6818594149935656873",
@@ -116,9 +116,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7974250380375900481",
-                    "size": "54063202",
-                    "download": "47489120"
+                    "gid": "4986264585300539867",
+                    "size": "54063356",
+                    "download": "47487776"
                 },
                 "public_beta": {
                     "gid": "4986264585300539867",
@@ -140,14 +140,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1552664920244224335",
-                    "size": "54062256",
-                    "download": "47485680"
-                },
-                "public_beta": {
                     "gid": "4550594340166290179",
                     "size": "53605650",
                     "download": "46883040"
+                },
+                "public_beta": {
+                    "gid": "4972798390653987786",
+                    "size": "54062408",
+                    "download": "47485696"
                 },
                 "museum_mac_beta": {
                     "gid": "4550594340166290179",
@@ -164,14 +164,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2930594546815996583",
-                    "size": "25563757",
-                    "download": "22439200"
+                    "gid": "3644385101752706118",
+                    "size": "25509004",
+                    "download": "22292960"
                 },
                 "public_beta": {
-                    "gid": "4564201292510602831",
-                    "size": "25509000",
-                    "download": "22292944"
+                    "gid": "3644385101752706118",
+                    "size": "25509004",
+                    "download": "22292960"
                 },
                 "museum_mac_beta": {
                     "gid": "4564201292510602831",
@@ -188,13 +188,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7016808667638912345",
-                    "size": "26290833",
-                    "download": "23080640"
+                    "gid": "1222716574753246006",
+                    "size": "26364197",
+                    "download": "23012976"
                 },
                 "public_beta": {
-                    "gid": "8937867186234776592",
-                    "size": "26364193",
+                    "gid": "1222716574753246006",
+                    "size": "26364197",
                     "download": "23012976"
                 },
                 "museum_mac_beta": {
@@ -212,14 +212,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7035903458634761087",
-                    "size": "26290696",
-                    "download": "23080656"
+                    "gid": "6469392031023920486",
+                    "size": "25509004",
+                    "download": "22292928"
                 },
                 "public_beta": {
-                    "gid": "3493991548396079952",
-                    "size": "25509000",
-                    "download": "22292912"
+                    "gid": "8868030507845819492",
+                    "size": "26363809",
+                    "download": "23014048"
                 },
                 "museum_mac_beta": {
                     "gid": "3493991548396079952",
@@ -231,13 +231,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18024204",
-                "timeupdated": "1744384701"
+                "buildid": "18321351",
+                "timeupdated": "1746201355"
             },
             "public_beta": {
-                "buildid": "18049161",
+                "buildid": "18397304",
                 "description": "Public beta",
-                "timeupdated": "1744359665"
+                "timeupdated": "1746815737"
             },
             "museum_mac_beta": {
                 "buildid": "17992150",
