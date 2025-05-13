@@ -4,33 +4,33 @@
     "name": "Fabledom",
     "schinese_name": "寓言之地 (Fabledom)",
     "isfreeapp": "0",
-    "change_number": "28248214",
-    "update_time": "2025-04-01 20:31:32",
+    "change_number": "28622165",
+    "update_time": "2025-04-23 20:52:55",
     "depot": {
         "1651561": {
             "manifests": {
                 "public": {
-                    "gid": "8577913072958540630",
-                    "size": "3974980648",
-                    "download": "1438980704"
+                    "gid": "6015857579935377412",
+                    "size": "4029865667",
+                    "download": "1450690944"
                 },
                 "fabledom_1.07_update": {
-                    "gid": "4748783848982322002",
-                    "size": "4029861505",
-                    "download": "1450683632"
+                    "gid": "2661599579044441318",
+                    "size": "4029864651",
+                    "download": "1450702752"
                 }
             },
             "decryptionkey": "dbaf69374e2fa99d18be9c0ee9b803630ac5fdb318fff5a83637397db2576b99"
         },
         "branches": {
             "public": {
-                "buildid": "15133234",
-                "timeupdated": "1743000677"
+                "buildid": "18195985",
+                "timeupdated": "1745412772"
             },
             "fabledom_1.07_update": {
-                "buildid": "17881648",
+                "buildid": "18069119",
                 "description": "Beta branch for 1.07 update of Fabledom",
-                "timeupdated": "1743510688"
+                "timeupdated": "1744362967"
             }
         },
         "privatebranches": "1"
