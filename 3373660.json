@@ -4,8 +4,8 @@
     "name": "Look Outside",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543175",
-    "update_time": "2025-04-18 13:04:20",
+    "change_number": "28921204",
+    "update_time": "2025-05-11 07:02:42",
     "depot": {
         "3373661": {
             "config": {
@@ -14,17 +14,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "534640953092384728",
-                    "size": "913452775",
-                    "download": "508192720"
+                    "gid": "2322403479397744455",
+                    "size": "914424116",
+                    "download": "508567328"
+                },
+                "public_beta_branch": {
+                    "gid": "2322403479397744455",
+                    "size": "914424116",
+                    "download": "508567328"
                 }
             },
             "decryptionkey": "88c6e87f7634aef8353a85a294ee8c152ecf785deb98dfec994bfa3181e747d1"
         },
         "branches": {
             "public": {
-                "buildid": "17950256",
-                "timeupdated": "1743695735"
+                "buildid": "18366556",
+                "timeupdated": "1746635393"
+            },
+            "public_beta_branch": {
+                "buildid": "18366556",
+                "description": "Public beta branch for balance testing, hotfixes",
+                "timeupdated": "1746575683"
             }
         },
         "privatebranches": "1"
