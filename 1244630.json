@@ -4,15 +4,15 @@
     "name": "House Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28388098",
-    "update_time": "2025-04-09 22:27:19",
+    "change_number": "28868614",
+    "update_time": "2025-05-08 03:31:16",
     "depot": {
         "1244631": {
             "manifests": {
                 "public": {
-                    "gid": "191059033168524543",
-                    "size": "34343230217",
-                    "download": "15956844592"
+                    "gid": "1176002599970981538",
+                    "size": "34825374608",
+                    "download": "16159922880"
                 }
             },
             "decryptionkey": "ba806487fbb3c4c74be56020cc45597f544a05be23107ee399efb2418e43e149"
@@ -20,8 +20,8 @@
         "workshopdepot": "1244630",
         "branches": {
             "public": {
-                "buildid": "18042262",
-                "timeupdated": "1744208834"
+                "buildid": "18375533",
+                "timeupdated": "1746646270"
             }
         },
         "privatebranches": "1",
