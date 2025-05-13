@@ -4,8 +4,8 @@
     "name": "Squad - Public Test Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546179",
-    "update_time": "2025-04-18 17:01:51",
+    "change_number": "28916827",
+    "update_time": "2025-05-10 20:05:02",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -80,9 +80,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8326249843556191579",
-                    "size": "12997726924",
-                    "download": "4076995920"
+                    "gid": "9035175668248395989",
+                    "size": "13170230904",
+                    "download": "4143176816"
                 }
             },
             "decryptionkey": "63618bb4520ddf0136d49d5b042450537f1bfc4a94c739226eb651e4231d220c"
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5442286323237368300",
-                    "size": "12947343449",
-                    "download": "4013811536"
+                    "gid": "7860385775578627336",
+                    "size": "13022104389",
+                    "download": "4031681616"
                 }
             }
         },
@@ -117,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13662420",
-                "timeupdated": "1709836142"
+                "buildid": "15765650",
+                "timeupdated": "1746204953"
             }
         },
         "privatebranches": "1"
