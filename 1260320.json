@@ -4,8 +4,8 @@
     "name": "Party Animals",
     "schinese_name": "猛兽派对",
     "isfreeapp": "0",
-    "change_number": "28545330",
-    "update_time": "2025-04-18 16:04:22",
+    "change_number": "28898755",
+    "update_time": "2025-05-09 17:35:23",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "1260321": {
             "manifests": {
                 "public": {
-                    "gid": "8343327074661407536",
-                    "size": "12302682395",
-                    "download": "8764451536"
+                    "gid": "1812860148967842859",
+                    "size": "10753745215",
+                    "download": "9344030560"
                 }
             },
             "decryptionkey": "9623dafeee383701a837274d2547c7a5cbae7334393d64e82b4d2cdc01ef679e"
@@ -27,8 +27,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18136987",
-                "timeupdated": "1744882341"
+                "buildid": "18399204",
+                "timeupdated": "1746783307"
             }
         },
         "privatebranches": "1"
