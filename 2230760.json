@@ -4,8 +4,8 @@
     "name": "Vampire Survivors: Legacy of the Moonspell",
     "schinese_name": "Vampire Survivors - 吸血鬼幸存者：月咒遗脉",
     "isfreeapp": "0",
-    "change_number": "28544115",
-    "update_time": "2025-04-18 14:36:17",
+    "change_number": "28663956",
+    "update_time": "2025-04-25 20:55:14",
     "depot": {
         "2230761": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9187693741164015612",
-                    "size": "15281939",
-                    "download": "12782688"
+                    "gid": "7330530992932702086",
+                    "size": "15281906",
+                    "download": "12782560"
                 },
                 "public-beta": {
-                    "gid": "9187693741164015612",
-                    "size": "15281939",
-                    "download": "12782688"
+                    "gid": "7330530992932702086",
+                    "size": "15281906",
+                    "download": "12782560"
                 }
             },
             "dlcappid": "2230760",
@@ -32,13 +32,13 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1775728154676293389",
-                    "size": "15281328",
+                    "gid": "1513445539012123017",
+                    "size": "15281318",
                     "download": "12782256"
                 },
                 "public-beta": {
-                    "gid": "1775728154676293389",
-                    "size": "15281328",
+                    "gid": "1513445539012123017",
+                    "size": "15281318",
                     "download": "12782256"
                 }
             },
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2221532206692738560",
-                    "size": "15283824",
-                    "download": "12784128"
+                    "gid": "2153861943440849329",
+                    "size": "15283792",
+                    "download": "12783904"
                 },
                 "public-beta": {
-                    "gid": "2221532206692738560",
-                    "size": "15283824",
-                    "download": "12784128"
+                    "gid": "2153861943440849329",
+                    "size": "15283792",
+                    "download": "12783904"
                 }
             },
             "dlcappid": "2230760",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18055578",
-                "timeupdated": "1744302802"
+                "buildid": "18193869",
+                "timeupdated": "1745576991"
             },
             "public-beta": {
-                "buildid": "18055578",
+                "buildid": "18193869",
                 "description": "Public Beta",
-                "timeupdated": "1744297328"
+                "timeupdated": "1745492933"
             }
         },
         "privatebranches": "1"
