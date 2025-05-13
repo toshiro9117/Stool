@@ -4,8 +4,8 @@
     "name": "Isonzo",
     "schinese_name": "伊松佐河",
     "isfreeapp": "0",
-    "change_number": "28453822",
-    "update_time": "2025-04-13 22:24:24",
+    "change_number": "28838964",
+    "update_time": "2025-05-06 18:08:34",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6323043583209275648",
-                    "size": "28449571995",
-                    "download": "12375010736"
+                    "gid": "941844002904165308",
+                    "size": "29128368328",
+                    "download": "12654874352"
                 }
             },
             "decryptionkey": "7b65e287a471040c1260b7302565bf3674396945c421ef7cbc83772029c0adad"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "326106425987903321",
-                    "size": "28493667907",
-                    "download": "12355188112"
+                    "gid": "5920619899079152548",
+                    "size": "29177124722",
+                    "download": "12640403184"
                 }
             },
             "decryptionkey": "02aeb4d814280e19218e5eb232cc29aea2bb2ab1cd569f12c8ab77c66d2023fa"
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5301484750548410353",
-                    "size": "28355341694",
-                    "download": "12323706064"
+                    "gid": "6896815101278324660",
+                    "size": "29030143978",
+                    "download": "12604213904"
                 }
             },
             "decryptionkey": "02b93d00c4e6e073fd797994630d5143372ac19aa01fd28f0246a13583b7e6f1"
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17768192",
-                "timeupdated": "1742373228"
+                "buildid": "18206774",
+                "timeupdated": "1745492933"
             }
         },
         "privatebranches": "1"
