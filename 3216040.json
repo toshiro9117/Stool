@@ -1,11 +1,11 @@
 {
     "appid": "3216040",
     "type": "DLC",
-    "name": "さいはて駅",
-    "schinese_name": "",
+    "name": "さいはて駅 [黄昏電鐵]",
+    "schinese_name": "终焉车站 [黄昏电鉄]",
     "isfreeapp": "0",
-    "change_number": "28548668",
-    "update_time": "2025-04-18 19:45:25",
+    "change_number": "28854126",
+    "update_time": "2025-05-07 12:11:22",
     "depot": {
         "3216040": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "3216040",
             "manifests": {
                 "public": {
-                    "gid": "3595343847495513518",
-                    "size": "994398996",
-                    "download": "602435824"
+                    "gid": "946095849741062867",
+                    "size": "1014045531",
+                    "download": "622048496"
                 }
             },
             "decryptionkey": "26255c51d6e5628fc23d56de7435d9f494135bc7ac03b5ef821e3fe4d7787626"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4702609325984211387",
-                    "size": "1106692454",
-                    "download": "588006784"
+                    "gid": "7333948976316069624",
+                    "size": "1126344527",
+                    "download": "607621904"
                 }
             },
             "dlcappid": "3216040"
         },
         "branches": {
             "public": {
-                "buildid": "18155891",
-                "timeupdated": "1744968043"
+                "buildid": "18248223",
+                "timeupdated": "1745654486"
             }
         },
         "privatebranches": "1"
