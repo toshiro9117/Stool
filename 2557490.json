@@ -4,8 +4,8 @@
     "name": "Dirt Bike Racer Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28096313",
-    "update_time": "2025-03-23 22:20:03",
+    "change_number": "28910219",
+    "update_time": "2025-05-10 05:32:21",
     "depot": {
         "2557491": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7241627886182305524",
-                    "size": "618161996",
-                    "download": "511263168"
+                    "gid": "5868285475173444964",
+                    "size": "791933253",
+                    "download": "663293648"
                 }
             },
             "decryptionkey": "1d8beb8cfee99f516a3c24d36efd921d9ad6d43c63f13d95bb6af77ea248b53e"
         },
         "branches": {
             "public": {
-                "buildid": "12177278",
-                "timeupdated": "1694601749"
+                "buildid": "18112718",
+                "timeupdated": "1744716708"
             }
         }
     }
