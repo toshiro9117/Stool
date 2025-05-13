@@ -4,8 +4,8 @@
     "name": "Rogue Voltage",
     "schinese_name": "末日电涌 Rogue Voltage",
     "isfreeapp": "0",
-    "change_number": "28532543",
-    "update_time": "2025-04-17 23:42:06",
+    "change_number": "28632069",
+    "update_time": "2025-04-24 06:37:49",
     "depot": {
         "hasdepotsindlc": "1",
         "1494561": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1419873240352559137",
-                    "size": "902247600",
-                    "download": "200382640"
+                    "gid": "8039416162080669158",
+                    "size": "332484534",
+                    "download": "224270336"
                 },
                 "icebiome": {
-                    "gid": "4874124447932899539",
-                    "size": "883094361",
-                    "download": "199586080"
+                    "gid": "8010098460878046736",
+                    "size": "332488862",
+                    "download": "224273376"
                 }
             },
             "decryptionkey": "151ae521976c9d9f778cdb753549bb74391175b3ca916db16a91e68f21616495"
@@ -32,27 +32,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7422751558652098874",
-                    "size": "944490422",
-                    "download": "200913232"
+                    "gid": "5598828798544394498",
+                    "size": "638898487",
+                    "download": "455509616"
                 },
                 "icebiome": {
-                    "gid": "7370973610461413559",
-                    "size": "925315183",
-                    "download": "200190672"
+                    "gid": "7109977405863113130",
+                    "size": "400798528",
+                    "download": "225585952"
                 }
             },
             "decryptionkey": "22cf4392ad655b2f0ff3ca663d7e9e4322257cded0539ef88385605c06c202f1"
         },
         "branches": {
             "public": {
-                "buildid": "17662761",
-                "timeupdated": "1741616849"
+                "buildid": "18209317",
+                "timeupdated": "1745419586"
             },
             "icebiome": {
-                "buildid": "18146153",
+                "buildid": "18209801",
                 "description": "Ice Biome",
-                "timeupdated": "1744904520"
+                "timeupdated": "1745421656"
             }
         },
         "privatebranches": "1"
