@@ -4,8 +4,8 @@
     "name": "Aimbeast",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28532876",
-    "update_time": "2025-04-17 23:58:08",
+    "change_number": "28844455",
+    "update_time": "2025-05-06 23:33:16",
     "depot": {
         "workshopdepot": "1100990",
         "hasdepotsindlc": "1",
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "563868208158924379",
-                    "size": "3319125932",
-                    "download": "3021603904"
+                    "gid": "4043674501361378076",
+                    "size": "3319397525",
+                    "download": "3021751552"
                 }
             },
             "decryptionkey": "69f99e6fabb2960fe0df5b6923e0eab32bb388925a069afe327c6fa649413315"
@@ -47,8 +47,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16951303",
-                "timeupdated": "1736440217"
+                "buildid": "18360984",
+                "timeupdated": "1746545591"
             }
         },
         "privatebranches": "1",
