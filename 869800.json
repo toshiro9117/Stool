@@ -4,8 +4,8 @@
     "name": "Jabroni Brawl: Episode 3 - Dedicated Server",
     "schinese_name": "傻缺大乱斗：第三章 - 专用服务器",
     "isfreeapp": "0",
-    "change_number": "26819120",
-    "update_time": "2024-12-31 01:40:19",
+    "change_number": "28918079",
+    "update_time": "2025-05-10 23:17:57",
     "depot": {
         "1004": {
             "config": {
@@ -59,19 +59,19 @@
         "869801": {
             "manifests": {
                 "public": {
-                    "gid": "7801759450876426140",
-                    "size": "6868044199",
-                    "download": "2294875728"
+                    "gid": "6939516486750053349",
+                    "size": "6929442958",
+                    "download": "2311177280"
                 },
                 "revert": {
-                    "gid": "3708110149541421482",
-                    "size": "6868043732",
-                    "download": "2294876896"
-                },
-                "upcoming": {
                     "gid": "7801759450876426140",
                     "size": "6868044199",
                     "download": "2294875728"
+                },
+                "upcoming": {
+                    "gid": "6939516486750053349",
+                    "size": "6929442958",
+                    "download": "2311177280"
                 }
             },
             "decryptionkey": ""
@@ -82,19 +82,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5201544962679856302",
-                    "size": "53804242",
-                    "download": "18627728"
+                    "gid": "8153478687590042541",
+                    "size": "53885650",
+                    "download": "18653088"
                 },
                 "revert": {
-                    "gid": "5189704127224193666",
-                    "size": "53797074",
-                    "download": "18620512"
-                },
-                "upcoming": {
                     "gid": "5201544962679856302",
                     "size": "53804242",
                     "download": "18627728"
+                },
+                "upcoming": {
+                    "gid": "8153478687590042541",
+                    "size": "53885650",
+                    "download": "18653088"
                 }
             },
             "decryptionkey": ""
@@ -105,19 +105,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2612466446376836024",
-                    "size": "106958879",
-                    "download": "28305680"
+                    "gid": "1187655364944214114",
+                    "size": "107066598",
+                    "download": "28384960"
                 },
                 "revert": {
-                    "gid": "7424323363656390583",
-                    "size": "106964959",
-                    "download": "28302224"
-                },
-                "upcoming": {
                     "gid": "2612466446376836024",
                     "size": "106958879",
                     "download": "28305680"
+                },
+                "upcoming": {
+                    "gid": "1187655364944214114",
+                    "size": "107066598",
+                    "download": "28384960"
                 }
             },
             "decryptionkey": ""
@@ -125,18 +125,18 @@
         "869804": {},
         "branches": {
             "public": {
-                "buildid": "16876530",
-                "timeupdated": "1735580096"
+                "buildid": "18407486",
+                "timeupdated": "1746825213"
             },
             "revert": {
-                "buildid": "16775662",
+                "buildid": "16876530",
                 "description": "Previous patch",
-                "timeupdated": "1735580065"
+                "timeupdated": "1746890273"
             },
             "upcoming": {
-                "buildid": "16876530",
+                "buildid": "18407486",
                 "description": "Upcoming changes",
-                "timeupdated": "1735580367"
+                "timeupdated": "1746817336"
             }
         },
         "privatebranches": "1"

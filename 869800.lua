@@ -7,3 +7,7 @@ addappid(1006,0,"0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1
 setManifestid(1006,"7138471031118904166")
 addappid(228988)
 setManifestid(228988,"6645201662696499616")
+addappid(869801)
+addappid(869802)
+addappid(869803)
+addappid(869804)
