@@ -4,8 +4,8 @@
     "name": "Hyper Light Breaker",
     "schinese_name": "光明破坏者",
     "isfreeapp": "0",
-    "change_number": "28547926",
-    "update_time": "2025-04-18 18:48:54",
+    "change_number": "28915613",
+    "update_time": "2025-05-10 16:42:30",
     "depot": {
         "228989": {
             "config": {
@@ -17,17 +17,17 @@
         "1534841": {
             "manifests": {
                 "public": {
-                    "gid": "3756912712664945773",
-                    "size": "5594915712",
-                    "download": "5147030208"
+                    "gid": "4744192352305482812",
+                    "size": "6071717797",
+                    "download": "5612489648"
                 }
             },
             "decryptionkey": "faf4cabdfd4a2697de90722f8b1f942bf0f46e34b1bc28021eebb2a0c642e612"
         },
         "branches": {
             "public": {
-                "buildid": "17843851",
-                "timeupdated": "1742922415"
+                "buildid": "18331086",
+                "timeupdated": "1746468982"
             }
         },
         "privatebranches": "1"
