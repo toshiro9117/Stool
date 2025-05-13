@@ -4,8 +4,8 @@
     "name": "Dustgrave: A Sandbox RPG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533082",
-    "update_time": "2025-04-18 00:09:13",
+    "change_number": "28904715",
+    "update_time": "2025-05-09 23:34:35",
     "depot": {
         "228990": {
             "config": {
@@ -17,14 +17,14 @@
         "2393371": {
             "manifests": {
                 "public": {
-                    "gid": "7208565613304938868",
-                    "size": "14657624952",
-                    "download": "2337395152"
+                    "gid": "4759108478262070149",
+                    "size": "14657697967",
+                    "download": "2336656192"
                 },
                 "beta": {
-                    "gid": "8344021727515239520",
-                    "size": "14658025944",
-                    "download": "2337416480"
+                    "gid": "4585014660047298105",
+                    "size": "14658721790",
+                    "download": "2337838032"
                 },
                 "mono": {
                     "gid": "5871054842622664471",
@@ -36,13 +36,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18146465",
-                "timeupdated": "1744906149"
+                "buildid": "18172359",
+                "timeupdated": "1745144833"
             },
             "beta": {
-                "buildid": "18142108",
+                "buildid": "18404088",
                 "description": "beta branch for features that needs testing",
-                "timeupdated": "1744885173"
+                "timeupdated": "1746804871"
             },
             "mono": {
                 "buildid": "17334813",
