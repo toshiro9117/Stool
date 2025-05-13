@@ -4,8 +4,8 @@
     "name": "Grand Theft Auto V Legacy",
     "schinese_name": "Grand Theft Auto V 传承版",
     "isfreeapp": "0",
-    "change_number": "28535722",
-    "update_time": "2025-04-18 02:26:49",
+    "change_number": "28905866",
+    "update_time": "2025-05-10 00:40:35",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -29,9 +29,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "1849782592595337955",
-                    "size": "76957889",
-                    "download": "50068224"
+                    "gid": "3078536858461817817",
+                    "size": "77410081",
+                    "download": "50391616"
                 }
             },
             "decryptionkey": "baebeedec48b33c68a322fea0cbaa8d023d1dab4d2870aa909b82c33caa53941"
@@ -39,7 +39,7 @@
         "271592": {
             "manifests": {
                 "public": {
-                    "gid": "2127689549979192784",
+                    "gid": "2329791907092268889",
                     "size": "30974503",
                     "download": "28643568"
                 }
@@ -49,9 +49,9 @@
         "271593": {
             "manifests": {
                 "public": {
-                    "gid": "7776662127627184074",
-                    "size": "17888373506",
-                    "download": "16813751168"
+                    "gid": "4296904213986058493",
+                    "size": "17888398202",
+                    "download": "16813753584"
                 }
             },
             "decryptionkey": "71b57be5c50e5fbc819068a5bf31db42b653f1c75d88307da682ff0d5cae9457"
@@ -59,9 +59,9 @@
         "271594": {
             "manifests": {
                 "public": {
-                    "gid": "7555366240520762297",
+                    "gid": "6991706980502578342",
                     "size": "64918430495",
-                    "download": "62990281008"
+                    "download": "62990281104"
                 }
             },
             "decryptionkey": "ae7ed6931a136d41d3aae146563368eb3b3e4e60963344f3f426c0abc74bbdab"
@@ -79,9 +79,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3737644871765999414",
-                    "size": "230079756",
-                    "download": "186632784"
+                    "gid": "4177720964978853031",
+                    "size": "230627596",
+                    "download": "187200304"
                 }
             },
             "depotfromapp": "1899670",
@@ -89,8 +89,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17973580",
-                "timeupdated": "1744275676"
+                "buildid": "18223048",
+                "timeupdated": "1746522181"
             }
         },
         "privatebranches": "1"
