@@ -4,8 +4,8 @@
     "name": "Recall: Empty Wishes",
     "schinese_name": "Recall: Empty Wishes 空愿",
     "isfreeapp": "0",
-    "change_number": "28359058",
-    "update_time": "2025-04-08 13:24:27",
+    "change_number": "28818027",
+    "update_time": "2025-05-05 15:21:53",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "228988": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8826770290099083759",
-                    "size": "1951955765",
-                    "download": "1010502320"
+                    "gid": "4800041043226246267",
+                    "size": "1981080949",
+                    "download": "1013323552"
                 }
             },
             "decryptionkey": "ffcc2ffc643c0355e43412ef4764633a20166c9fc1ba264d2d367554cba4eecf"
@@ -41,16 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9118244756696620502",
-                    "size": "1977193137",
-                    "download": "1018737312"
+                    "gid": "2483445583616658015",
+                    "size": "2006318321",
+                    "download": "1021588320"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17487868",
-                "timeupdated": "1740426018"
+                "buildid": "18297838",
+                "timeupdated": "1746429708"
             }
         },
         "privatebranches": "1"
