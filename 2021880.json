@@ -4,8 +4,8 @@
     "name": "Ara: History Untold",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28234179",
-    "update_time": "2025-04-01 02:42:22",
+    "change_number": "28904307",
+    "update_time": "2025-05-09 23:09:53",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5955206726572448259",
-                    "size": "34105579975",
-                    "download": "17523803424"
+                    "gid": "5364639698834546607",
+                    "size": "34010226519",
+                    "download": "17523963488"
                 }
             },
             "decryptionkey": "2ee32023245e16a98b624134e65f2cb58176b2ec23c8cccf202cc305d57d864e"
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17489311",
-                "timeupdated": "1741806026"
+                "buildid": "18302361",
+                "timeupdated": "1746126085"
             }
         },
         "privatebranches": "1"
