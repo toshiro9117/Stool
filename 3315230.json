@@ -4,8 +4,8 @@
     "name": "Rocket Squad: Infinity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549668",
-    "update_time": "2025-04-18 21:01:21",
+    "change_number": "28913958",
+    "update_time": "2025-05-10 12:32:51",
     "depot": {
         "228988": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7730582496822530155",
-                    "size": "8556191637",
-                    "download": "5906149824"
+                    "gid": "4375508219974347717",
+                    "size": "8556215201",
+                    "download": "5913527168"
                 }
             },
             "decryptionkey": "6844aec7149d9d1f3910405a9d6f6ad2eb78b1bba2cf892e26e7ea076d4042fc"
@@ -45,8 +45,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18156156",
-                "timeupdated": "1744970136"
+                "buildid": "18235304",
+                "timeupdated": "1745569718"
             }
         },
         "privatebranches": "1"
