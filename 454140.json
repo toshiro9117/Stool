@@ -4,33 +4,33 @@
     "name": "First Person Tennis - The Real Tennis Simulator",
     "schinese_name": "第一人称网球：真实网球模拟器 ",
     "isfreeapp": "0",
-    "change_number": "28423123",
-    "update_time": "2025-04-11 15:11:41",
+    "change_number": "28708427",
+    "update_time": "2025-04-28 22:51:18",
     "depot": {
         "baselanguages": "english",
         "454141": {
             "manifests": {
                 "public": {
-                    "gid": "8224207657523526100",
-                    "size": "920477161",
-                    "download": "607670048"
+                    "gid": "3772144282319464703",
+                    "size": "919563180",
+                    "download": "607665056"
                 },
                 "beta": {
-                    "gid": "8224207657523526100",
-                    "size": "920477161",
-                    "download": "607670048"
+                    "gid": "3772144282319464703",
+                    "size": "919563180",
+                    "download": "607665056"
                 }
             },
             "decryptionkey": "36ddbbe95bb85acdf0afd2249b28a3cc5adb2e7ef04796591ab4ca74f9e6a1ca"
         },
         "branches": {
             "public": {
-                "buildid": "18051484",
-                "timeupdated": "1744263804"
+                "buildid": "18266671",
+                "timeupdated": "1745851856"
             },
             "beta": {
-                "buildid": "18051484",
-                "timeupdated": "1744263818"
+                "buildid": "18266671",
+                "timeupdated": "1745851870"
             }
         }
     }
