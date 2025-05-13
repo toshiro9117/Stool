@@ -1,0 +1,70 @@
+{
+    "appid": "2487200",
+    "type": "Game",
+    "name": "Chaotic Era",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28905753",
+    "update_time": "2025-05-10 00:33:23",
+    "depot": {
+        "baselanguages": "english",
+        "2487201": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4625704957338740871",
+                    "size": "299999074",
+                    "download": "147514832"
+                },
+                "beta": {
+                    "gid": "3249049669276919968",
+                    "size": "417368715",
+                    "download": "215166928"
+                }
+            }
+        },
+        "2487202": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4624052057039588897",
+                    "size": "280604615",
+                    "download": "139226960"
+                },
+                "beta": {
+                    "gid": "7854875492086233091",
+                    "size": "258632766",
+                    "download": "125536432"
+                }
+            },
+            "decryptionkey": "3b335a6bcebe3c5bb905b2733427095ebd33047938882c0be56fa630f6534808"
+        },
+        "2487203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1120053941074566422",
+                    "size": "416833075",
+                    "download": "185539072"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18354332",
+                "timeupdated": "1746502574"
+            },
+            "beta": {
+                "buildid": "14758786",
+                "description": "Beta testing only",
+                "timeupdated": "1718736550"
+            }
+        }
+    }
+}
