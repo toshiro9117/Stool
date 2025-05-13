@@ -4,24 +4,24 @@
     "name": "不可撤离区",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544434",
-    "update_time": "2025-04-18 15:03:48",
+    "change_number": "28833656",
+    "update_time": "2025-05-06 11:13:06",
     "depot": {
         "baselanguages": "english,schinese",
         "3264822": {
             "manifests": {
                 "public": {
-                    "gid": "4912030698872645560",
-                    "size": "2414365267",
-                    "download": "188864880"
+                    "gid": "5732024890378240012",
+                    "size": "2418464715",
+                    "download": "189573392"
                 }
             },
             "decryptionkey": "c4089c5e9b41971e0020947c5dc5808d079f7ff45dfc3744a0a19cfdd55f355c"
         },
         "branches": {
             "public": {
-                "buildid": "18154059",
-                "timeupdated": "1744956002"
+                "buildid": "18354152",
+                "timeupdated": "1746501182"
             }
         },
         "privatebranches": "1"
