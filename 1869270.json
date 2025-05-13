@@ -4,21 +4,21 @@
     "name": "Multi Turret Academy",
     "schinese_name": "多炮塔神教",
     "isfreeapp": "0",
-    "change_number": "28406639",
-    "update_time": "2025-04-10 20:02:40",
+    "change_number": "28900747",
+    "update_time": "2025-05-09 19:42:35",
     "depot": {
         "baselanguages": "english",
         "1869271": {
             "manifests": {
                 "public": {
-                    "gid": "8731011925466944799",
-                    "size": "4193834712",
-                    "download": "3244801712"
+                    "gid": "7531472466356855866",
+                    "size": "4222363402",
+                    "download": "3263413472"
                 },
                 "beta": {
-                    "gid": "6702781236898104542",
-                    "size": "4194485515",
-                    "download": "3245129696"
+                    "gid": "4794514259327580926",
+                    "size": "4247425233",
+                    "download": "3282734784"
                 },
                 "mono": {
                     "gid": "5442319233177324758",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17933990",
-                "timeupdated": "1743481817"
+                "buildid": "18280502",
+                "timeupdated": "1745933666"
             },
             "beta": {
-                "buildid": "18055959",
+                "buildid": "18402457",
                 "description": "Testing",
-                "timeupdated": "1744286555"
+                "timeupdated": "1746790951"
             },
             "mono": {
                 "buildid": "17894067",
