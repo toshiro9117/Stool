@@ -4,23 +4,23 @@
     "name": "Desert Stalker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28472184",
-    "update_time": "2025-04-15 02:07:36",
+    "change_number": "28789011",
+    "update_time": "2025-05-03 00:29:49",
     "depot": {
         "2899051": {
             "manifests": {
                 "public": {
-                    "gid": "551698899023264588",
-                    "size": "5067159651",
-                    "download": "4847454304"
+                    "gid": "3432871028542859364",
+                    "size": "4647147932",
+                    "download": "4179444896"
                 }
             },
             "decryptionkey": "a6cff3e9d965f5096403263df0125bd18d78589c82e7642e33f2f3ab3c2be3e1"
         },
         "branches": {
             "public": {
-                "buildid": "16911500",
-                "timeupdated": "1736094758"
+                "buildid": "18312734",
+                "timeupdated": "1746131968"
             }
         }
     }
