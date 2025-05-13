@@ -4,8 +4,8 @@
     "name": "Wings of Seduction : Bust 'em out!",
     "schinese_name": "魅惑之翼：少女的爆衣攻略",
     "isfreeapp": "0",
-    "change_number": "28545217",
-    "update_time": "2025-04-18 15:58:27",
+    "change_number": "28839736",
+    "update_time": "2025-05-06 18:50:46",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1390556584443986122",
-                    "size": "2095122341",
-                    "download": "300685968"
+                    "gid": "6790884676028349853",
+                    "size": "2186710615",
+                    "download": "319273328"
                 }
             },
             "decryptionkey": "e56d527feb9f291762063d087cf3b8d957180349512aeb778ae05f1a13234d4b"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7488041928612476040",
-                    "size": "2191336925",
-                    "download": "321921360"
+                    "gid": "2038297927343369708",
+                    "size": "2281813260",
+                    "download": "340394784"
                 }
             }
         },
@@ -38,17 +38,17 @@
             "dlcappid": "2927450",
             "manifests": {
                 "public": {
-                    "gid": "8240572038597715920",
-                    "size": "666845388",
-                    "download": "174650272"
+                    "gid": "2562078111598257020",
+                    "size": "672519010",
+                    "download": "179170608"
                 }
             },
             "decryptionkey": "576789dddab6f6630416f262c8c48c95e33a95e984fbe982f1e3fa29bd401c86"
         },
         "branches": {
             "public": {
-                "buildid": "17884279",
-                "timeupdated": "1743087677"
+                "buildid": "18358079",
+                "timeupdated": "1746528641"
             }
         },
         "privatebranches": "1"
