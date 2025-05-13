@@ -1,11 +1,11 @@
 {
     "appid": "3290710",
     "type": "Game",
-    "name": "RATSHAKER",
-    "schinese_name": "",
+    "name": "RATSHAKER™",
+    "schinese_name": "摇鼠灵™",
     "isfreeapp": "0",
-    "change_number": "28331342",
-    "update_time": "2025-04-06 18:44:47",
+    "change_number": "28844688",
+    "update_time": "2025-05-06 23:46:27",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3906413435997772244",
-                    "size": "1550164073",
-                    "download": "873567744"
+                    "gid": "4325792074326611146",
+                    "size": "1182021831",
+                    "download": "782811168"
                 },
                 "ratshakerlegacy": {
                     "gid": "8011950323456115208",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18001039",
-                "timeupdated": "1743936283"
+                "buildid": "18278537",
+                "timeupdated": "1745923684"
             },
             "ratshakerlegacy": {
                 "buildid": "17380390",
