@@ -4,8 +4,8 @@
     "name": "Bloobs Adventure Idle",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28507003",
-    "update_time": "2025-04-16 19:37:41",
+    "change_number": "28921269",
+    "update_time": "2025-05-11 07:10:59",
     "depot": {
         "2942781": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5995952179912141562",
-                    "size": "263513945",
-                    "download": "61874496"
+                    "gid": "5267569836795187142",
+                    "size": "390811413",
+                    "download": "69330224"
                 }
             },
             "decryptionkey": "8eada1f38a3edbb5d62411d8a653197ea407c92af9751308837b44e6d0e327f5"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18162701",
-                "timeupdated": "1745015168"
+                "buildid": "18416695",
+                "timeupdated": "1746915216"
             }
         },
         "privatebranches": "1"
