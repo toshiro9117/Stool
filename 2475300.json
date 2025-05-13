@@ -4,8 +4,8 @@
     "name": "Carmen Sandiego",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548850",
-    "update_time": "2025-04-18 20:00:20",
+    "change_number": "28891823",
+    "update_time": "2025-05-09 07:20:07",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8975294651718391327",
-                    "size": "1403536904",
-                    "download": "1235591616"
+                    "gid": "6323735079428377034",
+                    "size": "1449414048",
+                    "download": "1267959808"
                 }
             },
             "decryptionkey": "f473cf38e3fd909e56fc7299424141d710b4d6bac319dabc2933aed73bba21ac"
         },
         "branches": {
             "public": {
-                "buildid": "17861424",
-                "timeupdated": "1744038509"
+                "buildid": "18124771",
+                "timeupdated": "1746457710"
             }
         },
         "privatebranches": "1"
