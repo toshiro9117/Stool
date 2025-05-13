@@ -4,8 +4,8 @@
     "name": "Insurgency: Sandstorm Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28535442",
-    "update_time": "2025-04-18 02:12:24",
+    "change_number": "28887845",
+    "update_time": "2025-05-09 02:04:48",
     "depot": {
         "1004": {
             "config": {
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "270306551696675326",
-                    "size": "4783491782",
-                    "download": "4099968144"
+                    "gid": "6093198283918183405",
+                    "size": "4809889330",
+                    "download": "4116235328"
                 }
             },
             "decryptionkey": "0145198c9c38355860917f940f108b602768ac8bebc6c4565df37f2e394b97a7"
@@ -83,17 +83,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "458030583916942013",
-                    "size": "4743982567",
-                    "download": "4016727136"
+                    "gid": "1237745673074878280",
+                    "size": "4770776067",
+                    "download": "4032212368"
                 }
             },
             "decryptionkey": "6ea472d3ec6f661f0d7fa66a7411f12c888c8e207d1c277d8dc3c619cbf26651"
         },
         "branches": {
             "public": {
-                "buildid": "16603739",
-                "timeupdated": "1734022544"
+                "buildid": "17873971",
+                "timeupdated": "1745337258"
             }
         },
         "privatebranches": "1"
