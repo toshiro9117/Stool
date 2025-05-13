@@ -1,0 +1,42 @@
+{
+    "appid": "3443380",
+    "type": "Game",
+    "name": "Kindaichi Mystery Series: The Honjin Murders",
+    "schinese_name": "金田一耕助系列 本阵杀人事件",
+    "isfreeapp": "0",
+    "change_number": "28922544",
+    "update_time": "2025-05-11 11:33:19",
+    "depot": {
+        "3443381": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7459015799770388158",
+                    "size": "469650896",
+                    "download": "328320144"
+                }
+            }
+        },
+        "3443383": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3666658861629612256",
+                    "size": "486683639",
+                    "download": "338849552"
+                }
+            },
+            "decryptionkey": "de7b0fe8809000585ebaf824046be2ff44fc260daed39762f26699d53c7e56d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18211866",
+                "timeupdated": "1745431414"
+            }
+        }
+    }
+}
