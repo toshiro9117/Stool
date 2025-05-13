@@ -4,8 +4,8 @@
     "name": "Need for Speed™ Heat ",
     "schinese_name": "极品飞车：热度",
     "isfreeapp": "0",
-    "change_number": "28492365",
-    "update_time": "2025-04-16 01:26:02",
+    "change_number": "28908199",
+    "update_time": "2025-05-10 03:02:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "228986": {
@@ -211,9 +211,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "3719635244465684485",
-                    "size": "234968631",
-                    "download": "237087072"
+                    "gid": "4695958403711974607",
+                    "size": "234273399",
+                    "download": "236385232"
                 }
             },
             "depotfromapp": "3340990",
