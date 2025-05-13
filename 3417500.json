@@ -4,8 +4,8 @@
     "name": "KILLDOZER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28510847",
-    "update_time": "2025-04-16 23:11:06",
+    "change_number": "28844242",
+    "update_time": "2025-05-06 23:20:08",
     "depot": {
         "228988": {
             "config": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8699003894400701588",
-                    "size": "1669581486",
-                    "download": "828267984"
+                    "gid": "6343069270545818518",
+                    "size": "1705174422",
+                    "download": "847186704"
                 }
             },
             "decryptionkey": "71192f9ca8bc9e88243297dbe57792c57421f5b867659d7500f03f2c976b0d11"
         },
         "branches": {
             "public": {
-                "buildid": "17987729",
-                "timeupdated": "1743847144"
+                "buildid": "18194300",
+                "timeupdated": "1745383688"
             }
         },
         "privatebranches": "1"
