@@ -4,8 +4,8 @@
     "name": "Open Brush",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28455825",
-    "update_time": "2025-04-14 03:00:54",
+    "change_number": "28774448",
+    "update_time": "2025-05-02 03:43:31",
     "depot": {
         "228985": {
             "config": {
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6483900609040696807",
-                    "size": "802274906",
-                    "download": "224057648"
+                    "gid": "8810587627804826145",
+                    "size": "843394428",
+                    "download": "233054016"
                 },
                 "previous": {
                     "gid": "2057730924779657023",
@@ -44,9 +44,9 @@
                     "download": "127620272"
                 },
                 "beta": {
-                    "gid": "4193892466832782416",
-                    "size": "842729356",
-                    "download": "232985488"
+                    "gid": "7563667313293509293",
+                    "size": "844653469",
+                    "download": "234019152"
                 }
             },
             "decryptionkey": "95056ac1f7768c1b835f3df160a994e48263a083e2cfb07453f2937b6f015b0f"
@@ -57,14 +57,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4740107003503028980",
-                    "size": "840277595",
-                    "download": "233374928"
+                    "gid": "1929767395100713031",
+                    "size": "875962966",
+                    "download": "242426848"
                 },
                 "beta": {
-                    "gid": "3763352301071561615",
-                    "size": "875305990",
-                    "download": "242353296"
+                    "gid": "6256664228963756510",
+                    "size": "878361265",
+                    "download": "243504864"
                 }
             }
         },
@@ -74,21 +74,21 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1482425551307712715",
-                    "size": "808677830",
-                    "download": "222313840"
+                    "gid": "2016983321192133095",
+                    "size": "850553681",
+                    "download": "231288912"
                 },
                 "beta": {
-                    "gid": "1979221967651309542",
-                    "size": "849888609",
-                    "download": "231226992"
+                    "gid": "7879171510989657822",
+                    "size": "885423540",
+                    "download": "244875312"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "15666345",
-                "timeupdated": "1726833330"
+                "buildid": "18255837",
+                "timeupdated": "1745762394"
             },
             "previous": {
                 "buildid": "8090994",
@@ -96,9 +96,9 @@
                 "timeupdated": "1675978906"
             },
             "beta": {
-                "buildid": "18091369",
+                "buildid": "18313184",
                 "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
-                "timeupdated": "1744570847"
+                "timeupdated": "1746128607"
             }
         }
     }
