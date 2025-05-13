@@ -4,8 +4,8 @@
     "name": "Vincemus - Air Combat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28542169",
-    "update_time": "2025-04-18 11:21:32",
+    "change_number": "28817489",
+    "update_time": "2025-05-05 14:33:23",
     "depot": {
         "228988": {
             "config": {
@@ -61,9 +61,9 @@
                     "download": "5058582064"
                 },
                 "beta": {
-                    "gid": "361270198681629606",
-                    "size": "17670550947",
-                    "download": "5086194352"
+                    "gid": "1753881244409914310",
+                    "size": "17655210958",
+                    "download": "5082704464"
                 }
             }
         },
@@ -79,9 +79,9 @@
                     "download": "5048411632"
                 },
                 "beta": {
-                    "gid": "4879298961714218168",
-                    "size": "17586983863",
-                    "download": "5067617424"
+                    "gid": "6522568006237905951",
+                    "size": "17556910416",
+                    "download": "5059872144"
                 }
             },
             "decryptionkey": "325f2f900c5b56e425e5c58f7c333620a8a27befa888233c94d3753bdeb79a5f"
@@ -131,9 +131,9 @@
                 "timeupdated": "1736296868"
             },
             "beta": {
-                "buildid": "18152976",
+                "buildid": "18343026",
                 "description": "Testing Only",
-                "timeupdated": "1744946489"
+                "timeupdated": "1746426799"
             }
         }
     }
