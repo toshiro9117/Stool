@@ -4,8 +4,8 @@
     "name": "プロ野球スピリッツ2024-2025",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28538650",
-    "update_time": "2025-04-18 05:56:56",
+    "change_number": "28890919",
+    "update_time": "2025-05-09 05:53:01",
     "depot": {
         "baselanguages": "japanese",
         "228989": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8493889498934558321",
-                    "size": "41120202454",
-                    "download": "38578835072"
+                    "gid": "6744075272576400544",
+                    "size": "45855684609",
+                    "download": "42544894992"
                 }
             },
             "decryptionkey": "11c7b8b636e2de7713ab47075ea3c370c7292b2851dcd0781e01c99350eac2f9"
@@ -1816,7 +1816,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3069463605296096216",
+                    "size": "5208516",
+                    "download": "5228992"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467450": {
             "dlcappid": "3467450",
@@ -1825,7 +1832,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2248512052471111726",
+                    "size": "6464808",
+                    "download": "6486544"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467460": {
             "dlcappid": "3467460",
@@ -1834,7 +1848,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3950948887328107252",
+                    "size": "3346480",
+                    "download": "3353552"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467470": {
             "dlcappid": "3467470",
@@ -1843,7 +1864,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8911715918148229466",
+                    "size": "7231879",
+                    "download": "7261424"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467480": {
             "dlcappid": "3467480",
@@ -1852,7 +1880,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5015411101142794801",
+                    "size": "5480973",
+                    "download": "5494128"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467500": {
             "dlcappid": "3467500",
@@ -1869,7 +1904,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5692075804403490560",
+                    "size": "1479427",
+                    "download": "1477712"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467520": {
             "dlcappid": "3467520",
@@ -1878,7 +1920,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1424585092721196605",
+                    "size": "3448003",
+                    "download": "3451312"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467530": {
             "dlcappid": "3467530",
@@ -1887,7 +1936,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8595391977601010056",
+                    "size": "3416495",
+                    "download": "3419936"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466790": {
             "dlcappid": "3466790",
@@ -1896,7 +1952,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8761061683228959780",
+                    "size": "6768589",
+                    "download": "6801920"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466800": {
             "dlcappid": "3466800",
@@ -1905,7 +1968,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4087048875013179950",
+                    "size": "6829503",
+                    "download": "6854816"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466810": {
             "dlcappid": "3466810",
@@ -1914,7 +1984,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "886447894540663943",
+                    "size": "3484104",
+                    "download": "3487136"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466830": {
             "dlcappid": "3466830",
@@ -1923,7 +2000,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "759209164152627160",
+                    "size": "8003243",
+                    "download": "8049264"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466840": {
             "dlcappid": "3466840",
@@ -1932,7 +2016,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4097144517607237480",
+                    "size": "5019368",
+                    "download": "5032928"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466850": {
             "dlcappid": "3466850",
@@ -1941,7 +2032,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "9148847535843425495",
+                    "size": "3200573",
+                    "download": "3206496"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466860": {
             "dlcappid": "3466860",
@@ -1950,7 +2048,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3160444997325426240",
+                    "size": "3923984",
+                    "download": "3941904"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466870": {
             "dlcappid": "3466870",
@@ -1959,7 +2064,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2703033433021540000",
+                    "size": "5017376",
+                    "download": "5034704"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466880": {
             "dlcappid": "3466880",
@@ -1968,7 +2080,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6257481880654872749",
+                    "size": "9111411",
+                    "download": "9155216"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466930": {
             "dlcappid": "3466930",
@@ -1977,7 +2096,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6977176183876990130",
+                    "size": "5193899",
+                    "download": "5206048"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466940": {
             "dlcappid": "3466940",
@@ -1986,7 +2112,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1851997000454126027",
+                    "size": "6078826",
+                    "download": "6104816"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466950": {
             "dlcappid": "3466950",
@@ -1994,7 +2127,14 @@
                 "language": "japanese",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1354309125836512470",
+                    "size": "6765426",
+                    "download": "6779280"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466960": {
             "dlcappid": "3466960",
@@ -2003,7 +2143,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4394711163499190625",
+                    "size": "7509656",
+                    "download": "7541296"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466970": {
             "dlcappid": "3466970",
@@ -2012,7 +2159,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1907349055437188772",
+                    "size": "3292106",
+                    "download": "3294144"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466980": {
             "dlcappid": "3466980",
@@ -2021,7 +2175,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8108282033437385238",
+                    "size": "6601016",
+                    "download": "6626480"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466990": {
             "dlcappid": "3466990",
@@ -2030,7 +2191,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1559761504613660854",
+                    "size": "6093659",
+                    "download": "6113232"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467000": {
             "dlcappid": "3467000",
@@ -2039,7 +2207,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "421404797316055593",
+                    "size": "10020265",
+                    "download": "10068608"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467010": {
             "dlcappid": "3467010",
@@ -2048,7 +2223,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7089312337816645347",
+                    "size": "1387548",
+                    "download": "1389728"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467020": {
             "dlcappid": "3467020",
@@ -2057,7 +2239,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "9163799071829934346",
+                    "size": "6718495",
+                    "download": "6739008"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467070": {
             "dlcappid": "3467070",
@@ -2066,7 +2255,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7566407621705718826",
+                    "size": "2034584",
+                    "download": "2036528"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467050": {
             "dlcappid": "3467050",
@@ -2075,7 +2271,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2021773868582089736",
+                    "size": "1657206",
+                    "download": "1658848"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467060": {
             "dlcappid": "3467060",
@@ -2084,7 +2287,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4966988127384582916",
+                    "size": "1133542",
+                    "download": "1135200"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467080": {
             "dlcappid": "3467080",
@@ -2093,7 +2303,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4257830425232104609",
+                    "size": "1150718",
+                    "download": "1151600"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467100": {
             "dlcappid": "3467100",
@@ -2102,7 +2319,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3016354841556336088",
+                    "size": "2050745",
+                    "download": "2058048"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467110": {
             "dlcappid": "3467110",
@@ -2111,7 +2335,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2329804372642848459",
+                    "size": "1152142",
+                    "download": "1153728"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467120": {
             "dlcappid": "3467120",
@@ -2120,7 +2351,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1526140530210741800",
+                    "size": "1112022",
+                    "download": "1115520"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467130": {
             "dlcappid": "3467130",
@@ -2129,7 +2367,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "714790464690612207",
+                    "size": "1157831",
+                    "download": "1159152"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467140": {
             "dlcappid": "3467140",
@@ -2138,7 +2383,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5469289965763521185",
+                    "size": "1151875",
+                    "download": "1153648"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467150": {
             "dlcappid": "3467150",
@@ -2147,7 +2399,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5754028298965920387",
+                    "size": "1513981",
+                    "download": "1516656"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467180": {
             "dlcappid": "3467180",
@@ -2156,7 +2415,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5205888947564119079",
+                    "size": "1139136",
+                    "download": "1140528"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467190": {
             "dlcappid": "3467190",
@@ -2165,7 +2431,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "341130736369014368",
+                    "size": "1651823",
+                    "download": "1655984"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467200": {
             "dlcappid": "3467200",
@@ -2174,7 +2447,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3097270750358872545",
+                    "size": "1511703",
+                    "download": "1513616"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467210": {
             "dlcappid": "3467210",
@@ -2183,7 +2463,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "5129176666580248048",
+                    "size": "1524711",
+                    "download": "1528128"
+                }
+            },
+            "decryptionkey": ""
         },
         "3467220": {
             "dlcappid": "3467220",
@@ -2192,7 +2479,14 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8053292512085229413",
+                    "size": "1482734",
+                    "download": "1487344"
+                }
+            },
+            "decryptionkey": ""
         },
         "3466820": {
             "dlcappid": "3466820",
@@ -2201,12 +2495,19 @@
                 "oslist": "windows",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8766350599995684117",
+                    "size": "3680011",
+                    "download": "3691264"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17525251",
-                "timeupdated": "1740963673"
+                "buildid": "18234389",
+                "timeupdated": "1745813317"
             }
         },
         "privatebranches": "1"
