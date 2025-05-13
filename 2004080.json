@@ -4,8 +4,8 @@
     "name": "Furnish Master",
     "schinese_name": "装修大师",
     "isfreeapp": "0",
-    "change_number": "28237250",
-    "update_time": "2025-04-01 06:20:14",
+    "change_number": "28914407",
+    "update_time": "2025-05-10 13:49:09",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4510941847574569833",
-                    "size": "2569004157",
-                    "download": "994541920"
+                    "gid": "6848969737581876167",
+                    "size": "2616492417",
+                    "download": "1034827056"
                 },
                 "v0.12.0": {
                     "gid": "7694455203551713950",
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8369357760216060349",
-                    "size": "4311541100",
-                    "download": "1191735936"
+                    "gid": "3636035651730649686",
+                    "size": "4300892553",
+                    "download": "1189613936"
                 },
                 "v0.12.0": {
                     "gid": "6759529670740457229",
@@ -136,9 +136,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8207723959069941487",
-                    "size": "2717096586",
-                    "download": "677705056"
+                    "gid": "417181032920938725",
+                    "size": "2716805414",
+                    "download": "677709664"
                 },
                 "v0.12.0": {
                     "gid": "4829084425054070399",
@@ -187,8 +187,8 @@
         "workshopdepot": "2004080",
         "branches": {
             "public": {
-                "buildid": "17910677",
-                "timeupdated": "1743267068"
+                "buildid": "18389147",
+                "timeupdated": "1746720395"
             },
             "v0.12.0": {
                 "buildid": "14354612",
@@ -232,6 +232,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "92d3d9cb9942dd422b837c1488feaf1301e83ef70fc884cfb29ab50c900d5426"
     }
 }
