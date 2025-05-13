@@ -4,8 +4,8 @@
     "name": "CYBRID",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548751",
-    "update_time": "2025-04-18 19:52:37",
+    "change_number": "28916860",
+    "update_time": "2025-05-10 20:10:10",
     "depot": {
         "228988": {
             "config": {
@@ -29,17 +29,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7512407524130995838",
-                    "size": "1158659907",
-                    "download": "483425744"
+                    "gid": "2444917115364489241",
+                    "size": "1310247484",
+                    "download": "513362496"
+                },
+                "openbeta": {
+                    "gid": "2207618400774888576",
+                    "size": "1310265294",
+                    "download": "513368032"
                 }
             },
             "decryptionkey": "c39bb3972ee3abdffe7fcd5264a30205d3a9e513ce9a352d444b6306137fc53e"
         },
         "branches": {
             "public": {
-                "buildid": "12649415",
-                "timeupdated": "1699441605"
+                "buildid": "18250232",
+                "timeupdated": "1746167160"
+            },
+            "openbeta": {
+                "buildid": "18414048",
+                "description": "openbeta",
+                "timeupdated": "1746879005"
             }
         },
         "privatebranches": "1"
