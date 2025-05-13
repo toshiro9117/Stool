@@ -1,0 +1,57 @@
+{
+    "appid": "3443410",
+    "type": "Game",
+    "name": "The Brothers Hotel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28915178",
+    "update_time": "2025-05-10 15:40:53",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3443411": {
+            "manifests": {
+                "public": {
+                    "gid": "5730775579085969753",
+                    "size": "9216589800",
+                    "download": "8878488064"
+                }
+            },
+            "decryptionkey": "d988ad6faa06a48a6e0bda2191a324b04f213255c17b3d8d870475fb7b25321d"
+        },
+        "3443412": {
+            "dlcappid": "3735600",
+            "manifests": {
+                "public": {
+                    "gid": "2528292928893439940",
+                    "size": "9216589800",
+                    "download": "8870315632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3735600": {
+            "dlcappid": "3735600"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18407975",
+                "timeupdated": "1746820056"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
