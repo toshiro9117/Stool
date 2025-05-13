@@ -1,0 +1,43 @@
+{
+    "appid": "2790020",
+    "type": "Game",
+    "name": "Space Sprouts",
+    "schinese_name": "星空之芽",
+    "isfreeapp": "0",
+    "change_number": "28882908",
+    "update_time": "2025-05-08 21:46:50",
+    "depot": {
+        "2790021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6893076907582748717",
+                    "size": "5847761963",
+                    "download": "272267760"
+                }
+            },
+            "decryptionkey": "897c2315879c6a2c24078f0d16095777c0b5504495a8d3167f4c755b3a6a0ba2"
+        },
+        "2790022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "159055698902787286",
+                    "size": "5874691178",
+                    "download": "279830448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18262481",
+                "timeupdated": "1745829494"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
