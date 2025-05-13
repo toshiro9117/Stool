@@ -4,8 +4,8 @@
     "name": "太吾绘卷 The Scroll Of Taiwu",
     "schinese_name": "太吾绘卷 ",
     "isfreeapp": "0",
-    "change_number": "28547570",
-    "update_time": "2025-04-18 18:25:47",
+    "change_number": "28840803",
+    "update_time": "2025-05-06 19:59:32",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "schinese",
@@ -27,6 +27,16 @@
                     "size": "3782485789",
                     "download": "3013861168"
                 },
+                "test": {
+                    "gid": "3980420227086354886",
+                    "size": "3839466540",
+                    "download": "3059964256"
+                },
+                "0.76-mysteriesversion": {
+                    "gid": "1786729570703239145",
+                    "size": "3782485789",
+                    "download": "3013861168"
+                },
                 "frame-test": {
                     "gid": "6687659281010261726",
                     "size": "3920897875",
@@ -41,11 +51,6 @@
                     "gid": "2877948725981120064",
                     "size": "1019814704",
                     "download": "267279840"
-                },
-                "test": {
-                    "gid": "1786729570703239145",
-                    "size": "3782485789",
-                    "download": "3013861168"
                 }
             },
             "decryptionkey": "7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8"
@@ -54,6 +59,16 @@
             "dlcappid": "946970",
             "manifests": {
                 "public": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "test": {
+                    "gid": "2089095199798162434",
+                    "size": "1208029130",
+                    "download": "1087279040"
+                },
+                "0.76-mysteriesversion": {
                     "gid": "2089095199798162434",
                     "size": "1208029130",
                     "download": "1087279040"
@@ -69,11 +84,6 @@
                     "download": "1087279040"
                 },
                 "taiwu": {
-                    "gid": "2089095199798162434",
-                    "size": "1208029130",
-                    "download": "1087279040"
-                },
-                "test": {
                     "gid": "2089095199798162434",
                     "size": "1208029130",
                     "download": "1087279040"
@@ -95,6 +105,16 @@
                 "buildid": "18154093",
                 "timeupdated": "1744961276"
             },
+            "test": {
+                "buildid": "18357900",
+                "description": "测试分支",
+                "timeupdated": "1746532768"
+            },
+            "0.76-mysteriesversion": {
+                "buildid": "18154093",
+                "description": "3月26日-《参悟玄机》分支",
+                "timeupdated": "1745917634"
+            },
             "frame-test": {
                 "buildid": "13865514",
                 "description": "框架测试分支",
@@ -109,11 +129,6 @@
                 "buildid": "15087254",
                 "description": "《太吾绘卷》纪念版",
                 "timeupdated": "1721638999"
-            },
-            "test": {
-                "buildid": "18154093",
-                "description": "测试分支",
-                "timeupdated": "1744961253"
             }
         },
         "privatebranches": "1",
