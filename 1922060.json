@@ -4,8 +4,8 @@
     "name": "BrVR Backrooms Virtual Reality",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28445622",
-    "update_time": "2025-04-12 23:32:02",
+    "change_number": "28887601",
+    "update_time": "2025-05-09 01:47:15",
     "depot": {
         "228988": {
             "config": {
@@ -38,9 +38,9 @@
         "1922061": {
             "manifests": {
                 "public": {
-                    "gid": "6601442010192264372",
-                    "size": "66166557215",
-                    "download": "64890592480"
+                    "gid": "2213257527919772734",
+                    "size": "65963539483",
+                    "download": "64686443456"
                 },
                 "veryold": {
                     "gid": "8506925940766265393",
@@ -53,17 +53,17 @@
                     "download": "14446090128"
                 },
                 "beta": {
-                    "gid": "7387901726768768249",
-                    "size": "66416909807",
-                    "download": "65141145264"
+                    "gid": "4552620098858300109",
+                    "size": "66016128419",
+                    "download": "64738436128"
                 }
             },
             "decryptionkey": "c2178484cc234e2a5d06369a3b59ccbc23eb78ffb79ed31c4808e3931cb7f37e"
         },
         "branches": {
             "public": {
-                "buildid": "17988371",
-                "timeupdated": "1743787215"
+                "buildid": "18314011",
+                "timeupdated": "1746137142"
             },
             "veryold": {
                 "buildid": "9208137",
@@ -76,9 +76,9 @@
                 "timeupdated": "1691788112"
             },
             "beta": {
-                "buildid": "18159639",
+                "buildid": "18391373",
                 "description": "Beta updates",
-                "timeupdated": "1745001957"
+                "timeupdated": "1746726431"
             }
         },
         "privatebranches": "1"
