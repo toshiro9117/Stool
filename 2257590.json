@@ -4,8 +4,8 @@
     "name": "Alien Agent X",
     "schinese_name": "异星特工X",
     "isfreeapp": "0",
-    "change_number": "28427595",
-    "update_time": "2025-04-11 19:21:31",
+    "change_number": "28896818",
+    "update_time": "2025-05-09 15:34:46",
     "depot": {
         "228989": {
             "config": {
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1299414548508964649",
-                    "size": "4942241629",
-                    "download": "4412859280"
+                    "gid": "7343895234950599012",
+                    "size": "8815785890",
+                    "download": "8484322048"
                 }
             },
             "decryptionkey": "6030654899eb4963856f04bedf210c64d290ede42c7caac7bf0cd434c5a988bc"
         },
         "branches": {
             "public": {
-                "buildid": "15810346",
-                "timeupdated": "1733983898"
+                "buildid": "18271677",
+                "timeupdated": "1745911747"
             }
         }
     }
