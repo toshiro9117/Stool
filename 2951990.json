@@ -4,8 +4,8 @@
     "name": "Warhammer 40,000: Rogue Trader - Void Shadows",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28507298",
-    "update_time": "2025-04-16 19:56:49",
+    "change_number": "28818881",
+    "update_time": "2025-05-05 16:31:44",
     "depot": {
         "2951991": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6137455455469919055",
-                    "size": "1390872802",
-                    "download": "1125187328"
+                    "gid": "1503842518659768495",
+                    "size": "1390872775",
+                    "download": "1125187248"
                 }
             },
             "dlcappid": "2951990",
@@ -27,7 +27,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9026477319759616280",
+                    "gid": "1990964712158654151",
                     "size": "1391271825",
                     "download": "1125352800"
                 }
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17391752",
-                "timeupdated": "1739789363"
+                "buildid": "18293241",
+                "timeupdated": "1746006318"
             }
         },
         "privatebranches": "1"
