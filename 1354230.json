@@ -4,8 +4,8 @@
     "name": "Love Tavern",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28515270",
-    "update_time": "2025-04-17 03:32:13",
+    "change_number": "28767171",
+    "update_time": "2025-05-01 18:42:15",
     "depot": {
         "hasdepotsindlc": "1",
         "1354231": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5645321145020594023",
-                    "size": "2976362226",
-                    "download": "722895088"
+                    "gid": "4087536760914180670",
+                    "size": "3035648551",
+                    "download": "730839408"
                 }
             },
             "decryptionkey": "c2b04b2b62e2de8b09e24c7a617c5644599c023c70fc2ede9edf60d861771cf5"
         },
         "branches": {
             "public": {
-                "buildid": "15412275",
-                "timeupdated": "1724005424"
+                "buildid": "18307468",
+                "timeupdated": "1746096131"
             }
         },
         "privatebranches": "1"
