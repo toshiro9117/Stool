@@ -1,0 +1,74 @@
+{
+    "appid": "2655590",
+    "type": "Game",
+    "name": "Kingdom's Deck",
+    "schinese_name": "卡牌王国",
+    "isfreeapp": "0",
+    "change_number": "28868348",
+    "update_time": "2025-05-08 03:11:14",
+    "depot": {
+        "2655591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5681496932788440153",
+                    "size": "2599762156",
+                    "download": "710073216"
+                },
+                "beta": {
+                    "gid": "5681496932788440153",
+                    "size": "2599762156",
+                    "download": "710073216"
+                }
+            },
+            "decryptionkey": "938cf7542d29fddb19cc588a978b2bcabbf645729522dfbd8d3c2a87e9341e8c"
+        },
+        "2655592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2888190326613910222",
+                    "size": "2539075855",
+                    "download": "676218608"
+                },
+                "beta": {
+                    "gid": "2888190326613910222",
+                    "size": "2539075855",
+                    "download": "676218608"
+                }
+            }
+        },
+        "2655593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4982193900689297337",
+                    "size": "2587287973",
+                    "download": "702958384"
+                },
+                "beta": {
+                    "gid": "4982193900689297337",
+                    "size": "2587287973",
+                    "download": "702958384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18337250",
+                "timeupdated": "1746404065"
+            },
+            "beta": {
+                "buildid": "18337250",
+                "description": "Staging branch for Kingdom's Deck, usually full of bugs",
+                "timeupdated": "1746352712"
+            }
+        }
+    }
+}
