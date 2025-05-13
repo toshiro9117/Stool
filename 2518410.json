@@ -1,0 +1,42 @@
+{
+    "appid": "2518410",
+    "type": "Game",
+    "name": "Moroi",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28897221",
+    "update_time": "2025-05-09 16:00:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2518411": {
+            "manifests": {
+                "public": {
+                    "gid": "4642356105181287422",
+                    "size": "11154864784",
+                    "download": "10447631200"
+                }
+            },
+            "decryptionkey": "c87f5ae507167b0b905e70c1decd7432aa1767ee3570b681570a54ca8edf728f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18264310",
+                "timeupdated": "1745855536"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
