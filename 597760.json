@@ -4,8 +4,8 @@
     "name": "Yuppie Psycho",
     "schinese_name": "雅皮士精神",
     "isfreeapp": "0",
-    "change_number": "28549268",
-    "update_time": "2025-04-18 20:30:06",
+    "change_number": "28808087",
+    "update_time": "2025-05-04 16:30:56",
     "depot": {
         "baselanguages": "english,french,spanish",
         "229020": {
@@ -26,30 +26,30 @@
                     "size": "1558425718",
                     "download": "1371545744"
                 },
-                "legacy": {
-                    "gid": "3966713122304742635",
-                    "size": "1722805980",
-                    "download": "1501558576"
-                },
-                "pre_dlc": {
-                    "gid": "7871208705351615547",
-                    "size": "868716885",
-                    "download": "715923632"
+                "beta": {
+                    "gid": "1255562614409822785",
+                    "size": "1558481994",
+                    "download": "1371572976"
                 },
                 "previous": {
                     "gid": "7310522589258287340",
                     "size": "1528087861",
                     "download": "1372132304"
                 },
-                "beta": {
-                    "gid": "1255562614409822785",
-                    "size": "1558481994",
-                    "download": "1371572976"
-                },
                 "previous_2_x": {
                     "gid": "4103123344052764285",
                     "size": "1558425718",
                     "download": "1371545744"
+                },
+                "pre_dlc": {
+                    "gid": "7871208705351615547",
+                    "size": "868716885",
+                    "download": "715923632"
+                },
+                "legacy": {
+                    "gid": "3966713122304742635",
+                    "size": "1722805980",
+                    "download": "1501558576"
                 }
             },
             "decryptionkey": "3495b90fa17cdad0d768467ebd5223eee0eecaca9c056fda4a6375a77f0e973f"
@@ -65,30 +65,30 @@
                     "size": "1564402322",
                     "download": "1372404656"
                 },
-                "legacy": {
-                    "gid": "2469779027125291726",
-                    "size": "1698673788",
-                    "download": "1490975664"
-                },
-                "pre_dlc": {
-                    "gid": "227831285514538765",
-                    "size": "842989750",
-                    "download": "713283632"
+                "beta": {
+                    "gid": "2501903391592343895",
+                    "size": "1564147199",
+                    "download": "1372364656"
                 },
                 "previous": {
                     "gid": "7679455675404401509",
                     "size": "1576886219",
                     "download": "1389848432"
                 },
-                "beta": {
-                    "gid": "2501903391592343895",
-                    "size": "1564147199",
-                    "download": "1372364656"
-                },
                 "previous_2_x": {
                     "gid": "2501903391592343895",
                     "size": "1564147199",
                     "download": "1372364656"
+                },
+                "pre_dlc": {
+                    "gid": "227831285514538765",
+                    "size": "842989750",
+                    "download": "713283632"
+                },
+                "legacy": {
+                    "gid": "2469779027125291726",
+                    "size": "1698673788",
+                    "download": "1490975664"
                 }
             },
             "decryptionkey": "1ba75cf0eb42c1c154e6fe399753f4b074dab3185614497193a9e826e66b792e"
@@ -104,30 +104,30 @@
                     "size": "1570478148",
                     "download": "1374648336"
                 },
-                "legacy": {
-                    "gid": "2051509189476638344",
-                    "size": "1753684356",
-                    "download": "1556044912"
-                },
-                "pre_dlc": {
-                    "gid": "2553879101673502264",
-                    "size": "990149405",
-                    "download": "767717776"
+                "beta": {
+                    "gid": "7186905718464983532",
+                    "size": "1570738305",
+                    "download": "1374744784"
                 },
                 "previous": {
                     "gid": "6739855828258921762",
                     "size": "1538800694",
                     "download": "1375126288"
                 },
-                "beta": {
-                    "gid": "7186905718464983532",
-                    "size": "1570738305",
-                    "download": "1374744784"
-                },
                 "previous_2_x": {
                     "gid": "80403378122705302",
                     "size": "1570478148",
                     "download": "1374648336"
+                },
+                "pre_dlc": {
+                    "gid": "2553879101673502264",
+                    "size": "990149405",
+                    "download": "767717776"
+                },
+                "legacy": {
+                    "gid": "2051509189476638344",
+                    "size": "1753684356",
+                    "download": "1556044912"
                 }
             },
             "decryptionkey": "b8f9f19de2d90aaee5a4287d6bd25f636116b2a36e25470d8ce368e496be7e34"
@@ -138,30 +138,30 @@
                 "buildid": "14148849",
                 "timeupdated": "1714067673"
             },
-            "legacy": {
-                "buildid": "8185684",
-                "description": "Branch that contains the game using the old engine",
-                "timeupdated": "1647018190"
-            },
-            "pre_dlc": {
-                "buildid": "4731626",
-                "description": "Branch that contains the game before the dlc update using the old engine",
-                "timeupdated": "1604047836"
+            "beta": {
+                "buildid": "17782649",
+                "description": "feeling adventurous ?",
+                "timeupdated": "1742400216"
             },
             "previous": {
                 "buildid": "11356711",
                 "description": "Previous version of the game",
                 "timeupdated": "1702375686"
             },
-            "beta": {
-                "buildid": "17782649",
-                "description": "feeling adventurous ?",
-                "timeupdated": "1742400216"
-            },
             "previous_2_x": {
                 "buildid": "18070623",
                 "description": "Last 2.5+ version",
                 "timeupdated": "1744369425"
+            },
+            "pre_dlc": {
+                "buildid": "4731626",
+                "description": "Branch that contains the game before the dlc update using the old engine",
+                "timeupdated": "1604047836"
+            },
+            "legacy": {
+                "buildid": "8185684",
+                "description": "Branch that contains the game using the old engine",
+                "timeupdated": "1647018190"
             }
         },
         "privatebranches": "1",
