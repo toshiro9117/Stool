@@ -4,8 +4,8 @@
     "name": "The Break-In Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25386050",
-    "update_time": "2024-09-25 20:07:41",
+    "change_number": "28721320",
+    "update_time": "2025-04-29 15:00:58",
     "depot": {
         "228988": {
             "config": {
@@ -26,9 +26,6 @@
             "decryptionkey": ""
         },
         "1397392": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "2483183682884747122",
