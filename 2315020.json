@@ -4,8 +4,8 @@
     "name": "Froguelike",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28512875",
-    "update_time": "2025-04-17 01:05:42",
+    "change_number": "28776417",
+    "update_time": "2025-05-02 06:29:13",
     "depot": {
         "2315021": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2636805381042301522",
-                    "size": "128539097",
-                    "download": "32685680"
+                    "gid": "7094140013348368681",
+                    "size": "137542603",
+                    "download": "40324000"
                 }
             },
             "decryptionkey": "c9f945eae1da39ab722e87bf589587286035a9b3634a63a20b15fe9c0669d763"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8196008649723174387",
-                    "size": "154666840",
-                    "download": "40129632"
+                    "gid": "7415554989667810960",
+                    "size": "161946732",
+                    "download": "47175520"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18130513",
-                "timeupdated": "1744823018"
+                "buildid": "18311518",
+                "timeupdated": "1746120456"
             }
         },
         "privatebranches": "1"
