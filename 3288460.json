@@ -1,0 +1,28 @@
+{
+    "appid": "3288460",
+    "type": "Game",
+    "name": "ROLLING STAR",
+    "schinese_name": "翻滚之星",
+    "isfreeapp": "0",
+    "change_number": "28917937",
+    "update_time": "2025-05-10 22:58:44",
+    "depot": {
+        "3288461": {
+            "manifests": {
+                "public": {
+                    "gid": "84890311992843798",
+                    "size": "518202092",
+                    "download": "440645648"
+                }
+            },
+            "decryptionkey": "3d9f7674539c00e8712a9816b5ab990466dbd2526becbfe582e2380da779e9e5"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18129729",
+                "timeupdated": "1744811825"
+            }
+        }
+    }
+}
