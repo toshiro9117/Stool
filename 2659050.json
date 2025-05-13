@@ -4,15 +4,15 @@
     "name": "Movies Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28534120",
-    "update_time": "2025-04-18 00:58:51",
+    "change_number": "28808044",
+    "update_time": "2025-05-04 16:27:08",
     "depot": {
         "2659051": {
             "manifests": {
                 "public": {
-                    "gid": "6110273645151282917",
-                    "size": "24281031674",
-                    "download": "16593845056"
+                    "gid": "7532877824568089930",
+                    "size": "22858283422",
+                    "download": "16467525696"
                 }
             },
             "decryptionkey": "133ee3867f80351b5847389715a9e4278ec58d3fe5d7ceb9bc9d157229b05d53"
@@ -21,17 +21,17 @@
             "dlcappid": "3613010",
             "manifests": {
                 "public": {
-                    "gid": "7082346963130832348",
-                    "size": "2502496535",
-                    "download": "2163285104"
+                    "gid": "4028956558925245590",
+                    "size": "2502894506",
+                    "download": "2163674336"
                 }
             },
             "decryptionkey": "91b8d1e0310e331b44890527309d6225da64b84364d017c750ac65dbfbf2b47a"
         },
         "branches": {
             "public": {
-                "buildid": "18143633",
-                "timeupdated": "1744893490"
+                "buildid": "18336874",
+                "timeupdated": "1746347223"
             }
         },
         "privatebranches": "1"
