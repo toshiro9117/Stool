@@ -4,8 +4,8 @@
     "name": "Personal Study",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27912555",
-    "update_time": "2025-03-12 22:05:35",
+    "change_number": "28821269",
+    "update_time": "2025-05-05 19:45:09",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3642844224808148777",
-                    "size": "1118192272",
-                    "download": "964085280"
+                    "gid": "7400989759528393427",
+                    "size": "828228483",
+                    "download": "686714624"
                 }
             },
             "decryptionkey": "0bea8f1a793fa678e815c85c9c5fc07fb54eb2325124eabaea048bb2cf3dad50"
         },
         "branches": {
             "public": {
-                "buildid": "17693622",
-                "timeupdated": "1741788330"
+                "buildid": "18345722",
+                "timeupdated": "1746445504"
             }
         }
     }
