@@ -4,8 +4,8 @@
     "name": "Combat Complex Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28270053",
-    "update_time": "2025-04-02 22:22:51",
+    "change_number": "28768659",
+    "update_time": "2025-05-01 20:56:38",
     "depot": {
         "228990": {
             "config": {
@@ -21,7 +21,8 @@
                     "size": "1957572058",
                     "download": "261684528"
                 }
-            }
+            },
+            "decryptionkey": "be8c94f7bcfcf88a444b448e65807f5f681085a686abf1cf50f846915d95515c"
         },
         "branches": {
             "public": {
