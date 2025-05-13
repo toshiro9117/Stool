@@ -4,15 +4,15 @@
     "name": "9th Dawn Remake",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28371004",
-    "update_time": "2025-04-09 01:44:21",
+    "change_number": "28918683",
+    "update_time": "2025-05-11 00:35:16",
     "depot": {
         "1550181": {
             "manifests": {
                 "public": {
-                    "gid": "2812515762150493289",
-                    "size": "1164938855",
-                    "download": "189403344"
+                    "gid": "2392986251295725772",
+                    "size": "1169343820",
+                    "download": "190433328"
                 }
             },
             "decryptionkey": "b1d6c894e0255957d57dae026f6c4892762708c8a52e38bdb49c0892285f349d"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16931288",
-                "timeupdated": "1736275269"
+                "buildid": "18415265",
+                "timeupdated": "1746894912"
             }
         }
     }
