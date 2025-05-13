@@ -4,8 +4,8 @@
     "name": "The Binding of Isaac: Rebirth",
     "schinese_name": "以撒的结合：重生",
     "isfreeapp": "0",
-    "change_number": "28541682",
-    "update_time": "2025-04-18 10:35:33",
+    "change_number": "28913217",
+    "update_time": "2025-05-10 10:42:58",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -165,9 +165,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8844694529032700025",
-                    "size": "691685300",
-                    "download": "633360352"
+                    "gid": "976917688041015347",
+                    "size": "714722508",
+                    "download": "656602528"
                 }
             },
             "decryptionkey": "b1b260b7116c50497bfe54b1df79bc30dbca77c3d8d7d2698f96657fdb2829e8"
@@ -175,8 +175,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17360122",
-                "timeupdated": "1739505607"
+                "buildid": "18327409",
+                "timeupdated": "1746240003"
             }
         },
         "privatebranches": "1",
