@@ -4,8 +4,8 @@
     "name": "魔星兄弟",
     "schinese_name": "魔星兄弟",
     "isfreeapp": "0",
-    "change_number": "28122842",
-    "update_time": "2025-03-25 13:25:11",
+    "change_number": "28922699",
+    "update_time": "2025-05-11 12:10:01",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2854351": {
             "manifests": {
                 "public": {
-                    "gid": "2526531982067687322",
-                    "size": "4161329465",
-                    "download": "4004999424"
+                    "gid": "6428806321030604919",
+                    "size": "4230639267",
+                    "download": "4062855328"
                 }
             },
             "decryptionkey": "b864c137cd56a7cfd4656061cb32327df1e012224e8cb868273cb38d060af1a9"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17846958",
-                "timeupdated": "1742880306"
+                "buildid": "18398335",
+                "timeupdated": "1746766717"
             }
         }
     }
