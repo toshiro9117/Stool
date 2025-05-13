@@ -4,8 +4,8 @@
     "name": "Renryuu: Ascension",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28462265",
-    "update_time": "2025-04-14 16:01:42",
+    "change_number": "28861106",
+    "update_time": "2025-05-07 20:12:51",
     "depot": {
         "hasdepotsindlc": "1",
         "1809531": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8501555274909720393",
-                    "size": "2410282348",
-                    "download": "1988143136"
+                    "gid": "8552234130612454647",
+                    "size": "2424157292",
+                    "download": "2000968048"
                 }
             },
             "decryptionkey": "c9ece1f7b875917d59c400789aa63d0e1eb1fe393357ad528bb1ddc403fab651"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2458894611976283676",
-                    "size": "2755215765",
-                    "download": "1994488176"
+                    "gid": "3803348695031139650",
+                    "size": "2769090341",
+                    "download": "2007312784"
                 }
             }
         },
@@ -39,16 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "186280438513897135",
-                    "size": "2453116737",
-                    "download": "1990259696"
+                    "gid": "3486425233221075334",
+                    "size": "2466991681",
+                    "download": "2003084608"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18043199",
-                "timeupdated": "1744212338"
+                "buildid": "18373283",
+                "timeupdated": "1746619967"
             }
         }
     }
