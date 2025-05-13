@@ -4,8 +4,8 @@
     "name": "LOLLIPOP CHAINSAW RePOP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28465074",
-    "update_time": "2025-04-14 19:00:59",
+    "change_number": "28664420",
+    "update_time": "2025-04-25 21:00:58",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4051755089721736018",
-                    "size": "15009536240",
-                    "download": "14066718720"
+                    "gid": "4089020302028573631",
+                    "size": "15009532144",
+                    "download": "14066396032"
                 }
             },
             "decryptionkey": "d3c09b507a343a7ba3c75abd0ce562ceb1c9f33c4a5c840a65bf5f245df9d891"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18008920",
-                "timeupdated": "1744628453"
+                "buildid": "18220642",
+                "timeupdated": "1745578850"
             }
         }
     }
