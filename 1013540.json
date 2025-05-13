@@ -4,8 +4,8 @@
     "name": "Evospace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549464",
-    "update_time": "2025-04-18 20:43:28",
+    "change_number": "28921085",
+    "update_time": "2025-05-11 06:37:14",
     "depot": {
         "228989": {
             "config": {
@@ -55,14 +55,14 @@
                     "download": "905827568"
                 },
                 "indev": {
-                    "gid": "3622442227888310340",
-                    "size": "1810740971",
-                    "download": "1385301056"
+                    "gid": "5350840751951133345",
+                    "size": "1814650521",
+                    "download": "1388425888"
                 },
                 "stable_indev": {
-                    "gid": "1661446946033330445",
-                    "size": "1809109727",
-                    "download": "1384422592"
+                    "gid": "9061584698171056261",
+                    "size": "1814119966",
+                    "download": "1388517712"
                 }
             },
             "decryptionkey": "68a9f5033442626ccd2c4329e03cc2e791781329e391cfc4890da9e2fb693efe"
@@ -88,14 +88,14 @@
                     "download": "1178035616"
                 },
                 "indev": {
-                    "gid": "8389037822588448972",
-                    "size": "1862064152",
-                    "download": "1342481840"
+                    "gid": "2682288879354166770",
+                    "size": "1863867158",
+                    "download": "1345138752"
                 },
                 "stable_indev": {
-                    "gid": "8389037822588448972",
-                    "size": "1862064152",
-                    "download": "1342481840"
+                    "gid": "2682288879354166770",
+                    "size": "1863867158",
+                    "download": "1345138752"
                 }
             }
         },
@@ -125,14 +125,14 @@
                 "timeupdated": "1744479641"
             },
             "indev": {
-                "buildid": "18157760",
+                "buildid": "18416719",
                 "description": "latest indev version",
-                "timeupdated": "1744980204"
+                "timeupdated": "1746916630"
             },
             "stable_indev": {
-                "buildid": "18085339",
+                "buildid": "18340409",
                 "description": "stable version of indev branch",
-                "timeupdated": "1744485511"
+                "timeupdated": "1746394910"
             }
         },
         "workshopdepotdecryptionkey": "e10a22adf37e9f2f228c6127b7052a76a5be87b046f4a97c56362a18a0c25445"
