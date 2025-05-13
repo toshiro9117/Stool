@@ -1,0 +1,55 @@
+{
+    "appid": "2450840",
+    "type": "Game",
+    "name": "Detective Dotson",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28900183",
+    "update_time": "2025-05-09 19:02:53",
+    "depot": {
+        "2450841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2701110210467041124",
+                    "size": "1851918506",
+                    "download": "455251280"
+                }
+            },
+            "decryptionkey": "4458b5c21ee0e65bbd9f3b9237025990e28f3de28fc011b222b20270303157e6"
+        },
+        "2450842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6680092030851192740",
+                    "size": "1875872234",
+                    "download": "461808912"
+                }
+            }
+        },
+        "2450843": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7566871101519650273",
+                    "size": "1855673386",
+                    "download": "454805488"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18345933",
+                "timeupdated": "1746606215"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
