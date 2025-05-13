@@ -4,8 +4,8 @@
     "name": "Reentry - A Space Flight Simulator",
     "schinese_name": "模拟太空飞行",
     "isfreeapp": "0",
-    "change_number": "28314746",
-    "update_time": "2025-04-05 02:29:07",
+    "change_number": "28901849",
+    "update_time": "2025-05-09 20:47:07",
     "depot": {
         "workshopdepot": "882140",
         "baselanguages": "english",
@@ -17,14 +17,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3187093856892634180",
-                    "size": "19616226141",
-                    "download": "5731913824"
+                    "gid": "26533585203090088",
+                    "size": "17576888033",
+                    "download": "5353322832"
                 },
                 "alpha-floor": {
-                    "gid": "4949139800050959462",
-                    "size": "19616940713",
-                    "download": "5732252848"
+                    "gid": "7292153917263436144",
+                    "size": "17576906747",
+                    "download": "5353319536"
                 },
                 "reentry096": {
                     "gid": "1018229682169875967",
@@ -50,6 +50,11 @@
                     "gid": "553341866978067663",
                     "size": "19611725276",
                     "download": "5725831392"
+                },
+                "reentry099_59": {
+                    "gid": "3187093856892634180",
+                    "size": "19616226141",
+                    "download": "5731913824"
                 },
                 "reentry099rc21": {
                     "gid": "6811093738357999939",
@@ -106,6 +111,11 @@
                     "size": "5822619999",
                     "download": "2148769760"
                 },
+                "reentry099_59": {
+                    "gid": "4047934432458565315",
+                    "size": "5822619999",
+                    "download": "2148769760"
+                },
                 "reentry099rc21": {
                     "gid": "4047934432458565315",
                     "size": "5822619999",
@@ -128,13 +138,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17722431",
-                "timeupdated": "1741943384"
+                "buildid": "18275479",
+                "timeupdated": "1745908181"
             },
             "alpha-floor": {
-                "buildid": "17986010",
+                "buildid": "18348607",
                 "description": "Alpha-Floor",
-                "timeupdated": "1743775461"
+                "timeupdated": "1746462711"
             },
             "reentry096": {
                 "buildid": "9853861",
@@ -160,6 +170,11 @@
                 "buildid": "17658326",
                 "description": "Reentry Version 0.99.57",
                 "timeupdated": "1741864721"
+            },
+            "reentry099_59": {
+                "buildid": "17722431",
+                "description": "\tReentry Version 0.99.59",
+                "timeupdated": "1744629255"
             },
             "reentry099rc21": {
                 "buildid": "14259490",
