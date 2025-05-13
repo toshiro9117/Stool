@@ -4,22 +4,22 @@
     "name": "Shadows of Doubt",
     "schinese_name": "Shadows of Doubt - 凶影疑云",
     "isfreeapp": "0",
-    "change_number": "28529320",
-    "update_time": "2025-04-17 21:01:03",
+    "change_number": "28726219",
+    "update_time": "2025-04-29 19:42:09",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese",
         "hasdepotsindlc": "1",
         "986131": {
             "manifests": {
                 "public": {
-                    "gid": "8579371375243553492",
-                    "size": "1401734303",
-                    "download": "561374768"
+                    "gid": "4056944522444243437",
+                    "size": "1364146855",
+                    "download": "552142224"
                 },
                 "experimental": {
-                    "gid": "8579371375243553492",
-                    "size": "1401734303",
-                    "download": "561374768"
+                    "gid": "4056944522444243437",
+                    "size": "1364146855",
+                    "download": "552142224"
                 },
                 "legacypublic": {
                     "gid": "791094652490595966",
@@ -52,13 +52,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17063837",
-                "timeupdated": "1737456805"
+                "buildid": "18191560",
+                "timeupdated": "1745926923"
             },
             "experimental": {
-                "buildid": "17063837",
+                "buildid": "18191560",
                 "description": "For testing the latest public builds",
-                "timeupdated": "1737372114"
+                "timeupdated": "1745926890"
             },
             "legacypublic": {
                 "buildid": "14314304",
