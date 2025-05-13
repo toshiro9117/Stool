@@ -4,15 +4,15 @@
     "name": "Cats Hidden in Georgia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27075496",
-    "update_time": "2025-01-20 20:43:28",
+    "change_number": "28896003",
+    "update_time": "2025-05-09 14:22:54",
     "depot": {
         "2485181": {
             "manifests": {
                 "public": {
-                    "gid": "8162709026020991148",
-                    "size": "116415339",
-                    "download": "89095888"
+                    "gid": "864743407029962201",
+                    "size": "116415344",
+                    "download": "89095744"
                 },
                 "test": {
                     "gid": "6508715632503596901",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17277967",
-                "timeupdated": "1740381381"
+                "buildid": "18398977",
+                "timeupdated": "1746771771"
             },
             "test": {
                 "buildid": "13739693",
