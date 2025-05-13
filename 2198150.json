@@ -4,8 +4,8 @@
     "name": "Tiny Glade",
     "schinese_name": "林间小世界",
     "isfreeapp": "0",
-    "change_number": "28318689",
-    "update_time": "2025-04-05 08:10:30",
+    "change_number": "28710517",
+    "update_time": "2025-04-29 00:43:18",
     "depot": {
         "228988": {
             "config": {
@@ -25,6 +25,11 @@
                     "gid": "2693167547300432593",
                     "size": "2475009914",
                     "download": "1330588656"
+                },
+                "1_13_2a-morwal": {
+                    "gid": "5333173579986449531",
+                    "size": "2475046266",
+                    "download": "1330608656"
                 },
                 "beta-1_13_0": {
                     "gid": "8842829929210206983",
@@ -55,6 +60,11 @@
                     "size": "2562496652",
                     "download": "1335272640"
                 },
+                "1_13_2a-morwal": {
+                    "gid": "5337575770099144106",
+                    "size": "2562496348",
+                    "download": "1335281376"
+                },
                 "beta-1_13_0": {
                     "gid": "5893050644304887348",
                     "size": "2564803064",
@@ -77,6 +87,11 @@
             "public": {
                 "buildid": "17954093",
                 "timeupdated": "1743596316"
+            },
+            "1_13_2a-morwal": {
+                "buildid": "18180088",
+                "description": "(temp) 1.13.2a with 2x wall count limit",
+                "timeupdated": "1745236642"
             },
             "beta-1_13_0": {
                 "buildid": "17646389",
