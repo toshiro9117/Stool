@@ -1,0 +1,44 @@
+{
+    "appid": "3283090",
+    "type": "DLC",
+    "name": "MILF's Plaza - Beach Episode",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28915898",
+    "update_time": "2025-05-10 17:33:20",
+    "depot": {
+        "3283090": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "dlcappid": "3283090",
+            "manifests": {
+                "public": {
+                    "gid": "8214784388253170562",
+                    "size": "411849396",
+                    "download": "218547472"
+                }
+            },
+            "decryptionkey": "ff57df5770f283685d2d085d99d75a442a8b8ce5ddd8ca2830cfa6122c6e7e12"
+        },
+        "3283091": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8647641459969854094",
+                    "size": "411880136",
+                    "download": "218549552"
+                }
+            },
+            "dlcappid": "3283090"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18343988",
+                "timeupdated": "1746434404"
+            }
+        }
+    }
+}
