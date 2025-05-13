@@ -4,15 +4,15 @@
     "name": "Consumables",
     "schinese_name": "燃料",
     "isfreeapp": "0",
-    "change_number": "28501656",
-    "update_time": "2025-04-16 14:08:31",
+    "change_number": "28918671",
+    "update_time": "2025-05-11 00:33:04",
     "depot": {
         "3407311": {
             "manifests": {
                 "public": {
-                    "gid": "752024013513879488",
-                    "size": "670704565",
-                    "download": "424401776"
+                    "gid": "7819513370302152096",
+                    "size": "666959291",
+                    "download": "420686688"
                 }
             },
             "decryptionkey": "6ef1ad943ac077def22e5bb2288116f7076edca908413462b9cce6063006fa97"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,thai,japanese",
         "branches": {
             "public": {
-                "buildid": "17803208",
-                "timeupdated": "1742526139"
+                "buildid": "18384282",
+                "timeupdated": "1746682182"
             }
         }
     }
