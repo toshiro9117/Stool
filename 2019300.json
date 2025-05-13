@@ -4,26 +4,23 @@
     "name": "Dokimon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28421338",
-    "update_time": "2025-04-11 12:41:35",
+    "change_number": "28901824",
+    "update_time": "2025-05-09 20:45:41",
     "depot": {
         "2019301": {
-            "config": {
-                "oslist": "windows"
-            },
             "manifests": {
                 "public": {
-                    "gid": "8910856572522815329",
-                    "size": "68403351",
-                    "download": "48717808"
+                    "gid": "6662279636989931321",
+                    "size": "62452793",
+                    "download": "46898800"
                 }
             },
             "decryptionkey": "4c11883ba648c4ff5bb9aba47163fbed2b4c8dce779e482645911c2025dcc1b6"
         },
         "branches": {
             "public": {
-                "buildid": "18066470",
-                "timeupdated": "1744346490"
+                "buildid": "18403245",
+                "timeupdated": "1746794737"
             }
         }
     }
