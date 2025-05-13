@@ -1,0 +1,46 @@
+{
+    "appid": "1449730",
+    "type": "Game",
+    "name": "Scarlet City of Devils",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28912060",
+    "update_time": "2025-05-10 08:16:15",
+    "depot": {
+        "baselanguages": "english,spanish,schinese,tchinese,japanese",
+        "1449731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7860012275880362433",
+                    "size": "991775821",
+                    "download": "759455680"
+                }
+            },
+            "decryptionkey": "73e7da8f32f6556bdf0a00f35242328b927787b28ef80d4b8aa30fa8f32f22fd"
+        },
+        "1449732": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8399769599507257757",
+                    "size": "1083662150",
+                    "download": "769880944"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18410273",
+                "timeupdated": "1746836171"
+            }
+        }
+    }
+}
