@@ -4,8 +4,8 @@
     "name": "Hard Time III",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28227933",
-    "update_time": "2025-03-31 20:27:06",
+    "change_number": "28856107",
+    "update_time": "2025-05-07 15:08:56",
     "depot": {
         "3009851": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1743424018"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9fdd8cb4b86c7cc5c3e572479c6d1a0275b0e5ae7901fcba8d3026389f9be9cc"
     }
 }
