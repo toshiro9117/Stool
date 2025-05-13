@@ -4,33 +4,33 @@
     "name": "Keep Driving",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28537265",
-    "update_time": "2025-04-18 04:04:04",
+    "change_number": "28875851",
+    "update_time": "2025-05-08 14:09:03",
     "depot": {
         "2756921": {
             "manifests": {
                 "public": {
-                    "gid": "1052837726407460034",
-                    "size": "2648299463",
-                    "download": "2161315152"
+                    "gid": "7731324007973562136",
+                    "size": "2667522996",
+                    "download": "2173645232"
                 },
                 "test": {
-                    "gid": "1052837726407460034",
-                    "size": "2648299463",
-                    "download": "2161315152"
+                    "gid": "7731324007973562136",
+                    "size": "2667522996",
+                    "download": "2173645232"
                 }
             },
             "decryptionkey": "10032716e9015079aeec2f3447817d6aa1fb0ae3dd8273de5703282a258f0d36"
         },
         "branches": {
             "public": {
-                "buildid": "17498494",
-                "timeupdated": "1740485520"
+                "buildid": "18358886",
+                "timeupdated": "1746533160"
             },
             "test": {
-                "buildid": "17498494",
+                "buildid": "18358886",
                 "description": "Public Test Branch",
-                "timeupdated": "1740482004"
+                "timeupdated": "1746532492"
             }
         },
         "privatebranches": "1"
