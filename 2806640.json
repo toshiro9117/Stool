@@ -4,8 +4,8 @@
     "name": "The Talos Principle: Reawakened",
     "schinese_name": "塔罗斯法则：重启",
     "isfreeapp": "0",
-    "change_number": "28545630",
-    "update_time": "2025-04-18 16:19:59",
+    "change_number": "28911417",
+    "update_time": "2025-05-10 07:19:20",
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "2806641": {
             "manifests": {
                 "public": {
+                    "gid": "6826186526274491707",
+                    "size": "49569365785",
+                    "download": "48001137600"
+                },
+                "previousversion": {
                     "gid": "7952766918857163899",
                     "size": "49569072659",
                     "download": "47999068576"
-                },
-                "previousversion": {
-                    "gid": "4256792438761350905",
-                    "size": "49408141278",
-                    "download": "47898153056"
                 }
             },
             "decryptionkey": "7608c9835511431b6d95c5aa29bcb269f2cc727e99109c084e19dadb256a25a5"
@@ -39,13 +39,13 @@
         "workshopdepot": "2806640",
         "branches": {
             "public": {
-                "buildid": "18144372",
-                "timeupdated": "1744899408"
+                "buildid": "18284563",
+                "timeupdated": "1746003349"
             },
             "previousversion": {
-                "buildid": "18057167",
+                "buildid": "18144372",
                 "description": "Beta branch that holds the previous publicly released version of the game",
-                "timeupdated": "1744899468"
+                "timeupdated": "1746003389"
             }
         },
         "privatebranches": "1",
