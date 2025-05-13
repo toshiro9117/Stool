@@ -4,15 +4,15 @@
     "name": "Astronomics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28494820",
-    "update_time": "2025-04-16 04:10:40",
+    "change_number": "28917552",
+    "update_time": "2025-05-10 22:00:57",
     "depot": {
         "1975521": {
             "manifests": {
                 "public": {
-                    "gid": "3380520352543304973",
-                    "size": "829403886",
-                    "download": "172941200"
+                    "gid": "4957131000318912798",
+                    "size": "829462590",
+                    "download": "172947856"
                 },
                 "demo": {
                     "gid": "3142874900317064495",
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18118847",
-                "timeupdated": "1744747835"
+                "buildid": "18339759",
+                "timeupdated": "1746388014"
             },
             "demo": {
                 "buildid": "17255427",
