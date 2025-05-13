@@ -4,15 +4,15 @@
     "name": "安妮的游戏 The Game of Annie",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541560",
-    "update_time": "2025-04-18 10:23:08",
+    "change_number": "28893373",
+    "update_time": "2025-05-09 09:43:35",
     "depot": {
         "2373291": {
             "manifests": {
                 "public": {
-                    "gid": "8929061357359252043",
-                    "size": "17011802120",
-                    "download": "5837433552"
+                    "gid": "9097668287721000655",
+                    "size": "16952925028",
+                    "download": "5837447040"
                 }
             },
             "decryptionkey": "79289c51bceed40bd46b866de1da991c615a833cd014f3dbbc3481cf0f90cc5c"
@@ -20,8 +20,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18152463",
-                "timeupdated": "1744942985"
+                "buildid": "18396796",
+                "timeupdated": "1746755012"
             }
         }
     }
