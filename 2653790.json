@@ -1,11 +1,11 @@
 {
     "appid": "2653790",
     "type": "Game",
-    "name": "８番出口",
-    "schinese_name": "",
+    "name": "The Exit 8",
+    "schinese_name": "8号出口",
     "isfreeapp": "0",
-    "change_number": "28420701",
-    "update_time": "2025-04-11 11:33:47",
+    "change_number": "28785375",
+    "update_time": "2025-05-02 20:40:31",
     "depot": {
         "228989": {
             "config": {
