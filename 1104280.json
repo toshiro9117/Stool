@@ -4,8 +4,8 @@
     "name": "The Slormancer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28360761",
-    "update_time": "2025-04-08 15:48:51",
+    "change_number": "28921199",
+    "update_time": "2025-05-11 07:02:18",
     "depot": {
         "228990": {
             "config": {
@@ -20,6 +20,11 @@
                     "gid": "6653994473337142887",
                     "size": "463527974",
                     "download": "281685728"
+                },
+                "experimental": {
+                    "gid": "1991468047613600407",
+                    "size": "496648047",
+                    "download": "293000864"
                 }
             },
             "decryptionkey": "b118bf751695ef5b6f48a3daa0537e23dee2158285fd025252aa697b993f249c"
@@ -29,6 +34,11 @@
             "public": {
                 "buildid": "15712383",
                 "timeupdated": "1726474001"
+            },
+            "experimental": {
+                "buildid": "18401324",
+                "description": "Testing branch",
+                "timeupdated": "1746785225"
             }
         },
         "privatebranches": "1"
