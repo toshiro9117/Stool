@@ -4,8 +4,8 @@
     "name": "Defense Builder",
     "schinese_name": "防线建造者",
     "isfreeapp": "0",
-    "change_number": "28497434",
-    "update_time": "2025-04-16 07:39:15",
+    "change_number": "28918159",
+    "update_time": "2025-05-10 23:26:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3175671": {
             "manifests": {
                 "public": {
-                    "gid": "7380135216367030238",
-                    "size": "5211051049",
-                    "download": "5026896432"
+                    "gid": "7184038324196482186",
+                    "size": "5712333571",
+                    "download": "5537456576"
                 },
                 "previous": {
                     "gid": "8105575222761765100",
@@ -34,17 +34,17 @@
                     "download": "5008527776"
                 },
                 "test": {
-                    "gid": "8510735792878138543",
-                    "size": "5188773298",
-                    "download": "5004443232"
+                    "gid": "4902388217565226330",
+                    "size": "5701998514",
+                    "download": "5518862400"
                 }
             },
             "decryptionkey": "2cdbff526a6a1f6f52e680afd6d910b3e83895cde454ed5ace37f46dd0063e78"
         },
         "branches": {
             "public": {
-                "buildid": "18120767",
-                "timeupdated": "1744760351"
+                "buildid": "18414966",
+                "timeupdated": "1746890793"
             },
             "previous": {
                 "buildid": "17899478",
@@ -52,9 +52,9 @@
                 "timeupdated": "1743772281"
             },
             "test": {
-                "buildid": "17786245",
+                "buildid": "18346210",
                 "description": "TestVersion",
-                "timeupdated": "1742420341"
+                "timeupdated": "1746448707"
             }
         }
     }
