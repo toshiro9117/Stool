@@ -4,8 +4,8 @@
     "name": "Coin Pusher Casino",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547751",
-    "update_time": "2025-04-18 18:38:44",
+    "change_number": "28586535",
+    "update_time": "2025-04-22 01:19:54",
     "depot": {
         "2178591": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4480179812861403578",
-                    "size": "912527197",
-                    "download": "531936880"
+                    "gid": "1185259457048816083",
+                    "size": "912527260",
+                    "download": "531936768"
                 },
                 "experimental": {
-                    "gid": "4480179812861403578",
-                    "size": "912527197",
-                    "download": "531936880"
+                    "gid": "1185259457048816083",
+                    "size": "912527260",
+                    "download": "531936768"
                 }
             },
             "decryptionkey": "c699d843398fb056d9d3e5ae5012aa328ba50fedacba89ed51fac3020baf1473"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4461236097680774421",
-                    "size": "987073266",
-                    "download": "552847984"
+                    "gid": "4904619364249820368",
+                    "size": "987074162",
+                    "download": "552878944"
                 },
                 "experimental": {
-                    "gid": "4461236097680774421",
-                    "size": "987073266",
-                    "download": "552847984"
+                    "gid": "4904619364249820368",
+                    "size": "987074162",
+                    "download": "552878944"
                 }
             },
             "decryptionkey": "05e85e3461f90333c6203be3a011a35032e1c5b7298210fab60283e1e3c74681"
@@ -52,26 +52,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8081336340841608095",
-                    "size": "1084886545",
-                    "download": "559946208"
+                    "gid": "4417920183828468118",
+                    "size": "1084887553",
+                    "download": "560013168"
                 },
                 "experimental": {
-                    "gid": "8081336340841608095",
-                    "size": "1084886545",
-                    "download": "559946208"
+                    "gid": "4417920183828468118",
+                    "size": "1084887553",
+                    "download": "560013168"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18156652",
-                "timeupdated": "1744986842"
+                "buildid": "18182495",
+                "timeupdated": "1745255990"
             },
             "experimental": {
-                "buildid": "18156652",
+                "buildid": "18182495",
                 "description": "Experimental updates",
-                "timeupdated": "1744972717"
+                "timeupdated": "1745255923"
             }
         },
         "privatebranches": "1"
