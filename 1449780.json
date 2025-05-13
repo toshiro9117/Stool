@@ -4,8 +4,8 @@
     "name": "Cyberwar",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28410395",
-    "update_time": "2025-04-10 23:14:05",
+    "change_number": "28815777",
+    "update_time": "2025-05-05 10:39:23",
     "depot": {
         "hasdepotsindlc": "0",
         "1449781": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3403750937753467615",
-                    "size": "3475861876",
-                    "download": "391593376"
+                    "gid": "8896096754863943864",
+                    "size": "3511007683",
+                    "download": "398820928"
                 }
             },
             "decryptionkey": "d5d29f170e1bed3b1e5eb5a8501f89ce02d3692c9ef91a81049f5997daa02314"
@@ -24,8 +24,8 @@
         "baselanguages": "english,brazilian",
         "branches": {
             "public": {
-                "buildid": "17782076",
-                "timeupdated": "1742397598"
+                "buildid": "18341847",
+                "timeupdated": "1746412759"
             }
         }
     }
