@@ -4,9 +4,10 @@
     "name": "Jump King Worldsmith",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25353284",
-    "update_time": "2024-09-24 00:05:50",
+    "change_number": "28905577",
+    "update_time": "2025-05-10 00:23:15",
     "depot": {
+        "workshopdepot": "2245910",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -21,11 +22,11 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "workshopdepot": "2245910",
         "2245911": {
             "config": {
                 "language": "english",
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -39,9 +40,9 @@
                     "download": "341264"
                 },
                 "beta": {
-                    "gid": "8542152357520619959",
-                    "size": "392634986",
-                    "download": "133674896"
+                    "gid": "1752515223667159941",
+                    "size": "452510515",
+                    "download": "152575088"
                 }
             },
             "decryptionkey": "74053994460cfc73e0fe72a31678247422e06d91081eaf020c11feb01d41c2c2"
@@ -57,9 +58,9 @@
                 "timeupdated": "1708598873"
             },
             "beta": {
-                "buildid": "15797045",
+                "buildid": "18405912",
                 "description": "Worldsmith's beta branch (could be unstable!)",
-                "timeupdated": "1727107515"
+                "timeupdated": "1746807788"
             }
         },
         "workshopdepotdecryptionkey": ""
