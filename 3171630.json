@@ -4,23 +4,23 @@
     "name": "Witch's Dungeon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28318118",
-    "update_time": "2025-04-05 07:10:21",
+    "change_number": "28844397",
+    "update_time": "2025-05-06 23:29:59",
     "depot": {
         "3171631": {
             "manifests": {
                 "public": {
-                    "gid": "6220793880922413467",
-                    "size": "1933857427",
-                    "download": "184058016"
+                    "gid": "4863913228630626842",
+                    "size": "1933868227",
+                    "download": "184051808"
                 }
             },
             "decryptionkey": "de061bb5cc63d88e03762671dc7021105d7f54aaf42713b1ddc895616c9aa703"
         },
         "branches": {
             "public": {
-                "buildid": "17619758",
-                "timeupdated": "1741266851"
+                "buildid": "18067647",
+                "timeupdated": "1744454599"
             }
         },
         "privatebranches": "1"
