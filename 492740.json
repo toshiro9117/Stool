@@ -4,8 +4,8 @@
     "name": "Stellaris: Original Game Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27794123",
-    "update_time": "2025-03-05 20:07:47",
+    "change_number": "28819049",
+    "update_time": "2025-05-05 16:45:00",
     "depot": {
         "492740": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9036302611154936394",
-                    "size": "1037018973",
-                    "download": "976427824"
+                    "gid": "415201792119020767",
+                    "size": "1091830045",
+                    "download": "1025730832"
                 }
             },
             "decryptionkey": "e2ca84f734fc506291de7127eb5eec6346a5aa1e2e3248f708368dacff932222"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4552567899005152114",
-                    "size": "2213119377",
-                    "download": "2225131920"
+                    "gid": "4053183939571579415",
+                    "size": "2315444223",
+                    "download": "2328255424"
                 }
             },
             "decryptionkey": "053977e6d7ad075dbabd274d06d477d8a6154716187e49503511dc39919a002c"
         },
         "branches": {
             "public": {
-                "buildid": "16138434",
-                "timeupdated": "1730220866"
+                "buildid": "18280938",
+                "timeupdated": "1746431343"
             }
         },
         "privatebranches": "1"
