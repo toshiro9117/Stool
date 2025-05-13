@@ -4,8 +4,8 @@
     "name": "Baldur's Gate II: Enhanced Edition",
     "schinese_name": "博德之门2：增强版",
     "isfreeapp": "0",
-    "change_number": "28478110",
-    "update_time": "2025-04-15 10:05:03",
+    "change_number": "28853458",
+    "update_time": "2025-05-07 11:02:24",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -155,12 +155,19 @@
         },
         "2489050": {
             "dlcappid": "2489050",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7867110368598873128",
+                    "size": "5501443",
+                    "download": "3955152"
+                }
+            },
+            "decryptionkey": "6662f37ac2ed6ef91731f764678342a103ea91028bc8b077fe0cf4aca7028f05"
         },
         "branches": {
             "public": {
-                "buildid": "6660111",
-                "timeupdated": "1621353630"
+                "buildid": "18283301",
+                "timeupdated": "1745945582"
             },
             "bg2_beta": {
                 "buildid": "2903325",
