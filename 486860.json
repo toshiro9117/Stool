@@ -4,8 +4,8 @@
     "name": "MMORPG Tycoon 2",
     "schinese_name": "MMORPG大亨2",
     "isfreeapp": "0",
-    "change_number": "28541993",
-    "update_time": "2025-04-18 11:03:19",
+    "change_number": "28916231",
+    "update_time": "2025-05-10 18:27:55",
     "depot": {
         "486861": {
             "config": {
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2993056598308280041",
-                    "size": "420030477",
-                    "download": "183241184"
+                    "gid": "2518990817153290043",
+                    "size": "428784410",
+                    "download": "184437984"
                 },
                 "past": {
-                    "gid": "1816479193065860264",
-                    "size": "364098168",
-                    "download": "144602272"
-                },
-                "test": {
                     "gid": "7329257382502275751",
                     "size": "420030666",
                     "download": "183245392"
+                },
+                "test": {
+                    "gid": "2518990817153290043",
+                    "size": "428784410",
+                    "download": "184437984"
                 }
             },
             "decryptionkey": "f100e57b925b563c14f234bfe6509b498314076e867cd46c1b17fcc9ea8dc4ed"
@@ -40,19 +40,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7982348613268523531",
-                    "size": "417274966",
-                    "download": "182650368"
+                    "gid": "5012268659373872283",
+                    "size": "426086673",
+                    "download": "183831104"
                 },
                 "past": {
-                    "gid": "7879829163308947064",
-                    "size": "361278443",
-                    "download": "144017280"
-                },
-                "test": {
                     "gid": "7726287186406023656",
                     "size": "417275791",
                     "download": "182649456"
+                },
+                "test": {
+                    "gid": "5012268659373872283",
+                    "size": "426086673",
+                    "download": "183831104"
                 }
             },
             "decryptionkey": "2c408903cda3f6fd77fe5df770602288a2a9b02c3eaefed69fae54a12bdaf370"
@@ -65,19 +65,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1150860016149738664",
-                    "size": "418005033",
-                    "download": "184336752"
+                    "gid": "4374456395759261844",
+                    "size": "426957246",
+                    "download": "185552224"
                 },
                 "past": {
-                    "gid": "8900075360838162977",
-                    "size": "360356517",
-                    "download": "145412560"
-                },
-                "test": {
                     "gid": "8225461828077654531",
                     "size": "418005188",
                     "download": "184342880"
+                },
+                "test": {
+                    "gid": "4374456395759261844",
+                    "size": "426957246",
+                    "download": "185552224"
                 }
             },
             "decryptionkey": "77ee755c8013d9505e9a5d8d74a6dbb3cc4ff4835ad6f83a5ff519a093c2b868"
@@ -90,19 +90,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6155683578934878583",
-                    "size": "385804285",
-                    "download": "177365984"
+                    "gid": "6713851801563370490",
+                    "size": "394552431",
+                    "download": "178571840"
                 },
                 "past": {
-                    "gid": "7885157097700134091",
-                    "size": "331372063",
-                    "download": "138760336"
-                },
-                "test": {
                     "gid": "2063414095988248441",
                     "size": "385804360",
                     "download": "177364800"
+                },
+                "test": {
+                    "gid": "6713851801563370490",
+                    "size": "394552431",
+                    "download": "178571840"
                 }
             },
             "decryptionkey": "8c88a8eeb1e46390c526046dea00afffe2c27a4cb4000a76ba3db13216e80700"
@@ -115,19 +115,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7716746885885511708",
-                    "size": "384646669",
-                    "download": "176747696"
+                    "gid": "7366130902051644171",
+                    "size": "393406911",
+                    "download": "177951648"
                 },
                 "past": {
-                    "gid": "4794442635139948927",
-                    "size": "330291807",
-                    "download": "138224496"
-                },
-                "test": {
                     "gid": "354134562739528858",
                     "size": "384646744",
                     "download": "176749360"
+                },
+                "test": {
+                    "gid": "7366130902051644171",
+                    "size": "393406911",
+                    "download": "177951648"
                 }
             },
             "decryptionkey": "7dcd98f29a52326112c5781763c33289648b9202421662cf3f7b9e92b6a2fd67"
@@ -136,18 +136,18 @@
         "workshopdepot": "486860",
         "branches": {
             "public": {
-                "buildid": "18152798",
-                "timeupdated": "1744945395"
+                "buildid": "18411797",
+                "timeupdated": "1746872871"
             },
             "past": {
-                "buildid": "15557768",
+                "buildid": "18164484",
                 "description": "Very old build for regression testing",
-                "timeupdated": "1744638453"
+                "timeupdated": "1746777999"
             },
             "test": {
-                "buildid": "18164484",
+                "buildid": "18411797",
                 "description": "Public test build",
-                "timeupdated": "1745033124"
+                "timeupdated": "1746850677"
             }
         },
         "privatebranches": "1",
