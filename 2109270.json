@@ -4,8 +4,8 @@
     "name": "Preserve",
     "schinese_name": "东篱之下",
     "isfreeapp": "0",
-    "change_number": "28530522",
-    "update_time": "2025-04-17 22:03:44",
+    "change_number": "28898565",
+    "update_time": "2025-05-09 17:22:57",
     "depot": {
         "baselanguages": "english",
         "2109271": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4216272422890807488",
-                    "size": "1113757239",
-                    "download": "682716624"
+                    "gid": "2032116613045069000",
+                    "size": "5478870967",
+                    "download": "3418383712"
                 }
             },
             "decryptionkey": "159b87c9592c3fcd889e37b4bb9ad67aa87361e8e6f1dc80f56e7013ce994bc0"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5489080917404026450",
-                    "size": "893870331",
-                    "download": "702563184"
+                    "gid": "4864637478966751781",
+                    "size": "985986856",
+                    "download": "786769792"
                 }
             }
         },
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1886085547035993030",
-                    "size": "942953352",
-                    "download": "749501488"
+                    "gid": "5374311602321753437",
+                    "size": "3376091187",
+                    "download": "2199218800"
                 }
             }
         },
@@ -58,8 +58,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17620909",
-                "timeupdated": "1741271214"
+                "buildid": "18375565",
+                "timeupdated": "1746628933"
             }
         },
         "privatebranches": "1"
