@@ -4,8 +4,8 @@
     "name": "Fly Corp",
     "schinese_name": "飞飞公司 Fly Corp",
     "isfreeapp": "0",
-    "change_number": "28292109",
-    "update_time": "2025-04-03 23:41:57",
+    "change_number": "28773396",
+    "update_time": "2025-05-02 02:23:58",
     "depot": {
         "1372531": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7241166958007128392",
-                    "size": "414256819",
-                    "download": "125095472"
+                    "gid": "3311000446779652852",
+                    "size": "416574715",
+                    "download": "125328848"
                 }
             },
             "decryptionkey": "ee71175e851e7655569c31bd02fd798ca6b30a59be0777ba513464d1e0828575"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7415871290540107468",
-                    "size": "515411097",
-                    "download": "146388448"
+                    "gid": "9056812894511987396",
+                    "size": "516769329",
+                    "download": "146846992"
                 }
             },
             "decryptionkey": "cc336298fc4ffed6b7cc53c20707714dff3d2db523d70a0783a691968bd62607"
         },
         "branches": {
             "public": {
-                "buildid": "17895174",
-                "timeupdated": "1743694896"
+                "buildid": "18311713",
+                "timeupdated": "1746123810"
             }
         },
         "privatebranches": "1"
