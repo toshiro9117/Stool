@@ -4,8 +4,8 @@
     "name": "Indiana Jones and the Great Circle",
     "schinese_name": "夺宝奇兵：古老之圈 ",
     "isfreeapp": "0",
-    "change_number": "28528907",
-    "update_time": "2025-04-17 20:37:12",
+    "change_number": "28905438",
+    "update_time": "2025-05-10 00:15:13",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "973934608139976892",
-                    "size": "121221684365",
-                    "download": "112944218992"
+                    "gid": "5042195164182342064",
+                    "size": "121221178395",
+                    "download": "112942512624"
                 }
             },
             "decryptionkey": "0abf0860b7a1d53e5ae7b3ed8d7e97e668fa5619be6a6ad74c140c53871868bd"
@@ -32,9 +32,9 @@
         "2677662": {
             "manifests": {
                 "public": {
-                    "gid": "5854767364270778297",
-                    "size": "409349840",
-                    "download": "185964128"
+                    "gid": "6831917657948528277",
+                    "size": "409359568",
+                    "download": "185965360"
                 }
             },
             "decryptionkey": "b4089fc44110008f2b07bc97f30e298c1ae457fa69964cdb239f480259baec84"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4081590941759126365",
-                    "size": "559434752",
-                    "download": "106169552"
+                    "gid": "7250624421023760061",
+                    "size": "559459328",
+                    "download": "106143936"
                 }
             },
             "decryptionkey": ""
@@ -167,10 +167,18 @@
             },
             "decryptionkey": "7d4266463917726e639937e41582b2ba629c710a3a415dfaea90997ffd35e241"
         },
+        "2830500": {
+            "dlcappid": "2830500",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "18025679",
-                "timeupdated": "1744297195"
+                "buildid": "18323595",
+                "timeupdated": "1746716457"
             }
         },
         "privatebranches": "1"
