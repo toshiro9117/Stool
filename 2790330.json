@@ -4,15 +4,15 @@
     "name": "Blood Typers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544163",
-    "update_time": "2025-04-18 14:40:07",
+    "change_number": "28804436",
+    "update_time": "2025-05-04 06:30:03",
     "depot": {
         "2790331": {
             "manifests": {
                 "public": {
-                    "gid": "3226149505569631958",
-                    "size": "891925018",
-                    "download": "345442240"
+                    "gid": "2220374321685018825",
+                    "size": "890426006",
+                    "download": "346439088"
                 },
                 "1.0.15": {
                     "gid": "6944026553874263853",
@@ -24,18 +24,28 @@
                     "size": "770166790",
                     "download": "287877232"
                 },
-                "beta": {
+                "1.0.20": {
                     "gid": "423544452829415732",
                     "size": "771996630",
                     "download": "288578704"
+                },
+                "1.1.6": {
+                    "gid": "3208596688090206761",
+                    "size": "886537078",
+                    "download": "345631904"
+                },
+                "beta": {
+                    "gid": "2220374321685018825",
+                    "size": "890426006",
+                    "download": "346439088"
                 }
             },
             "decryptionkey": "e2849c9c34b6ae97847e916f63847c74a22404ba3f6e64adeb9ad7379d8511bc"
         },
         "branches": {
             "public": {
-                "buildid": "18164561",
-                "timeupdated": "1745034179"
+                "buildid": "18319514",
+                "timeupdated": "1746180221"
             },
             "1.0.15": {
                 "buildid": "17571669",
@@ -47,10 +57,20 @@
                 "description": "Old version",
                 "timeupdated": "1743454581"
             },
-            "beta": {
+            "1.0.20": {
                 "buildid": "18016959",
+                "description": "Old version",
+                "timeupdated": "1745090846"
+            },
+            "1.1.6": {
+                "buildid": "18198916",
+                "description": "Old version",
+                "timeupdated": "1746050817"
+            },
+            "beta": {
+                "buildid": "18319514",
                 "description": "Public test branch",
-                "timeupdated": "1744933864"
+                "timeupdated": "1746180234"
             }
         },
         "privatebranches": "1"
