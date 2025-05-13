@@ -4,8 +4,8 @@
     "name": "Deduce Together",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28451255",
-    "update_time": "2025-04-13 15:09:13",
+    "change_number": "28895104",
+    "update_time": "2025-05-09 12:49:35",
     "depot": {
         "baselanguages": "japanese",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5700229828017452138",
-                    "size": "314720155",
-                    "download": "93470432"
+                    "gid": "826097758176967437",
+                    "size": "314720254",
+                    "download": "93526544"
                 }
             },
             "decryptionkey": "03a84ec9238c4bc03114f70e0c53f778349e5b4c19320de613a7e3d680bc9b31"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17629371",
-                "timeupdated": "1741316880"
+                "buildid": "18398286",
+                "timeupdated": "1746766171"
             }
         },
         "privatebranches": "1"
