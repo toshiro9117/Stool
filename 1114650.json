@@ -4,8 +4,8 @@
     "name": "HorrorVale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28238224",
-    "update_time": "2025-04-01 07:45:38",
+    "change_number": "28843730",
+    "update_time": "2025-05-06 22:49:40",
     "depot": {
         "baselanguages": "english",
         "1114651": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3072327787056970570",
-                    "size": "1801419256",
-                    "download": "1773321728"
+                    "gid": "6769097592136335433",
+                    "size": "1800739657",
+                    "download": "1773235376"
                 }
             },
             "decryptionkey": "19a378b08873116810523251679ac173b91342f9ae359a9d0f7ad0cb0bb1213c"
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17931809",
-                "timeupdated": "1743464731"
+                "buildid": "18360964",
+                "timeupdated": "1746542973"
             }
         }
     }
