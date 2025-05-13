@@ -4,8 +4,8 @@
     "name": "Barotrauma",
     "schinese_name": "Barotrauma 潜渊症",
     "isfreeapp": "0",
-    "change_number": "28534101",
-    "update_time": "2025-04-18 00:58:23",
+    "change_number": "28751592",
+    "update_time": "2025-04-30 22:43:31",
     "depot": {
         "workshopdepot": "602960",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5754284623805875606",
-                    "size": "1213991576",
-                    "download": "1054018048"
+                    "gid": "1936042044681683499",
+                    "size": "1214002896",
+                    "download": "1054024768"
                 },
                 "macos-compatibility": {
                     "gid": "4532573188645180096",
@@ -26,9 +26,9 @@
                     "download": "748868944"
                 },
                 "unstable": {
-                    "gid": "5754284623805875606",
-                    "size": "1213991576",
-                    "download": "1054018048"
+                    "gid": "1936042044681683499",
+                    "size": "1214002896",
+                    "download": "1054024768"
                 }
             },
             "decryptionkey": "9548ba939f90ad1341ef0ea0125642dabf42d425fed0a4a5b2ad3d40a88af1d2"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3725897388441832935",
-                    "size": "1233471818",
-                    "download": "1057117312"
+                    "gid": "3502342061766918004",
+                    "size": "1233480070",
+                    "download": "1057120240"
                 },
                 "macos-compatibility": {
                     "gid": "8503897916685002902",
@@ -50,9 +50,9 @@
                     "download": "748641200"
                 },
                 "unstable": {
-                    "gid": "3725897388441832935",
-                    "size": "1233471818",
-                    "download": "1057117312"
+                    "gid": "3502342061766918004",
+                    "size": "1233480070",
+                    "download": "1057120240"
                 }
             },
             "decryptionkey": "aa05725821345dfdedd93eaef1f0f4fb6e399b95cffc47dbabf9134a7eeca1d9"
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1621138460495688738",
-                    "size": "1222024543",
-                    "download": "1058507408"
+                    "gid": "4803220181692036891",
+                    "size": "1222032291",
+                    "download": "1058509840"
                 },
                 "macos-compatibility": {
                     "gid": "5124255688693021488",
@@ -74,9 +74,9 @@
                     "download": "781608144"
                 },
                 "unstable": {
-                    "gid": "1621138460495688738",
-                    "size": "1222024543",
-                    "download": "1058507408"
+                    "gid": "4803220181692036891",
+                    "size": "1222032291",
+                    "download": "1058509840"
                 }
             },
             "decryptionkey": "9420d15bdd3429b9391b475f1d1c59499535e408b59dcc0053cfa369cdbb8609"
@@ -107,8 +107,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18115305",
-                "timeupdated": "1744796279"
+                "buildid": "18262972",
+                "timeupdated": "1745919092"
             },
             "macos-compatibility": {
                 "buildid": "9659897",
@@ -116,9 +116,9 @@
                 "timeupdated": "1664982730"
             },
             "unstable": {
-                "buildid": "18115305",
+                "buildid": "18262972",
                 "description": "Public unstable version",
-                "timeupdated": "1744729332"
+                "timeupdated": "1745832021"
             }
         },
         "privatebranches": "1",
