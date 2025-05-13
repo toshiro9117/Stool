@@ -4,8 +4,8 @@
     "name": "Bastide",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28216014",
-    "update_time": "2025-03-30 23:56:58",
+    "change_number": "28893466",
+    "update_time": "2025-05-09 09:54:03",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "698437282566470949",
-                    "size": "5022888995",
-                    "download": "4674609696"
+                    "gid": "1501548123113719905",
+                    "size": "5064420086",
+                    "download": "4714083728"
                 },
                 "ue4version": {
                     "gid": "2817252914686316573",
@@ -47,8 +47,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian",
         "branches": {
             "public": {
-                "buildid": "17839492",
-                "timeupdated": "1742838480"
+                "buildid": "18397011",
+                "timeupdated": "1746755639"
             },
             "ue4version": {
                 "buildid": "8390465",
