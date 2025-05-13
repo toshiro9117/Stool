@@ -4,8 +4,8 @@
     "name": "CASE 2: Animatronics Survival",
     "schinese_name": "悬案2：动物生存 ",
     "isfreeapp": "0",
-    "change_number": "28536109",
-    "update_time": "2025-04-18 02:49:59",
+    "change_number": "28917677",
+    "update_time": "2025-05-10 22:16:44",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3156400772328106929",
-                    "size": "6964271344",
-                    "download": "6730570944"
+                    "gid": "4351771299919835566",
+                    "size": "6792050823",
+                    "download": "6531738608"
                 }
             },
             "decryptionkey": "0e22d5640582921eae5b530a9290f558416e9ea685de874d741900a74f8634ce"
@@ -66,12 +66,13 @@
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
-            }
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
-                "buildid": "18117007",
-                "timeupdated": "1744908713"
+                "buildid": "18306186",
+                "timeupdated": "1746079129"
             }
         },
         "privatebranches": "1"
