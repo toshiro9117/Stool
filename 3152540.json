@@ -4,15 +4,15 @@
     "name": "Hydroponics Farm & Store Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28143969",
-    "update_time": "2025-03-26 14:35:46",
+    "change_number": "28917770",
+    "update_time": "2025-05-10 22:32:42",
     "depot": {
         "3152541": {
             "manifests": {
                 "public": {
-                    "gid": "1253324343790360981",
-                    "size": "2157533368",
-                    "download": "665991200"
+                    "gid": "2899879780140558233",
+                    "size": "2627317113",
+                    "download": "806497104"
                 }
             },
             "decryptionkey": "908fc9d312414097b4bc6a0636fd34b8c86607b121a294a1c0ce21c37c0ad1ea"
@@ -20,8 +20,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,hungarian,turkish,brazilian,ukrainian,indonesian",
         "branches": {
             "public": {
-                "buildid": "17861156",
-                "timeupdated": "1742970942"
+                "buildid": "18386019",
+                "timeupdated": "1746705476"
             }
         },
         "privatebranches": "1"
