@@ -4,8 +4,8 @@
     "name": "Mad Island",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28376113",
-    "update_time": "2025-04-09 08:01:28",
+    "change_number": "28785737",
+    "update_time": "2025-05-02 21:08:56",
     "depot": {
         "baselanguages": "japanese",
         "2739591": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8486749005970208828",
-                    "size": "1639187388",
-                    "download": "1344511952"
+                    "gid": "7141466826678395833",
+                    "size": "1650625409",
+                    "download": "1355783520"
                 },
                 "v0.0.12": {
                     "gid": "2411165380119333150",
@@ -30,10 +30,15 @@
                     "size": "1541848500",
                     "download": "1259755136"
                 },
+                "v0.2.7": {
+                    "gid": "8486749005970208828",
+                    "size": "1639187388",
+                    "download": "1344511952"
+                },
                 "beta_open": {
-                    "gid": "7141466826678395833",
-                    "size": "1650625409",
-                    "download": "1355783520"
+                    "gid": "4723056423099201455",
+                    "size": "751502383",
+                    "download": "636541824"
                 }
             },
             "decryptionkey": "b4965a72b078a66e012d79a8af2548c3201e72b2fc234cc1e562863063dc42b8"
@@ -41,8 +46,8 @@
         "workshopdepot": "2739590",
         "branches": {
             "public": {
-                "buildid": "16822965",
-                "timeupdated": "1734774132"
+                "buildid": "17661409",
+                "timeupdated": "1745059436"
             },
             "v0.0.12": {
                 "buildid": "14873604",
@@ -54,10 +59,15 @@
                 "description": "ver 0.1.8",
                 "timeupdated": "1734086667"
             },
+            "v0.2.7": {
+                "buildid": "16822965",
+                "description": "ver 0.2.7",
+                "timeupdated": "1745059704"
+            },
             "beta_open": {
-                "buildid": "17661409",
+                "buildid": "18170266",
                 "description": "Open test",
-                "timeupdated": "1741610225"
+                "timeupdated": "1745111888"
             }
         },
         "privatebranches": "1",
