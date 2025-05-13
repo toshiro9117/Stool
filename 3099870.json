@@ -4,15 +4,20 @@
     "name": "Bussy Master: CLUB LEATHER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28093016",
-    "update_time": "2025-03-23 11:39:02",
+    "change_number": "28632702",
+    "update_time": "2025-04-24 07:31:30",
     "depot": {
         "3099871": {
             "manifests": {
                 "public": {
-                    "gid": "6049947743887452843",
-                    "size": "1009344392",
-                    "download": "729777664"
+                    "gid": "7167493620802233172",
+                    "size": "1029244912",
+                    "download": "735137264"
+                },
+                "v2.02.1.06": {
+                    "gid": "7167493620802233172",
+                    "size": "1029244912",
+                    "download": "735137264"
                 },
                 "v2.01.1.05": {
                     "gid": "6049947743887452843",
@@ -34,22 +39,27 @@
         },
         "branches": {
             "public": {
-                "buildid": "17824146",
-                "timeupdated": "1742701138"
+                "buildid": "18187520",
+                "timeupdated": "1745293344"
+            },
+            "v2.02.1.06": {
+                "buildid": "18187520",
+                "description": "v2.02.1.06 (Achievement Update) [21-04-25]",
+                "timeupdated": "1745292156"
             },
             "v2.01.1.05": {
                 "buildid": "17824146",
-                "description": "v2.01.1.05",
+                "description": "v2.01.1.05 [22-03-25]",
                 "timeupdated": "1742697851"
             },
             "v2.00.1.04": {
                 "buildid": "17317492",
-                "description": "v2.00.1.04",
+                "description": "v2.00.1.04 [10-02-25]",
                 "timeupdated": "1739257389"
             },
             "v1.00": {
                 "buildid": "14983107",
-                "description": "v1.00",
+                "description": "v1.00 [09-07-24]",
                 "timeupdated": "1739060357"
             }
         }
