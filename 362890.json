@@ -4,8 +4,8 @@
     "name": "Black Mesa",
     "schinese_name": "黑山",
     "isfreeapp": "0",
-    "change_number": "28535773",
-    "update_time": "2025-04-18 02:29:58",
+    "change_number": "28829556",
+    "update_time": "2025-05-06 04:45:28",
     "depot": {
         "228985": {
             "config": {
@@ -69,9 +69,9 @@
                     "download": "12814641536"
                 },
                 "public-beta": {
-                    "gid": "3992524199778651924",
-                    "size": "28947450181",
-                    "download": "12811202976"
+                    "gid": "2792165743201359911",
+                    "size": "29453609563",
+                    "download": "12914943104"
                 }
             },
             "decryptionkey": "46ba8e1d09bb724bb5274d7fa497e4acd1186881d41a91857922c979d4f37344"
@@ -122,9 +122,9 @@
                     "download": "55010112"
                 },
                 "public-beta": {
-                    "gid": "8717905617461743678",
-                    "size": "379421663",
-                    "download": "72284192"
+                    "gid": "8939452946300256351",
+                    "size": "385713460",
+                    "download": "74071920"
                 }
             },
             "decryptionkey": "1141f7df13dcc852bac94bbe7a7d684903dbb97ef068228782c62ac4f8adae23"
@@ -185,9 +185,9 @@
                     "download": "67780672"
                 },
                 "public-beta": {
-                    "gid": "2404764595518284219",
-                    "size": "211578758",
-                    "download": "69644192"
+                    "gid": "9186707690610061503",
+                    "size": "213301202",
+                    "download": "69897072"
                 }
             },
             "decryptionkey": "d7ead84613b380590a839d924354b02e5943f64d6d291045d209b2ba4f72f1c4"
@@ -296,9 +296,9 @@
                 "timeupdated": "1731521234"
             },
             "public-beta": {
-                "buildid": "17478533",
+                "buildid": "18351001",
                 "description": "This branch is for our public beta.",
-                "timeupdated": "1740369254"
+                "timeupdated": "1746477920"
             }
         },
         "privatebranches": "1",
