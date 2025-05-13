@@ -4,8 +4,8 @@
     "name": "Subnautica",
     "schinese_name": "深海迷航",
     "isfreeapp": "0",
-    "change_number": "27296735",
-    "update_time": "2025-02-04 05:32:32",
+    "change_number": "28885812",
+    "update_time": "2025-05-09 00:08:35",
     "depot": {
         "228985": {
             "config": {
@@ -35,9 +35,9 @@
                     "download": "3350974544"
                 },
                 "experimental": {
-                    "gid": "7514556286074562519",
-                    "size": "7038149320",
-                    "download": "3163094240"
+                    "gid": "3281630052880055080",
+                    "size": "7038265635",
+                    "download": "3163117808"
                 }
             },
             "decryptionkey": "d764b2a41e9bdbf338f04948309614ea6f8d462073a610940aaf10cbfc35aa85"
@@ -58,9 +58,9 @@
                     "download": "3344267728"
                 },
                 "experimental": {
-                    "gid": "7807491088269633897",
-                    "size": "7023961732",
-                    "download": "3161055696"
+                    "gid": "3181716369426549343",
+                    "size": "7024070526",
+                    "download": "3161073168"
                 }
             },
             "decryptionkey": "6da396b527d2b570a039778566cef5c1e94ba486fefa835553a1831e40353dec"
@@ -76,9 +76,9 @@
                 "timeupdated": "1665048644"
             },
             "experimental": {
-                "buildid": "14886878",
+                "buildid": "18268843",
                 "description": "Automatic daily updates. Lots of bugs!",
-                "timeupdated": "1719757201"
+                "timeupdated": "1745862887"
             }
         },
         "privatebranches": "1"
