@@ -4,8 +4,8 @@
     "name": "Chernobylite 2: Exclusion Zone",
     "schinese_name": "切尔诺贝利人2：禁区",
     "isfreeapp": "0",
-    "change_number": "28546687",
-    "update_time": "2025-04-18 17:29:40",
+    "change_number": "28901313",
+    "update_time": "2025-05-09 20:17:11",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1762385196475861728",
-                    "size": "117022569573",
-                    "download": "100046599440"
+                    "gid": "7797755809116420164",
+                    "size": "117014366966",
+                    "download": "100035874400"
                 }
             },
             "decryptionkey": "deb4947ce8dada6c0b74940f9a79844962cd9a23424c47b47a10dbef210e4138"
@@ -38,8 +38,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,polish,ukrainian",
         "branches": {
             "public": {
-                "buildid": "18121494",
-                "timeupdated": "1744769625"
+                "buildid": "18166281",
+                "timeupdated": "1745061462"
             }
         },
         "privatebranches": "1"
