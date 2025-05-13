@@ -4,8 +4,8 @@
     "name": "EVERSPACE™ 2",
     "schinese_name": "永恒空间2",
     "isfreeapp": "0",
-    "change_number": "28548069",
-    "update_time": "2025-04-18 18:58:09",
+    "change_number": "28906848",
+    "update_time": "2025-05-10 01:29:57",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam",
         "228989": {
@@ -156,6 +156,10 @@
                     "download": "1264"
                 }
             }
+        },
+        "3690840": {
+            "dlcappid": "3690840",
+            "manifests": {}
         },
         "branches": {
             "public": {
