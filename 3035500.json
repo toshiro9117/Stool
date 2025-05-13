@@ -4,8 +4,8 @@
     "name": "Fantasy Map Simulator",
     "schinese_name": "架空地图模拟器",
     "isfreeapp": "0",
-    "change_number": "28245389",
-    "update_time": "2025-04-01 17:40:45",
+    "change_number": "28808969",
+    "update_time": "2025-05-04 18:33:25",
     "depot": {
         "228989": {
             "config": {
@@ -43,6 +43,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "dea9afa9c01b7812e39cb868d6e73a3d445c3503b489b30bf23eb72317aa71dd"
     }
 }
