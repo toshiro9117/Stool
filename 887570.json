@@ -4,8 +4,8 @@
     "name": "NEBULOUS: Fleet Command",
     "schinese_name": "星云：战舰指挥官 NEBULOUS: Fleet Command",
     "isfreeapp": "0",
-    "change_number": "28529946",
-    "update_time": "2025-04-17 21:32:19",
+    "change_number": "28805929",
+    "update_time": "2025-05-04 10:35:27",
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
                     "download": "1880676448"
                 },
                 "testing": {
-                    "gid": "8167625208456156484",
-                    "size": "2513418952",
-                    "download": "1973847472"
+                    "gid": "8491226893445776067",
+                    "size": "2514086311",
+                    "download": "1974507728"
                 }
             },
             "decryptionkey": "75252a8e668a49c99a8f56a9b77550209a9965e9a93b26c882c9706b973f5054"
@@ -49,9 +49,9 @@
                 "timeupdated": "1719034534"
             },
             "testing": {
-                "buildid": "18030747",
+                "buildid": "18326439",
                 "description": "For test builds only",
-                "timeupdated": "1744140592"
+                "timeupdated": "1746219936"
             }
         },
         "privatebranches": "1",
