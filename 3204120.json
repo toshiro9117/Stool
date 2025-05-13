@@ -4,8 +4,8 @@
     "name": "Maestro's Cold War 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28493363",
-    "update_time": "2025-04-16 02:30:14",
+    "change_number": "28914583",
+    "update_time": "2025-05-10 14:06:37",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7729997727625366346",
-                    "size": "1067024680",
-                    "download": "756534064"
+                    "gid": "1763068290249471279",
+                    "size": "1068464008",
+                    "download": "757895888"
                 }
             },
             "decryptionkey": "8e5979fb805b0194cd6f902c893ae3ca24d9cc297407aa0d57b26e7f6fe04f62"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5368719088746389126",
-                    "size": "1155303101",
-                    "download": "780929408"
+                    "gid": "1274140989250519600",
+                    "size": "1149531892",
+                    "download": "775270336"
                 }
             }
         },
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6095098274731914568",
-                    "size": "1049465949",
-                    "download": "752435712"
+                    "gid": "6117501259904884737",
+                    "size": "1051297680",
+                    "download": "754198032"
                 }
             }
         },
         "workshopdepot": "3204120",
         "branches": {
             "public": {
-                "buildid": "17910694",
-                "timeupdated": "1743267040"
+                "buildid": "18182176",
+                "timeupdated": "1745253264"
             }
         },
         "workshopdepotdecryptionkey": ""
