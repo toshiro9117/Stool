@@ -4,8 +4,8 @@
     "name": "Rem Survival",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546005",
-    "update_time": "2025-04-18 16:46:44",
+    "change_number": "28882507",
+    "update_time": "2025-05-08 21:20:48",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "574180",
@@ -38,14 +38,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2775706222233838986",
-                    "size": "47931382422",
-                    "download": "43102760912"
+                    "gid": "7362375408263064213",
+                    "size": "47976676195",
+                    "download": "43143272864"
                 },
                 "public-test-branch": {
-                    "gid": "5520458651531994836",
-                    "size": "48050118498",
-                    "download": "43207237872"
+                    "gid": "7362375408263064213",
+                    "size": "47976676195",
+                    "download": "43143272864"
                 }
             },
             "decryptionkey": "cdd2f55806ecb15fd268dd047093038f31b1b3ed4d8f16b5700650b97a026adb"
@@ -56,14 +56,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5958657227722553461",
-                    "size": "37894128440",
-                    "download": "37046611504"
+                    "gid": "1881418331760965112",
+                    "size": "37925403854",
+                    "download": "37082087488"
                 },
                 "public-test-branch": {
-                    "gid": "5958657227722553461",
-                    "size": "37894128440",
-                    "download": "37046611504"
+                    "gid": "1881418331760965112",
+                    "size": "37925403854",
+                    "download": "37082087488"
                 }
             }
         },
@@ -75,13 +75,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17766289",
-                "timeupdated": "1742362195"
+                "buildid": "18388378",
+                "timeupdated": "1746710443"
             },
             "public-test-branch": {
-                "buildid": "18155600",
+                "buildid": "18388378",
                 "description": "Public testing on upcoming features and updates",
-                "timeupdated": "1744966000"
+                "timeupdated": "1746705617"
             }
         },
         "privatebranches": "1",
