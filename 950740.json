@@ -4,8 +4,8 @@
     "name": "China: Mao's legacy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28277609",
-    "update_time": "2025-04-03 06:14:56",
+    "change_number": "28619556",
+    "update_time": "2025-04-23 18:20:04",
     "depot": {
         "baselanguages": "english,russian",
         "228985": {
@@ -148,6 +148,9 @@
                 }
             },
             "decryptionkey": "6a81bf3058f92b3496ec9d72ed12f725b78d52ad519014ba6304f8bbf4279f17"
+        },
+        "3570030": {
+            "dlcappid": "3570030"
         },
         "branches": {
             "public": {
