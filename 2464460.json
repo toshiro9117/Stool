@@ -1,0 +1,59 @@
+{
+    "appid": "2464460",
+    "type": "Game",
+    "name": "Portal Fantasy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28917976",
+    "update_time": "2025-05-10 23:04:35",
+    "depot": {
+        "baselanguages": "english,spanish,japanese,portuguese,brazilian,latam",
+        "hasdepotsindlc": "0",
+        "2464461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1143760052440976816",
+                    "size": "2063894939",
+                    "download": "644377696"
+                }
+            },
+            "decryptionkey": "8178ef97c27d0a52cbe414ab214b384daf80ff66e19bd9609b24ea43f0964af6"
+        },
+        "2464462": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2504755350872361415",
+                    "size": "2093279635",
+                    "download": "607924464"
+                }
+            }
+        },
+        "2464463": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6094795138844964125",
+                    "size": "2156450147",
+                    "download": "636433120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18285220",
+                "timeupdated": "1746000173"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
