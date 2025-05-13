@@ -4,8 +4,8 @@
     "name": "SHADOW MANSION",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28522668",
-    "update_time": "2025-04-17 14:09:11",
+    "change_number": "28826651",
+    "update_time": "2025-05-06 01:15:57",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4766550337096288798",
-                    "size": "6433287687",
-                    "download": "5994430912"
+                    "gid": "7897547987230686827",
+                    "size": "6600474785",
+                    "download": "6158843168"
                 }
             },
             "decryptionkey": "93097f5c64212cd558754ac356b760a7e87276fcc0d8edc7c1d324b81689c530"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16894060",
-                "timeupdated": "1735848826"
+                "buildid": "18213191",
+                "timeupdated": "1745439500"
             }
         }
     }
