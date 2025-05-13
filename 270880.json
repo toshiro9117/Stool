@@ -4,8 +4,8 @@
     "name": "American Truck Simulator",
     "schinese_name": "美国卡车模拟",
     "isfreeapp": "0",
-    "change_number": "28537455",
-    "update_time": "2025-04-18 04:17:26",
+    "change_number": "28865437",
+    "update_time": "2025-05-08 00:08:44",
     "depot": {
         "externaldlc": "0",
         "workshopdepot": "270880",
@@ -13,19 +13,19 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "7638640637767465570",
-                    "size": "20829723682",
-                    "download": "19272897008"
+                    "gid": "2690394582992819167",
+                    "size": "20872934681",
+                    "download": "19313632160"
                 },
                 "public_beta": {
-                    "gid": "7638640637767465570",
-                    "size": "20829723682",
-                    "download": "19272897008"
+                    "gid": "2690394582992819167",
+                    "size": "20872934681",
+                    "download": "19313632160"
                 },
                 "oculus": {
-                    "gid": "3993451606551915953",
-                    "size": "20829861765",
-                    "download": "19273005888"
+                    "gid": "5655890932833040363",
+                    "size": "20873087904",
+                    "download": "19313763104"
                 },
                 "oculus_previous": {
                     "gid": "6279985685471191987",
@@ -156,19 +156,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1429755788721582997",
-                    "size": "54947304",
-                    "download": "15789440"
+                    "gid": "6893364670129215831",
+                    "size": "54948328",
+                    "download": "15800368"
                 },
                 "public_beta": {
-                    "gid": "1429755788721582997",
-                    "size": "54947304",
-                    "download": "15789440"
+                    "gid": "6893364670129215831",
+                    "size": "54948328",
+                    "download": "15800368"
                 },
                 "oculus": {
-                    "gid": "1580563369739144318",
-                    "size": "56200120",
-                    "download": "16257600"
+                    "gid": "3881277357476074783",
+                    "size": "56203192",
+                    "download": "16263376"
                 },
                 "oculus_previous": {
                     "gid": "7636308089803394212",
@@ -299,14 +299,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1218056119663947472",
+                    "gid": "7650168445680589630",
                     "size": "52435216",
-                    "download": "15523776"
+                    "download": "15524240"
                 },
                 "public_beta": {
-                    "gid": "1218056119663947472",
+                    "gid": "7650168445680589630",
                     "size": "52435216",
-                    "download": "15523776"
+                    "download": "15524240"
                 },
                 "oculus": {
                     "gid": "9185408814231872919",
@@ -6111,8 +6111,8 @@
                     "download": "164590944"
                 },
                 "oculus": {
-                    "gid": "8211626803451798368",
-                    "size": "166445788",
+                    "gid": "7439538287419569681",
+                    "size": "166445787",
                     "download": "164590944"
                 },
                 "oculus_previous": {
@@ -6562,9 +6562,9 @@
                     "download": "143643952"
                 },
                 "oculus": {
-                    "gid": "4389474646384302572",
+                    "gid": "1488581847715058615",
                     "size": "145916364",
-                    "download": "143644944"
+                    "download": "143643952"
                 },
                 "oculus_previous": {
                     "gid": "6982884331888068368",
@@ -6806,9 +6806,9 @@
                     "download": "189495968"
                 },
                 "oculus": {
-                    "gid": "9033190917058658055",
-                    "size": "191732221",
-                    "download": "189491648"
+                    "gid": "8558695528693443229",
+                    "size": "191735214",
+                    "download": "189495968"
                 },
                 "temporary_1_54": {
                     "gid": "9033190917058658055",
@@ -7037,18 +7037,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18149282",
-                "timeupdated": "1744921039"
+                "buildid": "18270851",
+                "timeupdated": "1746000445"
             },
             "public_beta": {
-                "buildid": "18149282",
+                "buildid": "18270851",
                 "description": "Open Beta for game version 1.54",
-                "timeupdated": "1744920995"
+                "timeupdated": "1745998719"
             },
             "oculus": {
-                "buildid": "17952113",
+                "buildid": "18272559",
                 "description": "Oculus+OpenVR+OpenXR - 1.54",
-                "timeupdated": "1743699412"
+                "timeupdated": "1746000463"
             },
             "oculus_previous": {
                 "buildid": "17304880",
