@@ -4,15 +4,15 @@
     "name": "三国真龙传",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28523981",
-    "update_time": "2025-04-17 15:42:51",
+    "change_number": "28922398",
+    "update_time": "2025-05-11 10:54:09",
     "depot": {
         "2288211": {
             "manifests": {
                 "public": {
-                    "gid": "820007703591553339",
-                    "size": "433632308",
-                    "download": "301673184"
+                    "gid": "984551150867018803",
+                    "size": "476568209",
+                    "download": "307709584"
                 }
             },
             "decryptionkey": "467ace42ca758022303a54e44bff01f29f21d0a9e569b409086e07171ab06181"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "18140476",
-                "timeupdated": "1744875766"
+                "buildid": "18417740",
+                "timeupdated": "1746932044"
             }
         }
     }
