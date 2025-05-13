@@ -4,8 +4,8 @@
     "name": "Train Simulator Classic 2024",
     "schinese_name": "经典模拟列车 2024",
     "isfreeapp": "0",
-    "change_number": "28529371",
-    "update_time": "2025-04-17 21:02:52",
+    "change_number": "28885424",
+    "update_time": "2025-05-08 23:48:17",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish",
@@ -18938,14 +18938,14 @@
             "dlcappid": "2956090",
             "manifests": {
                 "public": {
-                    "gid": "7566719543784128836",
-                    "size": "1907206909",
-                    "download": "298312592"
+                    "gid": "669926264286804437",
+                    "size": "1973149852",
+                    "download": "303951040"
                 },
                 "public_beta": {
-                    "gid": "7566719543784128836",
-                    "size": "1907206909",
-                    "download": "298312592"
+                    "gid": "669926264286804437",
+                    "size": "1973149852",
+                    "download": "303951040"
                 }
             },
             "decryptionkey": ""
@@ -19085,14 +19085,14 @@
             "dlcappid": "3402790",
             "manifests": {
                 "public": {
-                    "gid": "7538255085881432256",
-                    "size": "9723039520",
-                    "download": "1800191488"
+                    "gid": "2278386648335310686",
+                    "size": "9723007956",
+                    "download": "1796954512"
                 },
                 "public_beta": {
-                    "gid": "7538255085881432256",
-                    "size": "9723039520",
-                    "download": "1800191488"
+                    "gid": "2278386648335310686",
+                    "size": "9723007956",
+                    "download": "1796954512"
                 }
             },
             "decryptionkey": ""
@@ -19117,14 +19117,14 @@
             "dlcappid": "3402810",
             "manifests": {
                 "public": {
-                    "gid": "3818136669086062023",
-                    "size": "96003443",
-                    "download": "27064560"
+                    "gid": "1585216180964943710",
+                    "size": "96590238",
+                    "download": "27632304"
                 },
                 "public_beta": {
-                    "gid": "3818136669086062023",
-                    "size": "96003443",
-                    "download": "27064560"
+                    "gid": "1585216180964943710",
+                    "size": "96590238",
+                    "download": "27632304"
                 }
             },
             "decryptionkey": ""
@@ -19165,7 +19165,20 @@
             "dlcappid": "3402860"
         },
         "3402930": {
-            "dlcappid": "3402930"
+            "dlcappid": "3402930",
+            "manifests": {
+                "public": {
+                    "gid": "8723965318922286983",
+                    "size": "674886752",
+                    "download": "307121216"
+                },
+                "public_beta": {
+                    "gid": "8723965318922286983",
+                    "size": "674886752",
+                    "download": "307121216"
+                }
+            },
+            "decryptionkey": ""
         },
         "3402970": {
             "dlcappid": "3402970"
@@ -19230,13 +19243,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18144320",
-                "timeupdated": "1744894967"
+                "buildid": "18391139",
+                "timeupdated": "1746719291"
             },
             "public_beta": {
-                "buildid": "18144306",
+                "buildid": "18391131",
                 "description": "Public Beta branch",
-                "timeupdated": "1744894900"
+                "timeupdated": "1746719246"
             }
         },
         "privatebranches": "1",
