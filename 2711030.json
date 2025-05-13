@@ -4,23 +4,23 @@
     "name": "Sugardew Island - Your cozy farm shop",
     "schinese_name": "甘露岛 - 温馨的农场商店",
     "isfreeapp": "0",
-    "change_number": "28540229",
-    "update_time": "2025-04-18 08:17:12",
+    "change_number": "28856061",
+    "update_time": "2025-05-07 15:05:50",
     "depot": {
         "2711031": {
             "manifests": {
                 "public": {
-                    "gid": "4133914462466173699",
-                    "size": "4613387751",
-                    "download": "610288192"
+                    "gid": "7831106959656519978",
+                    "size": "1564583361",
+                    "download": "917891392"
                 }
             },
             "decryptionkey": "0f306d09a4ddc220d66412aeecb4ae31445760a1dd1f8132a821f67a5dda744f"
         },
         "branches": {
             "public": {
-                "buildid": "17981099",
-                "timeupdated": "1743752096"
+                "buildid": "18362858",
+                "timeupdated": "1746601546"
             }
         },
         "privatebranches": "1"
