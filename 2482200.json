@@ -4,10 +4,14 @@
     "name": "Emergency Call 112 - The Attack Squad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28491283",
-    "update_time": "2025-04-16 00:30:26",
+    "change_number": "28809323",
+    "update_time": "2025-05-04 19:32:30",
     "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese",
         "2482201": {
+            "config": {
+                "oslist": "windows,linux"
+            },
             "manifests": {
                 "public": {
                     "gid": "5965055519085062852",
@@ -17,7 +21,13 @@
             },
             "decryptionkey": "00c16b5dc523427fd4495b3e3a32bf41048b44d4e62935bcf0017fc26bc216df"
         },
-        "baselanguages": "english,german,french,italian,spanish,portuguese",
+        "2482202": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "16890604",
