@@ -4,8 +4,8 @@
     "name": "Boom Slingers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28175374",
-    "update_time": "2025-03-28 01:15:40",
+    "change_number": "28801769",
+    "update_time": "2025-05-04 00:30:57",
     "depot": {
         "2075051": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5025196893459578926",
-                    "size": "142611131",
-                    "download": "73184560"
+                    "gid": "8696918205859734149",
+                    "size": "142624585",
+                    "download": "73213952"
                 },
                 "generalbeta": {
                     "gid": "1503022633968306803",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "59186174627568721",
-                    "size": "226072523",
-                    "download": "94569248"
+                    "gid": "8320478255798641854",
+                    "size": "217369002",
+                    "download": "90572384"
                 },
                 "generalbeta": {
                     "gid": "2833470021065543844",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17352480",
-                "timeupdated": "1739785037"
+                "buildid": "18193234",
+                "timeupdated": "1745393587"
             },
             "generalbeta": {
                 "buildid": "11180878",
