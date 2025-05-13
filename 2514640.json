@@ -4,8 +4,8 @@
     "name": "All in Abyss: Judge the Fake",
     "schinese_name": "深渊绝赌：千王处刑",
     "isfreeapp": "0",
-    "change_number": "28545113",
-    "update_time": "2025-04-18 15:50:44",
+    "change_number": "28841324",
+    "update_time": "2025-05-06 20:32:43",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2514641": {
             "manifests": {
                 "public": {
-                    "gid": "7493884870901056139",
-                    "size": "1629088292",
-                    "download": "910297664"
+                    "gid": "8384633172441433260",
+                    "size": "1629087213",
+                    "download": "910298992"
                 }
             },
             "decryptionkey": "db6c56ca9e0b51b7268a366ffe118404c0adede207436b8e144d12cd212545c0"
@@ -28,8 +28,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18148048",
-                "timeupdated": "1744961729"
+                "buildid": "18197259",
+                "timeupdated": "1745474639"
             }
         },
         "privatebranches": "1"
