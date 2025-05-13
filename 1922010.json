@@ -4,15 +4,15 @@
     "name": "Breachers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545420",
-    "update_time": "2025-04-18 16:08:56",
+    "change_number": "28902850",
+    "update_time": "2025-05-09 21:42:36",
     "depot": {
         "1922011": {
             "manifests": {
                 "public": {
-                    "gid": "6085845228343076890",
-                    "size": "11267301867",
-                    "download": "8734791168"
+                    "gid": "7864172645655924061",
+                    "size": "10322936454",
+                    "download": "8009441872"
                 }
             },
             "decryptionkey": "515868fe0b42e739aec093cc314cd9ecd5aa9ca87e7e94e58211c8104a73dd36"
@@ -29,8 +29,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18127671",
-                "timeupdated": "1744881999"
+                "buildid": "18375335",
+                "timeupdated": "1746708885"
             }
         },
         "privatebranches": "1"
