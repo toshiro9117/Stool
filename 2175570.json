@@ -4,23 +4,23 @@
     "name": "Eternamine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28526954",
-    "update_time": "2025-04-17 18:36:49",
+    "change_number": "28911939",
+    "update_time": "2025-05-10 08:06:26",
     "depot": {
         "2175571": {
             "manifests": {
                 "public": {
-                    "gid": "7439722605036375221",
-                    "size": "400052413",
-                    "download": "246606848"
+                    "gid": "9189021513619847817",
+                    "size": "389243301",
+                    "download": "226856160"
                 }
             },
             "decryptionkey": "4823eef3af39d20115f2fa676ed5b48183d5d23ef4ec32280a0531c79feb199c"
         },
         "branches": {
             "public": {
-                "buildid": "17615744",
-                "timeupdated": "1741247667"
+                "buildid": "18342731",
+                "timeupdated": "1746424251"
             }
         },
         "privatebranches": "1"
