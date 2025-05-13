@@ -4,8 +4,8 @@
     "name": "SCP: 5K (Alpha Testing)",
     "schinese_name": "SCP：大流行",
     "isfreeapp": "0",
-    "change_number": "28536934",
-    "update_time": "2025-04-18 03:41:25",
+    "change_number": "28915854",
+    "update_time": "2025-05-10 17:26:07",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7451658433726520897",
-                    "size": "37360839134",
-                    "download": "11683301872"
+                    "gid": "8978397738746937178",
+                    "size": "37505690727",
+                    "download": "11751978064"
                 }
             },
             "decryptionkey": "87514c506dda0ed736b270bc5563c239ebe571e9c215a2c9085414ba6c22d26a"
@@ -59,8 +59,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17502949",
-                "timeupdated": "1741161718"
+                "buildid": "18181541",
+                "timeupdated": "1745542887"
             }
         },
         "privatebranches": "1"
