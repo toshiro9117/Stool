@@ -4,23 +4,23 @@
     "name": "PLATiNA :: LAB",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28531651",
-    "update_time": "2025-04-17 22:58:58",
+    "change_number": "28806653",
+    "update_time": "2025-05-04 13:08:19",
     "depot": {
         "3430471": {
             "manifests": {
                 "public": {
-                    "gid": "8500214753126232473",
-                    "size": "6502950200",
-                    "download": "5405674880"
+                    "gid": "2084737364735527053",
+                    "size": "6352162180",
+                    "download": "5226648112"
                 }
             },
             "decryptionkey": "7f478c739cf9e5b4ccacc2527b6ad86e4bbfc13453783e9bf5db05fd5f371673"
         },
         "branches": {
             "public": {
-                "buildid": "18119101",
-                "timeupdated": "1744749888"
+                "buildid": "18309702",
+                "timeupdated": "1746107197"
             }
         },
         "privatebranches": "1"
