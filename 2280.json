@@ -4,8 +4,8 @@
     "name": "DOOM + DOOM II",
     "schinese_name": "终极毁灭战士",
     "isfreeapp": "0",
-    "change_number": "28536353",
-    "update_time": "2025-04-18 03:05:38",
+    "change_number": "28730170",
+    "update_time": "2025-04-29 23:09:13",
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5357968694593314224",
-                    "size": "1213914116",
-                    "download": "928174912"
+                    "gid": "557527948370603647",
+                    "size": "1224795563",
+                    "download": "939560880"
                 },
                 "previous-re-rerelease": {
                     "gid": "4486750217790005770",
@@ -41,8 +41,8 @@
         "baselanguages": "english,german,french,italian,spanish",
         "branches": {
             "public": {
-                "buildid": "18145964",
-                "timeupdated": "1744916720"
+                "buildid": "18101668",
+                "timeupdated": "1745939347"
             },
             "previous-re-rerelease": {
                 "buildid": "5619887",
