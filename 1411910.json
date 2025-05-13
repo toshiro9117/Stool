@@ -4,25 +4,27 @@
     "name": "Fallen Aces",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540072",
-    "update_time": "2025-04-18 08:04:28",
+    "change_number": "28672891",
+    "update_time": "2025-04-26 02:39:32",
     "depot": {
         "1411911": {
             "manifests": {
                 "public": {
-                    "gid": "6531404659432112285",
-                    "size": "7745404550",
-                    "download": "3236395856"
+                    "gid": "8017568092065203368",
+                    "size": "7126500565",
+                    "download": "3179409808"
                 }
             },
             "decryptionkey": "8f3ebc25fc2fca88d99ee0a0983db4feed1e6174072e46f94bc59aae57d1445f"
         },
+        "workshopdepot": "1411910",
         "branches": {
             "public": {
-                "buildid": "17527413",
-                "timeupdated": "1740647742"
+                "buildid": "18201691",
+                "timeupdated": "1745606368"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
