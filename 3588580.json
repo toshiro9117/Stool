@@ -4,8 +4,8 @@
     "name": "Another World Guardian",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28530870",
-    "update_time": "2025-04-17 22:17:47",
+    "change_number": "28868233",
+    "update_time": "2025-05-08 03:02:47",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "300084735657571376",
-                    "size": "600385032",
-                    "download": "402321552"
+                    "gid": "8811368646047660556",
+                    "size": "600579854",
+                    "download": "402503344"
                 }
             },
             "decryptionkey": "f91093199035709f75d09d42b128ce1c3a6edc3a02f411721ecfa2b049f4e025"
         },
         "branches": {
             "public": {
-                "buildid": "18133316",
-                "timeupdated": "1744828879"
+                "buildid": "18173384",
+                "timeupdated": "1745161695"
             }
         }
     }
