@@ -4,8 +4,8 @@
     "name": "Instruments of Destruction",
     "schinese_name": "毁灭工具",
     "isfreeapp": "0",
-    "change_number": "27399053",
-    "update_time": "2025-02-10 19:12:22",
+    "change_number": "28882313",
+    "update_time": "2025-05-08 21:09:36",
     "depot": {
         "1428101": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "89979570448330314",
-                    "size": "1796089666",
-                    "download": "912365824"
+                    "gid": "1467931001641898152",
+                    "size": "1788835776",
+                    "download": "916079088"
                 },
                 "debug": {
                     "gid": "7662988379339241263",
@@ -35,8 +35,8 @@
         "workshopdepot": "1428100",
         "branches": {
             "public": {
-                "buildid": "17305813",
-                "timeupdated": "1739185937"
+                "buildid": "18378997",
+                "timeupdated": "1746646527"
             },
             "debug": {
                 "buildid": "13373120",
