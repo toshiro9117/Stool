@@ -4,33 +4,33 @@
     "name": "Erenshor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549483",
-    "update_time": "2025-04-18 20:45:15",
+    "change_number": "28848483",
+    "update_time": "2025-05-07 03:32:59",
     "depot": {
         "2382521": {
             "manifests": {
                 "public": {
-                    "gid": "7963527319688660667",
-                    "size": "8496413438",
-                    "download": "1935878400"
+                    "gid": "7360099558215118669",
+                    "size": "8517019848",
+                    "download": "1937856032"
                 },
                 "betabuild": {
-                    "gid": "1437204257160825414",
-                    "size": "8501962330",
-                    "download": "1938425744"
+                    "gid": "9128758892232725900",
+                    "size": "8535031805",
+                    "download": "1942851136"
                 }
             },
             "decryptionkey": "f8cbec933e93c31051dd48bc3b6a2b7fdba101b74110bd6e1447427f8ac30377"
         },
         "branches": {
             "public": {
-                "buildid": "18163610",
-                "timeupdated": "1745023930"
+                "buildid": "18359279",
+                "timeupdated": "1746534649"
             },
             "betabuild": {
-                "buildid": "18152758",
+                "buildid": "18329713",
                 "description": "testing only",
-                "timeupdated": "1744944952"
+                "timeupdated": "1746247915"
             }
         }
     }
