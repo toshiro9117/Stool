@@ -4,8 +4,8 @@
     "name": "Goat Simulator 3",
     "schinese_name": "模拟山羊3",
     "isfreeapp": "0",
-    "change_number": "28445336",
-    "update_time": "2025-04-12 22:55:34",
+    "change_number": "28881394",
+    "update_time": "2025-05-08 20:12:21",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "850191": {
             "manifests": {
                 "public": {
-                    "gid": "2722748937257681535",
-                    "size": "12700139161",
-                    "download": "4607634048"
+                    "gid": "168294325231799882",
+                    "size": "12699889305",
+                    "download": "4607567088"
                 }
             },
             "decryptionkey": "05fc8de1333cce70dc8b8f7f2e79735da8ba77bc8d8a05a2ab711bdda428c90f"
         },
         "branches": {
             "public": {
-                "buildid": "17868990",
-                "timeupdated": "1743580741"
+                "buildid": "18072882",
+                "timeupdated": "1745481698"
             }
         },
         "privatebranches": "1"
