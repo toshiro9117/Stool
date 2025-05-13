@@ -1,0 +1,27 @@
+{
+    "appid": "2302380",
+    "type": "Game",
+    "name": "Bleeding Deities",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28832600",
+    "update_time": "2025-05-06 09:29:34",
+    "depot": {
+        "2302381": {
+            "manifests": {
+                "public": {
+                    "gid": "3915304023257501548",
+                    "size": "1688119279",
+                    "download": "824961712"
+                }
+            },
+            "decryptionkey": "a3cf37af85cd1463f2c64da442debb827b61d81de2be575f39985dd952b41945"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18353372",
+                "timeupdated": "1746494970"
+            }
+        }
+    }
+}
