@@ -4,8 +4,8 @@
     "name": "The Front Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28401566",
-    "update_time": "2025-04-10 15:05:50",
+    "change_number": "28896497",
+    "update_time": "2025-05-09 15:08:27",
     "depot": {
         "1004": {
             "config": {
@@ -73,17 +73,17 @@
         "2612551": {
             "manifests": {
                 "public": {
-                    "gid": "821910865579056288",
-                    "size": "3072785197",
-                    "download": "2887735744"
+                    "gid": "5552802453164942584",
+                    "size": "3072911237",
+                    "download": "2887845984"
                 }
             },
             "decryptionkey": "53b87fb2dca0ac49158c70dbd3232a747ba0ef7328ea23c2cb61503c4e3f2b8c"
         },
         "branches": {
             "public": {
-                "buildid": "17950527",
-                "timeupdated": "1744268746"
+                "buildid": "18385501",
+                "timeupdated": "1746774501"
             }
         }
     }
