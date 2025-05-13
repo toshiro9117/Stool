@@ -4,8 +4,8 @@
     "name": "Abalon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28508633",
-    "update_time": "2025-04-16 21:12:39",
+    "change_number": "28870760",
+    "update_time": "2025-05-08 06:07:49",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian",
         "1681841": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3127793276430830910",
-                    "size": "99150076",
-                    "download": "77322432"
+                    "gid": "4583228583481883611",
+                    "size": "99419114",
+                    "download": "77534352"
                 }
             },
             "decryptionkey": "f734204772051d5543bbb8fc223d71d772a47e527a879e79fbd9649d86133557"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3096386004325690732",
-                    "size": "183772431",
-                    "download": "82565984"
+                    "gid": "308859670022718521",
+                    "size": "184041472",
+                    "download": "82780832"
                 }
             }
         },
@@ -40,16 +40,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2641339835925567662",
-                    "size": "106468562",
-                    "download": "78714752"
+                    "gid": "2442492828112776555",
+                    "size": "106737600",
+                    "download": "78926672"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17758427",
-                "timeupdated": "1742255183"
+                "buildid": "18380667",
+                "timeupdated": "1746655665"
             }
         },
         "privatebranches": "1"
