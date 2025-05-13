@@ -4,11 +4,14 @@
     "name": "Matchmaking Inc.",
     "schinese_name": "中国式相亲",
     "isfreeapp": "0",
-    "change_number": "28442581",
-    "update_time": "2025-04-12 15:58:59",
+    "change_number": "28896929",
+    "update_time": "2025-05-09 15:41:06",
     "depot": {
         "baselanguages": "english,schinese",
         "2103131": {
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "3847250937096954310",
