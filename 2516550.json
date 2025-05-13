@@ -4,23 +4,23 @@
     "name": "Margoq's Lair",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27945954",
-    "update_time": "2025-03-14 08:35:53",
+    "change_number": "28900609",
+    "update_time": "2025-05-09 19:32:34",
     "depot": {
         "2516551": {
             "manifests": {
                 "public": {
-                    "gid": "6867984287858998540",
+                    "gid": "7302922886341615105",
                     "size": "427273312",
-                    "download": "123332752"
+                    "download": "123333664"
                 }
             },
             "decryptionkey": "425f9ab654ebbf7924ac82dd4a1290a0a864480c5fccdc800a1cd4d02db71eda"
         },
         "branches": {
             "public": {
-                "buildid": "17021609",
-                "timeupdated": "1737000990"
+                "buildid": "18261114",
+                "timeupdated": "1745820481"
             }
         }
     }
