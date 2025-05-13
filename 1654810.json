@@ -4,8 +4,8 @@
     "name": "Mix Universe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28534491",
-    "update_time": "2025-04-18 01:14:31",
+    "change_number": "28688390",
+    "update_time": "2025-04-27 10:30:36",
     "depot": {
         "228988": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1667726307433197258",
-                    "size": "3845337749",
-                    "download": "3008512752"
+                    "gid": "5196724720051087174",
+                    "size": "3846414527",
+                    "download": "3008481568"
                 },
                 "experimental": {
                     "gid": "2213961100834205738",
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5452449874326978555",
-                    "size": "3492939425",
-                    "download": "2748961984"
+                    "gid": "753145772250859495",
+                    "size": "3492998501",
+                    "download": "2749085936"
                 },
                 "experimental": {
                     "gid": "3129824696045703925",
@@ -63,8 +63,8 @@
         "workshopdepot": "1654810",
         "branches": {
             "public": {
-                "buildid": "18147022",
-                "timeupdated": "1744910066"
+                "buildid": "18246257",
+                "timeupdated": "1745634626"
             },
             "experimental": {
                 "buildid": "13942665",
