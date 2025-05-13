@@ -4,8 +4,8 @@
     "name": "Black Baby",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27340838",
-    "update_time": "2025-02-06 16:17:55",
+    "change_number": "28815610",
+    "update_time": "2025-05-05 10:08:30",
     "depot": {
         "1521111": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1019197709891458141",
-                    "size": "259320628",
-                    "download": "93221088"
+                    "gid": "5452759945838780309",
+                    "size": "259327316",
+                    "download": "93222672"
                 }
             },
             "decryptionkey": "eb6f22756b510fec718e89d8a35c2d630c91ff69fe3fd689b576fbcab889f22c"
@@ -27,12 +27,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8901846114133253639",
-                    "size": "274526543",
-                    "download": "98014704"
+                    "gid": "2774568045265967610",
+                    "size": "274533865",
+                    "download": "98016864"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1521113": {
             "config": {
@@ -41,12 +40,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2318914944151557613",
-                    "size": "271436446",
-                    "download": "101976864"
+                    "gid": "5658109259844881225",
+                    "size": "271443114",
+                    "download": "101978288"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1521114": {
             "config": {
@@ -55,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6651980470234441329",
-                    "size": "253723444",
-                    "download": "91281856"
+                    "gid": "4066582838393439081",
+                    "size": "253730132",
+                    "download": "91283440"
                 }
             },
             "decryptionkey": ""
@@ -69,18 +67,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6161376297465540045",
-                    "size": "271199330",
-                    "download": "101439328"
+                    "gid": "4007862207972075906",
+                    "size": "271205998",
+                    "download": "101440784"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "9929021",
-                "timeupdated": "1668379212"
+                "buildid": "18046492",
+                "timeupdated": "1744231279"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
