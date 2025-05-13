@@ -4,8 +4,8 @@
     "name": "Test Drive Unlimited Solar Crown",
     "schinese_name": "无限试驾：太阳王冠",
     "isfreeapp": "0",
-    "change_number": "28532717",
-    "update_time": "2025-04-17 23:49:12",
+    "change_number": "28904283",
+    "update_time": "2025-05-09 23:08:38",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian,vietnamese",
         "228984": {
@@ -32,17 +32,17 @@
         "1249971": {
             "manifests": {
                 "public": {
-                    "gid": "1778318209532527926",
-                    "size": "89059939965",
-                    "download": "74260061856"
+                    "gid": "3531362400431984471",
+                    "size": "89055079603",
+                    "download": "74206039984"
                 }
             },
             "decryptionkey": "ef894cda9509eea638e332e510f8d089c04994ef8ffafdfd3cc721414b0b4176"
         },
         "branches": {
             "public": {
-                "buildid": "17691430",
-                "timeupdated": "1742377209"
+                "buildid": "18010907",
+                "timeupdated": "1745395367"
             }
         },
         "privatebranches": "1"
