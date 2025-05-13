@@ -4,8 +4,8 @@
     "name": "Astro Colony Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27059307",
-    "update_time": "2025-01-19 06:14:09",
+    "change_number": "28735138",
+    "update_time": "2025-04-30 04:12:25",
     "depot": {
         "228989": {
             "config": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6077408469509240356",
-                    "size": "3606783863",
-                    "download": "3459539392"
+                    "gid": "8321215802349850037",
+                    "size": "3705458866",
+                    "download": "3557856496"
                 }
             },
             "decryptionkey": "1926e6c660e0ab535ae827cfeb469b0d1d02c78dfd60a6b100ff561dfbe76760"
         },
         "branches": {
             "public": {
-                "buildid": "17052656",
-                "timeupdated": "1737238446"
+                "buildid": "18285474",
+                "timeupdated": "1745957539"
             }
         }
     }
