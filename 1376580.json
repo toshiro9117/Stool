@@ -4,8 +4,8 @@
     "name": "Alien Dawn",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28414514",
-    "update_time": "2025-04-11 02:55:32",
+    "change_number": "28922350",
+    "update_time": "2025-05-11 10:42:07",
     "depot": {
         "228989": {
             "config": {
@@ -46,11 +46,6 @@
                     "size": "17464034943",
                     "download": "7642032384"
                 },
-                "dev-prototyping": {
-                    "gid": "4866493788820470044",
-                    "size": "16518556529",
-                    "download": "8055498768"
-                },
                 "update-23-preview": {
                     "gid": "6131170983717825305",
                     "size": "15431991460",
@@ -70,11 +65,6 @@
                 "buildid": "15129333",
                 "timeupdated": "1722210780"
             },
-            "dev-prototyping": {
-                "buildid": "18061083",
-                "description": "Development Build (Unstable)",
-                "timeupdated": "1744311328"
-            },
             "update-23-preview": {
                 "buildid": "17416122",
                 "description": "Preview of next version of Alien Dawn",
@@ -85,6 +75,7 @@
                 "description": "Previous Version",
                 "timeupdated": "1722201430"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
