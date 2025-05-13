@@ -4,8 +4,8 @@
     "name": "City Game Studio",
     "schinese_name": "城市游戏工作室",
     "isfreeapp": "0",
-    "change_number": "28531433",
-    "update_time": "2025-04-17 22:47:40",
+    "change_number": "28858508",
+    "update_time": "2025-05-07 17:29:20",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,ukrainian",
         "726842": {
@@ -25,9 +25,9 @@
                     "download": "277430288"
                 },
                 "unstable": {
-                    "gid": "647276984715272734",
-                    "size": "372932111",
-                    "download": "277626928"
+                    "gid": "1296435078685749183",
+                    "size": "373060169",
+                    "download": "277696496"
                 }
             },
             "decryptionkey": ""
@@ -49,9 +49,9 @@
                     "download": "278195216"
                 },
                 "unstable": {
-                    "gid": "6705075924859014507",
-                    "size": "375294847",
-                    "download": "278403568"
+                    "gid": "8416055562969079576",
+                    "size": "375422905",
+                    "download": "278471120"
                 }
             },
             "decryptionkey": "cbe477aab7ce09bfebf6c5c4096023b76e4bb51a8599feea893c80eaaa51de71"
@@ -72,9 +72,9 @@
                     "download": "292533728"
                 },
                 "unstable": {
-                    "gid": "417624534777035446",
-                    "size": "379584298",
-                    "download": "292977344"
+                    "gid": "4550782660635682000",
+                    "size": "379712356",
+                    "download": "293038416"
                 }
             }
         },
@@ -94,9 +94,9 @@
                     "download": "280193888"
                 },
                 "unstable": {
-                    "gid": "6787425174005967644",
-                    "size": "385264086",
-                    "download": "280602688"
+                    "gid": "3556419000091854827",
+                    "size": "385392144",
+                    "download": "280665536"
                 }
             }
         },
@@ -112,9 +112,9 @@
                 "timeupdated": "1733731412"
             },
             "unstable": {
-                "buildid": "18145573",
+                "buildid": "18371760",
                 "description": "Unstable branch, contains the newest features",
-                "timeupdated": "1744901253"
+                "timeupdated": "1746610156"
             }
         },
         "privatebranches": "1",
