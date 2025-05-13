@@ -4,8 +4,8 @@
     "name": "Rocket Bot Royale",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28471746",
-    "update_time": "2025-04-15 01:38:14",
+    "change_number": "28905717",
+    "update_time": "2025-05-10 00:31:13",
     "depot": {
         "1748391": {
             "manifests": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5164465861337256905",
-                    "size": "70777384",
-                    "download": "31354464"
+                    "gid": "3932467372778321292",
+                    "size": "69040968",
+                    "download": "31125328"
                 }
             },
             "decryptionkey": "52d7226294898dfff7be38d80856f239d24a241c338dd3c0534845adeb3ed943"
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1872325862289076450",
-                    "size": "79824100",
-                    "download": "33435168"
+                    "gid": "4441645598058165238",
+                    "size": "80130932",
+                    "download": "33544864"
                 }
             }
         },
@@ -48,16 +48,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "137746936771988779",
-                    "size": "78130072",
-                    "download": "33427104"
+                    "gid": "1134260091823777459",
+                    "size": "78431336",
+                    "download": "33539824"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18074714",
-                "timeupdated": "1744402394"
+                "buildid": "18405948",
+                "timeupdated": "1746808268"
             }
         },
         "privatebranches": "1"
