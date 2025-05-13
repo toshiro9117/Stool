@@ -1,11 +1,11 @@
 {
     "appid": "2508940",
     "type": "Game",
-    "name": "STARNAUT",
+    "name": "Mythical Concept STARNAUT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541724",
-    "update_time": "2025-04-18 10:39:02",
+    "change_number": "28876879",
+    "update_time": "2025-05-08 15:29:17",
     "depot": {
         "228989": {
             "config": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "916725887675554304",
-                    "size": "11289841579",
-                    "download": "10668860688"
+                    "gid": "6043192242440592946",
+                    "size": "11302573246",
+                    "download": "10857544944"
                 }
             },
             "decryptionkey": "7ee03c2730a2ebf70b12009ea2150c70ce25bfe2870d549852fa19a1efa708e4"
         },
         "branches": {
             "public": {
-                "buildid": "15364578",
-                "timeupdated": "1723625643"
+                "buildid": "18247689",
+                "timeupdated": "1745865435"
             }
         },
         "privatebranches": "1"
