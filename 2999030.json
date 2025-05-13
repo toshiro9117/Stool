@@ -4,23 +4,23 @@
     "name": "Exploding Kittens® 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533906",
-    "update_time": "2025-04-18 00:45:33",
+    "change_number": "28904356",
+    "update_time": "2025-05-09 23:13:50",
     "depot": {
         "2999031": {
             "manifests": {
                 "public": {
-                    "gid": "6738603879853229862",
-                    "size": "674917271",
-                    "download": "325716896"
+                    "gid": "6891934237537380301",
+                    "size": "691318588",
+                    "download": "334296480"
                 }
             },
             "decryptionkey": "8b8386310bdef28e1d892fac876e1fb231ab87901d9cc711eb0f5edcacacb836"
         },
         "branches": {
             "public": {
-                "buildid": "17370434",
-                "timeupdated": "1739702307"
+                "buildid": "18280905",
+                "timeupdated": "1746174610"
             }
         },
         "privatebranches": "1"
