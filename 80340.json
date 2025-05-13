@@ -4,8 +4,8 @@
     "name": "Blackwell Unbound",
     "schinese_name": "布莱克威尔之谜",
     "isfreeapp": "0",
-    "change_number": "28514512",
-    "update_time": "2025-04-17 02:42:51",
+    "change_number": "28611146",
+    "update_time": "2025-04-23 07:36:25",
     "depot": {
         "overridescddb": "1",
         "80341": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4774957631894471007",
-                    "size": "204338264",
-                    "download": "165072528"
+                    "gid": "9039558760825108703",
+                    "size": "204339622",
+                    "download": "165072640"
                 }
             },
             "decryptionkey": "64f171f47951a667883d1ae0b739e2db4ad25dd666e093e168fa6097cb5be900"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5231820106873391501",
-                    "size": "275580497",
-                    "download": "182998656"
+                    "gid": "5610423325959327216",
+                    "size": "275581855",
+                    "download": "182998800"
                 }
             }
         },
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1690457053357583525",
-                    "size": "219401338",
-                    "download": "169248976"
+                    "gid": "378652864369523452",
+                    "size": "219402696",
+                    "download": "169447440"
                 }
             }
         },
@@ -53,16 +53,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8014429694870307246",
-                    "size": "276557801",
-                    "download": "181330288"
+                    "gid": "1912275564466960392",
+                    "size": "276559159",
+                    "download": "181330512"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18133331",
-                "timeupdated": "1744828940"
+                "buildid": "18200167",
+                "timeupdated": "1745364981"
             }
         },
         "privatebranches": "1"
