@@ -4,8 +4,8 @@
     "name": "The Headliners",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28526695",
-    "update_time": "2025-04-17 18:21:37",
+    "change_number": "28904161",
+    "update_time": "2025-05-09 23:02:59",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2823545638091804849",
-                    "size": "8276946636",
-                    "download": "8023580496"
+                    "gid": "51881955150352582",
+                    "size": "7591379091",
+                    "download": "7326541392"
                 }
             },
             "decryptionkey": "dc69975bdb4fe70b03c46dcb49e561b4b72524fb28d919a95faa8d1f5f987e5b"
         },
         "branches": {
             "public": {
-                "buildid": "17708382",
-                "timeupdated": "1741867173"
+                "buildid": "18399964",
+                "timeupdated": "1746785788"
             }
         },
         "privatebranches": "1"
