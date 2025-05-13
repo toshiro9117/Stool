@@ -4,8 +4,8 @@
     "name": "Non-Euclidean Minesweeper",
     "schinese_name": "非欧几里得扫雷",
     "isfreeapp": "0",
-    "change_number": "27493095",
-    "update_time": "2025-02-15 18:16:28",
+    "change_number": "28885406",
+    "update_time": "2025-05-08 23:46:51",
     "depot": {
         "baselanguages": "",
         "3380321": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5334891123181570474",
-                    "size": "12355168",
-                    "download": "4937952"
+                    "gid": "7628039379778620454",
+                    "size": "12915840",
+                    "download": "5647776"
                 }
             },
             "decryptionkey": "ba48bf0cc55485209162e2dc37b2c37901ad32086ef90a653f1cb9afa6855de8"
@@ -27,17 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3644385022123339995",
-                    "size": "94993888",
-                    "download": "30296576"
+                    "gid": "1404466367196067329",
+                    "size": "289469007",
+                    "download": "89299632"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17357509",
-                "timeupdated": "1739479326"
+                "buildid": "18190501",
+                "timeupdated": "1745312942"
             }
         },
         "privatebranches": "1"
