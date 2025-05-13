@@ -4,8 +4,8 @@
     "name": "后汉稽异录 - Obscure Chronicle of Dynasty",
     "schinese_name": "后汉稽异录",
     "isfreeapp": "0",
-    "change_number": "28464769",
-    "update_time": "2025-04-14 18:39:14",
+    "change_number": "28921713",
+    "update_time": "2025-05-11 08:34:44",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
@@ -13,9 +13,9 @@
         "2010901": {
             "manifests": {
                 "public": {
-                    "gid": "5963233142422426081",
-                    "size": "1767337255",
-                    "download": "874540528"
+                    "gid": "2624949178109253011",
+                    "size": "1767733954",
+                    "download": "861758208"
                 }
             },
             "decryptionkey": "c3f53ddfca46d00c2c3f9d50d36167d936c18e55cab77e90133bfb10aaf9ee2f"
@@ -41,8 +41,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18097711",
-                "timeupdated": "1744627149"
+                "buildid": "18329483",
+                "timeupdated": "1746246300"
             }
         },
         "privatebranches": "1",
