@@ -4,8 +4,8 @@
     "name": "Welcome To Cathouse（欢迎来到猫咪花园）",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28503047",
-    "update_time": "2025-04-16 15:49:26",
+    "change_number": "28678815",
+    "update_time": "2025-04-26 11:28:07",
     "depot": {
         "baselanguages": "schinese",
         "workshopdepot": "1079330",
@@ -15,26 +15,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1897699200898456388",
-                    "size": "617834817",
-                    "download": "382717488"
+                    "gid": "3634919938487331594",
+                    "size": "1316016619",
+                    "download": "388738480"
                 },
                 "develop": {
-                    "gid": "1852752191343999387",
-                    "size": "227824066",
-                    "download": "43261040"
+                    "gid": "6666862941239020834",
+                    "size": "1442490819",
+                    "download": "512036976"
                 }
             },
             "decryptionkey": "3732ae6e819dcd5f945d705ec3172ee137b7278285efaf985d9bc11ffd276b37"
         },
         "branches": {
             "public": {
-                "buildid": "4445246",
-                "timeupdated": "1575120827"
+                "buildid": "18241702",
+                "timeupdated": "1745600647"
             },
             "develop": {
-                "buildid": "5374350",
-                "timeupdated": "1596630340"
+                "buildid": "18181970",
+                "timeupdated": "1745251985"
             }
         },
         "workshopdepotdecryptionkey": ""
