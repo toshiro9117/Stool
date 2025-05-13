@@ -4,8 +4,8 @@
     "name": "Towerborne",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28536041",
-    "update_time": "2025-04-18 02:45:48",
+    "change_number": "28885392",
+    "update_time": "2025-05-08 23:46:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2458831": {
             "manifests": {
                 "public": {
-                    "gid": "7287659483800843288",
-                    "size": "17493326204",
-                    "download": "12891097584"
+                    "gid": "1207418541228815178",
+                    "size": "15033482798",
+                    "download": "13491004640"
                 }
             },
             "decryptionkey": "2568fc72975f6f7f70842960f59dc2c606ef7c24c2babaed575f688b24bfd26e"
         },
         "branches": {
             "public": {
-                "buildid": "17328705",
-                "timeupdated": "1739378662"
+                "buildid": "18361254",
+                "timeupdated": "1746575333"
             }
         },
         "privatebranches": "1"
