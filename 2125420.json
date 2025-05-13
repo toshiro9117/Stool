@@ -4,8 +4,8 @@
     "name": "Zorbus",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28480628",
-    "update_time": "2025-04-15 14:14:37",
+    "change_number": "28916439",
+    "update_time": "2025-05-10 19:00:55",
     "depot": {
         "228983": {
             "config": {
@@ -18,17 +18,17 @@
         "2125422": {
             "manifests": {
                 "public": {
-                    "gid": "4420434286925108586",
-                    "size": "235908313",
-                    "download": "176236784"
+                    "gid": "1067472448830098312",
+                    "size": "236006907",
+                    "download": "176321120"
                 }
             },
             "decryptionkey": "a481a85e2f44e9123a38b1c1a79b27b754720a55a8353ecb43217984861cb900"
         },
         "branches": {
             "public": {
-                "buildid": "18109252",
-                "timeupdated": "1744697670"
+                "buildid": "18413703",
+                "timeupdated": "1746874659"
             }
         }
     }
