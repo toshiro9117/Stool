@@ -4,8 +4,8 @@
     "name": "The Political Process",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28536078",
-    "update_time": "2025-04-18 02:48:02",
+    "change_number": "28710485",
+    "update_time": "2025-04-29 00:41:40",
     "depot": {
         "1184771": {
             "config": {
@@ -79,9 +79,9 @@
                     "download": "86069952"
                 },
                 "v031beta": {
-                    "gid": "6098353207563523689",
-                    "size": "330275447",
-                    "download": "86635584"
+                    "gid": "6790375449161999851",
+                    "size": "330285823",
+                    "download": "86637104"
                 }
             },
             "decryptionkey": "0e04445810a9e2966305c43ec0a2c8c692ccdf5456ba0935bcae277bf4c2eadf"
@@ -152,9 +152,9 @@
                 "timeupdated": "1726253353"
             },
             "v031beta": {
-                "buildid": "18148235",
+                "buildid": "18268093",
                 "description": "Beta Version 0.31 (Judicial)",
-                "timeupdated": "1744915675"
+                "timeupdated": "1745858494"
             }
         }
     }
