@@ -4,8 +4,8 @@
     "name": "SRPG Studio",
     "schinese_name": "RPG制作工具",
     "isfreeapp": "0",
-    "change_number": "28450349",
-    "update_time": "2025-04-13 12:08:51",
+    "change_number": "28880323",
+    "update_time": "2025-05-08 19:02:20",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,japanese",
         "workshopdepot": "857320",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3153822347827915247",
-                    "size": "7165771",
-                    "download": "3499968"
+                    "gid": "2265725909865536242",
+                    "size": "7167307",
+                    "download": "3500320"
                 }
             },
             "decryptionkey": "aee9bc00b22745489857a100b031492ca0ef0156afa080a0c6109a3dbd165d0a"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5774567511883428510",
-                    "size": "132191438",
-                    "download": "115071440"
+                    "gid": "8230624915160655240",
+                    "size": "132193991",
+                    "download": "115071984"
                 }
             },
             "decryptionkey": "33d72ce1b5452a8f9b83487fd5c1ea25f69e66798c5e59d70e751662ca4fff61"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5626653319463351402",
-                    "size": "132313752",
-                    "download": "115066112"
+                    "gid": "1661252905039199074",
+                    "size": "132316343",
+                    "download": "115066544"
                 }
             },
             "decryptionkey": "196f88ab307925ac5c35c4e0768239ea5eddfaf00f9d7573cee7fdf296d125a6"
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4090148790999854116",
-                    "size": "132163351",
-                    "download": "115025104"
+                    "gid": "3670862844156890416",
+                    "size": "132165942",
+                    "download": "115025632"
                 }
             },
             "decryptionkey": "ba907df7afc008285b4e08b74a2d67113e9ad9bb223e888309997d6f28e5c5e2"
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2409122539780295795",
-                    "size": "130407025",
-                    "download": "115019104"
+                    "gid": "6434745994440400098",
+                    "size": "130409616",
+                    "download": "115019568"
                 }
             },
             "decryptionkey": "a3ef3ea94f680f87d6398a8d91fa183c9ff8984e91fca23bbfa10e1779925c51"
@@ -85,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6626884178553686460",
-                    "size": "130402565",
-                    "download": "115008832"
+                    "gid": "2718268119688177371",
+                    "size": "130405156",
+                    "download": "115009280"
                 }
             },
             "decryptionkey": "5cddad82ed2156824e922c2fd49d5d4b6dffd948f62db9a277f1a5a4eb4f7430"
@@ -99,9 +99,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2696582510837096528",
-                    "size": "130407374",
-                    "download": "115024080"
+                    "gid": "6447236571506680330",
+                    "size": "130409965",
+                    "download": "115024544"
                 }
             },
             "decryptionkey": "b5fdaff8af17f477daf3bddcb8d97897037d84899ddc3d294a5f3cdb1e2e4682"
@@ -113,9 +113,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5262961206260428882",
-                    "size": "132163865",
-                    "download": "115025344"
+                    "gid": "3973595320403427797",
+                    "size": "132166456",
+                    "download": "115025760"
                 }
             },
             "decryptionkey": "c19db3ba8cc247313365c78121e72ac0c2f28f6c8ea833ef66dbd12a30fc70b8"
@@ -274,10 +274,21 @@
             },
             "decryptionkey": "8870589fc0918552afb97178a6256868e3722b4b1d6c63b2a545b4811a958a92"
         },
+        "3706520": {
+            "dlcappid": "3706520",
+            "manifests": {
+                "public": {
+                    "gid": "1979268953855910602",
+                    "size": "8880252",
+                    "download": "8772592"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18000698",
-                "timeupdated": "1743929598"
+                "buildid": "18373571",
+                "timeupdated": "1746619421"
             }
         },
         "workshopdepotdecryptionkey": "3ab572da1b24ecbb36495d9ecb4c3af492d5c925ac750895f6455d0455592cc6"
