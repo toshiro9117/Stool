@@ -4,25 +4,20 @@
     "name": "Void Stranger",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28542056",
-    "update_time": "2025-04-18 11:08:49",
+    "change_number": "28772181",
+    "update_time": "2025-05-02 01:08:16",
     "depot": {
         "2121981": {
             "manifests": {
                 "public": {
+                    "gid": "6229122826867526209",
+                    "size": "316424317",
+                    "download": "240198976"
+                },
+                "old_version_1.1.1": {
                     "gid": "5296775019770307860",
                     "size": "316354804",
                     "download": "240182832"
-                },
-                "old_version_1.0.6": {
-                    "gid": "2096661572420521810",
-                    "size": "305452334",
-                    "download": "228748592"
-                },
-                "open_beta": {
-                    "gid": "3582290821360399362",
-                    "size": "316422516",
-                    "download": "240200576"
                 }
             },
             "decryptionkey": "0b512dd421c449a8b727810e948ae4d41c3e15cc0184b0dcd1a00b86df251c7f"
@@ -30,18 +25,13 @@
         "baselanguages": "english,finnish",
         "branches": {
             "public": {
+                "buildid": "18273048",
+                "timeupdated": "1745914302"
+            },
+            "old_version_1.1.1": {
                 "buildid": "14876710",
-                "timeupdated": "1719612860"
-            },
-            "old_version_1.0.6": {
-                "buildid": "12613659",
-                "description": "UNSTABLE with newer version save files!! ONLY for modding convenience.",
-                "timeupdated": "1713976511"
-            },
-            "open_beta": {
-                "buildid": "18161384",
-                "description": "Version 1.1.2 testing",
-                "timeupdated": "1745004947"
+                "description": "ONLY for modding convenience.",
+                "timeupdated": "1745852834"
             }
         },
         "privatebranches": "1"
