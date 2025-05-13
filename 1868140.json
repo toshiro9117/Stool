@@ -4,8 +4,8 @@
     "name": "DAVE THE DIVER",
     "schinese_name": "潜水员戴夫 DAVE THE DIVER",
     "isfreeapp": "0",
-    "change_number": "28544921",
-    "update_time": "2025-04-18 15:38:42",
+    "change_number": "28876984",
+    "update_time": "2025-05-08 15:36:06",
     "depot": {
         "baselanguages": "english",
         "1868141": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4862276333358258203",
-                    "size": "3316924953",
-                    "download": "2432326448"
+                    "gid": "1298075020360445564",
+                    "size": "5463363114",
+                    "download": "2626797936"
                 }
             },
             "decryptionkey": "dec1482ee88e2a62d7fddedf0e75c6abdef55d2884440de6508bef83044198d8"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8918512478877659146",
-                    "size": "3452626090",
-                    "download": "2356034416"
+                    "gid": "5632421557340808486",
+                    "size": "3453191042",
+                    "download": "2356247248"
                 }
             },
             "decryptionkey": "f55cec1c353af17ba294e0bc3c1af6766a91b76e97d59d44425873918058d6c5"
@@ -111,8 +111,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5567210601568861502",
-                    "size": "189430227",
+                    "gid": "8855389284671366804",
+                    "size": "189430279",
                     "download": "174086480"
                 }
             },
@@ -125,16 +125,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3987663342270933966",
-                    "size": "188880288",
-                    "download": "173613088"
+                    "gid": "1358395009878917411",
+                    "size": "188880340",
+                    "download": "173613184"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18125132",
-                "timeupdated": "1744792297"
+                "buildid": "18189474",
+                "timeupdated": "1745310211"
             }
         },
         "privatebranches": "1"
