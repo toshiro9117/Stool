@@ -4,8 +4,8 @@
     "name": "VIDeoPHOBIA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548110",
-    "update_time": "2025-04-18 19:01:17",
+    "change_number": "28802699",
+    "update_time": "2025-05-04 02:28:58",
     "depot": {
         "228989": {
             "config": {
@@ -30,6 +30,10 @@
                 }
             },
             "decryptionkey": "8026dddb7501baecd42b93b511516ad372dbd71ed6c0957abda8b4ad17a8a5d3"
+        },
+        "3683990": {
+            "dlcappid": "3683990",
+            "manifests": {}
         },
         "branches": {
             "public": {
