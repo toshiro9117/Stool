@@ -4,8 +4,8 @@
     "name": "Panzer Corps 2",
     "schinese_name": "装甲军团2",
     "isfreeapp": "0",
-    "change_number": "27916947",
-    "update_time": "2025-03-13 02:03:30",
+    "change_number": "28843429",
+    "update_time": "2025-05-06 22:31:31",
     "depot": {
         "228988": {
             "config": {
@@ -136,6 +136,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "099127c0769b81e60bda0a6a17bd4c507de3012e4d1e917a244402a509475dcf"
     }
 }
