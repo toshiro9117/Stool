@@ -4,33 +4,33 @@
     "name": "TOTALLY BASEBALL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28438455",
-    "update_time": "2025-04-12 06:31:30",
+    "change_number": "28869560",
+    "update_time": "2025-05-08 04:36:10",
     "depot": {
         "1192381": {
             "manifests": {
                 "public": {
-                    "gid": "1708278786344281251",
-                    "size": "3364425168",
-                    "download": "931738960"
+                    "gid": "3322923436573923790",
+                    "size": "5805679251",
+                    "download": "1322253888"
                 },
                 "test_builds": {
-                    "gid": "7684002491643669863",
-                    "size": "4643482683",
-                    "download": "1158927392"
+                    "gid": "3322923436573923790",
+                    "size": "5805679251",
+                    "download": "1322253888"
                 }
             },
             "decryptionkey": "3edc31ea8ca6c62405c07aebd58796aa20afc6d8030b4ec84a51e4c7ca5ef72f"
         },
         "branches": {
             "public": {
-                "buildid": "16820517",
-                "timeupdated": "1734742644"
+                "buildid": "18379476",
+                "timeupdated": "1746650165"
             },
             "test_builds": {
-                "buildid": "18078606",
+                "buildid": "18379476",
                 "description": "new builds",
-                "timeupdated": "1744410686"
+                "timeupdated": "1746648954"
             }
         }
     }
