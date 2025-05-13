@@ -4,17 +4,17 @@
     "name": "魔塔地牢",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28452417",
-    "update_time": "2025-04-13 18:41:28",
+    "change_number": "28731238",
+    "update_time": "2025-04-30 00:05:21",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
         "1725951": {
             "manifests": {
                 "public": {
-                    "gid": "1247322170245435375",
-                    "size": "415436575",
-                    "download": "190948320"
+                    "gid": "3776913240917857936",
+                    "size": "420940071",
+                    "download": "196465440"
                 },
                 "old-version": {
                     "gid": "3708418815746267643",
@@ -26,8 +26,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18083805",
-                "timeupdated": "1744466916"
+                "buildid": "18282600",
+                "timeupdated": "1745942715"
             },
             "old-version": {
                 "buildid": "17644247",
