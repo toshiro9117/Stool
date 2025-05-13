@@ -4,8 +4,8 @@
     "name": "Empyrion - Galactic Survival Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28519478",
-    "update_time": "2025-04-17 09:17:19",
+    "change_number": "28872878",
+    "update_time": "2025-05-08 09:20:24",
     "depot": {
         "1004": {
             "config": {
@@ -102,11 +102,6 @@
                     "gid": "98967298642520364",
                     "size": "8841902806",
                     "download": "3954029296"
-                },
-                "experimental": {
-                    "gid": "7220454482383168136",
-                    "size": "18404638918",
-                    "download": "11347427696"
                 }
             },
             "decryptionkey": "c54d338ba26d66063170bac5269c438ec026d6943bc068c084cc9ac192150170"
@@ -155,11 +150,6 @@
                 "buildid": "3799912",
                 "description": "Archive: Alpha 9",
                 "timeupdated": "1560769269"
-            },
-            "experimental": {
-                "buildid": "17851743",
-                "description": "Experimental branch",
-                "timeupdated": "1742909923"
             }
         },
         "privatebranches": "1"
