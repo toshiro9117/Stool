@@ -4,8 +4,8 @@
     "name": "Death Trash",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28522706",
-    "update_time": "2025-04-17 14:12:16",
+    "change_number": "28904361",
+    "update_time": "2025-05-09 23:14:14",
     "depot": {
         "941461": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "206127600"
                 },
                 "beta": {
-                    "gid": "7374695159028806298",
-                    "size": "896598818",
-                    "download": "211553200"
+                    "gid": "927547801957276746",
+                    "size": "898934219",
+                    "download": "212231232"
                 }
             },
             "decryptionkey": "b0d0698bc15a83cab9fc71594a209515ae28c498aa7bb7fc0adc69adee219d8e"
@@ -36,9 +36,9 @@
                     "download": "206461088"
                 },
                 "beta": {
-                    "gid": "6733632182771608419",
-                    "size": "892629972",
-                    "download": "212044960"
+                    "gid": "8620680224576464226",
+                    "size": "894390921",
+                    "download": "212697200"
                 }
             },
             "decryptionkey": "e252486cfcecfda173f7951b9bcc40f6089025ee745ff0d63302425863b04bf1"
@@ -54,9 +54,9 @@
                     "download": "206926592"
                 },
                 "beta": {
-                    "gid": "6467954917247030572",
-                    "size": "897935705",
-                    "download": "212578976"
+                    "gid": "844577494152021711",
+                    "size": "899686753",
+                    "download": "213179408"
                 }
             },
             "decryptionkey": "37ba5ad4fd87107b0094639a47dbeb9b4fa86eac62e3d7a2e226bcf0d76dff2e"
@@ -69,9 +69,9 @@
                 "timeupdated": "1739275339"
             },
             "beta": {
-                "buildid": "18099931",
+                "buildid": "18403610",
                 "description": "test builds",
-                "timeupdated": "1744638686"
+                "timeupdated": "1746796361"
             }
         },
         "privatebranches": "1",
