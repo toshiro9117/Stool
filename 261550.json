@@ -4,8 +4,8 @@
     "name": "Mount & Blade II: Bannerlord",
     "schinese_name": "骑马与砍杀2：霸主",
     "isfreeapp": "0",
-    "change_number": "28345148",
-    "update_time": "2025-04-07 20:04:30",
+    "change_number": "28922459",
+    "update_time": "2025-05-11 11:10:39",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -73,9 +73,9 @@
                     "download": "3502509312"
                 },
                 "perf_test": {
-                    "gid": "5949477879938844453",
-                    "size": "4861755779",
-                    "download": "3675424480"
+                    "gid": "544216263559871344",
+                    "size": "4861756291",
+                    "download": "3675423968"
                 },
                 "v1.0.0": {
                     "gid": "7068962424434400123",
@@ -218,9 +218,9 @@
                     "download": "36356305040"
                 },
                 "perf_test": {
-                    "gid": "4181376599077937487",
-                    "size": "47685197559",
-                    "download": "34701399072"
+                    "gid": "1277545138131310022",
+                    "size": "47685267467",
+                    "download": "34701574912"
                 },
                 "perf_test_beta": {
                     "gid": "143937934413201163",
@@ -362,9 +362,9 @@
                 "timeupdated": "1666359067"
             },
             "perf_test": {
-                "buildid": "15964278",
+                "buildid": "18294379",
                 "description": "Bannerlord Performance Test",
-                "timeupdated": "1728376265"
+                "timeupdated": "1746011282"
             },
             "perf_test_beta": {
                 "buildid": "9020173",
@@ -463,6 +463,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "979c4a097d819ee61862a7ad898e1a20dea3708a8dcbeaaa00a54c4975c1b107"
     }
 }
