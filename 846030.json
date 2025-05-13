@@ -4,8 +4,8 @@
     "name": "ΔV: Rings of Saturn",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28537794",
-    "update_time": "2025-04-18 04:42:11",
+    "change_number": "28896872",
+    "update_time": "2025-05-09 15:37:45",
     "depot": {
         "baselanguages": "english,polish",
         "hasdepotsindlc": "1",
@@ -25,9 +25,9 @@
                     "download": "799813984"
                 },
                 "experimental": {
-                    "gid": "6541301481812605556",
-                    "size": "1518726576",
-                    "download": "797820128"
+                    "gid": "8507195103714667136",
+                    "size": "1518734768",
+                    "download": "797821216"
                 }
             },
             "decryptionkey": "095ebd18370da2b2974902cfd88ddb05ebc4e930027d37328ebccce55ad1438b"
@@ -48,9 +48,9 @@
                     "download": "802374208"
                 },
                 "experimental": {
-                    "gid": "3192993913846557709",
-                    "size": "1527945032",
-                    "download": "800530992"
+                    "gid": "1319373989192541162",
+                    "size": "1527953224",
+                    "download": "800531312"
                 }
             }
         },
@@ -70,9 +70,9 @@
                     "download": "812870864"
                 },
                 "experimental": {
-                    "gid": "2772008906622928601",
-                    "size": "1546992026",
-                    "download": "804722848"
+                    "gid": "2122635187915717101",
+                    "size": "1547000218",
+                    "download": "804723168"
                 }
             }
         },
@@ -88,9 +88,9 @@
                 "timeupdated": "1743673789"
             },
             "experimental": {
-                "buildid": "18149542",
+                "buildid": "18399604",
                 "description": "bleeding edge - latest features",
-                "timeupdated": "1744922527"
+                "timeupdated": "1746776260"
             }
         },
         "privatebranches": "1"
