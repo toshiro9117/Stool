@@ -4,8 +4,8 @@
     "name": "Firelight Fantasy: Phoenix Crew",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28448140",
-    "update_time": "2025-04-13 05:10:31",
+    "change_number": "28891948",
+    "update_time": "2025-05-09 07:31:36",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1595001": {
             "manifests": {
                 "public": {
-                    "gid": "2489288262595259841",
-                    "size": "6514987280",
-                    "download": "3169283440"
+                    "gid": "2294691735998315566",
+                    "size": "2109555065",
+                    "download": "1988065696"
                 }
             },
             "decryptionkey": "055fc639d09b1f137bcfccec5a8fec3c44581c401ecaa16ccc9d4602270e9f3d"
         },
         "branches": {
             "public": {
-                "buildid": "6614193",
-                "timeupdated": "1619615782"
+                "buildid": "18339641",
+                "timeupdated": "1746390762"
             }
         }
     }
