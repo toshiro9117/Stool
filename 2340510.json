@@ -4,8 +4,8 @@
     "name": "Moon's Creed",
     "schinese_name": "黄道信条",
     "isfreeapp": "0",
-    "change_number": "28233412",
-    "update_time": "2025-04-01 01:54:24",
+    "change_number": "28875022",
+    "update_time": "2025-05-08 12:50:24",
     "depot": {
         "workshopdepot": "2340510",
         "2340511": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2380542240188492415",
-                    "size": "1590746976",
-                    "download": "1204260624"
+                    "gid": "3677724624023981286",
+                    "size": "1663888340",
+                    "download": "1220735504"
                 }
             },
             "decryptionkey": "6f68925b081efcf091d8028396312ae6a81cbff3b3b1450b8cdf8f3645fa895a"
         },
         "branches": {
             "public": {
-                "buildid": "17704682",
-                "timeupdated": "1741920190"
+                "buildid": "18383949",
+                "timeupdated": "1746679821"
             }
         },
         "privatebranches": "1",
