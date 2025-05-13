@@ -4,8 +4,8 @@
     "name": "抗日：血战上海滩",
     "schinese_name": "抗日：血战上海滩",
     "isfreeapp": "0",
-    "change_number": "28454128",
-    "update_time": "2025-04-13 23:08:47",
+    "change_number": "28914202",
+    "update_time": "2025-05-10 13:16:22",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "schinese",
@@ -183,17 +183,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2245555586867160461",
-                    "size": "2608077714",
-                    "download": "2468777024"
+                    "gid": "540877115920991064",
+                    "size": "2721993794",
+                    "download": "2558946880"
                 }
             },
             "decryptionkey": "cca5373dec7d2e739d961ddd0b010d502b2c049a191e5cea351e3db08fd49fa1"
         },
         "branches": {
             "public": {
-                "buildid": "17647597",
-                "timeupdated": "1741451601"
+                "buildid": "18406568",
+                "timeupdated": "1746811583"
             }
         }
     }
