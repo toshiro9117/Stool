@@ -4,8 +4,8 @@
     "name": "Sancticide",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548779",
-    "update_time": "2025-04-18 19:54:56",
+    "change_number": "28921649",
+    "update_time": "2025-05-11 08:23:11",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2635051": {
             "manifests": {
                 "public": {
-                    "gid": "3499158975749547705",
-                    "size": "15178196499",
-                    "download": "14794599280"
+                    "gid": "8149635095496041145",
+                    "size": "16660957174",
+                    "download": "16179616864"
                 }
             },
             "decryptionkey": "9d55bb1512a1aac31ebbecfc6c48b45e6e5f3f9a5436792544dd9ab17631cf68"
         },
         "branches": {
             "public": {
-                "buildid": "17926468",
-                "timeupdated": "1743435887"
+                "buildid": "18390531",
+                "timeupdated": "1746718751"
             }
         },
         "privatebranches": "1"
