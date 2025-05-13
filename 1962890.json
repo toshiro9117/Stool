@@ -4,8 +4,8 @@
     "name": "IN HEAT: Lustful Nights",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28320365",
-    "update_time": "2025-04-05 12:10:26",
+    "change_number": "28863820",
+    "update_time": "2025-05-07 22:46:44",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1574178055163096325",
-                    "size": "2402439859",
-                    "download": "1951303712"
+                    "gid": "5427303998429937336",
+                    "size": "2419675102",
+                    "download": "1975248784"
                 }
             },
             "decryptionkey": "ab7e60c39d99bce5621360d6d477edde9c110013223eb43348075d88a8d8ac4a"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3706226240525549024",
-                    "size": "2535854305",
-                    "download": "1988073424"
+                    "gid": "6441037293596306020",
+                    "size": "2542549817",
+                    "download": "2007924384"
                 }
             },
             "decryptionkey": "60717376a71cf4201f92d9a5b64cc89b8cdb76d48ac2a3ecaeb022a01b2d3c37"
@@ -46,17 +46,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "474130763324247907",
-                    "size": "2355130650",
-                    "download": "1864533264"
+                    "gid": "3300525415906113634",
+                    "size": "2381335343",
+                    "download": "1896213920"
                 }
             },
             "decryptionkey": "2fdfc7628e972abce5c5f744fccec79a1c0f4cd3e4782b58c608fcd0e44d4457"
         },
         "branches": {
             "public": {
-                "buildid": "17956728",
-                "timeupdated": "1743609088"
+                "buildid": "18369777",
+                "timeupdated": "1746629198"
             }
         },
         "privatebranches": "1"
