@@ -4,8 +4,8 @@
     "name": "封神榜重置版",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28511668",
-    "update_time": "2025-04-16 23:59:25",
+    "change_number": "28883278",
+    "update_time": "2025-05-08 21:58:26",
     "depot": {
         "baselanguages": "schinese",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7396404022529347499",
-                    "size": "216944780",
-                    "download": "82015264"
+                    "gid": "2779067480198278600",
+                    "size": "216478444",
+                    "download": "81925264"
                 }
             },
             "decryptionkey": "20736836ee781c40a4b50828e87681a664f2bade60914b02729080f522de119b"
@@ -39,8 +39,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18123348",
-                "timeupdated": "1744777376"
+                "buildid": "18389768",
+                "timeupdated": "1746712699"
             }
         }
     }
