@@ -4,8 +4,8 @@
     "name": "Starfield",
     "schinese_name": "星空",
     "isfreeapp": "0",
-    "change_number": "28549003",
-    "update_time": "2025-04-18 20:09:52",
+    "change_number": "28919028",
+    "update_time": "2025-05-11 01:26:29",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,japanese,polish,brazilian,latam",
         "hasdepotsindlc": "0",
@@ -29,6 +29,11 @@
                     "gid": "751978938301675949",
                     "size": "278043189",
                     "download": "110610272"
+                },
+                "beta": {
+                    "gid": "2927988234001225511",
+                    "size": "269349664",
+                    "download": "109248736"
                 }
             },
             "decryptionkey": "14c0bdb25d858d05a7381ba67a373aa99b50c5bd4cf78f1895751d418de29ceb"
@@ -39,6 +44,11 @@
                     "gid": "7986310915959292882",
                     "size": "132591031627",
                     "download": "98843824736"
+                },
+                "beta": {
+                    "gid": "3849704253201048171",
+                    "size": "134448195445",
+                    "download": "98912634352"
                 }
             },
             "decryptionkey": "f7ba0bf1fd70db2958682bc87fcab6dfe9a6f8ca774321df79b1d595d5be303b"
@@ -50,6 +60,11 @@
                     "gid": "1350450549444461803",
                     "size": "50772412",
                     "download": "51092320"
+                },
+                "beta": {
+                    "gid": "1350450549444461803",
+                    "size": "50772412",
+                    "download": "51092320"
                 }
             },
             "decryptionkey": "abb5f01b77e2f81e4b06049a0a17302bd7c9dacc7715b9536f6f3462ad51dd89"
@@ -58,6 +73,11 @@
             "dlcappid": "2401181",
             "manifests": {
                 "public": {
+                    "gid": "9009164480135609609",
+                    "size": "14760227",
+                    "download": "14823792"
+                },
+                "beta": {
                     "gid": "9009164480135609609",
                     "size": "14760227",
                     "download": "14823792"
@@ -74,6 +94,11 @@
                     "gid": "6130222291650010914",
                     "size": "6196630925",
                     "download": "6134147152"
+                },
+                "beta": {
+                    "gid": "7908035178130303133",
+                    "size": "6196685166",
+                    "download": "6134201264"
                 }
             },
             "decryptionkey": "d0a17417a778577c9edb2b58f5352ad326ba2def007a1e3eacd058ac4293907a"
@@ -87,6 +112,11 @@
                     "gid": "2653729515057724659",
                     "size": "6718314828",
                     "download": "6664229232"
+                },
+                "beta": {
+                    "gid": "7835038652843152485",
+                    "size": "6718353656",
+                    "download": "6664268096"
                 }
             },
             "decryptionkey": "a2c8d4541f82fe48dd2252b967d0af91f36454f141840c7f18ce4904a1300a54"
@@ -100,6 +130,11 @@
                     "gid": "6258419582587643496",
                     "size": "5712283609",
                     "download": "5643611472"
+                },
+                "beta": {
+                    "gid": "2728823519993102844",
+                    "size": "5716848392",
+                    "download": "5648157136"
                 }
             },
             "decryptionkey": "409f827297a516a03a1619f1f9c419da22001bf78297e4dcf3884af93b4b50c0"
@@ -113,6 +148,11 @@
                     "gid": "4421466911013142974",
                     "size": "6386887397",
                     "download": "6312976032"
+                },
+                "beta": {
+                    "gid": "8256719953704350900",
+                    "size": "6391750828",
+                    "download": "6317819216"
                 }
             },
             "decryptionkey": "03e63b3a66513fc8232b0675af0269ae351370508e1f988cbca4f6324ab7d86e"
@@ -126,6 +166,11 @@
                     "gid": "6017740933025035150",
                     "size": "6386887397",
                     "download": "6312976032"
+                },
+                "beta": {
+                    "gid": "1299082767590167920",
+                    "size": "6391750828",
+                    "download": "6317819216"
                 }
             },
             "decryptionkey": "bf59310131ad2859544a15359fc90c7dbdbd7c2fb1efb9e633a9044d6b07975f"
@@ -137,6 +182,11 @@
                     "gid": "357502057029216688",
                     "size": "9255913524",
                     "download": "5357389920"
+                },
+                "beta": {
+                    "gid": "3372380558904479288",
+                    "size": "10711718245",
+                    "download": "6805012544"
                 }
             },
             "decryptionkey": "34f5ffb0f43b8e1e3de155a0cea2f5e9f53c87b19431cf7e1bfe08e4d3806ff9"
@@ -148,6 +198,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7840312422557329126",
+                    "size": "1099928126",
+                    "download": "1089490544"
+                },
+                "beta": {
                     "gid": "7840312422557329126",
                     "size": "1099928126",
                     "download": "1089490544"
@@ -165,6 +220,11 @@
                     "gid": "1504624849949367816",
                     "size": "1117753931",
                     "download": "1107166800"
+                },
+                "beta": {
+                    "gid": "1504624849949367816",
+                    "size": "1117753931",
+                    "download": "1107166800"
                 }
             },
             "decryptionkey": "5e3835e229258b76be58c76fa52698064aaf2b04f7786a674ed7912b6556cf96"
@@ -176,6 +236,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1691563649532467395",
+                    "size": "1092019978",
+                    "download": "1081691040"
+                },
+                "beta": {
                     "gid": "1691563649532467395",
                     "size": "1092019978",
                     "download": "1081691040"
@@ -193,6 +258,11 @@
                     "gid": "4251571192310551992",
                     "size": "1131400346",
                     "download": "1120465616"
+                },
+                "beta": {
+                    "gid": "4251571192310551992",
+                    "size": "1131400346",
+                    "download": "1120465616"
                 }
             },
             "decryptionkey": "2444b0653ae7af96c558260ce936805ecda73dfe0a8647e5ff9c1e19d2669ecb"
@@ -207,6 +277,11 @@
                     "gid": "2326521295832541938",
                     "size": "1131400346",
                     "download": "1120465616"
+                },
+                "beta": {
+                    "gid": "2326521295832541938",
+                    "size": "1131400346",
+                    "download": "1120465616"
                 }
             },
             "decryptionkey": "9c9897d73ba01838de4bad44e2487bd6f103fe70ae45c088c56aeda7e8b3e9e0"
@@ -215,6 +290,11 @@
             "public": {
                 "buildid": "16177013",
                 "timeupdated": "1732031925"
+            },
+            "beta": {
+                "buildid": "18364459",
+                "description": "Beta",
+                "timeupdated": "1746631837"
             }
         },
         "privatebranches": "1"
