@@ -4,8 +4,8 @@
     "name": "Futanari★Coffee shop",
     "schinese_name": "扶她★咖啡店",
     "isfreeapp": "0",
-    "change_number": "28440261",
-    "update_time": "2025-04-12 10:09:25",
+    "change_number": "28800555",
+    "update_time": "2025-05-03 21:30:32",
     "depot": {
         "3306201": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2151541466172698923",
-                    "size": "1239681338",
-                    "download": "339566352"
+                    "gid": "6311651517535591968",
+                    "size": "1385022300",
+                    "download": "348964192"
                 }
             },
             "decryptionkey": "df0568186ef1858d1d4323e254ded42fb10a23af7da37d4b94f848fb79948da0"
         },
         "branches": {
             "public": {
-                "buildid": "17754394",
-                "timeupdated": "1742229947"
+                "buildid": "18232406",
+                "timeupdated": "1745548708"
             }
         },
         "privatebranches": "1"
