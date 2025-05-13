@@ -4,8 +4,8 @@
     "name": "Dungeon Clawler",
     "schinese_name": "抓抓地牢",
     "isfreeapp": "0",
-    "change_number": "28529911",
-    "update_time": "2025-04-17 21:30:27",
+    "change_number": "28881423",
+    "update_time": "2025-05-08 20:14:36",
     "depot": {
         "baselanguages": "english",
         "2356782": {
@@ -20,9 +20,9 @@
                     "download": "182423808"
                 },
                 "testing": {
-                    "gid": "3221811775163091749",
-                    "size": "1360955429",
-                    "download": "182423808"
+                    "gid": "6944885423369857489",
+                    "size": "1435603571",
+                    "download": "202309456"
                 }
             },
             "decryptionkey": "7b6a14efc42db13c57345a4d149afca6f1a16389dc609a5a3c3ad4a85cc61c73"
@@ -39,9 +39,9 @@
                     "download": "189530048"
                 },
                 "testing": {
-                    "gid": "8368485266699720519",
-                    "size": "1384298236",
-                    "download": "189530048"
+                    "gid": "8657399392211962494",
+                    "size": "1428526498",
+                    "download": "200292464"
                 }
             }
         },
@@ -57,9 +57,9 @@
                     "download": "181825680"
                 },
                 "testing": {
-                    "gid": "4188069199310193202",
-                    "size": "1399932275",
-                    "download": "181825680"
+                    "gid": "6129499382944775723",
+                    "size": "1474590633",
+                    "download": "201736240"
                 }
             }
         },
@@ -69,9 +69,9 @@
                 "timeupdated": "1744379811"
             },
             "testing": {
-                "buildid": "18042753",
+                "buildid": "18387928",
                 "description": "Test upcoming updates",
-                "timeupdated": "1744379767"
+                "timeupdated": "1746706471"
             }
         },
         "privatebranches": "1"
