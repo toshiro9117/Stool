@@ -4,15 +4,15 @@
     "name": "Teardown: Folkrace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528243",
-    "update_time": "2025-04-17 19:59:36",
+    "change_number": "28839429",
+    "update_time": "2025-05-06 18:38:45",
     "depot": {
         "2657060": {
             "manifests": {
                 "public": {
-                    "gid": "7351540651308401980",
-                    "size": "1964548884",
-                    "download": "1342861984"
+                    "gid": "834761181041569539",
+                    "size": "1964328947",
+                    "download": "1342638656"
                 }
             },
             "dlcappid": "2657060",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15982434",
-                "timeupdated": "1728561699"
+                "buildid": "18116346",
+                "timeupdated": "1745998743"
             }
         },
         "privatebranches": "1"
