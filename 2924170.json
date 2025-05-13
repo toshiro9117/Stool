@@ -1,0 +1,48 @@
+{
+    "appid": "2924170",
+    "type": "Game",
+    "name": "Stickman Strikes: Conquer Fantasy World",
+    "schinese_name": "火柴人征战异世界：开局只有一把刀",
+    "isfreeapp": "0",
+    "change_number": "28922675",
+    "update_time": "2025-05-11 12:04:12",
+    "depot": {
+        "2924171": {
+            "manifests": {
+                "public": {
+                    "gid": "5626742602474520149",
+                    "size": "4430588798",
+                    "download": "2224927792"
+                },
+                "0.1.60": {
+                    "gid": "8009334343796052449",
+                    "size": "4430589822",
+                    "download": "2224930576"
+                },
+                "earlypublic": {
+                    "gid": "5626742602474520149",
+                    "size": "4430588798",
+                    "download": "2224927792"
+                }
+            },
+            "decryptionkey": "393522aa3a1d1b12e3f17121b739135ea044d357466490221b2a83030a7d3c08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18412277",
+                "timeupdated": "1746936235"
+            },
+            "0.1.60": {
+                "buildid": "18417719",
+                "description": "stable version for 0.1.60",
+                "timeupdated": "1746934333"
+            },
+            "earlypublic": {
+                "buildid": "18412277",
+                "description": "earlypublic",
+                "timeupdated": "1746936246"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
