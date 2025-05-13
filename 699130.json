@@ -4,8 +4,8 @@
     "name": "World War Z",
     "schinese_name": "僵尸世界大战：劫后余生",
     "isfreeapp": "0",
-    "change_number": "28546461",
-    "update_time": "2025-04-18 17:16:12",
+    "change_number": "28836012",
+    "update_time": "2025-05-06 15:10:19",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7394710859242506024",
-                    "size": "71668616620",
-                    "download": "45398312960"
+                    "gid": "4637816073556083019",
+                    "size": "71640616364",
+                    "download": "45370930080"
                 }
             },
             "decryptionkey": "8e1c37df6ec32e30f09ea256f8732eb98b7955ec82c51c49960f0d078d057fbb"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17652672",
-                "timeupdated": "1744113652"
+                "buildid": "18111265",
+                "timeupdated": "1745928141"
             }
         },
         "privatebranches": "1"
