@@ -4,8 +4,8 @@
     "name": "Subterror",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28518716",
-    "update_time": "2025-04-17 08:15:01",
+    "change_number": "28735996",
+    "update_time": "2025-04-30 05:13:45",
     "depot": {
         "228988": {
             "config": {
@@ -17,17 +17,17 @@
         "2846061": {
             "manifests": {
                 "public": {
-                    "gid": "6022580736721561692",
-                    "size": "690900231",
-                    "download": "215431056"
+                    "gid": "4599018403425831861",
+                    "size": "666069613",
+                    "download": "211554256"
                 }
             },
             "decryptionkey": "b1d80f1d8515cb63bcd37272a489b6177c858c718d7b5a1d2e5d55d6a8fcdcdc"
         },
         "branches": {
             "public": {
-                "buildid": "16911497",
-                "timeupdated": "1736095061"
+                "buildid": "18186258",
+                "timeupdated": "1745283089"
             }
         },
         "privatebranches": "1"
