@@ -4,8 +4,8 @@
     "name": "Anvil Empires Pre-Alpha",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548153",
-    "update_time": "2025-04-18 19:04:23",
+    "change_number": "28917367",
+    "update_time": "2025-05-10 21:32:14",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "13121013312"
                 },
                 "devbranch": {
-                    "gid": "844918267310565487",
-                    "size": "31954980569",
-                    "download": "13057888272"
+                    "gid": "8430859856284256017",
+                    "size": "32193423782",
+                    "download": "13344608176"
                 }
             },
             "decryptionkey": "d0d2a76b71927a218ef36a3c895a008783f36427eabe5b6a46253ef25cfcdd25"
@@ -42,9 +42,9 @@
                 "timeupdated": "1743655482"
             },
             "devbranch": {
-                "buildid": "17730057",
+                "buildid": "18324869",
                 "description": "Early test branch",
-                "timeupdated": "1741986282"
+                "timeupdated": "1746213656"
             }
         },
         "privatebranches": "1"
