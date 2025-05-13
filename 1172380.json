@@ -4,8 +4,8 @@
     "name": "STAR WARS Jedi: Fallen Order™ ",
     "schinese_name": "《星球大战 绝地：陨落的武士团™》",
     "isfreeapp": "0",
-    "change_number": "28492365",
-    "update_time": "2025-04-16 01:26:03",
+    "change_number": "28904207",
+    "update_time": "2025-05-09 23:04:32",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -205,9 +205,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "3719635244465684485",
-                    "size": "234968631",
-                    "download": "237087072"
+                    "gid": "4695958403711974607",
+                    "size": "234273399",
+                    "download": "236385232"
                 }
             },
             "depotfromapp": "3340990",
