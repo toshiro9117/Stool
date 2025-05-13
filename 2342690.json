@@ -4,8 +4,8 @@
     "name": "Call of Boba",
     "schinese_name": "啵啵鸡物语",
     "isfreeapp": "0",
-    "change_number": "28520792",
-    "update_time": "2025-04-17 11:11:08",
+    "change_number": "28853975",
+    "update_time": "2025-05-07 11:54:29",
     "depot": {
         "baselanguages": "english,schinese",
         "2342691": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5797367751691867352",
-                    "size": "581034394",
-                    "download": "438937424"
+                    "gid": "5191573556533513984",
+                    "size": "581327295",
+                    "download": "439284048"
                 }
             },
             "decryptionkey": "8524186567e4fec57aff20fd2038618969b7f28370989336e7e6416599cf1c4b"
         },
         "branches": {
             "public": {
-                "buildid": "18158644",
-                "timeupdated": "1744986678"
+                "buildid": "18368502",
+                "timeupdated": "1746590063"
             }
         }
     }
