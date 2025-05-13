@@ -4,8 +4,8 @@
     "name": "Craftopia",
     "schinese_name": "Craftopia / 创世理想乡",
     "isfreeapp": "0",
-    "change_number": "28549750",
-    "update_time": "2025-04-18 21:06:22",
+    "change_number": "28919815",
+    "update_time": "2025-05-11 03:26:11",
     "depot": {
         "228989": {
             "config": {
@@ -32,9 +32,9 @@
                     "download": "3640890576"
                 },
                 "alpha-unstable": {
-                    "gid": "3111151976295610990",
-                    "size": "24007443591",
-                    "download": "9134298544"
+                    "gid": "8109066324009526968",
+                    "size": "24164828572",
+                    "download": "9177500304"
                 }
             },
             "decryptionkey": "12f11842a788e0b656032cfbaf79b2ee2e74e3f7715e25ddd2efe5c0a33afc35"
@@ -70,8 +70,8 @@
                 "timeupdated": "1687512703"
             },
             "alpha-unstable": {
-                "buildid": "17921076",
-                "timeupdated": "1743405236"
+                "buildid": "18296325",
+                "timeupdated": "1746161723"
             }
         },
         "privatebranches": "1",
