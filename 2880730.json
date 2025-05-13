@@ -4,8 +4,8 @@
     "name": "AI2U: With You 'Til The End",
     "schinese_name": " AI2U: 与你直到世界尽头 ~ 我的病娇猫娘AI女友",
     "isfreeapp": "0",
-    "change_number": "28416420",
-    "update_time": "2025-04-11 05:10:02",
+    "change_number": "28921715",
+    "update_time": "2025-05-11 08:34:58",
     "depot": {
         "baselanguages": "english,schinese,japanese,latam",
         "2880731": {
@@ -39,9 +39,9 @@
                     "download": "1562144496"
                 },
                 "beta": {
-                    "gid": "1881153613834526070",
-                    "size": "4399323072",
-                    "download": "1562144496"
+                    "gid": "1075602788635607192",
+                    "size": "5608294752",
+                    "download": "1691679104"
                 }
             },
             "decryptionkey": ""
@@ -74,15 +74,27 @@
                 "oslist": "macos"
             }
         },
+        "2880736": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "8347590943220219682",
+                    "size": "5726683082",
+                    "download": "1731298464"
+                }
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "17861661",
                 "timeupdated": "1742962426"
             },
             "beta": {
-                "buildid": "17861661",
+                "buildid": "18351084",
                 "description": "beta branch",
-                "timeupdated": "1742962433"
+                "timeupdated": "1746477995"
             }
         },
         "privatebranches": "1"
