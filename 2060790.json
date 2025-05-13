@@ -4,8 +4,8 @@
     "name": "Hauntii",
     "schinese_name": "幽灵霍迪",
     "isfreeapp": "0",
-    "change_number": "28491283",
-    "update_time": "2025-04-16 00:30:23",
+    "change_number": "28815951",
+    "update_time": "2025-05-05 11:09:18",
     "depot": {
         "hasdepotsindlc": "1",
         "2060791": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8038386853524132716",
-                    "size": "4804163981",
-                    "download": "659967872"
+                    "gid": "1330889922857133361",
+                    "size": "4805581977",
+                    "download": "660034224"
                 },
                 "open_beta": {
-                    "gid": "8038386853524132716",
-                    "size": "4804163981",
-                    "download": "659967872"
+                    "gid": "1330889922857133361",
+                    "size": "4805581977",
+                    "download": "660034224"
                 },
                 "local": {
                     "gid": "5141390205761373275",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16519655",
-                "timeupdated": "1732681319"
+                "buildid": "18337322",
+                "timeupdated": "1746414423"
             },
             "open_beta": {
-                "buildid": "16519655",
+                "buildid": "18337322",
                 "description": "open beta for testing new features",
-                "timeupdated": "1732504205"
+                "timeupdated": "1746353810"
             },
             "local": {
                 "buildid": "11074667",
