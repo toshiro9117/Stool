@@ -4,8 +4,8 @@
     "name": "Golden Treasure: The Great Green",
     "schinese_name": "龙族至宝：广茂之绿 (Golden Treasure: The Great Green)",
     "isfreeapp": "0",
-    "change_number": "28369322",
-    "update_time": "2025-04-09 00:12:17",
+    "change_number": "28918853",
+    "update_time": "2025-05-11 01:01:44",
     "depot": {
         "workshopdepot": "1065100",
         "1065101": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3419524784858541133",
-                    "size": "1438684238",
-                    "download": "929948112"
+                    "gid": "481366166278711556",
+                    "size": "1558515706",
+                    "download": "988284784"
                 }
             },
             "decryptionkey": "a1c5b0a512a02842c121d5046ecbe638c69185c05076d013ee2c097af144b30f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "671779181824502174",
-                    "size": "1442774825",
-                    "download": "927781680"
+                    "gid": "3959097070547084025",
+                    "size": "1564028220",
+                    "download": "986996640"
                 }
             }
         },
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15487191",
-                "timeupdated": "1724612608"
+                "buildid": "18415400",
+                "timeupdated": "1746896497"
             }
         },
         "privatebranches": "1",
