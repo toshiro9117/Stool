@@ -4,8 +4,8 @@
     "name": "Climbey",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26686449",
-    "update_time": "2024-12-18 09:01:04",
+    "change_number": "28844548",
+    "update_time": "2025-05-06 23:39:06",
     "depot": {
         "228986": {
             "config": {
@@ -24,14 +24,14 @@
         "520011": {
             "manifests": {
                 "public": {
-                    "gid": "4616029617013214818",
-                    "size": "478267326",
-                    "download": "156674928"
+                    "gid": "5593977519383980551",
+                    "size": "478266172",
+                    "download": "156674880"
                 },
                 "prereleasetest": {
-                    "gid": "4616029617013214818",
-                    "size": "478267326",
-                    "download": "156674928"
+                    "gid": "5593977519383980551",
+                    "size": "478266172",
+                    "download": "156674880"
                 }
             },
             "decryptionkey": "440514d6b253325af0c21da38287579b5d685fa51de2711a46a705045166c904"
@@ -39,13 +39,13 @@
         "workshopdepot": "520010",
         "branches": {
             "public": {
-                "buildid": "16106672",
-                "timeupdated": "1729335249"
+                "buildid": "18361520",
+                "timeupdated": "1746545923"
             },
             "prereleasetest": {
-                "buildid": "16106672",
+                "buildid": "18361520",
                 "description": "Pre-release test branch",
-                "timeupdated": "1729335216"
+                "timeupdated": "1746545939"
             }
         },
         "privatebranches": "1",
