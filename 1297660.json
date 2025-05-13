@@ -4,8 +4,8 @@
     "name": "Fragment's Moonrise",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26748215",
-    "update_time": "2024-12-22 03:19:39",
+    "change_number": "28685105",
+    "update_time": "2025-04-27 01:53:37",
     "depot": {
         "1297661": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4100325738611018978",
-                    "size": "3250256503",
-                    "download": "659378048"
+                    "gid": "6566870349212338560",
+                    "size": "3639714578",
+                    "download": "743302512"
                 }
             },
             "decryptionkey": "189bd4f0cd81206ffdfe0f930f6edb2b1c8513ecdbaa0a3f0b05e4836aed03c4"
@@ -26,12 +26,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1446674429234649910",
-                    "size": "3242331829",
-                    "download": "643873696"
+                    "gid": "1327024766536554738",
+                    "size": "3631416138",
+                    "download": "726966928"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9d8928007c6028b1a711b71cbe512aa8e704c0ae98eb4d69a43e0f171cc0281d"
         },
         "1297664": {
             "config": {
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3720254979519129340",
-                    "size": "3347331700",
-                    "download": "689156704"
+                    "gid": "3499247888549465413",
+                    "size": "3737962047",
+                    "download": "775064080"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7e4ce5bc441729d9cf5d9788f481373855cee0dc6a756f1689e3195a7a8ffd1c"
         },
         "branches": {
             "public": {
-                "buildid": "16825253",
-                "timeupdated": "1734808775"
+                "buildid": "18004973",
+                "timeupdated": "1743983515"
             }
         }
     }
