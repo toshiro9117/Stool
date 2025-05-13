@@ -4,8 +4,8 @@
     "name": "Gal Guardians: Servants of the Dark",
     "schinese_name": "少女魔役",
     "isfreeapp": "0",
-    "change_number": "28464274",
-    "update_time": "2025-04-14 18:07:52",
+    "change_number": "28906878",
+    "update_time": "2025-05-10 01:33:03",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -26,17 +26,17 @@
         "3253631": {
             "manifests": {
                 "public": {
-                    "gid": "6737255324107865145",
-                    "size": "4551778819",
-                    "download": "2247622752"
+                    "gid": "1926596816367932177",
+                    "size": "4587804283",
+                    "download": "2281556528"
                 }
             },
             "decryptionkey": "35b657ff529e35bc5bc2480eda73c452361b0e5875c1a66000bd08f5da5789a8"
         },
         "branches": {
             "public": {
-                "buildid": "17897376",
-                "timeupdated": "1743164241"
+                "buildid": "18237603",
+                "timeupdated": "1745581095"
             }
         },
         "privatebranches": "1"
