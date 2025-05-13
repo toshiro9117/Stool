@@ -4,8 +4,8 @@
     "name": "Selaco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541853",
-    "update_time": "2025-04-18 10:51:52",
+    "change_number": "28892015",
+    "update_time": "2025-05-09 07:38:35",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -188,14 +188,14 @@
                     "download": "255039552"
                 },
                 "nightly": {
-                    "gid": "2893659601004730274",
-                    "size": "49217672",
-                    "download": "25819440"
+                    "gid": "4616701269030847118",
+                    "size": "48988278",
+                    "download": "25786848"
                 },
                 "publicbetabranch": {
-                    "gid": "2082386257046920423",
-                    "size": "25996699",
-                    "download": "12286544"
+                    "gid": "657588189975344201",
+                    "size": "48986742",
+                    "download": "25784416"
                 },
                 "v0.83e": {
                     "gid": "2735229461727600988",
@@ -242,14 +242,14 @@
                     "download": "52869152"
                 },
                 "nightly": {
-                    "gid": "8480564893533401905",
-                    "size": "39717666",
-                    "download": "15546224"
+                    "gid": "8664474526036479354",
+                    "size": "39739152",
+                    "download": "15556256"
                 },
                 "publicbetabranch": {
-                    "gid": "7315607498132254290",
-                    "size": "39659066",
-                    "download": "15520432"
+                    "gid": "3527766283432462753",
+                    "size": "39739152",
+                    "download": "15557056"
                 },
                 "v0.83e": {
                     "gid": "4799721018872158115",
@@ -291,14 +291,14 @@
                     "download": "0"
                 },
                 "nightly": {
-                    "gid": "8070399667731969374",
-                    "size": "1250019959",
-                    "download": "1237322720"
+                    "gid": "8016146992495805857",
+                    "size": "1026611244",
+                    "download": "1018446448"
                 },
                 "publicbetabranch": {
-                    "gid": "8674044097316418018",
-                    "size": "1249983455",
-                    "download": "1237222528"
+                    "gid": "8987430526427337302",
+                    "size": "1253111566",
+                    "download": "1240224288"
                 },
                 "v0.83e": {
                     "gid": "2779831128478491081",
@@ -344,14 +344,14 @@
                 "timeupdated": "1731423086"
             },
             "nightly": {
-                "buildid": "18163981",
+                "buildid": "18395923",
                 "description": "Frequent updates, most unstable",
-                "timeupdated": "1745027852"
+                "timeupdated": "1746747511"
             },
             "publicbetabranch": {
-                "buildid": "18075836",
+                "buildid": "18302208",
                 "description": "Beta Testing upcoming features",
-                "timeupdated": "1744393172"
+                "timeupdated": "1746049567"
             },
             "v0.83e": {
                 "buildid": "14878676",
