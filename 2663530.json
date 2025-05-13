@@ -4,8 +4,8 @@
     "name": "POOLS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545967",
-    "update_time": "2025-04-18 16:44:06",
+    "change_number": "28680951",
+    "update_time": "2025-04-26 17:23:37",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,finnish,hungarian,czech,turkish,arabic,brazilian,greek,ukrainian,latam,indonesian",
         "2663531": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3587837672588971633",
-                    "size": "4247669671",
-                    "download": "1928357328"
+                    "gid": "1734998668566433392",
+                    "size": "7343556880",
+                    "download": "2938083024"
                 },
                 "14.6.24": {
                     "gid": "3410095994343535477",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2480126652553011451",
-                    "size": "4302858774",
-                    "download": "1940897536"
+                    "gid": "1672211956575487861",
+                    "size": "7495267170",
+                    "download": "2992372608"
                 },
                 "14.6.24": {
                     "gid": "6552084072648259899",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5608284630990180150",
-                    "size": "4399349129",
-                    "download": "1938842080"
+                    "gid": "2580495235102679429",
+                    "size": "7510519153",
+                    "download": "2959397728"
                 },
                 "14.6.24": {
                     "gid": "3590174018601143663",
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16745362",
-                "timeupdated": "1734362769"
+                "buildid": "18248564",
+                "timeupdated": "1745659413"
             },
             "14.6.24": {
                 "buildid": "14736392",
