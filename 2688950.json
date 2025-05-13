@@ -4,8 +4,8 @@
     "name": "Planet Coaster 2",
     "schinese_name": "过山车之星2",
     "isfreeapp": "0",
-    "change_number": "28535341",
-    "update_time": "2025-04-18 02:04:45",
+    "change_number": "28910560",
+    "update_time": "2025-05-10 06:02:00",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2688951": {
             "manifests": {
                 "public": {
-                    "gid": "1101547628296682080",
-                    "size": "21310333822",
-                    "download": "8501592384"
+                    "gid": "9161123606363117087",
+                    "size": "21523477973",
+                    "download": "8570510944"
                 }
             },
             "decryptionkey": "d1fc4044f8dbec56ccd7ccac0a38810470c5fecf00dedc36a294c39453f9adb0"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,dutch,czech,brazilian",
         "branches": {
             "public": {
-                "buildid": "17711328",
-                "timeupdated": "1742468444"
+                "buildid": "18264460",
+                "timeupdated": "1746093589"
             }
         },
         "privatebranches": "1"
