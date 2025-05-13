@@ -4,8 +4,8 @@
     "name": "Scourge Of War - Remastered",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539797",
-    "update_time": "2025-04-18 07:42:19",
+    "change_number": "28730537",
+    "update_time": "2025-04-29 23:28:32",
     "depot": {
         "228989": {
             "config": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3634261082601292939",
-                    "size": "3671626493",
-                    "download": "847370784"
+                    "gid": "7864739264706713630",
+                    "size": "3671614800",
+                    "download": "847415952"
                 },
                 "beta": {
-                    "gid": "650907578262662434",
-                    "size": "3671612521",
-                    "download": "847414672"
+                    "gid": "7864739264706713630",
+                    "size": "3671614800",
+                    "download": "847415952"
                 }
             },
             "decryptionkey": "53b677bd1c09ce8b076074bd7cb31e530faf10940692714aa754df801443ca69"
@@ -44,13 +44,13 @@
         "workshopdepot": "2205330",
         "branches": {
             "public": {
-                "buildid": "17066634",
-                "timeupdated": "1737387546"
+                "buildid": "18258168",
+                "timeupdated": "1745786641"
             },
             "beta": {
-                "buildid": "18151079",
+                "buildid": "18258168",
                 "description": "test version",
-                "timeupdated": "1744933335"
+                "timeupdated": "1745786472"
             }
         },
         "workshopdepotdecryptionkey": "6b562f37bd1d06ebcbb6d57f9e659578a0907f9221dc6968cd98cf56ca6a7cbc"
