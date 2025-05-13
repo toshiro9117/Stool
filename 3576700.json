@@ -4,8 +4,8 @@
     "name": "Barcha",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28505594",
-    "update_time": "2025-04-16 18:12:48",
+    "change_number": "28838024",
+    "update_time": "2025-05-06 17:12:19",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3576701": {
             "manifests": {
                 "public": {
-                    "gid": "6785842679403433673",
-                    "size": "5963845245",
-                    "download": "5621055872"
+                    "gid": "7189271608889389099",
+                    "size": "5967010653",
+                    "download": "5624468368"
                 }
             },
             "decryptionkey": "8a84ed2cea66e9e2a3bd1bca37ca2f590f7e2310c463bc76eb8dd302702bc13d"
         },
         "branches": {
             "public": {
-                "buildid": "18110642",
-                "timeupdated": "1744705860"
+                "buildid": "18357006",
+                "timeupdated": "1746522735"
             }
         }
     }
