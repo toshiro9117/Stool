@@ -4,8 +4,8 @@
     "name": "Nordhold",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28527693",
-    "update_time": "2025-04-17 19:22:52",
+    "change_number": "28921930",
+    "update_time": "2025-05-11 09:12:59",
     "depot": {
         "baselanguages": "english",
         "3028311": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4178973597093520798",
-                    "size": "1766385264",
-                    "download": "365999568"
+                    "gid": "1302140078595509051",
+                    "size": "2064935864",
+                    "download": "404520656"
                 }
             },
             "decryptionkey": "553fc1b6d6075185f02a8eba5821d274d56536e35f297a4733b779552e9b07e7"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8814241101117625932",
-                    "size": "1858381956",
-                    "download": "386557248"
+                    "gid": "5927685249792041335",
+                    "size": "2157201364",
+                    "download": "442173184"
                 }
             },
             "decryptionkey": "2407db94a13666878dc806ac384b2af3741cce1a7499122097f3b1cd57b670e2"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7617461203180428040",
-                    "size": "1833001136",
-                    "download": "386000944"
+                    "gid": "8488006223424062743",
+                    "size": "2131653748",
+                    "download": "440621040"
                 }
             },
             "decryptionkey": "e86a6f9d2c72b0fb239862435f6b8c4c431acc28a8734d846ed3032fc6b5f4fe"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18119841",
-                "timeupdated": "1744756501"
+                "buildid": "18417397",
+                "timeupdated": "1746925974"
             }
         },
         "privatebranches": "1"
