@@ -4,8 +4,8 @@
     "name": "Utopia Must Fall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28474372",
-    "update_time": "2025-04-15 04:39:30",
+    "change_number": "28918978",
+    "update_time": "2025-05-11 01:19:10",
     "depot": {
         "228989": {
             "config": {
@@ -25,14 +25,14 @@
                     "download": "136623680"
                 },
                 "beta": {
-                    "gid": "533524706283688898",
-                    "size": "314591447",
-                    "download": "136623680"
+                    "gid": "6404818337310340827",
+                    "size": "329746656",
+                    "download": "150727648"
                 },
                 "experimental": {
-                    "gid": "856319565012595053",
-                    "size": "287526163",
-                    "download": "112402288"
+                    "gid": "6404818337310340827",
+                    "size": "329746656",
+                    "download": "150727648"
                 },
                 "intel_mac": {
                     "gid": "8124043454766932707",
@@ -52,14 +52,14 @@
                     "download": "152186384"
                 },
                 "beta": {
-                    "gid": "6623398348157547914",
-                    "size": "345765457",
-                    "download": "152186384"
+                    "gid": "963502677281695389",
+                    "size": "360883390",
+                    "download": "166281600"
                 },
                 "experimental": {
-                    "gid": "4537864760663296667",
-                    "size": "318723475",
-                    "download": "127969776"
+                    "gid": "963502677281695389",
+                    "size": "360883390",
+                    "download": "166281600"
                 },
                 "intel_mac": {
                     "gid": "6623398348157547914",
@@ -75,14 +75,14 @@
                 "timeupdated": "1738342922"
             },
             "beta": {
-                "buildid": "17186631",
+                "buildid": "18408661",
                 "description": "testing branch",
-                "timeupdated": "1738252143"
+                "timeupdated": "1746824195"
             },
             "experimental": {
-                "buildid": "16506919",
+                "buildid": "18408661",
                 "description": "super top secret",
-                "timeupdated": "1732322021"
+                "timeupdated": "1746823749"
             },
             "intel_mac": {
                 "buildid": "17397320",
