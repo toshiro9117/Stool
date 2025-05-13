@@ -4,8 +4,8 @@
     "name": "dotAGE",
     "schinese_name": "点老救世记 - dotAGE",
     "isfreeapp": "0",
-    "change_number": "28485739",
-    "update_time": "2025-04-15 19:29:54",
+    "change_number": "28638015",
+    "update_time": "2025-04-24 14:55:28",
     "depot": {
         "baselanguages": "english,italian",
         "638511": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5851330587750022024",
-                    "size": "568892138",
-                    "download": "269527376"
+                    "gid": "2841280664207174612",
+                    "size": "568942697",
+                    "download": "269542192"
                 },
                 "experimental": {
                     "gid": "6845278691521079059",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9186830435912190082",
-                    "size": "645394383",
-                    "download": "286748880"
+                    "gid": "4338068972211522806",
+                    "size": "645411271",
+                    "download": "286727872"
                 },
                 "experimental": {
                     "gid": "7556939543635589855",
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5251764088720914603",
-                    "size": "635102872",
-                    "download": "276522144"
+                    "gid": "8635019693160294620",
+                    "size": "635154550",
+                    "download": "276561728"
                 },
                 "experimental": {
                     "gid": "3659312002052960088",
@@ -93,8 +93,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18081946",
-                "timeupdated": "1744443431"
+                "buildid": "18196061",
+                "timeupdated": "1745340218"
             },
             "experimental": {
                 "buildid": "16759137",
