@@ -4,8 +4,8 @@
     "name": "Starground",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28248403",
-    "update_time": "2025-04-01 20:44:35",
+    "change_number": "28912083",
+    "update_time": "2025-05-10 08:18:13",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish,danish,dutch,brazilian,latam",
         "2793381": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6017170846520997954",
-                    "size": "316997024",
-                    "download": "237461056"
+                    "gid": "6650216854920575051",
+                    "size": "317029840",
+                    "download": "237471424"
                 },
                 "compatibility": {
                     "gid": "3496697257740229307",
@@ -25,9 +25,9 @@
                     "download": "232557552"
                 },
                 "experimental": {
-                    "gid": "7383016702108829478",
-                    "size": "236043288",
-                    "download": "157757872"
+                    "gid": "5050799849519722872",
+                    "size": "398927904",
+                    "download": "317509472"
                 }
             },
             "decryptionkey": "4f7ea5e06d0257cdd9dd17bdee5da6ad9cbd4c81f6e096907f7c23221c654689"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8369007710757490067",
-                    "size": "319566072",
-                    "download": "239081536"
+                    "gid": "5218051593364219849",
+                    "size": "319598872",
+                    "download": "239092720"
                 },
                 "compatibility": {
                     "gid": "7670500494538648642",
@@ -48,17 +48,16 @@
                     "download": "234404256"
                 },
                 "experimental": {
-                    "gid": "4827618138541839997",
-                    "size": "242591776",
-                    "download": "159603296"
+                    "gid": "1024567072036956397",
+                    "size": "401500152",
+                    "download": "319152304"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17939628",
-                "timeupdated": "1743511469"
+                "buildid": "18078825",
+                "timeupdated": "1744490578"
             },
             "compatibility": {
                 "buildid": "17307102",
@@ -66,9 +65,9 @@
                 "timeupdated": "1739193118"
             },
             "experimental": {
-                "buildid": "16479869",
+                "buildid": "18410295",
                 "description": "Contains experimental features and content that isn't stable enough for the main branch yet",
-                "timeupdated": "1732151360"
+                "timeupdated": "1746836290"
             }
         }
     }
