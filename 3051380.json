@@ -4,8 +4,8 @@
     "name": "lofi aquarium",
     "schinese_name": "洛菲水族馆 · Lofi Aquarium",
     "isfreeapp": "0",
-    "change_number": "28313612",
-    "update_time": "2025-04-05 01:18:38",
+    "change_number": "28574332",
+    "update_time": "2025-04-21 02:59:35",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "3051381": {
             "manifests": {
                 "public": {
-                    "gid": "517921239813481488",
-                    "size": "485037453",
-                    "download": "162613952"
+                    "gid": "1770648580080176308",
+                    "size": "485039292",
+                    "download": "162613376"
                 }
             },
             "decryptionkey": "5fcfb32effeb4f67d8a9f23bb27db5e3c5cbda63e30f12615b70f40ea8c7771d"
@@ -27,8 +27,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,dutch,ukrainian",
         "branches": {
             "public": {
-                "buildid": "17563785",
-                "timeupdated": "1740901218"
+                "buildid": "18172635",
+                "timeupdated": "1745149719"
             }
         }
     }
