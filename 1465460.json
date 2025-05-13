@@ -4,8 +4,8 @@
     "name": "Infection Free Zone",
     "schinese_name": "Infection Free Zone (无感染区)",
     "isfreeapp": "0",
-    "change_number": "28546206",
-    "update_time": "2025-04-18 17:03:28",
+    "change_number": "28922409",
+    "update_time": "2025-05-11 10:57:32",
     "depot": {
         "1465461": {
             "config": {
@@ -13,19 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4259585128991353192",
-                    "size": "6712915357",
-                    "download": "4331399824"
+                    "gid": "1052928955024932300",
+                    "size": "6715290813",
+                    "download": "4332150928"
                 },
                 "experimental": {
-                    "gid": "1052928955024932300",
-                    "size": "6715290813",
-                    "download": "4332150928"
+                    "gid": "1991362182568646601",
+                    "size": "6813794216",
+                    "download": "4411830000"
                 },
                 "open_beta": {
-                    "gid": "1052928955024932300",
-                    "size": "6715290813",
-                    "download": "4332150928"
+                    "gid": "1991362182568646601",
+                    "size": "6813794216",
+                    "download": "4411830000"
                 },
                 "previous": {
                     "gid": "7274917212609041006",
@@ -38,18 +38,18 @@
         "workshopdepot": "1465460",
         "branches": {
             "public": {
-                "buildid": "18065666",
-                "timeupdated": "1744638131"
+                "buildid": "18158646",
+                "timeupdated": "1745334433"
             },
             "experimental": {
-                "buildid": "18158646",
+                "buildid": "18397526",
                 "description": "For experimental builds - highly unstable",
-                "timeupdated": "1745001057"
+                "timeupdated": "1746801877"
             },
             "open_beta": {
-                "buildid": "18158646",
+                "buildid": "18397526",
                 "description": "New builds still in testing",
-                "timeupdated": "1745001087"
+                "timeupdated": "1746801887"
             },
             "previous": {
                 "buildid": "17968692",
