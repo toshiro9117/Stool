@@ -4,8 +4,8 @@
     "name": "Echoes of Yi : Samsara",
     "schinese_name": "义闻录：轮回",
     "isfreeapp": "0",
-    "change_number": "28549663",
-    "update_time": "2025-04-18 21:01:08",
+    "change_number": "28920677",
+    "update_time": "2025-05-11 05:32:21",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2776941": {
             "manifests": {
                 "public": {
-                    "gid": "2962401766182295374",
-                    "size": "25067447283",
-                    "download": "24300659424"
+                    "gid": "2165618518356813725",
+                    "size": "23445450868",
+                    "download": "22704782128"
                 }
             },
             "decryptionkey": "5405af9cbdda39dc278fb8dd7b2dca27fc7c9f441a61a3487c8ae40ea29199ad"
         },
         "branches": {
             "public": {
-                "buildid": "18154004",
-                "timeupdated": "1744956006"
+                "buildid": "18321989",
+                "timeupdated": "1746201481"
             }
         },
         "privatebranches": "1"
