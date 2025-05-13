@@ -4,8 +4,8 @@
     "name": "Liftoff - Slipstream",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28536656",
-    "update_time": "2025-04-18 03:24:38",
+    "change_number": "28738167",
+    "update_time": "2025-04-30 08:17:28",
     "depot": {
         "2019791": {
             "config": {
@@ -14,7 +14,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5107871560928533355",
+                    "gid": "6691095137892503501",
                     "size": "453319919",
                     "download": "398719088"
                 },
@@ -22,11 +22,6 @@
                     "gid": "2154162973872170749",
                     "size": "451686622",
                     "download": "397364480"
-                },
-                "elimination_tournaments": {
-                    "gid": "2485999928940684450",
-                    "size": "502083034",
-                    "download": "439787120"
                 }
             },
             "dlcappid": "2019790",
@@ -39,19 +34,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3239997495063028361",
+                    "gid": "1769805663611434926",
                     "size": "451570909",
-                    "download": "398230528"
+                    "download": "398230512"
                 },
                 "liftoff_1.4.10": {
                     "gid": "1688721099704384918",
                     "size": "448893038",
                     "download": "395265600"
-                },
-                "elimination_tournaments": {
-                    "gid": "1773165174588172233",
-                    "size": "499473500",
-                    "download": "438947456"
                 }
             },
             "dlcappid": "2019790",
@@ -64,7 +54,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4484543070402425001",
+                    "gid": "8332971491245359517",
                     "size": "452979778",
                     "download": "398534032"
                 },
@@ -72,11 +62,6 @@
                     "gid": "5718358982979568341",
                     "size": "451326986",
                     "download": "396350848"
-                },
-                "elimination_tournaments": {
-                    "gid": "438553227245953467",
-                    "size": "501848792",
-                    "download": "439862048"
                 }
             },
             "dlcappid": "2019790",
@@ -84,18 +69,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18148205",
-                "timeupdated": "1744917874"
+                "buildid": "18286123",
+                "timeupdated": "1745960971"
             },
             "liftoff_1.4.10": {
                 "buildid": "9940939",
                 "description": "Liftoff Legacy v1.4",
                 "timeupdated": "1674033911"
-            },
-            "elimination_tournaments": {
-                "buildid": "16184396",
-                "description": "Elimination tournament testing",
-                "timeupdated": "1730200320"
             }
         },
         "privatebranches": "1"
