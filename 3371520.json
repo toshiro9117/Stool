@@ -4,8 +4,8 @@
     "name": "Tea House Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28518145",
-    "update_time": "2025-04-17 07:26:18",
+    "change_number": "28917422",
+    "update_time": "2025-05-10 21:41:23",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8954866211738562072",
-                    "size": "10709076141",
-                    "download": "8477402336"
+                    "gid": "4813579203566817855",
+                    "size": "10057540204",
+                    "download": "7906875952"
                 }
             },
             "decryptionkey": "00e9df12bbfdb8dc5c6a3426b656f15bf920ea6be40c7d798819e8086aaaaa8f"
         },
         "branches": {
             "public": {
-                "buildid": "18089764",
-                "timeupdated": "1744551000"
+                "buildid": "18414442",
+                "timeupdated": "1746884478"
             }
         }
     }
