@@ -4,8 +4,8 @@
     "name": "Priest Simulator: Vampire Show",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28535225",
-    "update_time": "2025-04-18 01:58:19",
+    "change_number": "28889547",
+    "update_time": "2025-05-09 04:09:19",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "950621": {
             "manifests": {
                 "public": {
-                    "gid": "5703918165293249417",
-                    "size": "13660220418",
-                    "download": "12747828656"
+                    "gid": "5540413385091083501",
+                    "size": "13660916364",
+                    "download": "12744654432"
                 }
             },
             "decryptionkey": "f0a967c2d200e58f94b1dc142e07f6c93ca43ca1ff93802cbd015b9005df0717"
         },
         "branches": {
             "public": {
-                "buildid": "16381755",
-                "timeupdated": "1733414452"
+                "buildid": "18390005",
+                "timeupdated": "1746734954"
             }
         },
         "privatebranches": "1"
