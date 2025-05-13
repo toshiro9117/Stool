@@ -4,8 +4,8 @@
     "name": "Age of Wonders 4",
     "schinese_name": "奇迹时代4",
     "isfreeapp": "0",
-    "change_number": "28531236",
-    "update_time": "2025-04-17 22:36:28",
+    "change_number": "28902261",
+    "update_time": "2025-05-09 21:07:38",
     "depot": {
         "workshopdepot": "1669000",
         "228988": {
@@ -32,14 +32,14 @@
         "1669001": {
             "manifests": {
                 "public": {
-                    "gid": "4780273739440295813",
-                    "size": "25676785570",
-                    "download": "14322080928"
+                    "gid": "662824562549072781",
+                    "size": "25661155698",
+                    "download": "14311459408"
                 },
                 "open_beta": {
-                    "gid": "9077094078295482414",
-                    "size": "25661151350",
-                    "download": "14311456752"
+                    "gid": "662824562549072781",
+                    "size": "25661155698",
+                    "download": "14311459408"
                 }
             },
             "decryptionkey": "c9f8c2fa2410e5cdca74811acc196b199d9831a62e6f4365e521fcadca9d12a5"
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6847581836963238046",
-                    "size": "358220734",
-                    "download": "116520640"
+                    "gid": "8566602799708842069",
+                    "size": "358218686",
+                    "download": "116496064"
                 },
                 "open_beta": {
-                    "gid": "871858719719282006",
+                    "gid": "8566602799708842069",
                     "size": "358218686",
-                    "download": "116512640"
+                    "download": "116496064"
                 }
             },
             "decryptionkey": "c4f706f7261dee685e2d74998d61a7b4fb175bb47659cce89b560f89fe30ff61"
@@ -225,13 +225,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18043454",
-                "timeupdated": "1744721860"
+                "buildid": "18209604",
+                "timeupdated": "1745931437"
             },
             "open_beta": {
-                "buildid": "18145121",
+                "buildid": "18209604",
                 "description": "Branch for pre-release Testing",
-                "timeupdated": "1744900584"
+                "timeupdated": "1745931661"
             }
         },
         "privatebranches": "1",
