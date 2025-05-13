@@ -4,15 +4,15 @@
     "name": "Milling machine simulator",
     "schinese_name": "铣削机模拟器",
     "isfreeapp": "0",
-    "change_number": "28303473",
-    "update_time": "2025-04-04 15:16:23",
+    "change_number": "28710713",
+    "update_time": "2025-04-29 00:53:59",
     "depot": {
         "1787961": {
             "manifests": {
                 "public": {
-                    "gid": "2418655854504337670",
-                    "size": "4651706462",
-                    "download": "1055262208"
+                    "gid": "2034173127032521427",
+                    "size": "4715666529",
+                    "download": "1066351856"
                 }
             },
             "decryptionkey": "3b607d998f0743eab417b67359783a77214886d5932bcc9cb0c8ba05b572b369"
@@ -20,8 +20,8 @@
         "workshopdepot": "1787960",
         "branches": {
             "public": {
-                "buildid": "17037188",
-                "timeupdated": "1737102384"
+                "buildid": "18208627",
+                "timeupdated": "1745485262"
             }
         },
         "privatebranches": "1",
