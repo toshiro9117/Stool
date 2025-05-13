@@ -4,8 +4,8 @@
     "name": "War for the Overworld",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28270271",
-    "update_time": "2025-04-02 22:34:13",
+    "change_number": "28900049",
+    "update_time": "2025-05-09 18:53:22",
     "depot": {
         "228983": {
             "config": {
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6560599814231471542",
-                    "size": "5206356135",
-                    "download": "3325175552"
+                    "gid": "8653539393140774943",
+                    "size": "5206388312",
+                    "download": "3325182208"
                 },
                 "unity5.4.6": {
                     "gid": "7719871111992929700",
@@ -73,9 +73,9 @@
                     "download": "3100196512"
                 },
                 "previousbuild": {
-                    "gid": "2798321254169426233",
-                    "size": "4879307268",
-                    "download": "3128613856"
+                    "gid": "1307416349493382909",
+                    "size": "4928019086",
+                    "download": "3145483360"
                 }
             },
             "decryptionkey": "b34ef0d97fd6f23c54c12dbd08e27ab0f6894a0e41d2495654c041fb4baf440e"
@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7623637844948753627",
-                    "size": "5183665462",
-                    "download": "3320129520"
+                    "gid": "3695005710119051091",
+                    "size": "5183694439",
+                    "download": "3320120464"
                 },
                 "unity5.4.6": {
                     "gid": "5610101454764906547",
@@ -102,9 +102,9 @@
                     "download": "3097849648"
                 },
                 "previousbuild": {
-                    "gid": "5360982660220226019",
-                    "size": "4856482363",
-                    "download": "3123789680"
+                    "gid": "4633568784424312959",
+                    "size": "4905285317",
+                    "download": "3140450560"
                 }
             },
             "decryptionkey": "ed9a800119d4a7b97a868c441c984f7ff75a59feb5889f084e57e8693f7b4d75"
@@ -115,9 +115,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7035278785599563293",
-                    "size": "5334149063",
-                    "download": "3344498688"
+                    "gid": "6457118822511139324",
+                    "size": "5334181242",
+                    "download": "3344486608"
                 },
                 "unity5.4.6": {
                     "gid": "5995051383536392273",
@@ -130,9 +130,9 @@
                     "download": "3126183872"
                 },
                 "previousbuild": {
-                    "gid": "3149003248967720073",
-                    "size": "5007100710",
-                    "download": "3148207616"
+                    "gid": "6082784578259155614",
+                    "size": "5055812526",
+                    "download": "3164916480"
                 }
             },
             "decryptionkey": "6daadfbe8cc7b4aa43e2fc8067d71d65cc5cf2d942a7f590bd993814e634f531"
@@ -144,9 +144,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4412573720433174765",
-                    "size": "5209998854",
-                    "download": "3321667872"
+                    "gid": "5593055864200163495",
+                    "size": "5210027127",
+                    "download": "3321690048"
                 },
                 "unity5.4.6": {
                     "gid": "4798022965598679129",
@@ -159,9 +159,9 @@
                     "download": "3099317264"
                 },
                 "previousbuild": {
-                    "gid": "4460454685479671407",
-                    "size": "4882815755",
-                    "download": "3125220480"
+                    "gid": "4915733392981945711",
+                    "size": "4931618709",
+                    "download": "3142153088"
                 }
             },
             "decryptionkey": "d690a16150e6f3f2bf5151dea3aea419582e7e68f816c4c192e2b06a4fe10391"
@@ -194,8 +194,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17943269",
-                "timeupdated": "1743604447"
+                "buildid": "18401539",
+                "timeupdated": "1746787998"
             },
             "unity5.4.6": {
                 "buildid": "3877000",
@@ -208,12 +208,12 @@
                 "timeupdated": "1649780905"
             },
             "previousbuild": {
-                "buildid": "12451031",
+                "buildid": "15743045",
                 "description": "Previous build (2.1.0f5)",
-                "timeupdated": "1716473047"
+                "timeupdated": "1746097610"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ee79f52a837bf55b085cfafc78f977b299e905ff1d44a73db624d4603deac588"
     }
 }
