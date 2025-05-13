@@ -4,8 +4,8 @@
     "name": "Gas Station Simulator",
     "schinese_name": "加油站大亨",
     "isfreeapp": "0",
-    "change_number": "28549647",
-    "update_time": "2025-04-18 21:00:32",
+    "change_number": "28906880",
+    "update_time": "2025-05-10 01:33:10",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,turkish",
         "hasdepotsindlc": "1",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6216696954663975862",
-                    "size": "6341850787",
-                    "download": "5978891296"
+                    "gid": "5739136252271929930",
+                    "size": "6346293470",
+                    "download": "5988371200"
                 }
             },
             "decryptionkey": "1d21f7beeda92128e1267f7eea3c00d440b14678cf3cfe14a169dcea7e12edf1"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5244929544973992887",
-                    "size": "12433614941",
-                    "download": "10710707648"
+                    "gid": "580676531208306292",
+                    "size": "12414329500",
+                    "download": "10691767392"
                 }
             },
             "decryptionkey": "5318833456ef715b96282071c2916dd84417c4f6a9415de3f0ae5c6228431866"
@@ -91,9 +91,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7862120766563251506",
-                    "size": "2017721773",
-                    "download": "1805332112"
+                    "gid": "1369430487422218975",
+                    "size": "2017782630",
+                    "download": "1806617664"
                 }
             },
             "decryptionkey": "780b4c505f94867c8dec072ec8a2df451200acc3b430a52b0abb0605fba295bc"
@@ -105,9 +105,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2075037929275195190",
-                    "size": "366528348",
-                    "download": "345217104"
+                    "gid": "4840317332731806651",
+                    "size": "366652783",
+                    "download": "345267376"
                 }
             },
             "decryptionkey": "e6debb7a8780b5e921ecae8e60c3f19ebce80efcff459a39f2d4181d3833e400"
@@ -119,9 +119,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1547087247861762368",
-                    "size": "429688676",
-                    "download": "381522160"
+                    "gid": "5578111279220963058",
+                    "size": "429835930",
+                    "download": "381535312"
                 }
             },
             "decryptionkey": "6efbdbd33b5157ebf1b8b3ac1fd975269aea92948a309ab536d20e3135c7b78b"
@@ -133,9 +133,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7784777282969206605",
-                    "size": "1830852701",
-                    "download": "1699692352"
+                    "gid": "7010099722612566912",
+                    "size": "1830940871",
+                    "download": "1699592384"
                 }
             },
             "decryptionkey": "93dfa45eede2d156fe5a935250b520bf52fba604f7187701775eefcd69c91a89"
@@ -147,9 +147,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7520307215260994454",
-                    "size": "1646721218",
-                    "download": "1583891088"
+                    "gid": "204897874532379925",
+                    "size": "1646761830",
+                    "download": "1584010672"
                 }
             },
             "decryptionkey": "c2b1f158fa3ed61786915df4ddb9b96c82b12af014cbc800b8f56381899e237f"
@@ -161,9 +161,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2187327223865862231",
-                    "size": "2058825560",
-                    "download": "1786348736"
+                    "gid": "5456586547790645935",
+                    "size": "2059039423",
+                    "download": "1782224528"
                 }
             },
             "decryptionkey": "685c4b4fc21a9eaf46bbac2f9d0ccbf89a7b09a2659b70b8632a9e9ae8c3b3f6"
@@ -175,9 +175,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1067316690054188483",
-                    "size": "2990017002",
-                    "download": "2868869888"
+                    "gid": "6016525511392541837",
+                    "size": "2989558074",
+                    "download": "2868048256"
                 }
             },
             "decryptionkey": "1e3492c0a87fd4d13473643a89a13ca11e6b53b14cc3379b58786298a54b5d4a"
@@ -189,9 +189,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7136314422475509169",
-                    "size": "1081923827",
-                    "download": "1011267488"
+                    "gid": "3380274012537353029",
+                    "size": "1082783589",
+                    "download": "1011752624"
                 }
             }
         },
@@ -202,9 +202,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6219626468758425243",
-                    "size": "4833977445",
-                    "download": "4615023216"
+                    "gid": "3135756799379688353",
+                    "size": "4834033224",
+                    "download": "4614998400"
                 }
             },
             "decryptionkey": ""
@@ -222,9 +222,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "422294975941295014",
-                    "size": "1983478309",
-                    "download": "1933128480"
+                    "gid": "7160478597751541952",
+                    "size": "1983585053",
+                    "download": "1933192816"
                 }
             },
             "decryptionkey": "05e1bc2f942cafd052d92277aa419aeecfa5f362cb8bd4706c8836f4002686d7"
@@ -236,9 +236,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "211078504241702691",
-                    "size": "1487126958",
-                    "download": "1433893984"
+                    "gid": "908782562968943870",
+                    "size": "1487316594",
+                    "download": "1436065792"
                 }
             }
         },
@@ -249,9 +249,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "46865681230636530",
-                    "size": "283763422",
-                    "download": "277975760"
+                    "gid": "846778069603572610",
+                    "size": "198685921",
+                    "download": "192163936"
                 }
             },
             "decryptionkey": "505eac0ad2793193b10c693e3121593f075636e9bfb9cae6314d1298a1b013ff"
@@ -263,9 +263,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7283703447364679706",
-                    "size": "286974164",
-                    "download": "276995088"
+                    "gid": "7390892863088314607",
+                    "size": "201925807",
+                    "download": "191334928"
                 }
             }
         },
@@ -274,7 +274,14 @@
             "config": {
                 "oslist": "windows"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6199324854045653742",
+                    "size": "636454992",
+                    "download": "597435760"
+                }
+            },
+            "decryptionkey": ""
         },
         "3543921": {
             "dlcappid": "3543920",
@@ -284,8 +291,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17753025",
-                "timeupdated": "1742230266"
+                "buildid": "18193665",
+                "timeupdated": "1745339340"
             }
         },
         "privatebranches": "1"
