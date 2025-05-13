@@ -4,8 +4,8 @@
     "name": "Bodycam",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549569",
-    "update_time": "2025-04-18 20:52:51",
+    "change_number": "28918421",
+    "update_time": "2025-05-10 23:59:08",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2406771": {
             "manifests": {
                 "public": {
-                    "gid": "4690639815798416758",
-                    "size": "52807138008",
-                    "download": "52656160032"
+                    "gid": "8860714860085256799",
+                    "size": "64052004461",
+                    "download": "63529377264"
                 },
                 "publicbeta": {
                     "gid": "7231692497328181010",
@@ -39,8 +39,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17740629",
-                "timeupdated": "1742096372"
+                "buildid": "18168159",
+                "timeupdated": "1745083379"
             },
             "publicbeta": {
                 "buildid": "16723847",
