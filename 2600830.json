@@ -4,8 +4,8 @@
     "name": "Lost Hope: Backrooms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28501020",
-    "update_time": "2025-04-16 13:07:59",
+    "change_number": "28814044",
+    "update_time": "2025-05-05 05:43:50",
     "depot": {
         "228989": {
             "config": {
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7186128927570487058",
-                    "size": "10114741777",
-                    "download": "9312345424"
+                    "gid": "2155435868097799509",
+                    "size": "10203370210",
+                    "download": "9400140144"
                 }
             },
             "decryptionkey": "2d253b5fdad13bb9120850d538af08f445e198f194d265fe95e5abd49bba8c9b"
         },
         "branches": {
             "public": {
-                "buildid": "17988900",
-                "timeupdated": "1743792842"
+                "buildid": "18340459",
+                "timeupdated": "1746395026"
             }
         },
         "privatebranches": "1"
