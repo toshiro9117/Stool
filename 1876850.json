@@ -1,0 +1,43 @@
+{
+    "appid": "1876850",
+    "type": "Game",
+    "name": "Babushka's Glitch Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28921775",
+    "update_time": "2025-05-11 08:44:47",
+    "depot": {
+        "1876851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1591442319054791713",
+                    "size": "461338288",
+                    "download": "130988592"
+                }
+            },
+            "decryptionkey": "5e4a5c85e7f492961bfcfae46d26d68b0606204222358a8c4f9f54411140e18c"
+        },
+        "1876852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5845005064061309990",
+                    "size": "491109980",
+                    "download": "139326992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18417288",
+                "timeupdated": "1746924282"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
