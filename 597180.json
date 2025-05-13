@@ -4,8 +4,8 @@
     "name": "Old World",
     "schinese_name": "旧世界 Old World",
     "isfreeapp": "0",
-    "change_number": "28544480",
-    "update_time": "2025-04-18 15:06:27",
+    "change_number": "28914932",
+    "update_time": "2025-05-10 15:06:11",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,brazilian",
         "workshopdepot": "597180",
@@ -23,14 +23,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "382356718460764331",
-                    "size": "7554486299",
-                    "download": "3594531344"
+                    "gid": "1075010134583265038",
+                    "size": "7615991501",
+                    "download": "3620179664"
                 },
                 "test": {
-                    "gid": "3266948957489973793",
-                    "size": "7625527630",
-                    "download": "3613796256"
+                    "gid": "540846604262039339",
+                    "size": "7633251464",
+                    "download": "3615524048"
                 }
             },
             "decryptionkey": "44832d82ba73423f7ad8811dab24c4890d02a444b7c94d2d4c73e7e66360a704"
@@ -42,14 +42,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3580500981116111370",
-                    "size": "7221265355",
-                    "download": "3381483936"
+                    "gid": "6556219255368469246",
+                    "size": "7282770557",
+                    "download": "3407141200"
                 },
                 "test": {
-                    "gid": "194931451785368703",
-                    "size": "7389772366",
-                    "download": "3411934880"
+                    "gid": "5095992852869822343",
+                    "size": "7397496234",
+                    "download": "3413590560"
                 }
             },
             "decryptionkey": "b200a4ee00d34fae0bfef67e80e555f5b500422d66c711c0b2e293f6cbff36e1"
@@ -61,27 +61,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "884497395882640007",
-                    "size": "7200641634",
-                    "download": "3365772416"
+                    "gid": "3206569709306566290",
+                    "size": "7262146836",
+                    "download": "3391440496"
                 },
                 "test": {
-                    "gid": "8471413979001876500",
-                    "size": "7300948901",
-                    "download": "3385675280"
+                    "gid": "8591995138878669117",
+                    "size": "7308673809",
+                    "download": "3387865792"
                 }
             },
             "decryptionkey": "b055bb1a3d8bec6c1b563fc28e9aa1e1844426e2af6897a7f8aa325444213e24"
         },
         "branches": {
             "public": {
-                "buildid": "17872000",
-                "timeupdated": "1743021393"
+                "buildid": "18296391",
+                "timeupdated": "1746044566"
             },
             "test": {
-                "buildid": "18045231",
+                "buildid": "18378996",
                 "description": "Testing Branch for the next version",
-                "timeupdated": "1744230858"
+                "timeupdated": "1746649769"
             }
         },
         "privatebranches": "1",
