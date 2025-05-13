@@ -1,0 +1,35 @@
+{
+    "appid": "2414270",
+    "type": "Game",
+    "name": "Sunderfolk",
+    "schinese_name": "破碎族裔",
+    "isfreeapp": "0",
+    "change_number": "28922319",
+    "update_time": "2025-05-11 10:34:18",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2414271": {
+            "manifests": {
+                "public": {
+                    "gid": "9135721365240965665",
+                    "size": "9910753998",
+                    "download": "8523981616"
+                }
+            },
+            "decryptionkey": "11c783092bc9c87c77db620b29c6cef6c1d94cdb6ef43ef36a3559491fb6c894"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18317684",
+                "timeupdated": "1746637221"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
