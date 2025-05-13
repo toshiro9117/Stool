@@ -4,8 +4,8 @@
     "name": "CRUEL",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28418467",
-    "update_time": "2025-04-11 08:00:53",
+    "change_number": "28914333",
+    "update_time": "2025-05-10 13:37:54",
     "depot": {
         "2689471": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "279534816"
                 },
                 "opentesting": {
-                    "gid": "5173338463237329313",
-                    "size": "387280880",
-                    "download": "279534816"
+                    "gid": "5738644518771813577",
+                    "size": "428972976",
+                    "download": "313535088"
                 }
             },
             "decryptionkey": "bf7dfabb9ffa695bfb5f72b1d1ecadae3ef1752843c38ad898ec38f72273dcaf"
@@ -28,9 +28,9 @@
                 "timeupdated": "1738176657"
             },
             "opentesting": {
-                "buildid": "17173933",
+                "buildid": "18412210",
                 "description": "Upcoming changes",
-                "timeupdated": "1738170594"
+                "timeupdated": "1746855471"
             }
         },
         "privatebranches": "1"
