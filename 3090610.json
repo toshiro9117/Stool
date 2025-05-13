@@ -4,8 +4,8 @@
     "name": "PROGRESS ORDERS",
     "schinese_name": "PROGRESS ORDERS",
     "isfreeapp": "0",
-    "change_number": "28509674",
-    "update_time": "2025-04-16 22:11:33",
+    "change_number": "28910920",
+    "update_time": "2025-05-10 06:33:55",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3090611": {
             "manifests": {
                 "public": {
-                    "gid": "8865873905670149883",
-                    "size": "2077413452",
-                    "download": "1748559872"
+                    "gid": "1496420316552567960",
+                    "size": "2060488261",
+                    "download": "1734420384"
                 }
             },
             "decryptionkey": "50474cbe0ec37d0d3262792c82e59af312afbfc1441005594e487af57f2aa418"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16856121",
-                "timeupdated": "1736224450"
+                "buildid": "18313457",
+                "timeupdated": "1746593472"
             }
         },
         "privatebranches": "1"
