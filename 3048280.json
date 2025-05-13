@@ -4,8 +4,8 @@
     "name": "Realistic Ragdoll Sandbox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28483412",
-    "update_time": "2025-04-15 17:08:39",
+    "change_number": "28869486",
+    "update_time": "2025-05-08 04:31:28",
     "depot": {
         "3048281": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3324286354153210167",
-                    "size": "6126153750",
-                    "download": "1708486048"
+                    "gid": "5839082723537010926",
+                    "size": "5413381463",
+                    "download": "1320592880"
                 },
                 "crashtest": {
                     "gid": "1576883267880120832",
@@ -28,8 +28,8 @@
         "workshopdepot": "3048280",
         "branches": {
             "public": {
-                "buildid": "18002040",
-                "timeupdated": "1743948420"
+                "buildid": "18311027",
+                "timeupdated": "1746115231"
             },
             "crashtest": {
                 "buildid": "17977929",
