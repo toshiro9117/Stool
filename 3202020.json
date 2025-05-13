@@ -4,8 +4,8 @@
     "name": "The Riftbreaker: Multiplayer Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28309352",
-    "update_time": "2025-04-04 21:29:16",
+    "change_number": "28881158",
+    "update_time": "2025-05-08 19:56:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3202021": {
             "manifests": {
                 "public": {
-                    "gid": "2351747634738953866",
-                    "size": "10178184199",
-                    "download": "9656027296"
+                    "gid": "8037171964505166222",
+                    "size": "10179595440",
+                    "download": "9663650192"
                 }
             },
             "decryptionkey": "84e57b2ce86e5a998aeb674f8dcd9f4a4756737a42e499b3e26bbf654edcf484"
         },
         "branches": {
             "public": {
-                "buildid": "17981147",
-                "timeupdated": "1743773350"
+                "buildid": "18376149",
+                "timeupdated": "1746704721"
             }
         },
         "privatebranches": "1"
