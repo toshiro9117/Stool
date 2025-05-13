@@ -4,8 +4,8 @@
     "name": "Firmament",
     "schinese_name": "苍穹乾坤",
     "isfreeapp": "0",
-    "change_number": "28521725",
-    "update_time": "2025-04-17 12:45:17",
+    "change_number": "28593258",
+    "update_time": "2025-04-22 11:10:57",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4225082727781052785",
-                    "size": "11653850608",
-                    "download": "10821173232"
+                    "gid": "8020888525263793706",
+                    "size": "11799351141",
+                    "download": "10994911136"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "2287415613846019348",
@@ -80,9 +80,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5358053359547021069",
-                    "size": "20493970133",
-                    "download": "13000819936"
+                    "gid": "5517383775322311608",
+                    "size": "20534167787",
+                    "download": "13107716192"
                 },
                 "rollback_macos_under14-5": {
                     "gid": "7677166114299037705",
@@ -93,8 +93,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17115960",
-                "timeupdated": "1737999318"
+                "buildid": "18138888",
+                "timeupdated": "1745291452"
             },
             "rollback_macos_under14-5": {
                 "buildid": "16320978",
