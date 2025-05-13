@@ -4,8 +4,8 @@
     "name": "Three Kingdoms: The Blood Moon",
     "schinese_name": "蜀末：血月三国",
     "isfreeapp": "0",
-    "change_number": "28545265",
-    "update_time": "2025-04-18 16:00:58",
+    "change_number": "28819011",
+    "update_time": "2025-05-05 16:41:27",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8152504268224824036",
-                    "size": "274317979",
-                    "download": "163059216"
+                    "gid": "6760260984307864772",
+                    "size": "274317969",
+                    "download": "163059360"
                 }
             },
             "decryptionkey": "c62479b5db201f6ec039e35cf67977255a07650de17d569ef379209ce617c261"
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1393187583889251566",
-                    "size": "393546172",
-                    "download": "185317776"
+                    "gid": "6165030667604931458",
+                    "size": "393546161",
+                    "download": "185317504"
                 }
             },
             "decryptionkey": "01bb6f3726e1977dd3cdf8b43c78edddc7857f4e13559a0cbce77bca9cb4704a"
         },
         "branches": {
             "public": {
-                "buildid": "18137366",
-                "timeupdated": "1744853743"
+                "buildid": "18246612",
+                "timeupdated": "1745634273"
             }
         },
         "privatebranches": "1"
