@@ -4,16 +4,16 @@
     "name": "MAGICAL ANGEL FAIRY PRINCESS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27109076",
-    "update_time": "2025-01-22 17:26:07",
+    "change_number": "28914595",
+    "update_time": "2025-05-10 14:08:18",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "2082811": {
             "manifests": {
                 "public": {
-                    "gid": "6025022645092035242",
-                    "size": "1068892336",
-                    "download": "729179904"
+                    "gid": "3096750494415138854",
+                    "size": "1199951926",
+                    "download": "898543088"
                 }
             },
             "decryptionkey": "97f5ad2125781f3f56dd47db0ee2ff8e490163dd16523feeb706c75128989383"
@@ -21,8 +21,8 @@
         "2082812": {},
         "branches": {
             "public": {
-                "buildid": "16182592",
-                "timeupdated": "1729870847"
+                "buildid": "18411120",
+                "timeupdated": "1746857294"
             }
         }
     }
