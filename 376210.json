@@ -4,8 +4,8 @@
     "name": "The Isle",
     "schinese_name": "岛",
     "isfreeapp": "0",
-    "change_number": "28502300",
-    "update_time": "2025-04-16 15:04:00",
+    "change_number": "28915462",
+    "update_time": "2025-05-10 16:17:36",
     "depot": {
         "228981": {
             "config": {
@@ -143,9 +143,9 @@
                     "download": "5196487072"
                 },
                 "hordetesting": {
-                    "gid": "6113123556802279442",
-                    "size": "6057649319",
-                    "download": "5728281168"
+                    "gid": "1180157137024107953",
+                    "size": "6126274828",
+                    "download": "5796074496"
                 }
             },
             "decryptionkey": "ec98ff5da26fe8ed2ed0776bff3cf9b786d8942eafcf581c04401c7cf8621b54"
@@ -166,9 +166,9 @@
                 "timeupdated": "1743655845"
             },
             "hordetesting": {
-                "buildid": "18080330",
+                "buildid": "18328944",
                 "description": "Public Testing Branch",
-                "timeupdated": "1744424085"
+                "timeupdated": "1746239469"
             }
         },
         "privatebranches": "1",
