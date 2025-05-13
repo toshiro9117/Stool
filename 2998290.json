@@ -4,8 +4,8 @@
     "name": "Weirdo",
     "schinese_name": "异人",
     "isfreeapp": "0",
-    "change_number": "28548107",
-    "update_time": "2025-04-18 19:01:04",
+    "change_number": "28745083",
+    "update_time": "2025-04-30 17:09:26",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7707196457106555434",
-                    "size": "1636814934",
-                    "download": "379633616"
+                    "gid": "5520765404022414090",
+                    "size": "1637894388",
+                    "download": "379694592"
                 }
             },
             "decryptionkey": "446c76053bf016bf6d54b3d27a5bad60b5773234362ea74e39b22ec41e3ed53b"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "592368791297312465",
-                    "size": "1636648059",
-                    "download": "378257088"
+                    "gid": "2181402548865415428",
+                    "size": "1637727477",
+                    "download": "378317248"
                 }
             }
         },
@@ -43,16 +43,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "68197666269942835",
-                    "size": "1660870257",
-                    "download": "387503584"
+                    "gid": "2338790519878969823",
+                    "size": "1661955679",
+                    "download": "387562480"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18128934",
-                "timeupdated": "1744808074"
+                "buildid": "18289981",
+                "timeupdated": "1745986901"
             }
         }
     }
