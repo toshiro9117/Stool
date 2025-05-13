@@ -4,8 +4,8 @@
     "name": "Mars First Logistics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28479777",
-    "update_time": "2025-04-15 12:50:44",
+    "change_number": "28852249",
+    "update_time": "2025-05-07 09:04:40",
     "depot": {
         "1532201": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "158688288"
                 },
                 "beta": {
-                    "gid": "3469162913917215719",
-                    "size": "378965436",
-                    "download": "160068272"
+                    "gid": "7694370022996824468",
+                    "size": "381700774",
+                    "download": "162513488"
                 }
             },
             "decryptionkey": "817366fa3557fd7360844c98856d1448a3c23773756a71b1a0bc76989bf65cd4"
@@ -32,9 +32,9 @@
                 "timeupdated": "1736898636"
             },
             "beta": {
-                "buildid": "18108589",
+                "buildid": "18367126",
                 "description": "Latest features and fixes. May be untested and buggy!",
-                "timeupdated": "1744692640"
+                "timeupdated": "1746579874"
             }
         },
         "privatebranches": "1",
