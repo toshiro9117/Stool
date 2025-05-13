@@ -4,8 +4,8 @@
     "name": "New Year Home",
     "schinese_name": "春归",
     "isfreeapp": "0",
-    "change_number": "28524506",
-    "update_time": "2025-04-17 16:13:37",
+    "change_number": "28862106",
+    "update_time": "2025-05-07 21:11:28",
     "depot": {
         "baselanguages": "english,french,koreana,spanish,schinese,russian,japanese,portuguese",
         "228989": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3055112474858111796",
-                    "size": "3667113182",
-                    "download": "3471854048"
+                    "gid": "3108883922961418653",
+                    "size": "3667182902",
+                    "download": "3471820976"
                 }
             },
             "decryptionkey": "203d351f1270f495d55a9c8797ed286c8a7ed2a6b5de70a8989077a3e462793e"
         },
         "branches": {
             "public": {
-                "buildid": "17456635",
-                "timeupdated": "1740149379"
+                "buildid": "18283203",
+                "timeupdated": "1745945040"
             }
         }
     }
