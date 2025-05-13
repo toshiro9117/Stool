@@ -4,8 +4,8 @@
     "name": "Squad 44 Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28153977",
-    "update_time": "2025-03-27 01:00:12",
+    "change_number": "28886525",
+    "update_time": "2025-05-09 00:50:13",
     "depot": {
         "1004": {
             "config": {
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8306834361410631495",
-                    "size": "29275958511",
-                    "download": "11648451552"
+                    "gid": "7387409002045372468",
+                    "size": "29276009344",
+                    "download": "11648447952"
                 },
                 "cinematic-branch": {
                     "gid": "5134661732417894322",
@@ -101,9 +101,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6829905272851722305",
-                    "size": "31295925909",
-                    "download": "11892785616"
+                    "gid": "8835774575246826988",
+                    "size": "31296997688",
+                    "download": "11892815920"
                 },
                 "cinematic-branch": {
                     "gid": "2154165448052012121",
@@ -120,8 +120,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17856186",
-                "timeupdated": "1743008406"
+                "buildid": "18378802",
+                "timeupdated": "1746723007"
             },
             "cinematic-branch": {
                 "buildid": "4334767",
