@@ -4,8 +4,8 @@
     "name": "Arma Reforger Tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28538289",
-    "update_time": "2025-04-18 05:23:05",
+    "change_number": "28922503",
+    "update_time": "2025-05-11 11:24:48",
     "depot": {
         "228989": {
             "config": {
@@ -21,17 +21,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8947234017131048613",
-                    "size": "271632935",
-                    "download": "187857104"
+                    "gid": "2157543008583127301",
+                    "size": "271645852",
+                    "download": "187863904"
                 }
             },
             "decryptionkey": "8679c498b87f92e7225074bf6166b13b0c8073299dd129451362e92a669941f2"
         },
         "branches": {
             "public": {
-                "buildid": "18057480",
-                "timeupdated": "1744888426"
+                "buildid": "18254362",
+                "timeupdated": "1746615610"
             }
         },
         "privatebranches": "1"
