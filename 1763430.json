@@ -4,8 +4,8 @@
     "name": "Karryn's Prison Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28347184",
-    "update_time": "2025-04-07 22:12:44",
+    "change_number": "28920464",
+    "update_time": "2025-05-11 05:01:51",
     "depot": {
         "1619752": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5310553607559632011",
-                    "size": "1375059894",
-                    "download": "1230758000"
+                    "gid": "4997875274116425789",
+                    "size": "1375172235",
+                    "download": "1230780032"
                 }
             },
             "depotfromapp": "1619750",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6778476348080845761",
-                    "size": "100706",
-                    "download": "19728"
+                    "gid": "5899146070419485440",
+                    "size": "101568",
+                    "download": "19824"
                 }
             },
             "depotfromapp": "1619750",
