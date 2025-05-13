@@ -4,8 +4,8 @@
     "name": "e-Racer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28503454",
-    "update_time": "2025-04-16 16:11:31",
+    "change_number": "28830853",
+    "update_time": "2025-05-06 06:29:36",
     "depot": {
         "3600701": {
             "manifests": {
@@ -28,10 +28,23 @@
             },
             "decryptionkey": "5668f77a40767cf069707bbfc585d93923496fb995ac167a570365a36a88b0cf"
         },
+        "3600702": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6577025525311318420",
+                    "size": "458",
+                    "download": "384"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18097986",
-                "timeupdated": "1744628719"
+                "buildid": "18211921",
+                "timeupdated": "1745431715"
             }
         }
     }
