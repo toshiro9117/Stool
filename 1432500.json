@@ -4,35 +4,35 @@
     "name": "The Sekimeiya: Spun Glass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28357932",
-    "update_time": "2025-04-08 11:16:51",
+    "change_number": "28870512",
+    "update_time": "2025-05-08 05:47:03",
     "depot": {
         "hasdepotsindlc": "1",
         "1432504": {
             "manifests": {
                 "public": {
-                    "gid": "2660716711500779250",
-                    "size": "3533507113",
-                    "download": "3155813600"
+                    "gid": "9115418969457598357",
+                    "size": "3533734340",
+                    "download": "3155919664"
                 }
             },
             "decryptionkey": "6c1d89de6f6a7d5c95cb53d3d6233b27b250ffd27010275f040eccbd8edea9a2"
         },
-        "1567091": {
+        "1567090": {
             "dlcappid": "1567090",
             "manifests": {
                 "public": {
-                    "gid": "284960800692736864",
+                    "gid": "7096100770859972434",
                     "size": "468506133",
-                    "download": "470302368"
+                    "download": "470300928"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "10652955",
-                "timeupdated": "1677644300"
+                "buildid": "18380482",
+                "timeupdated": "1746654420"
             }
         },
         "privatebranches": "1"
