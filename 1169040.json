@@ -4,8 +4,8 @@
     "name": "Necesse",
     "schinese_name": "奈斯启示录 Necesse",
     "isfreeapp": "0",
-    "change_number": "28481896",
-    "update_time": "2025-04-15 15:42:46",
+    "change_number": "28922665",
+    "update_time": "2025-05-11 12:02:16",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,swedish,hungarian,czech,turkish,brazilian,ukrainian,latam",
@@ -140,9 +140,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6794213702447532806",
-                    "size": "465132286",
-                    "download": "326414528"
+                    "gid": "7169532037895537610",
+                    "size": "465120611",
+                    "download": "329458016"
                 },
                 "v0.21.27": {
                     "gid": "2335197567089257309",
@@ -263,9 +263,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1703463228174424905",
-                    "size": "446776463",
-                    "download": "324533136"
+                    "gid": "1087349941738465344",
+                    "size": "446764788",
+                    "download": "324530160"
                 },
                 "v0.21.27": {
                     "gid": "5723242964073316596",
@@ -386,9 +386,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3574951693172922967",
-                    "size": "474139541",
-                    "download": "336934992"
+                    "gid": "4475651623419394230",
+                    "size": "474127866",
+                    "download": "336932064"
                 },
                 "v0.21.27": {
                     "gid": "1424456041500847358",
@@ -506,8 +506,8 @@
         "workshopdepot": "1169040",
         "branches": {
             "public": {
-                "buildid": "18110069",
-                "timeupdated": "1744702959"
+                "buildid": "18336931",
+                "timeupdated": "1746348085"
             },
             "v0.21.27": {
                 "buildid": "10229868",
