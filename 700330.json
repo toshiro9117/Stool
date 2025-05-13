@@ -4,8 +4,8 @@
     "name": "SCP: Secret Laboratory",
     "schinese_name": "SCP秘密实验室 / SCP: Secret Laboratory",
     "isfreeapp": "1",
-    "change_number": "28542423",
-    "update_time": "2025-04-18 11:45:50",
+    "change_number": "28922531",
+    "update_time": "2025-05-11 11:30:30",
     "depot": {
         "228989": {
             "config": {
@@ -41,9 +41,14 @@
                     "download": "2517552832"
                 },
                 "labapi-beta": {
-                    "gid": "2248105379824453279",
-                    "size": "6531708588",
-                    "download": "2515984144"
+                    "gid": "6478441364593281034",
+                    "size": "6783505150",
+                    "download": "2632849568"
+                },
+                "publicbeta": {
+                    "gid": "6478441364593281034",
+                    "size": "6783505150",
+                    "download": "2632849568"
                 },
                 "first_version_of_sl_published_on_steam": {
                     "gid": "7722467700346241918",
@@ -65,9 +70,14 @@
                 "timeupdated": "1742583737"
             },
             "labapi-beta": {
-                "buildid": "17988538",
+                "buildid": "18378230",
                 "description": "Early testing for the LabAPI modding framework.",
-                "timeupdated": "1743805714"
+                "timeupdated": "1746731913"
+            },
+            "publicbeta": {
+                "buildid": "18378230",
+                "description": "14.1 Public Beta",
+                "timeupdated": "1746730945"
             },
             "first_version_of_sl_published_on_steam": {
                 "buildid": "2404120",
