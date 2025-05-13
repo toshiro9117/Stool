@@ -4,8 +4,8 @@
     "name": "Haydee 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28512978",
-    "update_time": "2025-04-17 01:10:44",
+    "change_number": "28872237",
+    "update_time": "2025-05-08 08:24:19",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "3508771": {
             "manifests": {
                 "public": {
-                    "gid": "8128723326755831267",
-                    "size": "6657067405",
-                    "download": "1140959328"
+                    "gid": "2195175656176721210",
+                    "size": "6653266401",
+                    "download": "1139019728"
                 }
             },
             "decryptionkey": "5ae074648692e776045b21f542a0a3ac50e755f5d7406ca958131f34b319286b"
@@ -41,8 +41,8 @@
         "workshopdepot": "3508770",
         "branches": {
             "public": {
-                "buildid": "17692605",
-                "timeupdated": "1741783922"
+                "buildid": "18180765",
+                "timeupdated": "1745244203"
             }
         },
         "privatebranches": "1",
