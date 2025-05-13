@@ -4,8 +4,8 @@
     "name": "TaleSpire - Guest Edition",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "27993201",
-    "update_time": "2025-03-17 20:30:30",
+    "change_number": "28890696",
+    "update_time": "2025-05-09 05:31:27",
     "depot": {
         "228988": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "0",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "cbd8ce4646d9d45d308b6d2924a5906f88d43fa7fd67cede83b6801a8be9a253"
         },
         "2881862": {
             "config": {
@@ -36,11 +37,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6188087434317705636",
-                    "size": "4123331567",
-                    "download": "3795395968"
+                    "gid": "148242645628732804",
+                    "size": "4213485204",
+                    "download": "3874069232"
                 }
-            }
+            },
+            "decryptionkey": "82466bde9b6d5c552f145d95417ee2420f808fc41490c403a0cda479e48766c2"
         },
         "2881863": {
             "config": {
@@ -49,16 +51,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2323319517873546245",
-                    "size": "4140972799",
-                    "download": "3801428432"
+                    "gid": "8664750031865853691",
+                    "size": "4231326323",
+                    "download": "3880252928"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17716894",
-                "timeupdated": "1741911005"
+                "buildid": "18324409",
+                "timeupdated": "1746211963"
             }
         },
         "privatebranches": "1"
