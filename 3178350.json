@@ -4,8 +4,8 @@
     "name": "WARRIORS: Abyss",
     "schinese_name": "无双深渊",
     "isfreeapp": "0",
-    "change_number": "28541234",
-    "update_time": "2025-04-18 09:54:01",
+    "change_number": "28860016",
+    "update_time": "2025-05-07 19:02:27",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -26,17 +26,17 @@
         "3178351": {
             "manifests": {
                 "public": {
-                    "gid": "6573468447579844865",
-                    "size": "3310173979",
-                    "download": "3200260816"
+                    "gid": "4944510526985260465",
+                    "size": "3420276315",
+                    "download": "3307985056"
                 }
             },
             "decryptionkey": "50d5b19878cdd566dccd7b3f0042e13d42e13d32f5be8c88e71ea45a4d38323d"
         },
         "branches": {
             "public": {
-                "buildid": "17707647",
-                "timeupdated": "1743130223"
+                "buildid": "18093291",
+                "timeupdated": "1745549595"
             }
         },
         "privatebranches": "1"
