@@ -4,8 +4,8 @@
     "name": "Foundation",
     "schinese_name": "基石",
     "isfreeapp": "0",
-    "change_number": "28488573",
-    "update_time": "2025-04-15 22:05:51",
+    "change_number": "28865011",
+    "update_time": "2025-05-07 23:47:08",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8296798044265688964",
-                    "size": "5789425637",
-                    "download": "2751922240"
+                    "gid": "6933024253207842159",
+                    "size": "5783647417",
+                    "download": "2746203664"
                 },
                 "early_access_1_9": {
                     "gid": "3117281361283584658",
@@ -75,8 +75,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18074334",
-                "timeupdated": "1744393638"
+                "buildid": "18301955",
+                "timeupdated": "1746048830"
             },
             "early_access_1_9": {
                 "buildid": "17199741",
