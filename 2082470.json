@@ -4,8 +4,8 @@
     "name": "VEIN Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533670",
-    "update_time": "2025-04-18 00:32:49",
+    "change_number": "28920691",
+    "update_time": "2025-05-11 05:33:32",
     "depot": {
         "228989": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1252173853738224511",
-                    "size": "50920434969",
-                    "download": "17053694432"
+                    "gid": "271039451790654613",
+                    "size": "53978008254",
+                    "download": "18055931616"
                 },
                 "experimental": {
-                    "gid": "9171052883095982796",
-                    "size": "52743598515",
-                    "download": "17672412032"
+                    "gid": "4948800166631151937",
+                    "size": "55033733798",
+                    "download": "18377986576"
                 }
             },
             "decryptionkey": "5d097b779608575432c12250d9083fc83be9e37fd4a4e0cf9b8c1bd68b23636e"
@@ -45,14 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5945103978515481923",
-                    "size": "46745957834",
-                    "download": "16334571168"
+                    "gid": "8904799861322764253",
+                    "size": "49582699149",
+                    "download": "17326816992"
                 },
                 "experimental": {
-                    "gid": "7525555453775445474",
-                    "size": "48431376793",
-                    "download": "16909405472"
+                    "gid": "1724852237749601888",
+                    "size": "50553642515",
+                    "download": "17614030672"
                 }
             },
             "decryptionkey": "7623c6d28c2ef1a099e590e96c14a902a70a7d54c0249804b4e2f00c84778278"
@@ -60,13 +60,13 @@
         "workshopdepot": "2082470",
         "branches": {
             "public": {
-                "buildid": "18057695",
-                "timeupdated": "1744295075"
+                "buildid": "18387625",
+                "timeupdated": "1746704719"
             },
             "experimental": {
-                "buildid": "18162546",
+                "buildid": "18416556",
                 "description": "Bleeding-edge updates, unstable",
-                "timeupdated": "1745013686"
+                "timeupdated": "1746912807"
             }
         },
         "privatebranches": "1"
