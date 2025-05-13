@@ -4,15 +4,15 @@
     "name": "无梦少女",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28453269",
-    "update_time": "2025-04-13 21:09:26",
+    "change_number": "28753520",
+    "update_time": "2025-05-01 00:15:24",
     "depot": {
         "2242841": {
             "manifests": {
                 "public": {
-                    "gid": "7690883792987140597",
-                    "size": "3597099546",
-                    "download": "646714384"
+                    "gid": "3281909939277091384",
+                    "size": "3775192042",
+                    "download": "662338224"
                 }
             },
             "decryptionkey": "2827f66b89c4a8e5034bae9afe24a081a5593786278497fad8f4ee32c189c779"
@@ -20,8 +20,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "17584309",
-                "timeupdated": "1741076548"
+                "buildid": "18297604",
+                "timeupdated": "1746025449"
             }
         },
         "privatebranches": "1"
