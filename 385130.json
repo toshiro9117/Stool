@@ -4,8 +4,8 @@
     "name": "DvDrum, Ultimate Drum Simulator!",
     "schinese_name": "DvDrum超级鼓模拟",
     "isfreeapp": "0",
-    "change_number": "27960676",
-    "update_time": "2025-03-15 00:28:57",
+    "change_number": "28757718",
+    "update_time": "2025-05-01 04:26:53",
     "depot": {
         "workshopdepot": "385130",
         "228989": {
@@ -60,6 +60,6 @@
                 "timeupdated": "1695983296"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "27c1b7acb92c874cc0dd20c5b0abb24adcf05c8e63e922ed0742d6a8b441c7df"
     }
 }
