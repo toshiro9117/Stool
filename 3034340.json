@@ -4,17 +4,17 @@
     "name": "ワールドネバーランド　エルネア王国の日々　Another Life Adventure",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28419571",
-    "update_time": "2025-04-11 09:51:21",
+    "change_number": "28917779",
+    "update_time": "2025-05-10 22:33:36",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,japanese",
         "3034341": {
             "manifests": {
                 "public": {
-                    "gid": "2498509677327050479",
-                    "size": "692165480",
-                    "download": "483772432"
+                    "gid": "5285402336399398219",
+                    "size": "698720495",
+                    "download": "488301504"
                 }
             },
             "decryptionkey": "3a6a236ea24a132fe1716b2a9fc3e6759885451b54d6e1a27ee8a84bf6ef12ce"
@@ -23,14 +23,13 @@
             "dlcappid": "3177940",
             "config": {
                 "oslist": "windows",
-                "osarch": "64",
-                "language": "japanese"
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "5492274742412959126",
-                    "size": "2472",
-                    "download": "2080"
+                    "gid": "146063679643928147",
+                    "size": "5313189",
+                    "download": "4071152"
                 }
             },
             "decryptionkey": ""
@@ -38,32 +37,82 @@
         "3328640": {
             "dlcappid": "3328640",
             "config": {
-                "language": "japanese",
                 "oslist": "windows",
                 "osarch": "64"
-            }
-        },
-        "3328660": {
-            "dlcappid": "3328660",
-            "config": {
-                "language": "japanese",
-                "oslist": "windows",
-                "osarch": "64"
-            }
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6538013527196685737",
+                    "size": "5790590",
+                    "download": "4437008"
+                }
+            },
+            "decryptionkey": ""
         },
         "3328650": {
             "dlcappid": "3328650",
             "config": {
-                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6269156845904023833",
+                    "size": "6168562",
+                    "download": "4726464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3328660": {
+            "dlcappid": "3328660",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2894959182779368173",
+                    "size": "107826669",
+                    "download": "82606336"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3612220": {
+            "dlcappid": "3612220",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3612230": {
+            "dlcappid": "3612230",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3612240": {
+            "dlcappid": "3612240",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3612260": {
+            "dlcappid": "3612260",
+            "config": {
                 "oslist": "windows",
                 "osarch": "64"
             }
         },
         "branches": {
             "public": {
-                "buildid": "17674986",
-                "timeupdated": "1741686426"
+                "buildid": "18188261",
+                "timeupdated": "1745370043"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
