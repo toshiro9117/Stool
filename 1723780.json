@@ -4,8 +4,8 @@
     "name": "Finnish Cottage Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28494676",
-    "update_time": "2025-04-16 04:02:41",
+    "change_number": "28803988",
+    "update_time": "2025-05-04 05:14:56",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "714051783699646031",
-                    "size": "5013695343",
-                    "download": "4118230432"
+                    "gid": "8209431336029136517",
+                    "size": "4785910204",
+                    "download": "3918267200"
                 },
                 "fcspt": {
                     "gid": "714051783699646031",
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7451865805201227645",
-                    "size": "5013695343",
-                    "download": "4118321312"
+                    "gid": "7217692224593553704",
+                    "size": "4785910204",
+                    "download": "3918054160"
                 },
                 "fcspt": {
                     "gid": "7451865805201227645",
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17015576",
-                "timeupdated": "1736963448"
+                "buildid": "18334262",
+                "timeupdated": "1746306890"
             },
             "fcspt": {
                 "buildid": "17015576",
