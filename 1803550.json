@@ -4,8 +4,8 @@
     "name": "MegaFactory Titan",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28142707",
-    "update_time": "2025-03-26 12:27:24",
+    "change_number": "28628325",
+    "update_time": "2025-04-24 02:35:29",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4910258424292990034",
-                    "size": "586523001",
-                    "download": "370447744"
+                    "gid": "222709141073404386",
+                    "size": "586521465",
+                    "download": "370468368"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "118211838431058179",
@@ -44,9 +44,9 @@
                     "download": "370688336"
                 },
                 "test": {
-                    "gid": "4910258424292990034",
-                    "size": "586523001",
-                    "download": "370447744"
+                    "gid": "222709141073404386",
+                    "size": "586521465",
+                    "download": "370468368"
                 }
             },
             "decryptionkey": "38c6ceefea1d6ebdb69e27c29b2e0f7399b4aa22919e878c398cd4bb12c96fa0"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5803175417102611864",
-                    "size": "471977489",
-                    "download": "356418480"
+                    "gid": "2237956497481912567",
+                    "size": "471976753",
+                    "download": "356405056"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "6332691399900398064",
@@ -73,9 +73,9 @@
                     "download": "356477200"
                 },
                 "test": {
-                    "gid": "5803175417102611864",
-                    "size": "471977489",
-                    "download": "356418480"
+                    "gid": "2237956497481912567",
+                    "size": "471976753",
+                    "download": "356405056"
                 }
             },
             "decryptionkey": ""
@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1212194952827057763",
-                    "size": "587969233",
-                    "download": "380664192"
+                    "gid": "6143156214619819222",
+                    "size": "587960337",
+                    "download": "380661056"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "5427428102800696010",
@@ -102,9 +102,9 @@
                     "download": "380963120"
                 },
                 "test": {
-                    "gid": "1212194952827057763",
-                    "size": "587969233",
-                    "download": "380664192"
+                    "gid": "6143156214619819222",
+                    "size": "587960337",
+                    "download": "380661056"
                 }
             },
             "decryptionkey": ""
@@ -112,8 +112,8 @@
         "workshopdepot": "1803550",
         "branches": {
             "public": {
-                "buildid": "17861750",
-                "timeupdated": "1742963239"
+                "buildid": "18212197",
+                "timeupdated": "1745433326"
             },
             "legacy-0.6.0.6": {
                 "buildid": "12312508",
@@ -126,9 +126,9 @@
                 "timeupdated": "1742251251"
             },
             "test": {
-                "buildid": "17861750",
+                "buildid": "18212197",
                 "description": "test",
-                "timeupdated": "1742963125"
+                "timeupdated": "1745433276"
             }
         },
         "workshopdepotdecryptionkey": ""
