@@ -4,8 +4,8 @@
     "name": "Choo-Choose",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27856469",
-    "update_time": "2025-03-09 13:09:20",
+    "change_number": "28774356",
+    "update_time": "2025-05-02 03:36:09",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3058312811878599199",
-                    "size": "366513079",
-                    "download": "71842272"
+                    "gid": "5438407483510073103",
+                    "size": "351871455",
+                    "download": "70495536"
                 }
             },
             "decryptionkey": "7e81ac081f94f0a1de80d15ef3a74b86b006c6f149897ae0994f26056eec90db"
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17322561",
-                "timeupdated": "1739284029"
+                "buildid": "18297850",
+                "timeupdated": "1746026129"
             }
         },
         "privatebranches": "1"
