@@ -4,8 +4,8 @@
     "name": "Mass Effect™: Andromeda",
     "schinese_name": "《Mass Effect™：Andromeda》豪华版内容",
     "isfreeapp": "0",
-    "change_number": "28492365",
-    "update_time": "2025-04-16 01:26:03",
+    "change_number": "28838956",
+    "update_time": "2025-05-06 18:08:16",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian",
@@ -161,9 +161,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "3719635244465684485",
-                    "size": "234968631",
-                    "download": "237087072"
+                    "gid": "4695958403711974607",
+                    "size": "234273399",
+                    "download": "236385232"
                 }
             },
             "depotfromapp": "3340990",
