@@ -4,8 +4,8 @@
     "name": "The Chef's Shift",
     "schinese_name": "大厨的轮班 The Chef's Shift",
     "isfreeapp": "0",
-    "change_number": "28508954",
-    "update_time": "2025-04-16 21:28:38",
+    "change_number": "28887310",
+    "update_time": "2025-05-09 01:30:35",
     "depot": {
         "baselanguages": "english",
         "2390231": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4310941693077064887",
-                    "size": "677036498",
-                    "download": "125492784"
+                    "gid": "3942154073539687165",
+                    "size": "681338143",
+                    "download": "125536128"
                 }
             },
             "decryptionkey": "9526fbf516fa3d4abca5637264e30440d6ad6938440ea8284d58cd35359a6dae"
@@ -29,16 +29,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7791410100280865851",
-                    "size": "703339336",
-                    "download": "133452992"
+                    "gid": "1976472561552877792",
+                    "size": "703446673",
+                    "download": "133488368"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17957255",
-                "timeupdated": "1743609440"
+                "buildid": "18266870",
+                "timeupdated": "1745854210"
             }
         },
         "privatebranches": "1"
