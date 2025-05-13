@@ -4,8 +4,8 @@
     "name": "R.E.P.O.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544793",
-    "update_time": "2025-04-18 15:31:35",
+    "change_number": "28917004",
+    "update_time": "2025-05-10 20:30:08",
     "depot": {
         "3241661": {
             "manifests": {
@@ -13,6 +13,11 @@
                     "gid": "895298583562046141",
                     "size": "941303881",
                     "download": "344144272"
+                },
+                "beta": {
+                    "gid": "6932727267039151271",
+                    "size": "1019961728",
+                    "download": "371391552"
                 }
             },
             "decryptionkey": "0a0fcffb2de6fb0fa6caff076a5a8cb960903d17320968d5c042fd5a4f9ad2ad"
@@ -21,6 +26,11 @@
             "public": {
                 "buildid": "17560228",
                 "timeupdated": "1740853402"
+            },
+            "beta": {
+                "buildid": "18374898",
+                "description": "beta branch",
+                "timeupdated": "1746627775"
             }
         },
         "privatebranches": "1"
