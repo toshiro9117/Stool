@@ -4,8 +4,8 @@
     "name": "STORROR Parkour Pro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28499847",
-    "update_time": "2025-04-16 11:11:20",
+    "change_number": "28865097",
+    "update_time": "2025-05-07 23:51:59",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3662453435705167029",
-                    "size": "24277023133",
-                    "download": "23283977248"
+                    "gid": "3346168656599206841",
+                    "size": "24501893046",
+                    "download": "23638255504"
                 },
                 "beta": {
-                    "gid": "3662453435705167029",
-                    "size": "24277023133",
-                    "download": "23283977248"
+                    "gid": "3346168656599206841",
+                    "size": "24501893046",
+                    "download": "23638255504"
                 }
             },
             "decryptionkey": "7161c64494cbeb2a1d23e06b21436c98c8c2af403e0c720ddd4d2b9446ae1a12"
         },
         "branches": {
             "public": {
-                "buildid": "17997258",
-                "timeupdated": "1743881165"
+                "buildid": "18373308",
+                "timeupdated": "1746633115"
             },
             "beta": {
-                "buildid": "17997258",
+                "buildid": "18373308",
                 "description": "Test builds",
-                "timeupdated": "1743884490"
+                "timeupdated": "1746633058"
             }
         },
         "privatebranches": "1"
