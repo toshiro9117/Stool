@@ -4,8 +4,8 @@
     "name": "Scramble: Battle of Britain",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28002894",
-    "update_time": "2025-03-18 06:27:05",
+    "change_number": "28759287",
+    "update_time": "2025-05-01 06:21:27",
     "depot": {
         "229006": {
             "config": {
@@ -17,6 +17,11 @@
         "1530451": {
             "manifests": {
                 "public": {
+                    "gid": "171522479084869904",
+                    "size": "2706242934",
+                    "download": "834495248"
+                },
+                "legacy": {
                     "gid": "1782775152487659350",
                     "size": "2703108076",
                     "download": "834164800"
@@ -32,6 +37,11 @@
         "1530452": {
             "manifests": {
                 "public": {
+                    "gid": "8619999556146245717",
+                    "size": "2438560",
+                    "download": "968480"
+                },
+                "legacy": {
                     "gid": "7440157244987871376",
                     "size": "2430867",
                     "download": "963840"
@@ -46,8 +56,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "17956639",
+                "timeupdated": "1743689801"
+            },
+            "legacy": {
                 "buildid": "17144072",
-                "timeupdated": "1737995021"
+                "description": "legacy branch",
+                "timeupdated": "1743174166"
             },
             "openbeta": {
                 "buildid": "17144072",
