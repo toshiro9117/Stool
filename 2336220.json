@@ -4,8 +4,8 @@
     "name": "Feed The Cups",
     "schinese_name": "杯杯倒满 Feed The Cups",
     "isfreeapp": "0",
-    "change_number": "28308077",
-    "update_time": "2025-04-04 20:15:25",
+    "change_number": "28723712",
+    "update_time": "2025-04-29 17:25:24",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "0",
@@ -15,6 +15,11 @@
                     "gid": "7799386629370261718",
                     "size": "311207064",
                     "download": "178604448"
+                },
+                "0.7test": {
+                    "gid": "1709160581542526754",
+                    "size": "312211008",
+                    "download": "175760560"
                 }
             },
             "decryptionkey": "f3f120d62113945152c4dbc839727429765e41336f99fc3a1e125c5bdf43ec2b"
@@ -22,7 +27,12 @@
         "branches": {
             "public": {
                 "buildid": "17726078",
-                "timeupdated": "1741960372"
+                "timeupdated": "1745918717"
+            },
+            "0.7test": {
+                "buildid": "18276655",
+                "description": "时装测试版本",
+                "timeupdated": "1745914382"
             }
         },
         "privatebranches": "1"
