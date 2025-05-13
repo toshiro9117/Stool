@@ -4,8 +4,8 @@
     "name": "RPG Developer Bakin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547813",
-    "update_time": "2025-04-18 18:42:25",
+    "change_number": "28912219",
+    "update_time": "2025-05-10 08:32:48",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,japanese",
@@ -27,9 +27,9 @@
         "1036641": {
             "manifests": {
                 "public": {
-                    "gid": "3233197304216987020",
-                    "size": "8196855193",
-                    "download": "2146189456"
+                    "gid": "3737799327685480969",
+                    "size": "8200033669",
+                    "download": "2146448928"
                 },
                 "ver1.0.15": {
                     "gid": "6268989584704739775",
@@ -65,11 +65,6 @@
                     "gid": "8159605802886632211",
                     "size": "8308510852",
                     "download": "1898029920"
-                },
-                "ver1.7.0.5": {
-                    "gid": "3571516305859137344",
-                    "size": "8310741222",
-                    "download": "1895987520"
                 },
                 "ver1.7.0.7": {
                     "gid": "914765346829995003",
@@ -121,6 +116,11 @@
                     "size": "8189913012",
                     "download": "2130408672"
                 },
+                "ver1.13.2": {
+                    "gid": "3233197304216987020",
+                    "size": "8196855193",
+                    "download": "2146189456"
+                },
                 "ver1.9.0": {
                     "gid": "7196924078208161470",
                     "size": "8360142782",
@@ -136,8 +136,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18130663",
-                "timeupdated": "1744867875"
+                "buildid": "18262553",
+                "timeupdated": "1745995509"
             },
             "ver1.0.15": {
                 "buildid": "10128116",
@@ -173,11 +173,6 @@
                 "buildid": "12766698",
                 "description": "ver1.6.0 rollback",
                 "timeupdated": "1703039483"
-            },
-            "ver1.7.0.5": {
-                "buildid": "13387985",
-                "description": "ver1.7.0.5 rollback",
-                "timeupdated": "1708529714"
             },
             "ver1.7.0.7": {
                 "buildid": "13612130",
@@ -228,6 +223,11 @@
                 "buildid": "17673256",
                 "description": "ver1.13.1 rollback",
                 "timeupdated": "1743577509"
+            },
+            "ver1.13.2": {
+                "buildid": "18130663",
+                "description": "ver1.13.2 rollback",
+                "timeupdated": "1745455915"
             },
             "ver1.9.0": {
                 "buildid": "14219120",
