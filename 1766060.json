@@ -4,8 +4,8 @@
     "name": "HumanitZ",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541934",
-    "update_time": "2025-04-18 10:58:04",
+    "change_number": "28831978",
+    "update_time": "2025-05-06 08:21:31",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1766061": {
             "manifests": {
                 "public": {
-                    "gid": "2225425523228144576",
-                    "size": "27315281481",
-                    "download": "25670048432"
+                    "gid": "7318722588717262235",
+                    "size": "25389106409",
+                    "download": "23929981312"
                 },
                 ".911": {
                     "gid": "8091995319916460044",
@@ -59,17 +59,17 @@
                     "download": "21435928224"
                 },
                 "experimental": {
-                    "gid": "2225425523228144576",
-                    "size": "27315281481",
-                    "download": "25670048432"
+                    "gid": "7318722588717262235",
+                    "size": "25389106409",
+                    "download": "23929981312"
                 }
             },
             "decryptionkey": "33229ac4689c705f913fd8f448d3f896fe128255629ad018dca089578dbf85c3"
         },
         "branches": {
             "public": {
-                "buildid": "18152217",
-                "timeupdated": "1744945081"
+                "buildid": "18352386",
+                "timeupdated": "1746490886"
             },
             ".911": {
                 "buildid": "14995981",
@@ -102,9 +102,9 @@
                 "timeupdated": "1744405761"
             },
             "experimental": {
-                "buildid": "18152217",
+                "buildid": "18352386",
                 "description": "Experimental [WIP]",
-                "timeupdated": "1744945046"
+                "timeupdated": "1746490776"
             }
         },
         "privatebranches": "1"
