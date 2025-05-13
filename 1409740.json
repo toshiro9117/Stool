@@ -4,8 +4,8 @@
     "name": "Cybernetic Fault",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28475516",
-    "update_time": "2025-04-15 06:08:12",
+    "change_number": "28849279",
+    "update_time": "2025-05-07 04:31:50",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1409741": {
             "manifests": {
                 "public": {
-                    "gid": "5626953396775356774",
-                    "size": "2947782116",
-                    "download": "2777645792"
+                    "gid": "1948970340764043245",
+                    "size": "3070446040",
+                    "download": "2765065584"
                 }
             },
             "decryptionkey": "08b41dab281f27feecb5d8d99bd15362520df84abd0fad0b462e782f307f52ce"
         },
         "branches": {
             "public": {
-                "buildid": "17577300",
-                "timeupdated": "1741031033"
+                "buildid": "18346269",
+                "timeupdated": "1746449280"
             }
         }
     }
