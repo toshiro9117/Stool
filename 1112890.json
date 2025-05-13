@@ -4,8 +4,8 @@
     "name": "Calico",
     "schinese_name": "撸猫模拟器",
     "isfreeapp": "0",
-    "change_number": "27493784",
-    "update_time": "2025-02-15 20:15:48",
+    "change_number": "28588754",
+    "update_time": "2025-04-22 04:04:03",
     "depot": {
         "1112891": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8324555323191496893",
-                    "size": "1058319207",
-                    "download": "430997632"
+                    "gid": "7966696738348575017",
+                    "size": "1058319447",
+                    "download": "430996416"
                 }
             },
             "decryptionkey": "ac5a06869b28880421e4d618f7ab4fc4b30a597f6b80357e3cda114844377a95"
@@ -52,8 +52,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17272137",
-                "timeupdated": "1738875359"
+                "buildid": "18162744",
+                "timeupdated": "1745015534"
             }
         }
     }
