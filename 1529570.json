@@ -4,8 +4,8 @@
     "name": "MorphVOX Pro 5 - Voice Changer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28229299",
-    "update_time": "2025-03-31 21:53:08",
+    "change_number": "28601873",
+    "update_time": "2025-04-22 21:24:58",
     "depot": {
         "228990": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "117478521425725949",
-                    "size": "17662015",
-                    "download": "7982608"
+                    "gid": "4666825533218592651",
+                    "size": "17706895",
+                    "download": "8013888"
                 }
             },
             "decryptionkey": "7644dd8db3fe3d54a8c304c530d7c0bbdd9437c01a87406bf156cd6f5cc95093"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7016808453162945089",
-                    "size": "6579947",
-                    "download": "5081904"
+                    "gid": "5558281329965431025",
+                    "size": "6629315",
+                    "download": "5092288"
                 }
             },
             "decryptionkey": ""
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2850430556248801611",
-                    "size": "6901034",
-                    "download": "5307888"
+                    "gid": "2293469717341625164",
+                    "size": "6949890",
+                    "download": "5318832"
                 }
             },
             "decryptionkey": ""
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4905016134760362211",
-                    "size": "6716965",
-                    "download": "5184096"
+                    "gid": "6852698504315321881",
+                    "size": "6765821",
+                    "download": "5191232"
                 }
             },
             "decryptionkey": ""
@@ -91,9 +91,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8045298375115490083",
-                    "size": "6098367",
-                    "download": "4683872"
+                    "gid": "809024487169788205",
+                    "size": "6147735",
+                    "download": "4694176"
                 }
             },
             "decryptionkey": ""
@@ -105,17 +105,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "516791588705760166",
-                    "size": "6996284",
-                    "download": "5391312"
+                    "gid": "5726947796747121369",
+                    "size": "7043092",
+                    "download": "5401264"
                 }
             },
             "decryptionkey": "21ffaf16aeb8bfa25ea5b3560718cb8dd88d5eaad6e4c4c8515445e45ca2252e"
         },
         "branches": {
             "public": {
-                "buildid": "11867402",
-                "timeupdated": "1691153341"
+                "buildid": "18193675",
+                "timeupdated": "1745328293"
             }
         }
     }
