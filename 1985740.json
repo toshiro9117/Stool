@@ -4,8 +4,8 @@
     "name": "Bugaboo Pocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28527435",
-    "update_time": "2025-04-17 19:07:55",
+    "change_number": "28870597",
+    "update_time": "2025-05-08 05:54:56",
     "depot": {
         "1985741": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2510531063011070564",
-                    "size": "628341208",
-                    "download": "207682864"
+                    "gid": "9117000067338425736",
+                    "size": "628489684",
+                    "download": "207747216"
                 },
                 "public-beta": {
-                    "gid": "2510531063011070564",
-                    "size": "628341208",
-                    "download": "207682864"
+                    "gid": "9117000067338425736",
+                    "size": "628489684",
+                    "download": "207747216"
                 }
             },
             "decryptionkey": "a3252f3aa3682f681667989ab6df551e3683e9cc90488b7083056835f2694317"
@@ -31,26 +31,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7934203493335146376",
-                    "size": "651687350",
-                    "download": "214615632"
+                    "gid": "268676125069177101",
+                    "size": "651717746",
+                    "download": "214644736"
                 },
                 "public-beta": {
-                    "gid": "7934203493335146376",
-                    "size": "651687350",
-                    "download": "214615632"
+                    "gid": "268676125069177101",
+                    "size": "651717746",
+                    "download": "214644736"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18066880",
-                "timeupdated": "1744646115"
+                "buildid": "18316482",
+                "timeupdated": "1746654892"
             },
             "public-beta": {
-                "buildid": "18066880",
+                "buildid": "18316482",
                 "description": "Public branch for testing new updates",
-                "timeupdated": "1744403713"
+                "timeupdated": "1746237962"
             }
         },
         "privatebranches": "1"
