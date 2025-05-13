@@ -1,0 +1,41 @@
+{
+    "appid": "2810070",
+    "type": "Game",
+    "name": "Surviving Ceres",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28894138",
+    "update_time": "2025-05-09 11:00:26",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2810071": {
+            "manifests": {
+                "public": {
+                    "gid": "2275749223468791127",
+                    "size": "2984333985",
+                    "download": "2760985952"
+                }
+            },
+            "decryptionkey": "d2039db98e9110ca1556fba909d73487a36f913fe0c41b6573ca84ce03004d73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385242",
+                "timeupdated": "1746699711"
+            }
+        }
+    }
+}
