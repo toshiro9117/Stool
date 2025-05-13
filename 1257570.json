@@ -4,13 +4,10 @@
     "name": "Two Point Hospital Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28257225",
-    "update_time": "2025-04-02 07:02:05",
+    "change_number": "28915354",
+    "update_time": "2025-05-10 16:01:27",
     "depot": {
         "1257571": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "807062951861323975",
@@ -22,8 +19,7 @@
         },
         "1257572": {
             "config": {
-                "highqualityaudio": "1",
-                "language": ""
+                "highqualityaudio": "1"
             },
             "manifests": {
                 "public": {
@@ -33,6 +29,11 @@
                 }
             },
             "decryptionkey": "0f2d32c894f7ca12585ceebe7c151b48298042b75a132772fe5809382ef76278"
+        },
+        "1257573": {
+            "config": {
+                "highqualityaudio": "1"
+            }
         },
         "branches": {
             "public": {
