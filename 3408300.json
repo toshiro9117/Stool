@@ -4,8 +4,8 @@
     "name": "Running UP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28455137",
-    "update_time": "2025-04-14 01:20:05",
+    "change_number": "28826593",
+    "update_time": "2025-05-06 01:12:15",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2328081363001642203",
-                    "size": "2575967421",
-                    "download": "2244380928"
+                    "gid": "1984388176143581831",
+                    "size": "2546472327",
+                    "download": "2216457856"
                 }
             },
             "decryptionkey": "eec647bf724a7ccb02a8f2229aac94a6016772abf71d405b464f490bc8c8b8a2"
         },
         "branches": {
             "public": {
-                "buildid": "18158367",
-                "timeupdated": "1744984426"
+                "buildid": "18349032",
+                "timeupdated": "1746465130"
             }
         }
     }
