@@ -4,8 +4,8 @@
     "name": "Squirrel with a Gun",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28494043",
-    "update_time": "2025-04-16 03:15:20",
+    "change_number": "28829318",
+    "update_time": "2025-05-06 04:27:35",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -32,8 +32,8 @@
             },
             "decryptionkey": "201dd3404b99fc27f9420fd2c2adc7036e6bbe75162e4db5ecf27106e46c7d9b"
         },
-        "2339450": {
-            "dlcappid": "2339450"
+        "3715570": {
+            "dlcappid": "3715570"
         },
         "branches": {
             "public": {
