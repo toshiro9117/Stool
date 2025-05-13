@@ -4,8 +4,8 @@
     "name": "Sledders",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528399",
-    "update_time": "2025-04-17 20:09:19",
+    "change_number": "28765468",
+    "update_time": "2025-05-01 16:17:37",
     "depot": {
         "2486741": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "2688780112"
                 },
                 "multiplayer-race-test": {
-                    "gid": "4355660502784735918",
-                    "size": "11034039216",
-                    "download": "2688965504"
+                    "gid": "8187150062175926126",
+                    "size": "9395149725",
+                    "download": "2425340656"
                 }
             },
             "decryptionkey": "4144067d33e34965671b4aabd42b033e11a077b35d90afe33d67a4371b540f6a"
@@ -31,9 +31,9 @@
                 "timeupdated": "1744881528"
             },
             "multiplayer-race-test": {
-                "buildid": "18143480",
+                "buildid": "18307230",
                 "description": "For April's multplayer race testing",
-                "timeupdated": "1744891756"
+                "timeupdated": "1746087453"
             }
         },
         "privatebranches": "1"
