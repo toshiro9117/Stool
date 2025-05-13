@@ -4,8 +4,8 @@
     "name": "An alien girl fell on my head, and now I must save our world by demonstrating great and beautiful love",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342260",
-    "update_time": "2025-04-07 17:00:40",
+    "change_number": "28850935",
+    "update_time": "2025-05-07 07:02:53",
     "depot": {
         "3423051": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5436444325651740488",
-                    "size": "3248155251",
-                    "download": "631661520"
+                    "gid": "4571555991583699195",
+                    "size": "3565991627",
+                    "download": "635792976"
                 }
             },
             "decryptionkey": "91b6d1aac63b21b849d1dad52e3cc2766fbfa0cf62594572cb94a8fa3b047fae"
@@ -28,17 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8610689636944126947",
-                    "size": "3324525358",
-                    "download": "648368176"
+                    "gid": "2878264974543238626",
+                    "size": "3642362502",
+                    "download": "652500624"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17982287",
-                "timeupdated": "1743787754"
+                "buildid": "18008912",
+                "timeupdated": "1744286260"
             }
         },
         "privatebranches": "1"
