@@ -4,8 +4,8 @@
     "name": "Ember Knights",
     "schinese_name": "余烬骑士",
     "isfreeapp": "0",
-    "change_number": "28537996",
-    "update_time": "2025-04-18 04:58:33",
+    "change_number": "28756852",
+    "update_time": "2025-05-01 03:19:11",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3462675968663528632",
-                    "size": "1035946926",
-                    "download": "712220624"
+                    "gid": "44067277920493741",
+                    "size": "1035962433",
+                    "download": "712209056"
                 }
             },
             "decryptionkey": "4fb873edabfbd3320be661283c46fdc9dd7d5f9cc7d942b53790673083fe1b66"
@@ -65,8 +65,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18031502",
-                "timeupdated": "1744207574"
+                "buildid": "18300436",
+                "timeupdated": "1746040744"
             }
         },
         "privatebranches": "1"
