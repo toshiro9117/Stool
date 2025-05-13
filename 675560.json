@@ -4,8 +4,8 @@
     "name": "NAVYFIELD",
     "schinese_name": "舰队使命 大海战2",
     "isfreeapp": "0",
-    "change_number": "28496518",
-    "update_time": "2025-04-16 06:20:19",
+    "change_number": "28850603",
+    "update_time": "2025-05-07 06:26:09",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,tchinese,japanese",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1114108228803403832",
-                    "size": "4190498991",
-                    "download": "1253840720"
+                    "gid": "3284522636993953616",
+                    "size": "4202802200",
+                    "download": "1257210192"
                 }
             },
             "decryptionkey": "fd169fe2762885367f82cc2ce9b42784e0e704658c9047899fca0559bf4c7897"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2226183946570864258",
-                    "size": "4190448626",
-                    "download": "1253830528"
+                    "gid": "455372404600296203",
+                    "size": "4202751835",
+                    "download": "1257200000"
                 }
             },
             "decryptionkey": "2bd2ff579b8d223afc7d56dcf1843668603b06b84b8cea5eb1ba53e4ca4de1e7"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "665617396858730592",
-                    "size": "4190396910",
-                    "download": "1253312528"
+                    "gid": "2649456695641361062",
+                    "size": "4202700119",
+                    "download": "1256682000"
                 }
             },
             "decryptionkey": "7ff4895fb08a8444e02a52ab6d7036d3520bc0ab103d43ee830924c350a74ff2"
@@ -86,17 +86,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "865155780932010458",
-                    "size": "4190537399",
-                    "download": "1254712496"
+                    "gid": "7570100157912303425",
+                    "size": "4202840608",
+                    "download": "1258081968"
                 }
             },
             "decryptionkey": "cf6c01dce05526baf1686a236cad1f351563997879da25550b23a2c28bf0caf4"
         },
         "branches": {
             "public": {
-                "buildid": "18120047",
-                "timeupdated": "1744755610"
+                "buildid": "18365844",
+                "timeupdated": "1746570366"
             }
         }
     }
