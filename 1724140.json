@@ -4,8 +4,8 @@
     "name": "Craftomation 101",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27720093",
-    "update_time": "2025-02-28 23:27:42",
+    "change_number": "28842062",
+    "update_time": "2025-05-06 21:15:56",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6768203385845284413",
-                    "size": "225949615",
-                    "download": "198748864"
+                    "gid": "7153396285008453538",
+                    "size": "225998493",
+                    "download": "198802064"
                 },
                 "old_saves": {
                     "gid": "469267124739862505",
@@ -25,9 +25,9 @@
                     "download": "198112208"
                 },
                 "unstable": {
-                    "gid": "6768203385845284413",
-                    "size": "225949615",
-                    "download": "198748864"
+                    "gid": "7153396285008453538",
+                    "size": "225998493",
+                    "download": "198802064"
                 }
             },
             "decryptionkey": "1e4e8afa0f3ccdd424ab57c22d719aaef9f15414e01e2b0bd5978a1d375daf7a"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1937541573887282131",
-                    "size": "233649566",
-                    "download": "200931312"
+                    "gid": "1991390154913769370",
+                    "size": "233698353",
+                    "download": "200983472"
                 },
                 "old_saves": {
                     "gid": "2014600298766439493",
@@ -48,9 +48,9 @@
                     "download": "200309744"
                 },
                 "unstable": {
-                    "gid": "1937541573887282131",
-                    "size": "233649566",
-                    "download": "200931312"
+                    "gid": "1991390154913769370",
+                    "size": "233698353",
+                    "download": "200983472"
                 }
             },
             "decryptionkey": ""
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6900482194030068706",
-                    "size": "224187745",
-                    "download": "198024816"
+                    "gid": "271988941651963705",
+                    "size": "224236631",
+                    "download": "198078320"
                 },
                 "old_saves": {
                     "gid": "6481891857120212428",
@@ -71,17 +71,17 @@
                     "download": "197406000"
                 },
                 "unstable": {
-                    "gid": "6900482194030068706",
-                    "size": "224187745",
-                    "download": "198024816"
+                    "gid": "271988941651963705",
+                    "size": "224236631",
+                    "download": "198078320"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16848438",
-                "timeupdated": "1735122875"
+                "buildid": "18291885",
+                "timeupdated": "1746537349"
             },
             "old_saves": {
                 "buildid": "16567367",
@@ -89,9 +89,9 @@
                 "timeupdated": "1732803581"
             },
             "unstable": {
-                "buildid": "16848438",
+                "buildid": "18291885",
                 "description": "Unstable build",
-                "timeupdated": "1735122133"
+                "timeupdated": "1745999439"
             }
         },
         "privatebranches": "1"
