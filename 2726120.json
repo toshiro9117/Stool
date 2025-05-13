@@ -4,8 +4,8 @@
     "name": "Aura Wallpaper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28493363",
-    "update_time": "2025-04-16 02:30:09",
+    "change_number": "28913955",
+    "update_time": "2025-05-10 12:32:39",
     "depot": {
         "2726121": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1754126743246623926",
-                    "size": "386572666",
-                    "download": "130721536"
+                    "gid": "3973601169940459743",
+                    "size": "405630492",
+                    "download": "137219408"
                 }
             },
             "decryptionkey": "cfec4dcea1c17050536b2ed35193297d96656d684642f5014090f08b42391139"
         },
         "branches": {
             "public": {
-                "buildid": "17689417",
-                "timeupdated": "1741767036"
+                "buildid": "18331657",
+                "timeupdated": "1746272428"
             }
         }
     }
