@@ -4,33 +4,33 @@
     "name": "Chronicon: Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28366461",
-    "update_time": "2025-04-08 21:30:08",
+    "change_number": "28898747",
+    "update_time": "2025-05-09 17:35:06",
     "depot": {
         "2815611": {
             "manifests": {
                 "public": {
-                    "gid": "4440692026342962863",
-                    "size": "515088214",
-                    "download": "498045312"
+                    "gid": "5661190913106229946",
+                    "size": "522756058",
+                    "download": "501625760"
                 },
                 "test_builds": {
-                    "gid": "371893102274382142",
-                    "size": "522145625",
-                    "download": "501430784"
+                    "gid": "1457494309915693464",
+                    "size": "522727069",
+                    "download": "501597360"
                 }
             },
             "decryptionkey": "b6f708696964c6c9aeef289e56398b5a4420c85473b5fbb118f6292344126ecc"
         },
         "branches": {
             "public": {
-                "buildid": "16937835",
-                "timeupdated": "1736328134"
+                "buildid": "18388318",
+                "timeupdated": "1746705343"
             },
             "test_builds": {
-                "buildid": "18026581",
+                "buildid": "18220402",
                 "description": "Play the upcoming updates early (may be unstable)",
-                "timeupdated": "1744118738"
+                "timeupdated": "1745482165"
             }
         },
         "privatebranches": "1"
