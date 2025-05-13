@@ -4,15 +4,15 @@
     "name": "Stories from Sol: The Gun-Dog",
     "schinese_name": "星舰铳犬 太阳系物语",
     "isfreeapp": "0",
-    "change_number": "28383613",
-    "update_time": "2025-04-09 18:08:42",
+    "change_number": "28868348",
+    "update_time": "2025-05-08 03:11:13",
     "depot": {
         "2118421": {
             "manifests": {
                 "public": {
-                    "gid": "507558054554193589",
-                    "size": "263368040",
-                    "download": "150023888"
+                    "gid": "7969527995990251058",
+                    "size": "264298951",
+                    "download": "150728432"
                 }
             },
             "decryptionkey": "ca6c947bc32d228f3036759070557ce4d3fb7aa4dd11074ddfe44680ba6e7d09"
@@ -24,8 +24,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17534243",
-                "timeupdated": "1740731301"
+                "buildid": "18257272",
+                "timeupdated": "1745907919"
             }
         },
         "privatebranches": "1"
