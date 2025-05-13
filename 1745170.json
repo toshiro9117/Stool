@@ -4,12 +4,17 @@
     "name": "Primitier",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28112533",
-    "update_time": "2025-03-25 00:18:55",
+    "change_number": "28570246",
+    "update_time": "2025-04-20 16:34:01",
     "depot": {
         "1745171": {
             "manifests": {
                 "public": {
+                    "gid": "1510720657106319639",
+                    "size": "238280716",
+                    "download": "125873376"
+                },
+                "v1.11.0": {
                     "gid": "7578827092144373612",
                     "size": "223891642",
                     "download": "121844080"
@@ -29,8 +34,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "18167387",
+                "timeupdated": "1745070871"
+            },
+            "v1.11.0": {
                 "buildid": "16390655",
-                "timeupdated": "1731494327"
+                "description": "old",
+                "timeupdated": "1745069702"
             },
             "v1.8.0": {
                 "buildid": "12738739",
