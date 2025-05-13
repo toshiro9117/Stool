@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER III",
     "schinese_name": "全面战争：战锤3",
     "isfreeapp": "0",
-    "change_number": "28543180",
-    "update_time": "2025-04-18 13:05:02",
+    "change_number": "28921292",
+    "update_time": "2025-05-11 07:15:20",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -42,14 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6122111928263877236",
-                    "size": "498472238",
-                    "download": "268653008"
-                },
-                "proving_grounds": {
-                    "gid": "1821720859212484983",
-                    "size": "483414318",
-                    "download": "259450624"
+                    "gid": "2215457438750097700",
+                    "size": "489022766",
+                    "download": "262656896"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "3044333484848695442",
@@ -57,9 +52,9 @@
                     "download": "267760096"
                 },
                 "last_hotfix": {
-                    "gid": "3135459426478936079",
-                    "size": "482539310",
-                    "download": "259102176"
+                    "gid": "6122111928263877236",
+                    "size": "498472238",
+                    "download": "268653008"
                 },
                 "last_patch": {
                     "gid": "8967344368400041095",
@@ -67,9 +62,9 @@
                     "download": "272218768"
                 },
                 "last_release": {
-                    "gid": "3135459426478936079",
-                    "size": "482539310",
-                    "download": "259102176"
+                    "gid": "6122111928263877236",
+                    "size": "498472238",
+                    "download": "268653008"
                 },
                 "last_update": {
                     "gid": "1430633323393601423",
@@ -110,14 +105,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1834230131537016823",
-                    "size": "120739033257",
-                    "download": "77922735360"
-                },
-                "proving_grounds": {
-                    "gid": "1178359096838079742",
-                    "size": "120739045457",
-                    "download": "77922557744"
+                    "gid": "3969858531334505285",
+                    "size": "120740753400",
+                    "download": "77913952064"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "215048428375258250",
@@ -125,9 +115,9 @@
                     "download": "69765365648"
                 },
                 "last_hotfix": {
-                    "gid": "1734556656261746511",
-                    "size": "120739022785",
-                    "download": "77922748928"
+                    "gid": "1834230131537016823",
+                    "size": "120739033257",
+                    "download": "77922735360"
                 },
                 "last_patch": {
                     "gid": "7978781633391378699",
@@ -135,9 +125,9 @@
                     "download": "77923791024"
                 },
                 "last_release": {
-                    "gid": "1734556656261746511",
-                    "size": "120739022785",
-                    "download": "77922748928"
+                    "gid": "1834230131537016823",
+                    "size": "120739033257",
+                    "download": "77922735360"
                 },
                 "last_update": {
                     "gid": "8449631994025136971",
@@ -179,11 +169,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6088472991362806035",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "6088472991362806035",
                     "size": "2",
                     "download": "48"
@@ -252,11 +237,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "3622264683308117676",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "3622264683308117676",
                     "size": "2",
@@ -317,11 +297,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1459637335183049178",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "1459637335183049178",
                     "size": "2",
                     "download": "48"
@@ -390,11 +365,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "6710079216484448409",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "6710079216484448409",
                     "size": "2",
@@ -455,11 +425,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7071982132288265381",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "7071982132288265381",
                     "size": "2",
                     "download": "48"
@@ -528,11 +493,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "6939909223456557190",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "6939909223456557190",
                     "size": "2",
@@ -593,11 +553,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5353395848903157963",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "5353395848903157963",
                     "size": "2",
                     "download": "48"
@@ -666,11 +621,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "4128327580205674160",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "4128327580205674160",
                     "size": "2",
@@ -731,11 +681,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1426222503569890400",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "1426222503569890400",
                     "size": "2",
                     "download": "48"
@@ -804,11 +749,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "5459469807500853556",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "5459469807500853556",
                     "size": "2",
@@ -869,11 +809,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5730481803774042745",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "5730481803774042745",
                     "size": "2",
                     "download": "48"
@@ -942,11 +877,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "3461348633807822835",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "3461348633807822835",
                     "size": "2",
@@ -1011,11 +941,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "2554965331021559023",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "2554965331021559023",
                     "size": "2",
@@ -1076,14 +1001,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5332032182920663383",
-                    "size": "72784416",
-                    "download": "3762784"
-                },
-                "proving_grounds": {
-                    "gid": "6479353525254680768",
-                    "size": "72784416",
-                    "download": "3762336"
+                    "gid": "7248951902801676346",
+                    "size": "72784206",
+                    "download": "3759648"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "7258956335356851457",
@@ -1091,9 +1011,9 @@
                     "download": "7304064"
                 },
                 "last_hotfix": {
-                    "gid": "6893682288602260210",
+                    "gid": "5332032182920663383",
                     "size": "72784416",
-                    "download": "3762608"
+                    "download": "3762784"
                 },
                 "last_patch": {
                     "gid": "9043289944327733192",
@@ -1101,9 +1021,9 @@
                     "download": "3762144"
                 },
                 "last_release": {
-                    "gid": "6893682288602260210",
+                    "gid": "5332032182920663383",
                     "size": "72784416",
-                    "download": "3762608"
+                    "download": "3762784"
                 },
                 "last_update": {
                     "gid": "6972731770484974930",
@@ -1144,14 +1064,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5731862098398252724",
-                    "size": "306506618",
-                    "download": "105239344"
-                },
-                "proving_grounds": {
-                    "gid": "4152266389898730702",
-                    "size": "311134682",
-                    "download": "100409168"
+                    "gid": "4525094302592380292",
+                    "size": "306541642",
+                    "download": "105243456"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "1009658307695865649",
@@ -1212,14 +1127,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4835970717694840807",
+                    "gid": "3742283556869772595",
                     "size": "120750443745",
-                    "download": "77979524080"
-                },
-                "proving_grounds": {
-                    "gid": "4451587773239928692",
-                    "size": "120694215933",
-                    "download": "77950190480"
+                    "download": "77978009312"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "8155474965652043425",
@@ -1281,11 +1191,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9166494449026273310",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9166494449026273310",
                     "size": "2",
                     "download": "48"
@@ -1354,11 +1259,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "8900861237430057830",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "101975508394446645",
                     "size": "2",
@@ -1419,11 +1319,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8655011593956400395",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "8655011593956400395",
                     "size": "2",
                     "download": "48"
@@ -1492,11 +1387,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9026286101244549568",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "274678058928483609",
                     "size": "2",
@@ -1557,11 +1447,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8945570751154345796",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "8945570751154345796",
                     "size": "2",
                     "download": "48"
@@ -1630,11 +1515,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9129895734558471269",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "30841004180301343",
                     "size": "2",
@@ -1695,11 +1575,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9081626058921136981",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9081626058921136981",
                     "size": "2",
                     "download": "48"
@@ -1768,11 +1643,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "8915494895381867967",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "487256555029179685",
                     "size": "2",
@@ -1833,11 +1703,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8654905814547725517",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "8654905814547725517",
                     "size": "2",
                     "download": "48"
@@ -1906,11 +1771,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9108577162150987688",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "232212093082951970",
                     "size": "2",
@@ -1971,11 +1831,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9144170792512835387",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9144170792512835387",
                     "size": "2",
                     "download": "48"
@@ -2044,11 +1899,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "8930316460357654082",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "130525958722426467",
                     "size": "2",
@@ -2109,11 +1959,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9144309982818004957",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9144309982818004957",
                     "size": "2",
                     "download": "48"
@@ -2182,11 +2027,6 @@
                     "size": "72784416",
                     "download": "3761536"
                 },
-                "proving_grounds": {
-                    "gid": "5031547710389446980",
-                    "size": "72659874",
-                    "download": "3797696"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "9026659957992150995",
                     "size": "80732469",
@@ -2249,11 +2089,6 @@
                     "gid": "4198439730395591691",
                     "size": "485961049",
                     "download": "170294000"
-                },
-                "proving_grounds": {
-                    "gid": "3388215060634706168",
-                    "size": "477173511",
-                    "download": "164227328"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "806699980711150344",
@@ -2318,11 +2153,6 @@
                     "size": "120750443745",
                     "download": "77977571504"
                 },
-                "proving_grounds": {
-                    "gid": "3661219418677686346",
-                    "size": "120694215933",
-                    "download": "77947740416"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "9164136938107999138",
                     "size": "119118993005",
@@ -2383,11 +2213,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9093418364724952259",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9093418364724952259",
                     "size": "2",
                     "download": "48"
@@ -2456,11 +2281,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9053631128273802016",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "109563278731700232",
                     "size": "2",
@@ -2521,11 +2341,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9196635818519935959",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9196635818519935959",
                     "size": "2",
                     "download": "48"
@@ -2594,11 +2409,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9026763929115280829",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "175397543756662400",
                     "size": "2",
@@ -2659,11 +2469,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8979927577716416174",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "8979927577716416174",
                     "size": "2",
                     "download": "48"
@@ -2732,11 +2537,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9180672658440347694",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "248599615657073104",
                     "size": "2",
@@ -2797,11 +2597,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8975037473306021053",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "8975037473306021053",
                     "size": "2",
                     "download": "48"
@@ -2870,11 +2665,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9063585085200662596",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "891540989082724261",
                     "size": "2",
@@ -2935,11 +2725,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9183865322137861645",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9183865322137861645",
                     "size": "2",
                     "download": "48"
@@ -3008,11 +2793,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "8802401714251063910",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "87685208880024827",
                     "size": "2",
@@ -3073,11 +2853,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9041416467017533132",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9041416467017533132",
                     "size": "2",
                     "download": "48"
@@ -3146,11 +2921,6 @@
                     "size": "2",
                     "download": "48"
                 },
-                "proving_grounds": {
-                    "gid": "9196900743135948625",
-                    "size": "2",
-                    "download": "48"
-                },
                 "domesticated_1_3_retail": {
                     "gid": "61424552544932073",
                     "size": "2",
@@ -3211,11 +2981,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9013275096934864938",
-                    "size": "2",
-                    "download": "48"
-                },
-                "proving_grounds": {
                     "gid": "9013275096934864938",
                     "size": "2",
                     "download": "48"
@@ -3283,11 +3048,6 @@
                     "gid": "1998852769651390519",
                     "size": "72784416",
                     "download": "3762272"
-                },
-                "proving_grounds": {
-                    "gid": "6486768369626631500",
-                    "size": "72659874",
-                    "download": "3786128"
                 },
                 "domesticated_1_3_retail": {
                     "gid": "5812049736292078484",
@@ -3362,13 +3122,8 @@
         "workshopdepot": "1142710",
         "branches": {
             "public": {
-                "buildid": "18097525",
-                "timeupdated": "1744626203"
-            },
-            "proving_grounds": {
-                "buildid": "18043886",
-                "description": "Campaign AI Beta #2",
-                "timeupdated": "1744215505"
+                "buildid": "18277993",
+                "timeupdated": "1745920505"
             },
             "domesticated_1_3_retail": {
                 "buildid": "9616527",
@@ -3376,9 +3131,9 @@
                 "timeupdated": "1665069275"
             },
             "last_hotfix": {
-                "buildid": "17967913",
-                "description": "Rollback to 6.1.1 (Build #33773)",
-                "timeupdated": "1743674129"
+                "buildid": "18278114",
+                "description": "Rollback to 6.1.2 (Build #33944)",
+                "timeupdated": "1745920998"
             },
             "last_patch": {
                 "buildid": "17882879",
@@ -3386,9 +3141,9 @@
                 "timeupdated": "1743080284"
             },
             "last_release": {
-                "buildid": "17967908",
-                "description": "Rollback to 6.1.1 (Build #33773)",
-                "timeupdated": "1743674087"
+                "buildid": "18278125",
+                "description": "Rollback to 6.1.2 (Build #33944)",
+                "timeupdated": "1745921055"
             },
             "last_update": {
                 "buildid": "17236548",
