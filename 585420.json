@@ -4,8 +4,8 @@
     "name": "Trailmakers",
     "schinese_name": "机械制造者 Trailmakers",
     "isfreeapp": "0",
-    "change_number": "28539225",
-    "update_time": "2025-04-18 06:52:13",
+    "change_number": "28911832",
+    "update_time": "2025-05-10 07:59:27",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "585421": {
             "manifests": {
                 "public": {
-                    "gid": "5834003830643189808",
-                    "size": "7556084079",
-                    "download": "6405860384"
+                    "gid": "4472423625208331844",
+                    "size": "6516708616",
+                    "download": "5439113600"
                 },
                 "expedition": {
                     "gid": "1401415892018513847",
@@ -27,9 +27,9 @@
                     "download": "1564907632"
                 },
                 "previous": {
-                    "gid": "2665190855384210351",
-                    "size": "8395587415",
-                    "download": "7231095056"
+                    "gid": "4294437317251904967",
+                    "size": "6517109892",
+                    "download": "5439272080"
                 }
             },
             "decryptionkey": "131cfc758986f58922fa998a0f28bda5abe20df30a8d51f9f1ff21a91e69d07e"
@@ -39,8 +39,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17767291",
-                "timeupdated": "1742464608"
+                "buildid": "18357415",
+                "timeupdated": "1746618182"
             },
             "expedition": {
                 "buildid": "3350872",
@@ -48,9 +48,9 @@
                 "timeupdated": "1553591392"
             },
             "previous": {
-                "buildid": "17604028",
+                "buildid": "18309968",
                 "description": "Previous build",
-                "timeupdated": "1742464638"
+                "timeupdated": "1746618371"
             }
         },
         "privatebranches": "1",
