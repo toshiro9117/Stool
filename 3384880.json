@@ -4,12 +4,17 @@
     "name": "Vox Populi: Deutschland 2025",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27377485",
-    "update_time": "2025-02-08 18:39:35",
+    "change_number": "28773732",
+    "update_time": "2025-05-02 02:47:18",
     "depot": {
         "3384881": {
             "manifests": {
                 "public": {
+                    "gid": "8761706119729039615",
+                    "size": "1398268473",
+                    "download": "191215712"
+                },
+                "v1.04.00": {
                     "gid": "386511897648047629",
                     "size": "1376749019",
                     "download": "178085008"
@@ -19,8 +24,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "18267298",
+                "timeupdated": "1745861816"
+            },
+            "v1.04.00": {
                 "buildid": "17274339",
-                "timeupdated": "1738889487"
+                "description": "v1.04.00",
+                "timeupdated": "1745861830"
             }
         }
     }
