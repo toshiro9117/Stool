@@ -4,8 +4,8 @@
     "name": "FireAlpaca SE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28377376",
-    "update_time": "2025-04-09 10:05:29",
+    "change_number": "28852704",
+    "update_time": "2025-05-07 09:46:08",
     "depot": {
         "458751": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8955389619479583772",
-                    "size": "148424358",
-                    "download": "67984656"
+                    "gid": "8377405890748369673",
+                    "size": "148444326",
+                    "download": "67990416"
                 }
             },
             "decryptionkey": ""
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "390700254812741484",
-                    "size": "132112463",
-                    "download": "65147152"
+                    "gid": "3534711068458968262",
+                    "size": "132124751",
+                    "download": "65148816"
                 }
             },
             "decryptionkey": "1722e1ea688d999f0ca032f5cd9bf41c77528acafcb7269809ed8db4bb2888d6"
@@ -41,16 +41,28 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2168758270526247428",
-                    "size": "123762174",
-                    "download": "58931584"
+                    "gid": "6770358796182985800",
+                    "size": "123777402",
+                    "download": "58936240"
                 }
+            }
+        },
+        "458754": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "458755": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
             }
         },
         "branches": {
             "public": {
-                "buildid": "18034208",
-                "timeupdated": "1744164318"
+                "buildid": "18367413",
+                "timeupdated": "1746582356"
             }
         }
     }
