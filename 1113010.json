@@ -4,8 +4,8 @@
     "name": "Chornobyl Liquidators",
     "schinese_name": "切尔诺贝利清算人",
     "isfreeapp": "0",
-    "change_number": "27728027",
-    "update_time": "2025-03-01 08:45:06",
+    "change_number": "28905735",
+    "update_time": "2025-05-10 00:32:49",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -25,9 +25,9 @@
         "1113011": {
             "manifests": {
                 "public": {
-                    "gid": "8262943938495994878",
-                    "size": "35201067745",
-                    "download": "16328082384"
+                    "gid": "4408519559563709774",
+                    "size": "35135804689",
+                    "download": "16309898832"
                 }
             },
             "decryptionkey": "d71b286cac53c71bdb76c9ae274bf38949f8977982d9faf4939e9ac20ca0975a"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17422794",
-                "timeupdated": "1739970716"
+                "buildid": "18252590",
+                "timeupdated": "1745709832"
             }
         },
         "privatebranches": "1"
