@@ -4,20 +4,20 @@
     "name": "Love and Sex: Second Base",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28409444",
-    "update_time": "2025-04-10 22:25:45",
+    "change_number": "28826983",
+    "update_time": "2025-05-06 01:33:47",
     "depot": {
         "1264711": {
             "manifests": {
                 "public": {
-                    "gid": "6705499694963131274",
-                    "size": "1627643171",
-                    "download": "1365668240"
+                    "gid": "7517218433559390555",
+                    "size": "1631788980",
+                    "download": "1369417632"
                 },
                 "beta": {
-                    "gid": "6705499694963131274",
-                    "size": "1627643171",
-                    "download": "1365668240"
+                    "gid": "7517218433559390555",
+                    "size": "1631788980",
+                    "download": "1369417632"
                 }
             },
             "decryptionkey": "4a897a7db879588d36357b800d783e7ed104f944548cdcaedce7945bd26ed272"
@@ -45,14 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6753715015518271431",
-                    "size": "95339504",
-                    "download": "87631648"
+                    "gid": "2103854697366627273",
+                    "size": "97222212",
+                    "download": "89338592"
                 },
                 "beta": {
-                    "gid": "6753715015518271431",
-                    "size": "95339504",
-                    "download": "87631648"
+                    "gid": "2103854697366627273",
+                    "size": "97222212",
+                    "download": "89338592"
                 }
             },
             "decryptionkey": "54dfaaea9941c9f9631ced6bb006da2c4e7e9612fbe5e6a0fedabfb00d292bd5"
@@ -61,27 +61,27 @@
             "dlcappid": "2945780",
             "manifests": {
                 "public": {
-                    "gid": "2712484747259381458",
-                    "size": "96203812",
-                    "download": "84628496"
+                    "gid": "4926744108344183327",
+                    "size": "100208455",
+                    "download": "88157216"
                 },
                 "beta": {
-                    "gid": "2712484747259381458",
-                    "size": "96203812",
-                    "download": "84628496"
+                    "gid": "4926744108344183327",
+                    "size": "100208455",
+                    "download": "88157216"
                 }
             },
             "decryptionkey": "67303b9cdca0ca902343f4e43f633c4174ded09b0d2aa16e9e1f9c4aa2239821"
         },
         "branches": {
             "public": {
-                "buildid": "18057610",
-                "timeupdated": "1744295141"
+                "buildid": "18347616",
+                "timeupdated": "1746466421"
             },
             "beta": {
-                "buildid": "18057610",
+                "buildid": "18347616",
                 "description": "beta",
-                "timeupdated": "1744294389"
+                "timeupdated": "1746457251"
             }
         }
     }
