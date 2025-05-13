@@ -4,8 +4,8 @@
     "name": "Dreamcore",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28515262",
-    "update_time": "2025-04-17 03:31:46",
+    "change_number": "28583894",
+    "update_time": "2025-04-21 22:01:06",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2453061": {
             "manifests": {
                 "public": {
-                    "gid": "3181667682230412085",
-                    "size": "3214954942",
-                    "download": "2956497664"
+                    "gid": "5751855335284569682",
+                    "size": "3123132623",
+                    "download": "2860458560"
                 }
             },
             "decryptionkey": "0b8213c75958716335ce8364fb117b9ec29713c1fead925ef42641662bcfeec2"
@@ -40,8 +40,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "17355104",
-                "timeupdated": "1739472374"
+                "buildid": "18133965",
+                "timeupdated": "1745244061"
             }
         },
         "privatebranches": "1"
