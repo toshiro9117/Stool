@@ -4,8 +4,8 @@
     "name": "GoreBox",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28505791",
-    "update_time": "2025-04-16 18:23:15",
+    "change_number": "28919929",
+    "update_time": "2025-05-11 03:46:06",
     "depot": {
         "2027331": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "431960560"
                 },
                 "beta": {
-                    "gid": "3046788043548772695",
-                    "size": "671817789",
-                    "download": "418112944"
+                    "gid": "9193077846701238657",
+                    "size": "705794681",
+                    "download": "445928336"
                 }
             },
             "decryptionkey": "fe55366b35c183a95c0ec8968cfc7df1e903ba74e41b8c298201fda9946a0b7d"
@@ -32,9 +32,9 @@
                 "timeupdated": "1744284158"
             },
             "beta": {
-                "buildid": "18127059",
+                "buildid": "18340661",
                 "description": "experimental updates",
-                "timeupdated": "1744798980"
+                "timeupdated": "1746397870"
             }
         },
         "privatebranches": "1"
