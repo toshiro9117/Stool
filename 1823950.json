@@ -4,8 +4,8 @@
     "name": "Laysara: Summit Kingdom",
     "schinese_name": "肋萨拉：顶峰王国",
     "isfreeapp": "0",
-    "change_number": "28516614",
-    "update_time": "2025-04-17 05:09:02",
+    "change_number": "28731164",
+    "update_time": "2025-04-30 00:01:58",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7221499784740011436",
-                    "size": "3916892229",
-                    "download": "3744195872"
+                    "gid": "7931455296320123624",
+                    "size": "3916482437",
+                    "download": "3743927696"
                 }
             },
             "decryptionkey": "3416cb65c4840209c65ad9ba8f329819b3f5dfef7fac10cdfa40f94e4676c68b"
         },
         "branches": {
             "public": {
-                "buildid": "18131185",
-                "timeupdated": "1744818600"
+                "buildid": "18281548",
+                "timeupdated": "1745942514"
             }
         },
         "privatebranches": "1"
