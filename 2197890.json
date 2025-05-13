@@ -4,8 +4,8 @@
     "name": "Paranormal Cleanup",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28466980",
-    "update_time": "2025-04-14 21:08:49",
+    "change_number": "28806922",
+    "update_time": "2025-05-04 14:01:41",
     "depot": {
         "228989": {
             "config": {
@@ -21,20 +21,48 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "2197891": {
             "manifests": {
                 "public": {
-                    "gid": "9083727854553909833",
-                    "size": "5253907097",
-                    "download": "5107839264"
+                    "gid": "4384587792921225211",
+                    "size": "11604623252",
+                    "download": "5101318832"
                 }
             },
             "decryptionkey": "c4edc51ed5989640f604dab4ab2066669ea1ad25684d39142e6df692b201b729"
         },
         "branches": {
             "public": {
-                "buildid": "18033223",
-                "timeupdated": "1744163134"
+                "buildid": "18336071",
+                "timeupdated": "1746338497"
             }
         },
         "privatebranches": "1"
