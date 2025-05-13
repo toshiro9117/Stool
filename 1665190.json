@@ -4,8 +4,8 @@
     "name": "Monster Prom 3: Monster Roadtrip",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28011110",
-    "update_time": "2025-03-18 18:24:06",
+    "change_number": "28884627",
+    "update_time": "2025-05-08 23:06:09",
     "depot": {
         "1665191": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5704477698859328539",
-                    "size": "1809716566",
-                    "download": "1290482016"
+                    "gid": "5854029482447098187",
+                    "size": "1813541455",
+                    "download": "1291309936"
                 }
             },
             "decryptionkey": "54444609941985bf7d7f7c095d22cbb84fcaf9a90492a369d7ca6fbee58894df"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7445329792075525050",
-                    "size": "1821438175",
-                    "download": "1295463792"
+                    "gid": "6305105893744305830",
+                    "size": "1825263057",
+                    "download": "1296289984"
                 }
             },
             "decryptionkey": ""
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3954974280657914645",
-                    "size": "1799056907",
-                    "download": "1287663552"
+                    "gid": "706641949467147416",
+                    "size": "1802881791",
+                    "download": "1288489904"
                 }
             },
             "decryptionkey": ""
@@ -49,8 +49,8 @@
         "workshopdepot": "1665190",
         "branches": {
             "public": {
-                "buildid": "17763852",
-                "timeupdated": "1742293438"
+                "buildid": "18220310",
+                "timeupdated": "1745515846"
             }
         },
         "privatebranches": "1",
