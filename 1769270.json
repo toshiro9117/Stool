@@ -4,33 +4,33 @@
     "name": "Spikair Volleyball",
     "schinese_name": "斯派克排球",
     "isfreeapp": "0",
-    "change_number": "28317982",
-    "update_time": "2025-04-05 06:56:31",
+    "change_number": "28922543",
+    "update_time": "2025-05-11 11:32:59",
     "depot": {
         "1769271": {
             "manifests": {
                 "public": {
-                    "gid": "1258671581247392335",
-                    "size": "274694966",
-                    "download": "102594576"
+                    "gid": "2693009499844946489",
+                    "size": "274742122",
+                    "download": "102586400"
                 },
                 "beta-test": {
-                    "gid": "1258671581247392335",
-                    "size": "274694966",
-                    "download": "102594576"
+                    "gid": "2693009499844946489",
+                    "size": "274742122",
+                    "download": "102586400"
                 }
             },
             "decryptionkey": "2fe49060d0c7a8c8fa88d3469fcd2795aecb406aa32f47df30f0da1252c1f21c"
         },
         "branches": {
             "public": {
-                "buildid": "17991628",
-                "timeupdated": "1743807386"
+                "buildid": "18332702",
+                "timeupdated": "1746619316"
             },
             "beta-test": {
-                "buildid": "17991628",
+                "buildid": "18332702",
                 "description": "To test new stuff",
-                "timeupdated": "1743807342"
+                "timeupdated": "1746286532"
             }
         }
     }
