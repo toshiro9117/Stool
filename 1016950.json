@@ -4,8 +4,8 @@
     "name": "Blood Bowl 3",
     "schinese_name": "怒火橄榄球 3",
     "isfreeapp": "0",
-    "change_number": "28549926",
-    "update_time": "2025-04-18 21:19:32",
+    "change_number": "28919653",
+    "update_time": "2025-05-11 03:02:18",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1016951": {
             "manifests": {
                 "public": {
-                    "gid": "4801113164148913280",
-                    "size": "13939261206",
-                    "download": "12496110928"
+                    "gid": "2366893404064286589",
+                    "size": "14264435141",
+                    "download": "12825048576"
                 }
             },
             "decryptionkey": "f93ae1131d7bd8a01d305f157b3fa0efe69afc3d78535e3b5490d26012015350"
         },
         "branches": {
             "public": {
-                "buildid": "17705497",
-                "timeupdated": "1741943224"
+                "buildid": "18101607",
+                "timeupdated": "1745312817"
             }
         },
         "privatebranches": "1"
