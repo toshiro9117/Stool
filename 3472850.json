@@ -4,20 +4,21 @@
     "name": "指尖问道",
     "schinese_name": "指尖问道",
     "isfreeapp": "0",
-    "change_number": "28548140",
-    "update_time": "2025-04-18 19:03:00",
+    "change_number": "28895379",
+    "update_time": "2025-05-09 13:19:52",
     "depot": {
         "baselanguages": "schinese,tchinese",
         "hasdepotsindlc": "1",
+        "workshopdepot": "3472850",
         "3472851": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "5418225047156259464",
-                    "size": "172927966",
-                    "download": "64620416"
+                    "gid": "6758960445682828330",
+                    "size": "214009280",
+                    "download": "79946704"
                 }
             },
             "decryptionkey": "72188682cb021cae1728d33a2615ffc905c5e2a3c354e39363ecbefa85b105f4"
@@ -28,19 +29,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4109900867396298504",
-                    "size": "261930463",
-                    "download": "83624416"
+                    "gid": "8618893646573321138",
+                    "size": "288935423",
+                    "download": "88151200"
                 }
             }
         },
-        "workshopdepot": "3472850",
-        "branches": {
-            "public": {
-                "buildid": "18156892",
-                "timeupdated": "1744974175"
+        "3472853": {
+            "config": {
+                "oslist": "windows"
             }
         },
+        "branches": {
+            "public": {
+                "buildid": "18289005",
+                "timeupdated": "1745979842"
+            }
+        },
+        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
