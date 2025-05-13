@@ -4,8 +4,8 @@
     "name": "Ostalgie: The Berlin Wall",
     "schinese_name": "东德情结：柏林墙",
     "isfreeapp": "0",
-    "change_number": "28542122",
-    "update_time": "2025-04-18 11:16:42",
+    "change_number": "28733849",
+    "update_time": "2025-04-30 02:40:25",
     "depot": {
         "228985": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "372883568586134586",
-                    "size": "3355254915",
-                    "download": "1305413408"
+                    "gid": "3782351834577426216",
+                    "size": "3362506251",
+                    "download": "1322960928"
                 }
             },
             "decryptionkey": "eba58582ab0dbc0d16691378ef2a05090b6b8568d9cd652ee7cf2048714e830a"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3688831900857638761",
-                    "size": "1392714608",
-                    "download": "1037600224"
+                    "gid": "3678364145697092837",
+                    "size": "1399965944",
+                    "download": "1043093488"
                 }
             },
             "decryptionkey": ""
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6989480572164727980",
-                    "size": "1397329537",
-                    "download": "1038983744"
+                    "gid": "8633377384095257078",
+                    "size": "1404580873",
+                    "download": "1044476576"
                 }
             }
         },
@@ -74,9 +74,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8868348845036618276",
-                    "size": "1546084145",
-                    "download": "1103668608"
+                    "gid": "1491118543749039444",
+                    "size": "1553335481",
+                    "download": "1109161904"
                 }
             }
         },
@@ -126,8 +126,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17996108",
-                "timeupdated": "1743861753"
+                "buildid": "18284554",
+                "timeupdated": "1745952020"
             }
         }
     }
