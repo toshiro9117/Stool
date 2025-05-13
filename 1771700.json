@@ -4,33 +4,33 @@
     "name": "Vaygren - Lustful Temptation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28521423",
-    "update_time": "2025-04-17 12:10:30",
+    "change_number": "28856308",
+    "update_time": "2025-05-07 15:23:41",
     "depot": {
         "1771701": {
             "manifests": {
                 "public": {
-                    "gid": "8069300079723973782",
-                    "size": "680495368",
-                    "download": "500400752"
+                    "gid": "4223004676348266552",
+                    "size": "1259620829",
+                    "download": "998316192"
                 },
                 "beta": {
-                    "gid": "5761272205910910654",
-                    "size": "709198086",
-                    "download": "528944976"
+                    "gid": "2761786966431854929",
+                    "size": "968368587",
+                    "download": "751165568"
                 }
             },
             "decryptionkey": "59a1fc62e34fe007d5c485f46989980cb731d3f87219d035efe5db869bff31bc"
         },
         "branches": {
             "public": {
-                "buildid": "14392711",
-                "timeupdated": "1715911333"
+                "buildid": "18307752",
+                "timeupdated": "1746091656"
             },
             "beta": {
-                "buildid": "14522849",
+                "buildid": "18370234",
                 "description": "Beta Testing",
-                "timeupdated": "1716918754"
+                "timeupdated": "1746602617"
             }
         }
     }
