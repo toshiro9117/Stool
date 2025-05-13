@@ -4,8 +4,8 @@
     "name": "3DMark",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28524815",
-    "update_time": "2025-04-17 16:31:43",
+    "change_number": "28863454",
+    "update_time": "2025-05-07 22:25:25",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -410,9 +410,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5260154576091568362",
-                    "size": "3420972",
-                    "download": "2907056"
+                    "gid": "8029975086770281424",
+                    "size": "3416876",
+                    "download": "2905360"
                 }
             },
             "decryptionkey": "b891cf73a4f710c4d361a757912867ddea5cb77f8cdc2520e1bd9c64aefeb43d"
@@ -621,8 +621,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17939825",
-                "timeupdated": "1743588746"
+                "buildid": "18373117",
+                "timeupdated": "1746618238"
             },
             "previous_version": {
                 "buildid": "1060252",
