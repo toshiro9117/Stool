@@ -4,8 +4,8 @@
     "name": "Sandbox World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28289293",
-    "update_time": "2025-04-03 21:17:46",
+    "change_number": "28911559",
+    "update_time": "2025-05-10 07:32:18",
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3230589037505891228",
-                    "size": "1588858894",
-                    "download": "567485136"
+                    "gid": "1307830086178744833",
+                    "size": "1588854454",
+                    "download": "567505664"
                 },
                 "beta": {
-                    "gid": "3115799594687509946",
-                    "size": "1588862122",
-                    "download": "567464432"
+                    "gid": "4300753448551438314",
+                    "size": "1588852242",
+                    "download": "567479472"
                 }
             },
             "decryptionkey": "9b8d50d661b01fc940fe30df39ca6e2c929797453b55d07f574efff3570c8817"
@@ -71,13 +71,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17776377",
-                "timeupdated": "1742366798"
+                "buildid": "18199067",
+                "timeupdated": "1745356927"
             },
             "beta": {
-                "buildid": "17744633",
+                "buildid": "18088946",
                 "description": "Beta version",
-                "timeupdated": "1742155081"
+                "timeupdated": "1744538746"
             }
         }
     }
