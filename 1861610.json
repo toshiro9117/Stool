@@ -4,8 +4,8 @@
     "name": "Endorphin Vice",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28510830",
-    "update_time": "2025-04-16 23:10:32",
+    "change_number": "28911500",
+    "update_time": "2025-05-10 07:27:40",
     "depot": {
         "228989": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6606862833407424240",
-                    "size": "19736861513",
-                    "download": "12051568448"
+                    "gid": "8512950549759625005",
+                    "size": "19585178849",
+                    "download": "11891538368"
                 }
             },
             "decryptionkey": "7489182c47f6a761d23386980f67532ee1b2d6b49a6ed40c3d5de146c142e7a4"
@@ -67,8 +67,8 @@
         "workshopdepot": "1861610",
         "branches": {
             "public": {
-                "buildid": "17931375",
-                "timeupdated": "1743461387"
+                "buildid": "18251496",
+                "timeupdated": "1745694256"
             }
         },
         "workshopdepotdecryptionkey": ""
