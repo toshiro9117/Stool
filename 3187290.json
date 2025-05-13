@@ -4,8 +4,8 @@
     "name": "Winning Post 10 2025",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543741",
-    "update_time": "2025-04-18 14:02:22",
+    "change_number": "28919081",
+    "update_time": "2025-05-11 01:32:49",
     "depot": {
         "baselanguages": "",
         "228988": {
@@ -25,9 +25,9 @@
         "3187291": {
             "manifests": {
                 "public": {
-                    "gid": "834225327053629900",
-                    "size": "50869211905",
-                    "download": "12743582480"
+                    "gid": "1814866034684527819",
+                    "size": "50869365683",
+                    "download": "12743639152"
                 }
             },
             "decryptionkey": "b70f2db9caaaeec0af28a07621c4b42daa75fa5e69c6c60066ad110915cead63"
@@ -606,8 +606,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17848936",
-                "timeupdated": "1742980323"
+                "buildid": "18009210",
+                "timeupdated": "1745197220"
             }
         },
         "privatebranches": "1"
