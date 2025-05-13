@@ -4,21 +4,21 @@
     "name": "Tactical Breach Wizards",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28159509",
-    "update_time": "2025-03-27 07:42:11",
+    "change_number": "28776300",
+    "update_time": "2025-05-02 06:19:51",
     "depot": {
         "workshopdepot": "1043810",
         "1043811": {
             "manifests": {
                 "public": {
-                    "gid": "2115475616383671813",
-                    "size": "2530388594",
-                    "download": "1113271504"
+                    "gid": "6571010108679385986",
+                    "size": "2530701964",
+                    "download": "1113277584"
                 },
                 "nextversion": {
-                    "gid": "2115475616383671813",
-                    "size": "2530388594",
-                    "download": "1113271504"
+                    "gid": "6571010108679385986",
+                    "size": "2530701964",
+                    "download": "1113277584"
                 },
                 "oldversion": {
                     "gid": "8739398109245634430",
@@ -52,13 +52,13 @@
         "3139300": {},
         "branches": {
             "public": {
-                "buildid": "17046013",
-                "timeupdated": "1737583735"
+                "buildid": "18242772",
+                "timeupdated": "1746137983"
             },
             "nextversion": {
-                "buildid": "17046013",
+                "buildid": "18242772",
                 "description": "Test the next patch",
-                "timeupdated": "1737155351"
+                "timeupdated": "1745620515"
             },
             "oldversion": {
                 "buildid": "16776944",
@@ -67,6 +67,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "6bf239b75e3456b9ef0df05899aacffe946ef0b184090885419d5e9a7a053855"
     }
 }
