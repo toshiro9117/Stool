@@ -4,8 +4,8 @@
     "name": "Vampire Survivors: Emergency Meeting",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544123",
-    "update_time": "2025-04-18 14:36:41",
+    "change_number": "28663935",
+    "update_time": "2025-04-25 20:55:15",
     "depot": {
         "2690331": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6841459391055835678",
-                    "size": "19145490",
-                    "download": "13740112"
+                    "gid": "841122630352246738",
+                    "size": "19145474",
+                    "download": "13740256"
                 },
                 "public-beta": {
-                    "gid": "6841459391055835678",
-                    "size": "19145490",
-                    "download": "13740112"
+                    "gid": "841122630352246738",
+                    "size": "19145474",
+                    "download": "13740256"
                 }
             },
             "dlcappid": "2690330",
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "351937608713122912",
-                    "size": "19147103",
-                    "download": "13741536"
+                    "gid": "6587915587797625814",
+                    "size": "19147129",
+                    "download": "13741152"
                 },
                 "public-beta": {
-                    "gid": "351937608713122912",
-                    "size": "19147103",
-                    "download": "13741536"
+                    "gid": "6587915587797625814",
+                    "size": "19147129",
+                    "download": "13741152"
                 }
             },
             "dlcappid": "2690330",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8765876209496944205",
-                    "size": "19163641",
-                    "download": "13755040"
+                    "gid": "6269809294882051135",
+                    "size": "19163638",
+                    "download": "13754736"
                 },
                 "public-beta": {
-                    "gid": "8765876209496944205",
-                    "size": "19163641",
-                    "download": "13755040"
+                    "gid": "6269809294882051135",
+                    "size": "19163638",
+                    "download": "13754736"
                 }
             },
             "dlcappid": "2690330",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18055591",
-                "timeupdated": "1744302889"
+                "buildid": "18193890",
+                "timeupdated": "1745576899"
             },
             "public-beta": {
-                "buildid": "18055591",
+                "buildid": "18193890",
                 "description": "Public Beta",
-                "timeupdated": "1744297319"
+                "timeupdated": "1745492941"
             }
         },
         "privatebranches": "1"
