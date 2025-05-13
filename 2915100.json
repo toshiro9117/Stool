@@ -4,8 +4,8 @@
     "name": "Echoes of Elysium Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28427562",
-    "update_time": "2025-04-11 19:19:55",
+    "change_number": "28860317",
+    "update_time": "2025-05-07 19:20:28",
     "depot": {
         "1004": {
             "config": {
@@ -57,24 +57,14 @@
                     "download": "155776912"
                 },
                 "internal": {
-                    "gid": "617868355686581439",
-                    "size": "1432908593",
-                    "download": "410268640"
+                    "gid": "4752378087291758761",
+                    "size": "1450968832",
+                    "download": "425489648"
                 },
                 "local": {
                     "gid": "2909032919417718062",
                     "size": "3092335",
                     "download": "605600"
-                },
-                "v0.7.0": {
-                    "gid": "5446802998674452210",
-                    "size": "1400782346",
-                    "download": "395586912"
-                },
-                "v0.8.0": {
-                    "gid": "7759659139198195360",
-                    "size": "1420350405",
-                    "download": "407403520"
                 },
                 "v0.9.0": {
                     "gid": "416122374102150859",
@@ -82,9 +72,9 @@
                     "download": "409720272"
                 },
                 "v0.10.0": {
-                    "gid": "2157915959139813312",
-                    "size": "1432937557",
-                    "download": "410284080"
+                    "gid": "6059807372155416632",
+                    "size": "1448591809",
+                    "download": "424875056"
                 }
             },
             "decryptionkey": ""
@@ -95,9 +85,9 @@
                 "timeupdated": "1711934293"
             },
             "internal": {
-                "buildid": "18161160",
+                "buildid": "18373164",
                 "description": "Internal Build",
-                "timeupdated": "1745003186"
+                "timeupdated": "1746616823"
             },
             "local": {
                 "buildid": "14011964",
@@ -105,25 +95,15 @@
                 "lcsrequired": "1",
                 "timeupdated": "1712765583"
             },
-            "v0.7.0": {
-                "buildid": "17191230",
-                "description": "v0.7.0 Alpha",
-                "timeupdated": "1738278734"
-            },
-            "v0.8.0": {
-                "buildid": "17772711",
-                "description": "v0.8.0 Alpha",
-                "timeupdated": "1742340369"
-            },
             "v0.9.0": {
                 "buildid": "18046989",
                 "description": "v0.9.0 Alpha",
                 "timeupdated": "1744232473"
             },
             "v0.10.0": {
-                "buildid": "18163243",
+                "buildid": "18360878",
                 "description": "v0.10.0 Alpha",
-                "timeupdated": "1745020346"
+                "timeupdated": "1746542285"
             }
         }
     }
