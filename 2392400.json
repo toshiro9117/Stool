@@ -4,8 +4,8 @@
     "name": "Island Paradise",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28512969",
-    "update_time": "2025-04-17 01:09:55",
+    "change_number": "28916898",
+    "update_time": "2025-05-10 20:15:48",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8203863182094619415",
-                    "size": "19359539491",
-                    "download": "8228931792"
+                    "gid": "8288359025044949885",
+                    "size": "19443704479",
+                    "download": "8228452176"
                 }
             },
             "decryptionkey": "4f4c4219b2f7f11b31aa32ae417fb569c06f00549caaa80b4341d008d37d2ad1"
         },
         "branches": {
             "public": {
-                "buildid": "18132189",
-                "timeupdated": "1744823372"
+                "buildid": "18337997",
+                "timeupdated": "1746364412"
             }
         },
         "privatebranches": "1"
