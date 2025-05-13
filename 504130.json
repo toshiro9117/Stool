@@ -1,11 +1,11 @@
 {
     "appid": "504130",
     "type": "Game",
-    "name": "Manual Samuel - Anniversary Edition",
+    "name": "Manual Samuel - Last Tuesday Edition",
     "schinese_name": "手动的塞缪尔 - 特别版",
     "isfreeapp": "0",
-    "change_number": "28413825",
-    "update_time": "2025-04-11 02:10:40",
+    "change_number": "28753383",
+    "update_time": "2025-05-01 00:08:15",
     "depot": {
         "504131": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "278201192053189475",
-                    "size": "490913357",
-                    "download": "365868480"
+                    "gid": "3498605525760808475",
+                    "size": "521041035",
+                    "download": "371822336"
                 },
                 "classic": {
                     "gid": "4149085045384820028",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6609489432229035337",
-                    "size": "540892579",
-                    "download": "379285904"
+                    "gid": "9176124854122277470",
+                    "size": "762241547",
+                    "download": "418222560"
                 },
                 "classic": {
                     "gid": "5815435147543821496",
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1575770313535401291",
-                    "size": "540992901",
-                    "download": "380975360"
+                    "gid": "458700999373212256",
+                    "size": "566283725",
+                    "download": "377544768"
                 },
                 "classic": {
                     "gid": "6241390488341930164",
@@ -83,6 +83,11 @@
                 "osarch": "64"
             },
             "manifests": {
+                "public": {
+                    "gid": "4642836128939131003",
+                    "size": "666899498",
+                    "download": "460974000"
+                },
                 "classic": {
                     "gid": "7173688730491457941",
                     "size": "2209654623",
@@ -93,8 +98,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "5881508",
-                "timeupdated": "1606323144"
+                "buildid": "18262148",
+                "timeupdated": "1745867680"
             },
             "classic": {
                 "buildid": "18030382",
