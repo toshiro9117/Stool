@@ -4,8 +4,8 @@
     "name": "EndCycle VS",
     "schinese_name": "轮回对决",
     "isfreeapp": "0",
-    "change_number": "27122098",
-    "update_time": "2025-01-23 09:27:07",
+    "change_number": "28870311",
+    "update_time": "2025-05-08 05:30:26",
     "depot": {
         "228985": {
             "config": {
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3683896297407132405",
-                    "size": "299645603",
-                    "download": "240553904"
+                    "gid": "3321552062991845773",
+                    "size": "313564975",
+                    "download": "253089008"
                 },
                 "beta": {
-                    "gid": "3683896297407132405",
-                    "size": "299645603",
-                    "download": "240553904"
+                    "gid": "3321552062991845773",
+                    "size": "313564975",
+                    "download": "253089008"
                 }
             },
             "decryptionkey": "3fd46d4965876589a10131494449f888bf0df286d5f7b137e46f52c45568cb50"
@@ -42,14 +42,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8680189122722091275",
-                    "size": "312596251",
-                    "download": "243861520"
+                    "gid": "3583782833346301203",
+                    "size": "326515623",
+                    "download": "256401568"
                 },
                 "beta": {
-                    "gid": "8680189122722091275",
-                    "size": "312596251",
-                    "download": "243861520"
+                    "gid": "3583782833346301203",
+                    "size": "326515623",
+                    "download": "256401568"
                 }
             },
             "decryptionkey": ""
@@ -63,13 +63,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "13492662",
-                "timeupdated": "1708299310"
+                "buildid": "18380204",
+                "timeupdated": "1746653422"
             },
             "beta": {
-                "buildid": "13492662",
+                "buildid": "18380204",
                 "description": "Join us on Discord for the latest news about the beta version!",
-                "timeupdated": "1708299186"
+                "timeupdated": "1746652579"
             }
         },
         "workshopdepotdecryptionkey": "59ffd2668794db73dc549c76a9a66d656fe8c73a269f5cb29e7010accc3d8ee2"
