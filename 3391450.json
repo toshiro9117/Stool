@@ -4,8 +4,8 @@
     "name": "GORN 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548109",
-    "update_time": "2025-04-18 19:01:07",
+    "change_number": "28921202",
+    "update_time": "2025-05-11 07:02:49",
     "depot": {
         "3391451": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1201363237239962803",
-                    "size": "4572227076",
-                    "download": "3871115456"
+                    "gid": "7634915723051992352",
+                    "size": "4572357225",
+                    "download": "3871263824"
                 }
             },
             "decryptionkey": "5ab57ce4fd569da078a76a2c5d2bf64d20cbe1af7b573f53dc3a86942da30a3c"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6063981899054947875",
-                    "size": "4572227076",
-                    "download": "3871127968"
+                    "gid": "3759688598878199392",
+                    "size": "4572357225",
+                    "download": "3871276288"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18116127",
-                "timeupdated": "1744902161"
+                "buildid": "18264358",
+                "timeupdated": "1746013366"
             }
         },
         "privatebranches": "1"
