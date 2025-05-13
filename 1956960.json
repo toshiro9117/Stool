@@ -4,15 +4,15 @@
     "name": "PUNIHI LOADER 2",
     "schinese_name": "普尼西机人2 / PUNIHI LOADER 2",
     "isfreeapp": "0",
-    "change_number": "28081632",
-    "update_time": "2025-03-22 07:19:20",
+    "change_number": "28763963",
+    "update_time": "2025-05-01 14:00:56",
     "depot": {
         "1956961": {
             "manifests": {
                 "public": {
-                    "gid": "7794586368845913382",
-                    "size": "14724923708",
-                    "download": "4523937152"
+                    "gid": "8833898381876000104",
+                    "size": "14724952163",
+                    "download": "4523916192"
                 },
                 "archive_ver0.50095_2": {
                     "gid": "7357630222480307626",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17720198",
-                "timeupdated": "1741929995"
+                "buildid": "18294911",
+                "timeupdated": "1746079250"
             },
             "archive_ver0.50095_2": {
                 "buildid": "13319450",
