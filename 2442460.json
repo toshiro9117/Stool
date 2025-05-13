@@ -2,10 +2,10 @@
     "appid": "2442460",
     "type": "Game",
     "name": "Citizen Sleeper 2: Starward Vector",
-    "schinese_name": "",
+    "schinese_name": "深空梦里人2：逐星之旅",
     "isfreeapp": "0",
-    "change_number": "28538004",
-    "update_time": "2025-04-18 04:59:06",
+    "change_number": "28892469",
+    "update_time": "2025-05-09 08:18:36",
     "depot": {
         "2442462": {
             "config": {
@@ -43,10 +43,21 @@
             },
             "decryptionkey": "09fc88ea87d3aec72c058ead2fd779aa0bd24c736b29f183356488b7eee17fce"
         },
+        "3718020": {
+            "dlcappid": "3718020",
+            "manifests": {
+                "public": {
+                    "gid": "6192325962851918895",
+                    "size": "1616497",
+                    "download": "1386304"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17484966",
-                "timeupdated": "1740408667"
+                "buildid": "18360752",
+                "timeupdated": "1746541665"
             }
         },
         "privatebranches": "1"
