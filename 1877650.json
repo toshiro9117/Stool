@@ -4,15 +4,20 @@
     "name": "Zero Orders Tactics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27444246",
-    "update_time": "2025-02-13 01:57:33",
+    "change_number": "28860462",
+    "update_time": "2025-05-07 19:30:05",
     "depot": {
         "1877651": {
             "manifests": {
                 "public": {
-                    "gid": "5985279531489777882",
-                    "size": "89497913",
-                    "download": "50312704"
+                    "gid": "4970262154819293407",
+                    "size": "84516117",
+                    "download": "49393584"
+                },
+                "beta": {
+                    "gid": "4970262154819293407",
+                    "size": "84516117",
+                    "download": "49393584"
                 }
             },
             "decryptionkey": "ded1721502f07a23fd66c270180e5864b403cfcca0ba195dd0544b70f5be8018"
@@ -20,9 +25,14 @@
         "1877652": {
             "manifests": {
                 "public": {
-                    "gid": "1452885118575017753",
-                    "size": "89466751",
-                    "download": "50292480"
+                    "gid": "1692521119348645663",
+                    "size": "84516117",
+                    "download": "49388208"
+                },
+                "beta": {
+                    "gid": "1692521119348645663",
+                    "size": "84516117",
+                    "download": "49388208"
                 }
             },
             "decryptionkey": ""
@@ -30,8 +40,13 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17340369",
-                "timeupdated": "1739383046"
+                "buildid": "18331204",
+                "timeupdated": "1746266453"
+            },
+            "beta": {
+                "buildid": "18331204",
+                "description": "Beta",
+                "timeupdated": "1746266473"
             }
         }
     }
