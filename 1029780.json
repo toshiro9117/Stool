@@ -4,8 +4,8 @@
     "name": "Going Medieval",
     "schinese_name": "前往中世纪",
     "isfreeapp": "0",
-    "change_number": "28526455",
-    "update_time": "2025-04-17 18:07:03",
+    "change_number": "28903915",
+    "update_time": "2025-05-09 22:47:14",
     "depot": {
         "1029781": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8685718290868526762",
-                    "size": "648749648",
-                    "download": "381582048"
+                    "gid": "2448122655452634478",
+                    "size": "649339194",
+                    "download": "379170832"
                 },
                 "experimental": {
-                    "gid": "6989512188303714574",
-                    "size": "693080071",
-                    "download": "392626768"
+                    "gid": "5512343727796350511",
+                    "size": "690311729",
+                    "download": "390291664"
                 },
                 "save-migration": {
                     "gid": "6798494777981999312",
@@ -39,13 +39,13 @@
         "workshopdepot": "1029780",
         "branches": {
             "public": {
-                "buildid": "17615723",
-                "timeupdated": "1741248351"
+                "buildid": "18384861",
+                "timeupdated": "1746697473"
             },
             "experimental": {
-                "buildid": "18069671",
+                "buildid": "18404580",
                 "description": "Home of future updates",
-                "timeupdated": "1744367007"
+                "timeupdated": "1746801959"
             },
             "save-migration": {
                 "buildid": "14598622",
