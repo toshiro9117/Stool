@@ -1,0 +1,28 @@
+{
+    "appid": "2178560",
+    "type": "Game",
+    "name": "Horde Hunters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28847206",
+    "update_time": "2025-05-07 02:09:35",
+    "depot": {
+        "2178561": {
+            "manifests": {
+                "public": {
+                    "gid": "8063284516488660163",
+                    "size": "93540872",
+                    "download": "63424880"
+                }
+            },
+            "decryptionkey": "d89c9170bab1e0683cd85c8f621b03934940bae470213640f8a2fdf11018fa63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18363270",
+                "timeupdated": "1746554968"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
