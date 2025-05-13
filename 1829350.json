@@ -4,8 +4,8 @@
     "name": "V Rising Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28531573",
-    "update_time": "2025-04-17 22:54:33",
+    "change_number": "28902340",
+    "update_time": "2025-05-09 21:12:29",
     "depot": {
         "1004": {
             "config": {
@@ -52,14 +52,14 @@
         "1829351": {
             "manifests": {
                 "public": {
-                    "gid": "239851819939096490",
-                    "size": "1798505770",
-                    "download": "204736688"
+                    "gid": "9068068474146241333",
+                    "size": "1949523767",
+                    "download": "225700864"
                 },
                 "ce-1": {
-                    "gid": "1907749329249055725",
-                    "size": "1798518309",
-                    "download": "204766592"
+                    "gid": "3644169525533981207",
+                    "size": "1949471587",
+                    "download": "225750816"
                 },
                 "legacy-0.5.x": {
                     "gid": "6425872806400860839",
@@ -70,19 +70,29 @@
                     "gid": "5850011680124575304",
                     "size": "1409550950",
                     "download": "199827424"
+                },
+                "legacy-1.0.x-pc": {
+                    "gid": "239851819939096490",
+                    "size": "1798505770",
+                    "download": "204736688"
+                },
+                "legacy-1.0.x-ce1": {
+                    "gid": "1907749329249055725",
+                    "size": "1798518309",
+                    "download": "204766592"
                 }
             },
             "decryptionkey": "03c97dab5de9e8cccdb80284bcf475762c8efe14288bfabc1d5bf09b36ba9550"
         },
         "branches": {
             "public": {
-                "buildid": "17252216",
-                "timeupdated": "1739182970"
+                "buildid": "18398847",
+                "timeupdated": "1746796312"
             },
             "ce-1": {
-                "buildid": "17256102",
+                "buildid": "18398869",
                 "description": "...",
-                "timeupdated": "1739185762"
+                "timeupdated": "1746796342"
             },
             "legacy-0.5.x": {
                 "buildid": "10409337",
@@ -93,6 +103,16 @@
                 "buildid": "12520643",
                 "description": "Gloomrot version - Originally released: 2023-05-17",
                 "timeupdated": "1714996083"
+            },
+            "legacy-1.0.x-pc": {
+                "buildid": "17252216",
+                "description": "Release (1.0) version - Originally released: 2024-05-08",
+                "timeupdated": "1745836027"
+            },
+            "legacy-1.0.x-ce1": {
+                "buildid": "17256102",
+                "description": "Release (1.0) version - Originally released: 2024-06-11",
+                "timeupdated": "1745836113"
             }
         },
         "privatebranches": "1"
