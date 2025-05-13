@@ -4,8 +4,8 @@
     "name": "诸天刷宝录",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549849",
-    "update_time": "2025-04-18 21:13:56",
+    "change_number": "28899597",
+    "update_time": "2025-05-09 18:24:34",
     "depot": {
         "2776451": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5328412673617049589",
-                    "size": "545986850",
-                    "download": "370899824"
+                    "gid": "4707744832234029017",
+                    "size": "552181851",
+                    "download": "377116704"
                 },
                 "compatibility": {
-                    "gid": "4349367754569182063",
-                    "size": "510863142",
-                    "download": "359427696"
+                    "gid": "8608289334369023355",
+                    "size": "517058143",
+                    "download": "365640544"
                 }
             },
             "decryptionkey": "d344b9a8eb3356663a0ad386889d0a675acdf4e1b2e41aa43d220e0ef38e65a8"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6508536276000212984",
-                    "size": "481697494",
-                    "download": "354937360"
+                    "gid": "5583467513598467238",
+                    "size": "487892495",
+                    "download": "361151584"
                 },
                 "compatibility": {
-                    "gid": "6508536276000212984",
-                    "size": "481697494",
-                    "download": "354937360"
+                    "gid": "5583467513598467238",
+                    "size": "487892495",
+                    "download": "361151584"
                 }
             },
             "decryptionkey": "5dfd6d9811882cd6da7723ad0578e41691fde46e771cf807bc1c88eb807aa733"
@@ -49,13 +49,13 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "18163844",
-                "timeupdated": "1745026518"
+                "buildid": "18401499",
+                "timeupdated": "1746786041"
             },
             "compatibility": {
-                "buildid": "18158065",
+                "buildid": "18401543",
                 "description": "无法进入游戏专用",
-                "timeupdated": "1744982010"
+                "timeupdated": "1746786269"
             }
         },
         "privatebranches": "1"
