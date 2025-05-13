@@ -4,8 +4,8 @@
     "name": "Rogue: Genesia ",
     "schinese_name": "罗格：救世传说",
     "isfreeapp": "0",
-    "change_number": "28483819",
-    "update_time": "2025-04-15 17:33:09",
+    "change_number": "28921236",
+    "update_time": "2025-05-11 07:05:49",
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,danish,turkish,brazilian,indonesian",
         "2067921": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5014808884046701144",
-                    "size": "3023119070",
-                    "download": "567551424"
+                    "gid": "4597549746349049001",
+                    "size": "3023246836",
+                    "download": "567687728"
                 },
                 "experimental": {
-                    "gid": "5014808884046701144",
-                    "size": "3023119070",
-                    "download": "567551424"
+                    "gid": "4597549746349049001",
+                    "size": "3023246836",
+                    "download": "567687728"
                 },
                 "rg0.10": {
                     "gid": "6422986519883604640",
@@ -59,14 +59,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8390178525088588391",
-                    "size": "1494659885",
-                    "download": "502858960"
+                    "gid": "3873184611316101066",
+                    "size": "1494719128",
+                    "download": "502980704"
                 },
                 "experimental": {
-                    "gid": "8390178525088588391",
-                    "size": "1494659885",
-                    "download": "502858960"
+                    "gid": "3873184611316101066",
+                    "size": "1494719128",
+                    "download": "502980704"
                 },
                 "rg0.10": {
                     "gid": "3065669576965553721",
@@ -101,13 +101,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18105409",
-                "timeupdated": "1744668428"
+                "buildid": "18416877",
+                "timeupdated": "1746918248"
             },
             "experimental": {
-                "buildid": "18105409",
+                "buildid": "18416877",
                 "description": "Experimental branch",
-                "timeupdated": "1744675230"
+                "timeupdated": "1746918330"
             },
             "rg0.10": {
                 "buildid": "17041749",
