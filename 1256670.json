@@ -4,8 +4,8 @@
     "name": "Library Of Ruina",
     "schinese_name": "废墟图书馆",
     "isfreeapp": "0",
-    "change_number": "28183731",
-    "update_time": "2025-03-28 12:14:50",
+    "change_number": "28917959",
+    "update_time": "2025-05-10 23:02:47",
     "depot": {
         "workshopdepot": "1256670",
         "1256671": {
@@ -54,6 +54,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "355c4d26e35405d2a7824b7a237c77b03f2da7856671bcb62383ead42108f5f9"
     }
 }
