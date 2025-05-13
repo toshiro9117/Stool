@@ -4,8 +4,8 @@
     "name": "Vampire Survivors: Operation Guns",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544126",
-    "update_time": "2025-04-18 14:36:54",
+    "change_number": "28663951",
+    "update_time": "2025-04-25 20:55:16",
     "depot": {
         "2887681": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6429741895691823501",
-                    "size": "36505139",
-                    "download": "31996400"
+                    "gid": "7645397910784922260",
+                    "size": "36505100",
+                    "download": "31996544"
                 },
                 "public-beta": {
-                    "gid": "6429741895691823501",
-                    "size": "36505139",
-                    "download": "31996400"
+                    "gid": "7645397910784922260",
+                    "size": "36505100",
+                    "download": "31996544"
                 }
             },
             "dlcappid": "2887680",
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7061096750703597497",
-                    "size": "36508226",
-                    "download": "32001728"
+                    "gid": "5375324412683849042",
+                    "size": "36508233",
+                    "download": "32001872"
                 },
                 "public-beta": {
-                    "gid": "7061096750703597497",
-                    "size": "36508226",
-                    "download": "32001728"
+                    "gid": "5375324412683849042",
+                    "size": "36508233",
+                    "download": "32001872"
                 }
             },
             "dlcappid": "2887680",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1141486551114106053",
-                    "size": "36563471",
-                    "download": "32041120"
+                    "gid": "5558010971566027258",
+                    "size": "36563449",
+                    "download": "32041136"
                 },
                 "public-beta": {
-                    "gid": "1141486551114106053",
-                    "size": "36563471",
-                    "download": "32041120"
+                    "gid": "5558010971566027258",
+                    "size": "36563449",
+                    "download": "32041136"
                 }
             },
             "dlcappid": "2887680",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18055601",
-                "timeupdated": "1744302827"
+                "buildid": "18193896",
+                "timeupdated": "1745576960"
             },
             "public-beta": {
-                "buildid": "18055601",
+                "buildid": "18193896",
                 "description": "Public Beta",
-                "timeupdated": "1744297324"
+                "timeupdated": "1745492936"
             }
         },
         "privatebranches": "1"
