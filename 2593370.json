@@ -4,15 +4,15 @@
     "name": "The Hungry Lamb: Traveling in the Late Ming Dynasty",
     "schinese_name": "饿殍：明末千里行",
     "isfreeapp": "0",
-    "change_number": "28527368",
-    "update_time": "2025-04-17 19:04:24",
+    "change_number": "28728910",
+    "update_time": "2025-04-29 22:01:58",
     "depot": {
         "2593371": {
             "manifests": {
                 "public": {
-                    "gid": "3696870962036390849",
-                    "size": "2361848387",
-                    "download": "882725328"
+                    "gid": "5417263734597609623",
+                    "size": "2483126687",
+                    "download": "889693168"
                 }
             },
             "decryptionkey": "3a32693a517d6940addf30cdf6b363972c3afe91347938f7faee0d73014055d0"
@@ -26,8 +26,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16455238",
-                "timeupdated": "1732003073"
+                "buildid": "18253295",
+                "timeupdated": "1745720590"
             }
         },
         "privatebranches": "1"
