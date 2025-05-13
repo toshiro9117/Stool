@@ -4,8 +4,8 @@
     "name": "River Towns",
     "schinese_name": "河畔小镇",
     "isfreeapp": "0",
-    "change_number": "28487154",
-    "update_time": "2025-04-15 20:55:48",
+    "change_number": "28864421",
+    "update_time": "2025-05-07 23:17:51",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2485351": {
             "manifests": {
                 "public": {
-                    "gid": "5120592146323548400",
-                    "size": "1087760262",
-                    "download": "753086448"
+                    "gid": "6043602619168950081",
+                    "size": "1088099430",
+                    "download": "753394400"
                 },
                 "experimental": {
                     "gid": "6537012421028104695",
@@ -39,13 +39,13 @@
         "workshopdepot": "2485350",
         "branches": {
             "public": {
-                "buildid": "17925956",
-                "timeupdated": "1743434854"
+                "buildid": "18195330",
+                "timeupdated": "1745401967"
             },
             "experimental": {
                 "buildid": "18113709",
                 "description": "Experimental Feature Testing",
-                "timeupdated": "1744721744"
+                "timeupdated": "1746017235"
             }
         },
         "privatebranches": "1",
