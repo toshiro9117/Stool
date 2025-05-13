@@ -4,10 +4,10 @@
     "name": "Path of Kung Fu",
     "schinese_name": "刀剑江湖路",
     "isfreeapp": "0",
-    "change_number": "28547465",
-    "update_time": "2025-04-18 18:19:19",
+    "change_number": "28899630",
+    "update_time": "2025-05-09 18:26:42",
     "depot": {
-        "baselanguages": "schinese",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,thai,japanese,vietnamese",
         "workshopdepot": "2361680",
         "2361688": {
             "config": {
@@ -15,31 +15,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3076544575653028214",
-                    "size": "11742227523",
-                    "download": "4539972016"
+                    "gid": "6491743015496028751",
+                    "size": "14709357254",
+                    "download": "5974738832"
                 }
             },
             "decryptionkey": "07a52ef0c4000ac45e3da0a62c446d7b48ca61f9cc84b39b7f27b2fa3a8350ef"
         },
-        "2361689": {
-            "config": {
-                "language": "tchinese",
-                "oslist": "windows,linux"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "5415817627440951801",
-                    "size": "11742227523",
-                    "download": "4540102960"
-                }
-            },
-            "decryptionkey": "7a25fdbc01e0976feba001688f5a6c52c29585d0a8965e3090d0b2ceefd84979"
+        "3686660": {
+            "dlcappid": "3686660"
         },
         "branches": {
             "public": {
-                "buildid": "17802777",
-                "timeupdated": "1742526596"
+                "buildid": "18401392",
+                "timeupdated": "1746786399"
             }
         },
         "privatebranches": "1",
