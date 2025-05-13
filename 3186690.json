@@ -4,8 +4,8 @@
     "name": "Konfronto Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26489403",
-    "update_time": "2024-12-05 12:18:51",
+    "change_number": "28914696",
+    "update_time": "2025-05-10 14:26:23",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,27 @@
         "3186691": {
             "manifests": {
                 "public": {
-                    "gid": "7344861266102912907",
-                    "size": "1073844804",
-                    "download": "507217360"
+                    "gid": "3126021472329175771",
+                    "size": "1451541297",
+                    "download": "778705584"
+                },
+                "open-beta": {
+                    "gid": "2318734808093935109",
+                    "size": "1450954062",
+                    "download": "746365072"
                 }
             },
             "decryptionkey": "adeb23e983aafdc2df4c6a812c957995e3a4a9b8fedb97f7e97a07dd360e95d7"
         },
         "branches": {
             "public": {
-                "buildid": "16124414",
-                "timeupdated": "1729599633"
+                "buildid": "18406550",
+                "timeupdated": "1746819126"
+            },
+            "open-beta": {
+                "buildid": "18385418",
+                "description": "open beta builds for the brave",
+                "timeupdated": "1746694132"
             }
         },
         "privatebranches": "1"
