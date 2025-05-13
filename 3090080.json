@@ -4,8 +4,8 @@
     "name": "与美女合租的99种死法",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28443826",
-    "update_time": "2025-04-12 19:13:16",
+    "change_number": "28822949",
+    "update_time": "2025-05-05 21:30:24",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2768885646895488358",
-                    "size": "35943574257",
-                    "download": "35419452432"
+                    "gid": "4534910067840613473",
+                    "size": "35121926906",
+                    "download": "35392463088"
                 }
             },
             "decryptionkey": "adcba58ecfd597611114c32dc3b3bc16220ca21ad91d1e39086760ec809eb433"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7759431602244658021",
-                    "size": "35943574257",
-                    "download": "35419369696"
+                    "gid": "230878767491146704",
+                    "size": "35121926906",
+                    "download": "35392380352"
                 }
             },
             "decryptionkey": ""
@@ -62,8 +62,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18079463",
-                "timeupdated": "1744416995"
+                "buildid": "18254143",
+                "timeupdated": "1745734901"
             }
         },
         "privatebranches": "1"
