@@ -4,8 +4,8 @@
     "name": "SpaceBourne 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549660",
-    "update_time": "2025-04-18 21:01:10",
+    "change_number": "28840619",
+    "update_time": "2025-05-06 19:47:06",
     "depot": {
         "228989": {
             "config": {
@@ -24,27 +24,27 @@
         "1646851": {
             "manifests": {
                 "public": {
-                    "gid": "7861576567781446238",
-                    "size": "13902978577",
-                    "download": "13191362560"
+                    "gid": "2799202935864800382",
+                    "size": "13916622540",
+                    "download": "13204331472"
                 },
                 "developer": {
-                    "gid": "7861576567781446238",
-                    "size": "13902978577",
-                    "download": "13191362560"
+                    "gid": "1049149468192514323",
+                    "size": "13916329588",
+                    "download": "13204273536"
                 }
             },
             "decryptionkey": "ddb6bc7f65029e83bfb22da6f5f0f2cdc1a8889992ea53a1e1f9626657148ed1"
         },
         "branches": {
             "public": {
-                "buildid": "18157297",
-                "timeupdated": "1744981228"
+                "buildid": "18358753",
+                "timeupdated": "1746532022"
             },
             "developer": {
-                "buildid": "18157297",
+                "buildid": "18344891",
                 "description": "Developer Build with log to detect crashes",
-                "timeupdated": "1744977089"
+                "timeupdated": "1746440056"
             }
         },
         "privatebranches": "1"
