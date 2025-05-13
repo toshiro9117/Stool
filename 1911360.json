@@ -4,23 +4,23 @@
     "name": "Trinity Fusion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28487819",
-    "update_time": "2025-04-15 21:29:59",
+    "change_number": "28754871",
+    "update_time": "2025-05-01 01:26:40",
     "depot": {
         "1911361": {
             "manifests": {
                 "public": {
-                    "gid": "7207896533865627216",
-                    "size": "6051247476",
-                    "download": "5209433440"
+                    "gid": "4099969168998379350",
+                    "size": "6068202037",
+                    "download": "5226670096"
                 }
             },
             "decryptionkey": "fa900c4f33bd2e31721d22c1101734e31f3403394dc4e56cdf9e5c522befe5ab"
         },
         "branches": {
             "public": {
-                "buildid": "17366268",
-                "timeupdated": "1740211513"
+                "buildid": "18298144",
+                "timeupdated": "1746033997"
             }
         },
         "privatebranches": "1"
