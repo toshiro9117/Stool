@@ -4,20 +4,20 @@
     "name": "Mind Over Magic",
     "schinese_name": "超灵秘法社",
     "isfreeapp": "0",
-    "change_number": "27958736",
-    "update_time": "2025-03-14 22:52:36",
+    "change_number": "28908680",
+    "update_time": "2025-05-10 03:36:54",
     "depot": {
         "1270581": {
             "manifests": {
                 "public": {
-                    "gid": "4762977921427126730",
-                    "size": "5281190612",
-                    "download": "2326613536"
+                    "gid": "5777026937235218499",
+                    "size": "5286776153",
+                    "download": "2327483008"
                 },
                 "prerelease": {
-                    "gid": "4762977921427126730",
-                    "size": "5281190612",
-                    "download": "2326613536"
+                    "gid": "5777026937235218499",
+                    "size": "5286776153",
+                    "download": "2327483008"
                 }
             },
             "decryptionkey": "67890182f6c150a904481b542ff399526709e363f448cb001c6cb02fbf8cfe70"
@@ -25,16 +25,16 @@
         "workshopdepot": "1270580",
         "branches": {
             "public": {
-                "buildid": "17726612",
-                "timeupdated": "1741963948"
+                "buildid": "18407899",
+                "timeupdated": "1746819409"
             },
             "prerelease": {
-                "buildid": "17726612",
+                "buildid": "18407899",
                 "description": "Pre-release of updates for preview testing",
-                "timeupdated": "1741963915"
+                "timeupdated": "1746819378"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "06e83ff6c8c024242b6fa419fcb3c3394cabb2293bec098f53bee6916ec2fa95"
     }
 }
