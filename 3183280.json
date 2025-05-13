@@ -4,17 +4,17 @@
     "name": "Game of Thrones: Kingsroad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547448",
-    "update_time": "2025-04-18 18:18:43",
+    "change_number": "28880762",
+    "update_time": "2025-05-08 19:32:34",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "3183281": {
             "manifests": {
                 "public": {
-                    "gid": "3335908448976242787",
-                    "size": "1052527299",
-                    "download": "532363520"
+                    "gid": "6220803585449529405",
+                    "size": "1052680387",
+                    "download": "532129824"
                 }
             },
             "decryptionkey": "68dce48db7977a0ea03b654ede2a578765ee4320c93955e29aeae0ef9bb43c9e"
@@ -22,9 +22,9 @@
         "3183282": {
             "manifests": {
                 "public": {
-                    "gid": "8168526213823244852",
-                    "size": "34220906560",
-                    "download": "27049299504"
+                    "gid": "7413289528613706862",
+                    "size": "34223006298",
+                    "download": "27046198320"
                 }
             },
             "decryptionkey": "7fda33f42919c3fececa548528f54b0514a220b324f6a87377d20f63a8d7982f"
@@ -79,8 +79,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18153532",
-                "timeupdated": "1744957909"
+                "buildid": "18261265",
+                "timeupdated": "1745882424"
             }
         },
         "privatebranches": "1"
