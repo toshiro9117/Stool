@@ -4,23 +4,23 @@
     "name": "dotAGE OST",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28138716",
-    "update_time": "2025-03-26 06:43:35",
+    "change_number": "28736706",
+    "update_time": "2025-04-30 06:21:04",
     "depot": {
         "2593821": {
             "manifests": {
                 "public": {
-                    "gid": "8007196162817344560",
-                    "size": "29286940",
-                    "download": "29340880"
+                    "gid": "416740276439563435",
+                    "size": "50319136",
+                    "download": "50397904"
                 }
             },
             "decryptionkey": "4f73c36339a53e7d2390dc9f0f67d755dd162dff5f76dc9da5eddc1757903ac6"
         },
         "branches": {
             "public": {
-                "buildid": "12121328",
-                "timeupdated": "1693995363"
+                "buildid": "18206566",
+                "timeupdated": "1745405864"
             }
         }
     }
