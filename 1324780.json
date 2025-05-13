@@ -4,8 +4,8 @@
     "name": "Easy Red 2",
     "schinese_name": "易红2",
     "isfreeapp": "0",
-    "change_number": "28549885",
-    "update_time": "2025-04-18 21:16:42",
+    "change_number": "28917643",
+    "update_time": "2025-05-10 22:12:46",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam",
         "workshopdepot": "1324780",
@@ -16,19 +16,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8475874796936265109",
-                    "size": "17305335632",
-                    "download": "7632867200"
+                    "gid": "5718153169117755609",
+                    "size": "15748378990",
+                    "download": "7487131360"
                 },
                 "console_crossplay": {
-                    "gid": "8475874796936265109",
-                    "size": "17305335632",
-                    "download": "7632867200"
+                    "gid": "5718153169117755609",
+                    "size": "15748378990",
+                    "download": "7487131360"
                 },
                 "publicbeta": {
-                    "gid": "3120564098524027256",
-                    "size": "17178653063",
-                    "download": "7643868128"
+                    "gid": "7212579497923462892",
+                    "size": "15880483759",
+                    "download": "7524804592"
                 }
             },
             "decryptionkey": "8a121832d20574941b7d7e7eb4a34323c9ebe72338fc859080aac679b74bd78c"
@@ -39,19 +39,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6735929576329656709",
-                    "size": "17341599723",
-                    "download": "7653848912"
+                    "gid": "4773770359326892100",
+                    "size": "15786382120",
+                    "download": "7506621504"
                 },
                 "console_crossplay": {
-                    "gid": "6735929576329656709",
-                    "size": "17341599723",
-                    "download": "7653848912"
+                    "gid": "4773770359326892100",
+                    "size": "15786382120",
+                    "download": "7506621504"
                 },
                 "publicbeta": {
-                    "gid": "3544321026561362164",
-                    "size": "17215025299",
-                    "download": "7661480416"
+                    "gid": "9061104974225258352",
+                    "size": "15920711970",
+                    "download": "7540358976"
                 }
             },
             "decryptionkey": "4540b21d37c237bc72c6a5b2c3c1202a48b56a5e2bd9b7e8aed3e2112f87042c"
@@ -62,37 +62,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4561975901459938952",
-                    "size": "17263058139",
-                    "download": "7629546112"
+                    "gid": "110469513191952476",
+                    "size": "15724221121",
+                    "download": "7479657264"
                 },
                 "console_crossplay": {
-                    "gid": "4561975901459938952",
-                    "size": "17263058139",
-                    "download": "7629546112"
+                    "gid": "110469513191952476",
+                    "size": "15724221121",
+                    "download": "7479657264"
                 },
                 "publicbeta": {
-                    "gid": "2183492789027705606",
-                    "size": "17136435940",
-                    "download": "7639575072"
+                    "gid": "1203212697375854146",
+                    "size": "15827289699",
+                    "download": "7502082208"
                 }
             },
             "decryptionkey": "3e04baca8a855c9d1936a84667b80691d3a021d9b24927ff2f32a45f46d18b99"
         },
         "branches": {
             "public": {
-                "buildid": "17930286",
-                "timeupdated": "1743508146"
+                "buildid": "18302962",
+                "timeupdated": "1746054781"
             },
             "console_crossplay": {
-                "buildid": "17930286",
+                "buildid": "18302962",
                 "description": "Crossplay Compatibility",
-                "timeupdated": "1743843620"
+                "timeupdated": "1746054850"
             },
             "publicbeta": {
-                "buildid": "18157964",
+                "buildid": "18414436",
                 "description": "Public beta for easy red 2 - expect some bugs",
-                "timeupdated": "1744982184"
+                "timeupdated": "1746886340"
             }
         },
         "privatebranches": "1",
