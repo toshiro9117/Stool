@@ -4,8 +4,8 @@
     "name": "Battle Brothers",
     "schinese_name": "战场兄弟 Battle Brothers",
     "isfreeapp": "0",
-    "change_number": "28435648",
-    "update_time": "2025-04-12 02:51:06",
+    "change_number": "28806656",
+    "update_time": "2025-05-04 13:08:27",
     "depot": {
         "baselanguages": "english",
         "228983": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5758214011842950392",
-                    "size": "1384410064",
-                    "download": "1149683040"
+                    "gid": "6791907205019464967",
+                    "size": "1384409863",
+                    "download": "1149665744"
                 },
                 "1.1.x": {
                     "gid": "7598099831852355230",
@@ -342,8 +342,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17922897",
-                "timeupdated": "1743416059"
+                "buildid": "18290551",
+                "timeupdated": "1746002902"
             },
             "1.1.x": {
                 "buildid": "2562010",
