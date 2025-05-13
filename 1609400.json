@@ -4,15 +4,15 @@
     "name": "Mortal Sin Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28439278",
-    "update_time": "2025-04-12 08:00:53",
+    "change_number": "28907226",
+    "update_time": "2025-05-10 01:54:31",
     "depot": {
         "1494811": {
             "manifests": {
                 "public": {
-                    "gid": "2191398413956563223",
-                    "size": "4410777537",
-                    "download": "2083890656"
+                    "gid": "8034804025274064638",
+                    "size": "2341400049",
+                    "download": "1014399888"
                 }
             },
             "depotfromapp": "1494810",
