@@ -4,8 +4,8 @@
     "name": "CarX Drift Racing Online",
     "schinese_name": "CarX漂移赛车",
     "isfreeapp": "0",
-    "change_number": "28546068",
-    "update_time": "2025-04-18 16:51:29",
+    "change_number": "28864511",
+    "update_time": "2025-05-07 23:21:59",
     "depot": {
         "228985": {
             "config": {
@@ -24,9 +24,9 @@
         "635261": {
             "manifests": {
                 "public": {
-                    "gid": "3527169741645304394",
-                    "size": "8385057584",
-                    "download": "4799257008"
+                    "gid": "7966441522975168224",
+                    "size": "8413630200",
+                    "download": "4820043552"
                 },
                 "old_version_1.9": {
                     "gid": "6477544475857177194",
@@ -34,19 +34,19 @@
                     "download": "639167600"
                 },
                 "moddable": {
-                    "gid": "4842307879367843917",
-                    "size": "8303640764",
-                    "download": "4784006000"
+                    "gid": "4432627514724817443",
+                    "size": "8331584360",
+                    "download": "4804698512"
                 },
-                "ptr_2.25.0": {
-                    "gid": "6421173731269563168",
-                    "size": "8413749730",
-                    "download": "4820203024"
+                "ptr_2.25.2": {
+                    "gid": "6675603336864276486",
+                    "size": "8395635414",
+                    "download": "4797178256"
                 },
-                "ptr_2.25.0_moddable": {
-                    "gid": "5299072415677639430",
-                    "size": "8331675206",
-                    "download": "4804814864"
+                "ptr_2.25.2_moddable": {
+                    "gid": "4901549476935740806",
+                    "size": "8313597666",
+                    "download": "4781824736"
                 }
             },
             "decryptionkey": "12eafb480d17be3196fc40eeec87820d98ecf98fc24580764a1b86d14ae04cef"
@@ -60,27 +60,27 @@
         "workshopdepot": "635260",
         "branches": {
             "public": {
-                "buildid": "17224854",
-                "timeupdated": "1738682066"
+                "buildid": "18193091",
+                "timeupdated": "1745843546"
             },
             "old_version_1.9": {
                 "buildid": "4430790",
                 "timeupdated": "1574852634"
             },
             "moddable": {
-                "buildid": "17224552",
+                "buildid": "18193245",
                 "description": "Public moddable branch",
-                "timeupdated": "1738682090"
+                "timeupdated": "1745843582"
             },
-            "ptr_2.25.0": {
-                "buildid": "18158311",
-                "description": "Public test pre-release 2.25.1 v3",
-                "timeupdated": "1744988489"
+            "ptr_2.25.2": {
+                "buildid": "18375473",
+                "description": "Public test pre-release 2.25.2 v1",
+                "timeupdated": "1746631299"
             },
-            "ptr_2.25.0_moddable": {
-                "buildid": "18159553",
-                "description": "Public test pre-release 2.25.1 v3 moddable",
-                "timeupdated": "1744992764"
+            "ptr_2.25.2_moddable": {
+                "buildid": "18375631",
+                "description": "Public test pre-release 2.25.2 v1 (moddable)",
+                "timeupdated": "1746631314"
             }
         },
         "privatebranches": "1",
