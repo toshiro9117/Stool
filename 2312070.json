@@ -4,8 +4,8 @@
     "name": "Two Point Campus Soundtrack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27316086",
-    "update_time": "2025-02-05 08:10:21",
+    "change_number": "28915345",
+    "update_time": "2025-05-10 16:00:55",
     "depot": {
         "2312073": {
             "manifests": {
@@ -29,6 +29,11 @@
                 }
             },
             "decryptionkey": "2e48b53ba066a31783869dbe417f2e771738215dcb4b79e18ebe3b6e750d2ff1"
+        },
+        "2312075": {
+            "config": {
+                "highqualityaudio": "1"
+            }
         },
         "branches": {
             "public": {
