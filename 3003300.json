@@ -4,8 +4,8 @@
     "name": "ZM Desktop Elf",
     "schinese_name": "战盟桌面精灵",
     "isfreeapp": "0",
-    "change_number": "28525776",
-    "update_time": "2025-04-17 17:28:11",
+    "change_number": "28922544",
+    "update_time": "2025-05-11 11:33:18",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "workshopdepot": "3003300",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1335081678016646624",
-                    "size": "1184889627",
-                    "download": "1052219392"
+                    "gid": "1514321893432748690",
+                    "size": "1199289958",
+                    "download": "1066992144"
                 }
             },
             "decryptionkey": "325e733ae4a99b056ba9313f067dd0c882e5dbed87974e0367e6446c2f876f24"
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18065259",
-                "timeupdated": "1744340008"
+                "buildid": "18262953",
+                "timeupdated": "1745832307"
             }
         },
         "privatebranches": "1",
