@@ -4,8 +4,8 @@
     "name": "Sail",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539664",
-    "update_time": "2025-04-18 07:27:00",
+    "change_number": "28909732",
+    "update_time": "2025-05-10 04:53:29",
     "depot": {
         "1684011": {
             "config": {
@@ -13,27 +13,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6260972088562501901",
-                    "size": "3825465273",
-                    "download": "1405665696"
+                    "gid": "558919988028376956",
+                    "size": "4365475346",
+                    "download": "1634175328"
                 },
                 "public_test_builds": {
-                    "gid": "6260972088562501901",
-                    "size": "3825465273",
-                    "download": "1405665696"
+                    "gid": "558919988028376956",
+                    "size": "4365475346",
+                    "download": "1634175328"
                 }
             },
             "decryptionkey": "79417be054384f46d85104683e86aed77cd2db1df566865286ac267208efc097"
         },
         "branches": {
             "public": {
-                "buildid": "17928149",
-                "timeupdated": "1743696802"
+                "buildid": "18407617",
+                "timeupdated": "1746824005"
             },
             "public_test_builds": {
-                "buildid": "17928149",
+                "buildid": "18407617",
                 "description": "test builds for Sail VR Multiplayer",
-                "timeupdated": "1743442433"
+                "timeupdated": "1746823960"
             }
         },
         "privatebranches": "1"
