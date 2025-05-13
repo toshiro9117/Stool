@@ -4,8 +4,8 @@
     "name": "Sword and Fairy 3",
     "schinese_name": "仙剑奇侠传三",
     "isfreeapp": "0",
-    "change_number": "28012467",
-    "update_time": "2025-03-18 19:56:31",
+    "change_number": "28863139",
+    "update_time": "2025-05-07 22:10:47",
     "depot": {
         "228981": {
             "config": {
@@ -77,6 +77,6 @@
                 "timeupdated": "1618883471"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9c6132d7eab0407a73407e470acb78435c75981e6371a9b754396f2f1e82086a"
     }
 }
