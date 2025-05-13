@@ -4,8 +4,8 @@
     "name": "Princess & Conquest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28410718",
-    "update_time": "2025-04-10 23:33:28",
+    "change_number": "28844318",
+    "update_time": "2025-05-06 23:24:18",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,18 +15,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6615297478937040010",
-                    "size": "1389752192",
-                    "download": "1377664400"
+                    "gid": "7771457236349181414",
+                    "size": "1400428936",
+                    "download": "1392923216"
                 }
             },
             "decryptionkey": "025fca5d3d90f5c08b853a3a764709c5e39e826f6c6e10c586260b8e8950c341"
-        },
-        "2380681": {
-            "dlcappid": "2380680"
-        },
-        "2888461": {
-            "dlcappid": "2888460"
         },
         "1083882": {
             "config": {
@@ -34,17 +28,35 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8641172938174931997",
-                    "size": "1386962644",
-                    "download": "1374797024"
+                    "gid": "560926822026732803",
+                    "size": "1399665457",
+                    "download": "1392092624"
                 }
             },
             "decryptionkey": "16141777c2eda442b1401de3bc408ca42de6cc15dc9df673c00353adf2c558d1"
         },
+        "2380681": {
+            "dlcappid": "2380680"
+        },
+        "2380682": {
+            "dlcappid": "2380680",
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "2888461": {
+            "dlcappid": "2888460"
+        },
+        "2888462": {
+            "dlcappid": "2888460",
+            "config": {
+                "language": "schinese"
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18056874",
-                "timeupdated": "1744291069"
+                "buildid": "18361375",
+                "timeupdated": "1746545054"
             }
         },
         "privatebranches": "1"
