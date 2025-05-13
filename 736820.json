@@ -4,8 +4,8 @@
     "name": "Knights of Honor II: Sovereign",
     "schinese_name": "荣誉骑士2：君主",
     "isfreeapp": "0",
-    "change_number": "28539226",
-    "update_time": "2025-04-18 06:52:30",
+    "change_number": "28921132",
+    "update_time": "2025-05-11 06:49:10",
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3163849708064992503",
-                    "size": "13841022204",
-                    "download": "5560489792"
+                    "gid": "5171666728004892449",
+                    "size": "13841154812",
+                    "download": "5560531216"
                 }
             },
             "decryptionkey": "156e1c92b77e9ff649e567b7add374b0d427f0579ecabe8ff03d61d7065870ad"
@@ -31,8 +31,8 @@
         "workshopdepot": "736820",
         "branches": {
             "public": {
-                "buildid": "13476109",
-                "timeupdated": "1708088256"
+                "buildid": "18361068",
+                "timeupdated": "1746546471"
             }
         },
         "privatebranches": "1",
