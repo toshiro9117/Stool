@@ -4,24 +4,25 @@
     "name": "魔物地牢的幸存女孩",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549668",
-    "update_time": "2025-04-18 21:01:21",
+    "change_number": "28818819",
+    "update_time": "2025-05-05 16:26:27",
     "depot": {
         "3147511": {
             "manifests": {
                 "public": {
-                    "gid": "6767227426733554538",
-                    "size": "784457223",
-                    "download": "323668944"
+                    "gid": "8301504586340016823",
+                    "size": "786637606",
+                    "download": "325683520"
                 }
             },
             "decryptionkey": "e26c2ba8753312dc0d6bbea5f530b9ba6fc4772d64c55e5c877bf8c469c5882b"
         },
         "branches": {
             "public": {
-                "buildid": "18130085",
-                "timeupdated": "1744814927"
+                "buildid": "18343642",
+                "timeupdated": "1746433582"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
