@@ -4,8 +4,8 @@
     "name": "The Darkest Files",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343463",
-    "update_time": "2025-04-07 18:13:28",
+    "change_number": "28921803",
+    "update_time": "2025-05-11 08:49:08",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6819994024912110490",
-                    "size": "1784098372",
-                    "download": "960160672"
+                    "gid": "2296580167184441",
+                    "size": "1794400578",
+                    "download": "966580304"
                 },
                 "betarelease": {
                     "gid": "5249564732134999922",
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6494227622336550309",
-                    "size": "1810620267",
-                    "download": "968281568"
+                    "gid": "2450850898891319193",
+                    "size": "1821236850",
+                    "download": "974745328"
                 },
                 "betarelease": {
                     "gid": "3754865781966250435",
@@ -53,16 +53,15 @@
                     "size": "1528159259",
                     "download": "789608640"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2644690": {
             "dlcappid": "2644690"
         },
         "branches": {
             "public": {
-                "buildid": "17925668",
-                "timeupdated": "1743429874"
+                "buildid": "18121439",
+                "timeupdated": "1744799914"
             },
             "betarelease": {
                 "buildid": "17986609",
