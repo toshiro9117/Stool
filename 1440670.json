@@ -4,8 +4,8 @@
     "name": "Zeepkist",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28291579",
-    "update_time": "2025-04-03 23:11:44",
+    "change_number": "28846514",
+    "update_time": "2025-05-07 01:21:31",
     "depot": {
         "workshopdepot": "1440670",
         "hasdepotsindlc": "1",
@@ -16,20 +16,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8103133539909299473",
-                    "size": "2888420207",
-                    "download": "627146016"
+                    "gid": "7374239444405978142",
+                    "size": "2960178526",
+                    "download": "628383024"
                 }
             },
             "decryptionkey": "155b8265af52ed31033c00e1caa583211219df22e5cddbe58ec6f271865349df"
         },
         "branches": {
             "public": {
-                "buildid": "17940619",
-                "timeupdated": "1743516442"
+                "buildid": "18348373",
+                "timeupdated": "1746461281"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "925a5b62f832c1b67c6e6635ea094cb9992c6d47c9c7e9e094011ba9386692e2"
     }
 }
