@@ -4,8 +4,8 @@
     "name": "Commander Quest",
     "schinese_name": "牌兵布阵 (Commander Quest)",
     "isfreeapp": "0",
-    "change_number": "28544698",
-    "update_time": "2025-04-18 15:25:25",
+    "change_number": "28897833",
+    "update_time": "2025-05-09 16:39:33",
     "depot": {
         "228989": {
             "config": {
@@ -28,28 +28,29 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5274441461272229025",
-                    "size": "3637267021",
-                    "download": "3023843488"
+                    "gid": "4521482157263656465",
+                    "size": "3637258829",
+                    "download": "3023382624"
                 },
                 "beta": {
-                    "gid": "5274441461272229025",
-                    "size": "3637267021",
-                    "download": "3023843488"
+                    "gid": "4521482157263656465",
+                    "size": "3637258829",
+                    "download": "3023382624"
                 }
             },
             "decryptionkey": "688a415a05ac047923a7e910d555ae93abb5859ed06d74373fbf7925930da9d6"
         },
         "branches": {
             "public": {
-                "buildid": "18125782",
-                "timeupdated": "1744795376"
+                "buildid": "18232784",
+                "timeupdated": "1745572250"
             },
             "beta": {
-                "buildid": "18125782",
+                "buildid": "18232784",
                 "description": "beta testing branch",
-                "timeupdated": "1744792652"
+                "timeupdated": "1745551083"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
