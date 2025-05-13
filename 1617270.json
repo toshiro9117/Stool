@@ -4,8 +4,8 @@
     "name": "The Faraway Land",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27843381",
-    "update_time": "2025-03-08 05:02:17",
+    "change_number": "28831730",
+    "update_time": "2025-05-06 08:01:44",
     "depot": {
         "1617271": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2866038627204005809",
-                    "size": "2813263610",
-                    "download": "512540864"
+                    "gid": "6725839589401967051",
+                    "size": "2813177004",
+                    "download": "512562880"
                 }
             },
             "decryptionkey": "e6d72115eb5856137d46d1080115e429b7704f2c8c705f893300cb64b2d0cb35"
@@ -24,8 +24,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16174542",
-                "timeupdated": "1729825797"
+                "buildid": "18352704",
+                "timeupdated": "1746489698"
             }
         },
         "privatebranches": "1"
