@@ -4,8 +4,8 @@
     "name": "SimRail - The Railway Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548373",
-    "update_time": "2025-04-18 19:22:21",
+    "change_number": "28917217",
+    "update_time": "2025-05-10 21:05:45",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "workshopdepot": "1422130",
@@ -19,35 +19,105 @@
         "1422131": {
             "manifests": {
                 "public": {
-                    "gid": "9030935391613544401",
-                    "size": "76149343206",
-                    "download": "52811097568"
+                    "gid": "8742192591527470570",
+                    "size": "1195096817",
+                    "download": "748555792"
+                },
+                "next": {
+                    "gid": "6835752219381751851",
+                    "size": "1195107667",
+                    "download": "748602288"
                 }
             },
             "decryptionkey": "1619b6c1fac954e2ca5ad8b46b1e5073af05feea9be14ef642832dc14e76a5d1"
         },
         "1422133": {
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1552912256819990906",
+                    "size": "20108606751",
+                    "download": "17066322304"
+                },
+                "next": {
+                    "gid": "1303954894500823282",
+                    "size": "20116991278",
+                    "download": "17072852384"
+                }
+            },
+            "decryptionkey": "03e8f3d92041be292986b8d84398fa901e2679f3eb8ebbea2fdef8ef623b3eaa"
         },
         "1422134": {
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8236308338998144207",
+                    "size": "372137104",
+                    "download": "286362160"
+                },
+                "next": {
+                    "gid": "3366451480392009341",
+                    "size": "372526303",
+                    "download": "286567056"
+                }
+            },
+            "decryptionkey": "94a2e078e11a6ba3a441b41c83704e96dd97b8581f49fa6d0fd5116167e7b5ff"
         },
         "1422132": {
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2966124771618680600",
+                    "size": "47909211409",
+                    "download": "32839904448"
+                },
+                "next": {
+                    "gid": "1268172747945153502",
+                    "size": "47940356313",
+                    "download": "32858217264"
+                }
+            },
+            "decryptionkey": "5ba05793cfe06281329404679e35c9916f808892b239e8e11f26360f0a6614af"
         },
         "3580250": {
             "dlcappid": "3580250",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4558690236009095671",
+                    "size": "17384294630",
+                    "download": "12430756800"
+                },
+                "next": {
+                    "gid": "3528169605949045255",
+                    "size": "17506100146",
+                    "download": "12493076880"
+                }
+            },
+            "decryptionkey": ""
         },
         "3583200": {
             "dlcappid": "3583200",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "3146141348817606762",
+                    "size": "8709734199",
+                    "download": "5948231424"
+                },
+                "next": {
+                    "gid": "5690627926234957551",
+                    "size": "8825451119",
+                    "download": "6005570928"
+                }
+            },
+            "decryptionkey": "35592f2d0dede2624b2620b56c4ee6070629e682ca1de506136164a6bd3260f3"
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17710951",
-                "timeupdated": "1741881373"
+                "buildid": "18351729",
+                "timeupdated": "1746538740"
+            },
+            "next": {
+                "buildid": "18413112",
+                "description": "Testing of next update",
+                "timeupdated": "1746882338"
             }
         },
         "privatebranches": "1",
