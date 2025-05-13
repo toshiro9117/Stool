@@ -4,8 +4,8 @@
     "name": "Delivery Hot",
     "schinese_name": "外送热",
     "isfreeapp": "0",
-    "change_number": "28381532",
-    "update_time": "2025-04-09 16:09:27",
+    "change_number": "28919662",
+    "update_time": "2025-05-11 03:02:54",
     "depot": {
         "baselanguages": "english,french,koreana,schinese,tchinese,japanese",
         "2962421": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7906407797782354072",
-                    "size": "3555765323",
-                    "download": "384082704"
+                    "gid": "44925282670604011",
+                    "size": "3960797887",
+                    "download": "396376720"
                 }
             },
             "decryptionkey": "421aa1690ba87992f1663d256ac8fa79e1580b392bef84cf1873315ddd3d6cef"
         },
         "branches": {
             "public": {
-                "buildid": "17748431",
-                "timeupdated": "1742197844"
+                "buildid": "18237082",
+                "timeupdated": "1745578775"
             }
         },
         "privatebranches": "1"
