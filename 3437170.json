@@ -4,24 +4,24 @@
     "name": "壶中日月",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28532902",
-    "update_time": "2025-04-17 23:59:05",
+    "change_number": "28908181",
+    "update_time": "2025-05-10 03:01:03",
     "depot": {
         "baselanguages": "english,schinese",
         "3437171": {
             "manifests": {
                 "public": {
-                    "gid": "8188264249789819601",
-                    "size": "403944113",
-                    "download": "80516352"
+                    "gid": "3103718483938329989",
+                    "size": "438345591",
+                    "download": "103212256"
                 }
             },
             "decryptionkey": "0cec0016673a70d36d7643d8e0f1ddaac468ce5540573d1d6d3a6a01c437c131"
         },
         "branches": {
             "public": {
-                "buildid": "18108795",
-                "timeupdated": "1744694304"
+                "buildid": "18407546",
+                "timeupdated": "1746817260"
             }
         }
     }
