@@ -1,11 +1,11 @@
 {
     "appid": "3178840",
     "type": "Demo",
-    "name": "Astrumis - Survive Together Demo",
+    "name": "Astrumis - Survive Together Friend's Pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28206656",
-    "update_time": "2025-03-29 22:23:52",
+    "change_number": "28920330",
+    "update_time": "2025-05-11 04:42:52",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "2358817743",
                     "download": "2180949248"
                 }
-            }
+            },
+            "decryptionkey": "2fe42266dc5954a1d7787141d2df64cf042ba9421d943c56062852518a528cee"
         },
         "branches": {
             "public": {
