@@ -4,8 +4,8 @@
     "name": "WILD HEARTS™",
     "schinese_name": "荒野之心",
     "isfreeapp": "0",
-    "change_number": "28492365",
-    "update_time": "2025-04-16 01:26:08",
+    "change_number": "28830893",
+    "update_time": "2025-05-06 06:34:19",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian,latam",
@@ -185,9 +185,9 @@
         "3340992": {
             "manifests": {
                 "public": {
-                    "gid": "4905541760094462614",
-                    "size": "234968630",
-                    "download": "237087056"
+                    "gid": "6682465627441668711",
+                    "size": "234273398",
+                    "download": "236385216"
                 }
             },
             "depotfromapp": "3340990",
