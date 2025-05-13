@@ -4,8 +4,8 @@
     "name": "Dustborn",
     "schinese_name": "尘路之旅",
     "isfreeapp": "0",
-    "change_number": "28441142",
-    "update_time": "2025-04-12 12:09:19",
+    "change_number": "28900484",
+    "update_time": "2025-05-09 19:22:57",
     "depot": {
         "721181": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2102804988536220912",
-                    "size": "26813608342",
-                    "download": "10947803600"
+                    "gid": "3552560960226121505",
+                    "size": "26813609062",
+                    "download": "10947801920"
                 }
             },
             "decryptionkey": "23ceb1d86e5aca23fa961043b1f7c8453a6a0fbaea2d7e6731503dd5714ae14d"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17836635",
-                "timeupdated": "1742829324"
+                "buildid": "18265439",
+                "timeupdated": "1745845756"
             }
         },
         "privatebranches": "1"
