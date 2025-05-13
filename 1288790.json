@@ -4,8 +4,8 @@
     "name": "BeachHead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28523241",
-    "update_time": "2025-04-17 14:58:21",
+    "change_number": "28774790",
+    "update_time": "2025-05-02 04:11:12",
     "depot": {
         "1288791": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3528445636944746128",
-                    "size": "6755239886",
-                    "download": "2762434432"
+                    "gid": "7866678766670280036",
+                    "size": "6731162490",
+                    "download": "2744231456"
                 }
             },
             "decryptionkey": "c42f84ba58146d04de9e76c3450cf004b23e26b31a5504d08e5f3f73f2d2c500"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17229578",
-                "timeupdated": "1738644948"
+                "buildid": "18313406",
+                "timeupdated": "1746130265"
             }
         },
         "privatebranches": "1"
