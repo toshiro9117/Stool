@@ -4,21 +4,24 @@
     "name": "Blood Bar Tycoon",
     "schinese_name": "吸血鬼酒吧大亨",
     "isfreeapp": "0",
-    "change_number": "28543160",
-    "update_time": "2025-04-18 13:03:30",
+    "change_number": "28881594",
+    "update_time": "2025-05-08 20:25:56",
     "depot": {
-        "baselanguages": "english,german,french,italian,spanish,schinese,japanese,brazilian",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "2776781": {
+            "config": {
+                "oslist": "windows,linux"
+            },
             "manifests": {
                 "public": {
-                    "gid": "1581365132855251484",
-                    "size": "3865544452",
-                    "download": "2619692432"
+                    "gid": "7760052395654230957",
+                    "size": "3889615006",
+                    "download": "2627274720"
                 },
                 "beta": {
-                    "gid": "1581365132855251484",
-                    "size": "3865544452",
-                    "download": "2619692432"
+                    "gid": "7760052395654230957",
+                    "size": "3889615006",
+                    "download": "2627274720"
                 }
             },
             "decryptionkey": "afa10f600fdbcfa388448072896e37c7d362a5efbbf2f49e6e85493d0e90aabe"
@@ -26,15 +29,32 @@
         "3372940": {
             "dlcappid": "3372940"
         },
+        "2776782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "868272978304849450",
+                    "size": "3978082610",
+                    "download": "2661749664"
+                },
+                "beta": {
+                    "gid": "868272978304849450",
+                    "size": "3978082610",
+                    "download": "2661749664"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18128354",
-                "timeupdated": "1744807878"
+                "buildid": "18388680",
+                "timeupdated": "1746707151"
             },
             "beta": {
-                "buildid": "18128354",
+                "buildid": "18388673",
                 "description": "Public testing branch",
-                "timeupdated": "1744807860"
+                "timeupdated": "1746707115"
             }
         },
         "privatebranches": "1"
