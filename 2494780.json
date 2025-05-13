@@ -4,8 +4,8 @@
     "name": "#DRIVE Rally",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28535234",
-    "update_time": "2025-04-18 01:58:33",
+    "change_number": "28896773",
+    "update_time": "2025-05-09 15:31:26",
     "depot": {
         "2494781": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6101164807254883830",
-                    "size": "2818937184",
-                    "download": "960815248"
+                    "gid": "2260181505162179605",
+                    "size": "2819098919",
+                    "download": "960823728"
                 },
                 "public-beta": {
-                    "gid": "6101164807254883830",
-                    "size": "2818937184",
-                    "download": "960815248"
+                    "gid": "2260181505162179605",
+                    "size": "2819098919",
+                    "download": "960823728"
                 }
             },
             "decryptionkey": "e2c270ac8664f72fa91c1b705bd44a7ed986d6ef6230309e000724795e515931"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7492864867704260280",
-                    "size": "3067840661",
-                    "download": "1007417312"
+                    "gid": "2476302772245919576",
+                    "size": "3068001940",
+                    "download": "1007440912"
                 },
                 "public-beta": {
-                    "gid": "7492864867704260280",
-                    "size": "3067840661",
-                    "download": "1007417312"
+                    "gid": "2476302772245919576",
+                    "size": "3068001940",
+                    "download": "1007440912"
                 }
             }
         },
@@ -48,26 +48,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6754641023540680894",
-                    "size": "2816628778",
-                    "download": "965138208"
+                    "gid": "344104517780053575",
+                    "size": "2816790001",
+                    "download": "965152384"
                 },
                 "public-beta": {
-                    "gid": "6754641023540680894",
-                    "size": "2816628778",
-                    "download": "965138208"
+                    "gid": "344104517780053575",
+                    "size": "2816790001",
+                    "download": "965152384"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18120182",
-                "timeupdated": "1744813176"
+                "buildid": "18168428",
+                "timeupdated": "1745086106"
             },
             "public-beta": {
-                "buildid": "18120182",
+                "buildid": "18168428",
                 "description": "Public Beta",
-                "timeupdated": "1744813113"
+                "timeupdated": "1745086068"
             }
         },
         "privatebranches": "1"
