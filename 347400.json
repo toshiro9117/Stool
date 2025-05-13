@@ -4,8 +4,8 @@
     "name": "001 Game Creator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28514953",
-    "update_time": "2025-04-17 03:12:43",
+    "change_number": "28890972",
+    "update_time": "2025-05-09 05:57:18",
     "depot": {
         "347401": {
             "config": {
@@ -13,6 +13,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1613963218013947813",
+                    "size": "1650135578",
+                    "download": "366454768"
+                },
+                "previous_version": {
                     "gid": "3275001585216653107",
                     "size": "1643651038",
                     "download": "350933760"
@@ -30,6 +35,11 @@
                     "gid": "3937540289673077239",
                     "size": "11193694",
                     "download": "5486608"
+                },
+                "previous_version": {
+                    "gid": "3937540289673077239",
+                    "size": "11193694",
+                    "download": "5486608"
                 }
             },
             "decryptionkey": ""
@@ -41,6 +51,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1457226544958711582",
+                    "size": "480002517",
+                    "download": "364037936"
+                },
+                "previous_version": {
                     "gid": "4289268341125228126",
                     "size": "470311123",
                     "download": "355152320"
@@ -58,6 +73,11 @@
                     "gid": "4085820539227534034",
                     "size": "146381453",
                     "download": "132993520"
+                },
+                "previous_version": {
+                    "gid": "4085820539227534034",
+                    "size": "146381453",
+                    "download": "132993520"
                 }
             },
             "decryptionkey": ""
@@ -72,6 +92,11 @@
                     "gid": "6883998834037100636",
                     "size": "79892989",
                     "download": "78224736"
+                },
+                "previous_version": {
+                    "gid": "6883998834037100636",
+                    "size": "79892989",
+                    "download": "78224736"
                 }
             },
             "decryptionkey": "3e9fb9fe6a41dae472667a1bb0afdde455985b41dd274ae75077599c7273ab12"
@@ -83,6 +108,11 @@
             "dlcappid": "951950",
             "manifests": {
                 "public": {
+                    "gid": "9117540048894067087",
+                    "size": "34238617",
+                    "download": "33017312"
+                },
+                "previous_version": {
                     "gid": "126470822882091869",
                     "size": "34238617",
                     "download": "33017312"
@@ -97,6 +127,11 @@
             "dlcappid": "977250",
             "manifests": {
                 "public": {
+                    "gid": "1697415449635800399",
+                    "size": "19797580",
+                    "download": "11935536"
+                },
+                "previous_version": {
                     "gid": "587314713760621733",
                     "size": "19789130",
                     "download": "11932272"
@@ -108,6 +143,11 @@
             "dlcappid": "2598260",
             "manifests": {
                 "public": {
+                    "gid": "1428772855921282187",
+                    "size": "27249677",
+                    "download": "15297904"
+                },
+                "previous_version": {
                     "gid": "1428772855921282187",
                     "size": "27249677",
                     "download": "15297904"
@@ -125,6 +165,11 @@
                     "gid": "2336555660301376278",
                     "size": "99892435",
                     "download": "93241872"
+                },
+                "previous_version": {
+                    "gid": "2336555660301376278",
+                    "size": "99892435",
+                    "download": "93241872"
                 }
             },
             "decryptionkey": ""
@@ -136,6 +181,11 @@
             "dlcappid": "1144120",
             "manifests": {
                 "public": {
+                    "gid": "3812034272171699978",
+                    "size": "54459089",
+                    "download": "53310240"
+                },
+                "previous_version": {
                     "gid": "3812034272171699978",
                     "size": "54459089",
                     "download": "53310240"
@@ -153,6 +203,11 @@
                     "gid": "5884589308109977707",
                     "size": "11926127",
                     "download": "12068560"
+                },
+                "previous_version": {
+                    "gid": "5884589308109977707",
+                    "size": "11926127",
+                    "download": "12068560"
                 }
             },
             "decryptionkey": ""
@@ -161,6 +216,11 @@
             "dlcappid": "2221112",
             "manifests": {
                 "public": {
+                    "gid": "1481106319906669961",
+                    "size": "9399759",
+                    "download": "9161600"
+                },
+                "previous_version": {
                     "gid": "1481106319906669961",
                     "size": "9399759",
                     "download": "9161600"
@@ -175,6 +235,11 @@
                     "gid": "1593985139359587370",
                     "size": "39791862",
                     "download": "39606064"
+                },
+                "previous_version": {
+                    "gid": "1593985139359587370",
+                    "size": "39791862",
+                    "download": "39606064"
                 }
             },
             "decryptionkey": ""
@@ -186,14 +251,24 @@
                     "gid": "4874179969347622716",
                     "size": "30458706",
                     "download": "14823424"
+                },
+                "previous_version": {
+                    "gid": "4874179969347622716",
+                    "size": "30458706",
+                    "download": "14823424"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
+                "buildid": "18352612",
+                "timeupdated": "1746741262"
+            },
+            "previous_version": {
                 "buildid": "14945960",
-                "timeupdated": "1720201871"
+                "description": "Previous version branch (not recommended)",
+                "timeupdated": "1746741018"
             }
         },
         "privatebranches": "1"
