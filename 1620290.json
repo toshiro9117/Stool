@@ -4,8 +4,8 @@
     "name": "Zombie Cure Lab",
     "schinese_name": "僵尸治愈实验室",
     "isfreeapp": "0",
-    "change_number": "28382533",
-    "update_time": "2025-04-09 17:05:05",
+    "change_number": "28820734",
+    "update_time": "2025-05-05 19:01:21",
     "depot": {
         "1620291": {
             "manifests": {
@@ -25,9 +25,9 @@
                     "download": "688263344"
                 },
                 "experimental": {
-                    "gid": "5614427391904727803",
-                    "size": "1207205118",
-                    "download": "463468000"
+                    "gid": "7785353260915423137",
+                    "size": "1212874348",
+                    "download": "464270992"
                 }
             },
             "decryptionkey": "e695370de91e380b55b97bfa3200cf50460c83ff53830ce89c160bdc75513f45"
@@ -48,9 +48,9 @@
                 "timeupdated": "1698658819"
             },
             "experimental": {
-                "buildid": "17984099",
+                "buildid": "18319828",
                 "description": "Here we test out stuff like new features or unstable fixes to discover problems or test new things.",
-                "timeupdated": "1743770513"
+                "timeupdated": "1746194112"
             }
         },
         "privatebranches": "1"
