@@ -4,8 +4,8 @@
     "name": "Chains of Freedom",
     "schinese_name": "自由锁链",
     "isfreeapp": "0",
-    "change_number": "28549668",
-    "update_time": "2025-04-18 21:01:19",
+    "change_number": "28868351",
+    "update_time": "2025-05-08 03:11:33",
     "depot": {
         "2994011": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5756866764251345002",
-                    "size": "3981061106",
-                    "download": "2056867136"
+                    "gid": "4520862251845863400",
+                    "size": "3979361215",
+                    "download": "2055367392"
                 }
             },
             "decryptionkey": "ac017c74e5837c6433332286ea955b0a2dc8990f74714a942feb6fd46c0c312a"
         },
         "branches": {
             "public": {
-                "buildid": "17970104",
-                "timeupdated": "1744259127"
+                "buildid": "18143534",
+                "timeupdated": "1745398862"
             }
         },
         "privatebranches": "1"
