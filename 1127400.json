@@ -4,8 +4,8 @@
     "name": "Mindustry",
     "schinese_name": "像素工厂",
     "isfreeapp": "0",
-    "change_number": "28539698",
-    "update_time": "2025-04-18 07:29:45",
+    "change_number": "28922653",
+    "update_time": "2025-05-11 11:59:42",
     "depot": {
         "workshopdepot": "1127400",
         "1127401": {},
@@ -36,14 +36,14 @@
                     "download": "99651472"
                 },
                 "bleeding-edge": {
-                    "gid": "7371836965234605697",
-                    "size": "103550045",
-                    "download": "88439456"
+                    "gid": "1830105798021811092",
+                    "size": "103901917",
+                    "download": "87700048"
                 },
                 "v8-beta": {
-                    "gid": "6094385906359109997",
-                    "size": "103535601",
-                    "download": "87337552"
+                    "gid": "6514010225582701149",
+                    "size": "103557849",
+                    "download": "87360560"
                 }
             },
             "decryptionkey": "0c3b8eed200732123d8cacc1b727e617fd6bb38b1f48bf98c39fb9f3988476bb"
@@ -75,14 +75,14 @@
                     "download": "93582288"
                 },
                 "bleeding-edge": {
-                    "gid": "1151558538290623611",
-                    "size": "105894083",
-                    "download": "86047536"
+                    "gid": "7930267749539969014",
+                    "size": "106245955",
+                    "download": "86399952"
                 },
                 "v8-beta": {
-                    "gid": "4667475291358586835",
-                    "size": "105879639",
-                    "download": "87094240"
+                    "gid": "4142064910865378577",
+                    "size": "105901887",
+                    "download": "87117440"
                 }
             },
             "decryptionkey": "5d643ae406f0ba2609d9dc4952010fac6ae5e9b8d0ada1c2e9f2f5f3b72951bb"
@@ -113,14 +113,14 @@
                     "download": "91041392"
                 },
                 "bleeding-edge": {
-                    "gid": "5922940919408699682",
-                    "size": "105684047",
-                    "download": "87509488"
+                    "gid": "2079638435378516472",
+                    "size": "106035919",
+                    "download": "87836032"
                 },
                 "v8-beta": {
-                    "gid": "7531215291929630358",
-                    "size": "105669603",
-                    "download": "86437152"
+                    "gid": "6393700939027897424",
+                    "size": "105691851",
+                    "download": "86471248"
                 }
             },
             "decryptionkey": "c5d4d15b366440e5b7e6095831d86b858a11cd69a1e7aca35a013702bb856ebe"
@@ -157,9 +157,9 @@
                     "download": "105562992"
                 },
                 "v8-beta": {
-                    "gid": "8398684760396512188",
-                    "size": "124628691",
-                    "download": "107355824"
+                    "gid": "6617858553024592104",
+                    "size": "124650779",
+                    "download": "107385008"
                 }
             },
             "decryptionkey": "10abd9b690595bd7c900f1e9da06fc982e945712021f175ff48ba377997a2568"
@@ -185,14 +185,14 @@
                 "timeupdated": "1671641877"
             },
             "bleeding-edge": {
-                "buildid": "18158524",
+                "buildid": "18417944",
                 "description": "The latest development build, may be unstable - this is a one way trip, BACK UP SAVES BEFORE SWITCHING!",
-                "timeupdated": "1744985549"
+                "timeupdated": "1746935977"
             },
             "v8-beta": {
-                "buildid": "18093853",
+                "buildid": "18303140",
                 "description": "Beta builds for the v8 release",
-                "timeupdated": "1744599513"
+                "timeupdated": "1746056205"
             }
         },
         "workshopdepotdecryptionkey": "650b3a380cb4d9cf1366f9e41857b3ecbb33cb2d29b6b7fe650dfdd1d500a2c5"
