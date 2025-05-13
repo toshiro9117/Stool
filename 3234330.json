@@ -4,8 +4,8 @@
     "name": "Ninja Ming",
     "schinese_name": "忍者明",
     "isfreeapp": "0",
-    "change_number": "28507555",
-    "update_time": "2025-04-16 20:12:47",
+    "change_number": "28577607",
+    "update_time": "2025-04-21 11:01:09",
     "depot": {
         "baselanguages": "english,schinese",
         "3234331": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7208923643447850300",
-                    "size": "437102011",
-                    "download": "227344624"
+                    "gid": "4903923149615277457",
+                    "size": "437826853",
+                    "download": "227970656"
                 }
             },
             "decryptionkey": "2ee543f15981748ad16c8f2cb3e289a09fc50fe32250d28e751a7478115146a8"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1373854108995836275",
-                    "size": "429095158",
-                    "download": "219284560"
+                    "gid": "1089461002192495466",
+                    "size": "497207348",
+                    "download": "235304080"
                 }
             }
         },
@@ -39,16 +39,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5349502039566509564",
-                    "size": "461632388",
-                    "download": "230715760"
+                    "gid": "261975504057300684",
+                    "size": "462379754",
+                    "download": "231329632"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18123097",
-                "timeupdated": "1744783107"
+                "buildid": "18172678",
+                "timeupdated": "1745204465"
             }
         },
         "privatebranches": "1"
