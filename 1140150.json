@@ -4,8 +4,8 @@
     "name": "东方光耀夜 ~ Lost Branch of Legend",
     "schinese_name": "东方光耀夜 ~ Lost Branch of Legend",
     "isfreeapp": "0",
-    "change_number": "28546837",
-    "update_time": "2025-04-18 17:40:33",
+    "change_number": "28884766",
+    "update_time": "2025-05-08 23:14:09",
     "depot": {
         "hasdepotsindlc": "0",
         "1140151": {
@@ -14,19 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "94413278489725291",
-                    "size": "4902088154",
-                    "download": "1622878592"
+                    "gid": "1250333962712791242",
+                    "size": "4915619589",
+                    "download": "1624886992"
                 },
                 "beta": {
-                    "gid": "94413278489725291",
-                    "size": "4902088154",
-                    "download": "1622878592"
-                },
-                "stable": {
-                    "gid": "2292257629735309070",
-                    "size": "4687580537",
-                    "download": "1482801888"
+                    "gid": "1250333962712791242",
+                    "size": "4915619589",
+                    "download": "1624886992"
                 }
             },
             "decryptionkey": "50615b31d57243ccab3116b85ab46fe01d860584a3a8ede2bde1362d2d581cc1"
@@ -37,19 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2059468131388841272",
-                    "size": "4895936176",
-                    "download": "1621862704"
+                    "gid": "2118906820126742604",
+                    "size": "4909482723",
+                    "download": "1623886832"
                 },
                 "beta": {
-                    "gid": "2059468131388841272",
-                    "size": "4895936176",
-                    "download": "1621862704"
-                },
-                "stable": {
-                    "gid": "748592179681331698",
-                    "size": "4681349339",
-                    "download": "1481597280"
+                    "gid": "2118906820126742604",
+                    "size": "4909482723",
+                    "download": "1623886832"
                 }
             },
             "decryptionkey": "c946bb7206279356b9b1a03620110ce4f354d253b4664f59f1f00da7e61b79ee"
@@ -57,18 +47,13 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18154621",
-                "timeupdated": "1744960352"
+                "buildid": "18390541",
+                "timeupdated": "1746717243"
             },
             "beta": {
-                "buildid": "18154621",
-                "description": "v1.7.1",
-                "timeupdated": "1744960317"
-            },
-            "stable": {
-                "buildid": "17394991",
-                "description": "v1.6.1",
-                "timeupdated": "1742692492"
+                "buildid": "18390541",
+                "description": "v1.7.2",
+                "timeupdated": "1746716489"
             }
         },
         "privatebranches": "1"
