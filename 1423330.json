@@ -4,8 +4,8 @@
     "name": "Ancient Warfare: The Han Dynasty",
     "schinese_name": "横戈",
     "isfreeapp": "0",
-    "change_number": "28545761",
-    "update_time": "2025-04-18 16:29:50",
+    "change_number": "28747290",
+    "update_time": "2025-04-30 19:05:39",
     "depot": {
         "1423331": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5494332463713242426",
-                    "size": "22665660004",
-                    "download": "10307521888"
+                    "gid": "4899091743539028789",
+                    "size": "22666206324",
+                    "download": "10307216576"
                 },
                 "legacy_version": {
                     "gid": "3129377948637109937",
@@ -23,9 +23,9 @@
                     "download": "9417960080"
                 },
                 "preview_version": {
-                    "gid": "4899091743539028789",
-                    "size": "22666206324",
-                    "download": "10307216576"
+                    "gid": "630233593220744020",
+                    "size": "22666215588",
+                    "download": "10307226560"
                 },
                 "test_version": {
                     "gid": "3129377948637109937",
@@ -39,8 +39,8 @@
         "workshopdepot": "1423330",
         "branches": {
             "public": {
-                "buildid": "17876168",
-                "timeupdated": "1744682108"
+                "buildid": "18127336",
+                "timeupdated": "1745913258"
             },
             "legacy_version": {
                 "sc_schinese": "西域版",
@@ -49,9 +49,9 @@
                 "timeupdated": "1722090201"
             },
             "preview_version": {
-                "buildid": "18127336",
+                "buildid": "18276353",
                 "description": "先锋版",
-                "timeupdated": "1744964984"
+                "timeupdated": "1746011134"
             },
             "test_version": {
                 "buildid": "14807105",
