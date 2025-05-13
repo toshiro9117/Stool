@@ -4,8 +4,8 @@
     "name": "Lust Academy",
     "schinese_name": "欲望学院",
     "isfreeapp": "0",
-    "change_number": "28232557",
-    "update_time": "2025-04-01 00:51:03",
+    "change_number": "28910846",
+    "update_time": "2025-05-10 06:27:52",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1283588283019221105",
-                    "size": "2903266849",
-                    "download": "2548109584"
+                    "gid": "8383216684593130643",
+                    "size": "2903741667",
+                    "download": "2548551744"
                 }
             },
             "decryptionkey": "968da0d81dd4d407ea6d039b91343d094120a5985547875e05dcb987a815c588"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8753329371896493821",
-                    "size": "2809335936",
-                    "download": "2520771632"
+                    "gid": "1226307689101656796",
+                    "size": "2809810754",
+                    "download": "2521213568"
                 }
             },
             "decryptionkey": "f0123615f7078b5892e2ba3615665c6eadd1b15e23c34c75c7394e7b454405e0"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17299514",
-                "timeupdated": "1739129061"
+                "buildid": "18312421",
+                "timeupdated": "1746123973"
             }
         }
     }
