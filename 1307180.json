@@ -4,8 +4,8 @@
     "name": "Operation: Harsh Doorstop - Development Build",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540739",
-    "update_time": "2025-04-18 09:06:08",
+    "change_number": "28912906",
+    "update_time": "2025-05-10 09:55:49",
     "depot": {
         "228988": {
             "config": {
@@ -32,17 +32,17 @@
         "1307181": {
             "manifests": {
                 "public": {
-                    "gid": "8657688675868549639",
-                    "size": "53009254698",
-                    "download": "20413289600"
+                    "gid": "8529941092838052894",
+                    "size": "60215938465",
+                    "download": "22719230240"
                 }
             },
             "decryptionkey": "2d07d1448f2530f37066b1cf6d997ca80611916be0a26b393671eb8634563680"
         },
         "branches": {
             "public": {
-                "buildid": "18151746",
-                "timeupdated": "1744938365"
+                "buildid": "18410602",
+                "timeupdated": "1746842144"
             }
         },
         "workshopdepotdecryptionkey": ""
