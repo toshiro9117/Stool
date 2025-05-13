@@ -1,0 +1,44 @@
+{
+    "appid": "2772820",
+    "type": "Game",
+    "name": "ButtKnight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28919656",
+    "update_time": "2025-05-11 03:02:46",
+    "depot": {
+        "baselanguages": "english",
+        "2772821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7884898117196401396",
+                    "size": "2341779789",
+                    "download": "581600912"
+                }
+            },
+            "decryptionkey": "d9cb8cd6f940a0c4f850fd34e68dfe7ff611d4882b9b00dc6815275894e476e2"
+        },
+        "2772822": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5266039873685942995",
+                    "size": "2381087222",
+                    "download": "593081840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18331717",
+                "timeupdated": "1746778780"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
