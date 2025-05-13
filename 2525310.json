@@ -1,0 +1,45 @@
+{
+    "appid": "2525310",
+    "type": "Game",
+    "name": "Drop Duchy",
+    "schinese_name": "方块公国 (Drop Duchy)",
+    "isfreeapp": "0",
+    "change_number": "28915556",
+    "update_time": "2025-05-10 16:33:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2525311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1186438765807364354",
+                    "size": "1497959865",
+                    "download": "1204532112"
+                }
+            },
+            "decryptionkey": "4f575923f1b939467dae8a961bf95e3c380dd3594554f5f67b1c64fe7edd3409"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332013",
+                "timeupdated": "1746438390"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
