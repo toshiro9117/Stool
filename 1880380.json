@@ -4,8 +4,8 @@
     "name": "Total War: WARHAMMER III - Assembly Kit BETA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543198",
-    "update_time": "2025-04-18 13:07:23",
+    "change_number": "28921302",
+    "update_time": "2025-05-11 07:17:45",
     "depot": {
         "228988": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5507473868300228984",
-                    "size": "4027689889",
-                    "download": "452169040"
+                    "gid": "8947727405726399726",
+                    "size": "4027712575",
+                    "download": "452175600"
                 }
             },
             "decryptionkey": "ed4bdc67cec16960a6658c1f6f82bbdf18b109c3b3fa8afb0930078c74a4a037"
         },
         "branches": {
             "public": {
-                "buildid": "17936905",
-                "timeupdated": "1743674006"
+                "buildid": "18231067",
+                "timeupdated": "1745920651"
             }
         },
         "privatebranches": "1"
