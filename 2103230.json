@@ -4,8 +4,8 @@
     "name": "マクロス -Shooting Insight-",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28464648",
-    "update_time": "2025-04-14 18:31:20",
+    "change_number": "28761103",
+    "update_time": "2025-05-01 09:01:44",
     "depot": {
         "baselanguages": "english,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8510258155187989192",
-                    "size": "2670037093",
-                    "download": "1905125664"
+                    "gid": "2149739813776805324",
+                    "size": "2670168525",
+                    "download": "1905184608"
                 }
             },
             "decryptionkey": "858a7b36202fa56abfee4b60b61dd0f089b55293604578d898d3d40050264df4"
@@ -41,8 +41,8 @@
         "workshopdepot": "2103230",
         "branches": {
             "public": {
-                "buildid": "16847802",
-                "timeupdated": "1735264871"
+                "buildid": "17982187",
+                "timeupdated": "1746061297"
             }
         },
         "privatebranches": "1",
