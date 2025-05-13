@@ -4,8 +4,8 @@
     "name": "Vampire Survivors: Ode to Castlevania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544135",
-    "update_time": "2025-04-18 14:37:42",
+    "change_number": "28663926",
+    "update_time": "2025-04-25 20:55:17",
     "depot": {
         "3210351": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3798069157375995688",
-                    "size": "296680133",
-                    "download": "263523216"
+                    "gid": "3921561429698048608",
+                    "size": "296679919",
+                    "download": "263524288"
                 },
                 "public-beta": {
-                    "gid": "3798069157375995688",
-                    "size": "296680133",
-                    "download": "263523216"
+                    "gid": "3921561429698048608",
+                    "size": "296679919",
+                    "download": "263524288"
                 }
             },
             "dlcappid": "3210350",
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6896466876678884806",
-                    "size": "296673282",
-                    "download": "263527232"
+                    "gid": "1535155333092350165",
+                    "size": "296673345",
+                    "download": "263527328"
                 },
                 "public-beta": {
-                    "gid": "6896466876678884806",
-                    "size": "296673282",
-                    "download": "263527232"
+                    "gid": "1535155333092350165",
+                    "size": "296673345",
+                    "download": "263527328"
                 }
             },
             "dlcappid": "3210350",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2308200717872359148",
-                    "size": "296757968",
-                    "download": "263584784"
+                    "gid": "4311389628727150815",
+                    "size": "296758006",
+                    "download": "263584400"
                 },
                 "public-beta": {
-                    "gid": "2308200717872359148",
-                    "size": "296757968",
-                    "download": "263584784"
+                    "gid": "4311389628727150815",
+                    "size": "296758006",
+                    "download": "263584400"
                 }
             },
             "dlcappid": "3210350",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18055628",
-                "timeupdated": "1744302930"
+                "buildid": "18193920",
+                "timeupdated": "1745576870"
             },
             "public-beta": {
-                "buildid": "18055628",
+                "buildid": "18193920",
                 "description": "Public Beta",
-                "timeupdated": "1744297312"
+                "timeupdated": "1745492943"
             }
         },
         "privatebranches": "1"
