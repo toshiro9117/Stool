@@ -4,8 +4,8 @@
     "name": "Godless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28537273",
-    "update_time": "2025-04-18 04:04:41",
+    "change_number": "28769687",
+    "update_time": "2025-05-01 22:15:58",
     "depot": {
         "1677091": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6969274488289496550",
-                    "size": "1184224327",
-                    "download": "967653776"
+                    "gid": "173848243940705279",
+                    "size": "1190935015",
+                    "download": "973149472"
                 }
             },
             "decryptionkey": "86bfe412eae81f415c7f8026420443cd71c905bbb0bbd050a24115aa1aa02567"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17926335",
-                "timeupdated": "1743432512"
+                "buildid": "18310098",
+                "timeupdated": "1746108954"
             }
         },
         "privatebranches": "1"
