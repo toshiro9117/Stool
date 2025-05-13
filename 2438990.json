@@ -4,15 +4,15 @@
     "name": "Ark Nova",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28343303",
-    "update_time": "2025-04-07 18:06:52",
+    "change_number": "28904345",
+    "update_time": "2025-05-09 23:13:21",
     "depot": {
         "2438991": {
             "manifests": {
                 "public": {
-                    "gid": "8896949750700711005",
-                    "size": "1040972016",
-                    "download": "320825456"
+                    "gid": "6368883808119747258",
+                    "size": "1038264685",
+                    "download": "320284272"
                 }
             },
             "decryptionkey": "0121c6ac9603a1d3570b8736085b758e5c13b06aca26ce3a35148fd47e75a4fa"
@@ -23,17 +23,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1815080147848909697",
-                    "size": "1041818465",
-                    "download": "319464928"
+                    "gid": "8173814863111867766",
+                    "size": "1041825849",
+                    "download": "319473824"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17960108",
-                "timeupdated": "1743784062"
+                "buildid": "18377869",
+                "timeupdated": "1746648428"
             }
         },
         "privatebranches": "1"
