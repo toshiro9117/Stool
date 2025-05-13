@@ -4,8 +4,8 @@
     "name": "Never 7 - The End of Infinity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28497996",
-    "update_time": "2025-04-16 08:28:41",
+    "change_number": "28751928",
+    "update_time": "2025-04-30 23:01:16",
     "depot": {
         "baselanguages": "english,tchinese,japanese",
         "2184621": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3590259348075489713",
-                    "size": "1023027969",
-                    "download": "945326704"
+                    "gid": "5801319186847975950",
+                    "size": "1023114306",
+                    "download": "945414832"
                 }
             },
             "decryptionkey": "39551a4d76f98b8d5b49a223341364752575137d856bf932d38d65a0035d337d"
         },
         "branches": {
             "public": {
-                "buildid": "16559414",
-                "timeupdated": "1732751886"
+                "buildid": "18121040",
+                "timeupdated": "1746025268"
             }
         },
         "privatebranches": "1"
