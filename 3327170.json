@@ -4,8 +4,8 @@
     "name": "Minutescape",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543163",
-    "update_time": "2025-04-18 13:03:39",
+    "change_number": "28852034",
+    "update_time": "2025-05-07 08:44:37",
     "depot": {
         "3327171": {
             "config": {
@@ -13,6 +13,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8039303991729759646",
+                    "size": "337164568",
+                    "download": "126822640"
+                },
+                "ver1.0": {
                     "gid": "5667102382339900847",
                     "size": "337140090",
                     "download": "126796784"
@@ -26,6 +31,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6555332004307840237",
+                    "size": "378747231",
+                    "download": "127315024"
+                },
+                "ver1.0": {
                     "gid": "667813243187759195",
                     "size": "378722904",
                     "download": "127289152"
@@ -38,6 +48,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6042709394617162810",
+                    "size": "424846508",
+                    "download": "131067712"
+                },
+                "ver1.0": {
                     "gid": "8235990998479647313",
                     "size": "424822030",
                     "download": "131041776"
@@ -46,9 +61,15 @@
         },
         "branches": {
             "public": {
+                "buildid": "18307467",
+                "timeupdated": "1746089347"
+            },
+            "ver1.0": {
                 "buildid": "18055883",
-                "timeupdated": "1744286252"
+                "description": "version 1.0",
+                "timeupdated": "1746089360"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
