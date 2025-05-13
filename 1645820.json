@@ -4,8 +4,8 @@
     "name": "SurrounDead",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28476692",
-    "update_time": "2025-04-15 07:57:38",
+    "change_number": "28799249",
+    "update_time": "2025-05-03 18:19:40",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6258278736804069871",
-                    "size": "1542773045",
-                    "download": "1209140848"
+                    "gid": "3958920373182686193",
+                    "size": "1543438236",
+                    "download": "1209797072"
                 },
                 "experimental": {
                     "gid": "3979941005892779908",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18106303",
-                "timeupdated": "1744675054"
+                "buildid": "18331273",
+                "timeupdated": "1746267576"
             },
             "experimental": {
                 "buildid": "17930527",
