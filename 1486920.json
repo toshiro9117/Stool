@@ -4,8 +4,8 @@
     "name": "Tempest Rising",
     "schinese_name": "风暴崛起 Tempest Rising",
     "isfreeapp": "0",
-    "change_number": "28549656",
-    "update_time": "2025-04-18 21:00:50",
+    "change_number": "28913010",
+    "update_time": "2025-05-10 10:14:08",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4776977188543296732",
-                    "size": "45063121333",
-                    "download": "41466495024"
+                    "gid": "8026929066283684296",
+                    "size": "45069620255",
+                    "download": "41475841904"
                 }
             },
             "decryptionkey": "26528db8fe19a223ddd4dbc280b52006e6b4aad5884ce084762e313c91d0de46"
         },
         "branches": {
             "public": {
-                "buildid": "18143197",
-                "timeupdated": "1744892414"
+                "buildid": "18292985",
+                "timeupdated": "1746021674"
             }
         },
         "privatebranches": "1"
