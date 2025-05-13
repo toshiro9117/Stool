@@ -4,8 +4,8 @@
     "name": "RPG Maker VX Ace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533841",
-    "update_time": "2025-04-18 00:41:49",
+    "change_number": "28917959",
+    "update_time": "2025-05-10 23:02:47",
     "depot": {
         "overridescddb": "1",
         "preloadonly": "1",
@@ -7246,10 +7246,21 @@
             },
             "decryptionkey": ""
         },
+        "3698960": {
+            "dlcappid": "3698960",
+            "manifests": {
+                "public": {
+                    "gid": "3808845717900677407",
+                    "size": "2892526",
+                    "download": "2696224"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18146967",
-                "timeupdated": "1744908104"
+                "buildid": "18349054",
+                "timeupdated": "1746465178"
             },
             "original": {
                 "buildid": "6173484",
