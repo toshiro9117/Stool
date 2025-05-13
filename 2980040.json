@@ -1,0 +1,42 @@
+{
+    "appid": "2980040",
+    "type": "Demo",
+    "name": "52赫兹 Demo",
+    "schinese_name": "52赫兹 Demo",
+    "isfreeapp": "0",
+    "change_number": "28891949",
+    "update_time": "2025-05-09 07:31:57",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2980041": {
+            "manifests": {
+                "public": {
+                    "gid": "8640165564736522513",
+                    "size": "13524612413",
+                    "download": "2961926384"
+                }
+            },
+            "decryptionkey": "1049c50602baed7a0c2a767c42b8bd4140d2b0c3608c9f6907f9c446bf4520ac"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18395849",
+                "timeupdated": "1746747082"
+            }
+        }
+    }
+}
