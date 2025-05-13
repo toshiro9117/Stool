@@ -4,8 +4,8 @@
     "name": "Pixel Descent",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28455128",
-    "update_time": "2025-04-14 01:19:15",
+    "change_number": "28922544",
+    "update_time": "2025-05-11 11:33:15",
     "depot": {
         "2569331": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2752271019985710558",
-                    "size": "284804311",
-                    "download": "247609200"
+                    "gid": "8734354597247424270",
+                    "size": "284806231",
+                    "download": "247607984"
                 }
             },
             "decryptionkey": "ed45f465241c9e77aac88d650862f4490ca54115b3acd775411a61d20bd0f592"
         },
         "branches": {
             "public": {
-                "buildid": "18090840",
-                "timeupdated": "1744564751"
+                "buildid": "18185085",
+                "timeupdated": "1745273088"
             }
         }
     }
