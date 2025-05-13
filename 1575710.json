@@ -4,8 +4,8 @@
     "name": "AutoChess of Gensokyo",
     "schinese_name": "幻想乡自走棋 ~ AutoChess of Gensokyo",
     "isfreeapp": "0",
-    "change_number": "25602912",
-    "update_time": "2024-10-09 03:38:22",
+    "change_number": "28918648",
+    "update_time": "2025-05-11 00:29:50",
     "depot": {
         "1575711": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5085968629988849331",
-                    "size": "476745204",
-                    "download": "318488016"
+                    "gid": "1221947857015861936",
+                    "size": "476745377",
+                    "download": "318490112"
                 }
             },
             "decryptionkey": "6236ad1ae64a65c355ba006c43cb1a993f3cbea04cfdaaed336ac4d7fc4abc01"
         },
         "branches": {
             "public": {
-                "buildid": "14058371",
-                "timeupdated": "1713196256"
+                "buildid": "18415221",
+                "timeupdated": "1746894582"
             }
         },
         "privatebranches": "1"
