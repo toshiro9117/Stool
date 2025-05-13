@@ -4,8 +4,8 @@
     "name": "Time Wasters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27964010",
-    "update_time": "2025-03-15 03:45:08",
+    "change_number": "28888384",
+    "update_time": "2025-05-09 02:41:45",
     "depot": {
         "1290331": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3286370551433820724",
-                    "size": "794779093",
-                    "download": "291200176"
+                    "gid": "1202332577044565713",
+                    "size": "796883485",
+                    "download": "291232960"
                 },
                 "testing": {
-                    "gid": "2560556508103297470",
-                    "size": "796877509",
-                    "download": "291212976"
+                    "gid": "1202332577044565713",
+                    "size": "796883485",
+                    "download": "291232960"
                 }
             },
             "decryptionkey": "7f29049cc019ba30f0214906e4233cfd836704b80970027985af3a3254234594"
@@ -29,13 +29,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "12620508",
-                "timeupdated": "1699121521"
+                "buildid": "18392463",
+                "timeupdated": "1746729701"
             },
             "testing": {
-                "buildid": "17730595",
+                "buildid": "18392463",
                 "description": "Testing Branch",
-                "timeupdated": "1741981503"
+                "timeupdated": "1746725845"
             }
         },
         "privatebranches": "1"
