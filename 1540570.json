@@ -4,8 +4,8 @@
     "name": "Fractal Block World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28448894",
-    "update_time": "2025-04-13 07:17:44",
+    "change_number": "28632692",
+    "update_time": "2025-04-24 07:30:38",
     "depot": {
         "baselanguages": "english",
         "1540571": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5098590846478824273",
-                    "size": "69878878",
-                    "download": "40929952"
+                    "gid": "1638974449453178646",
+                    "size": "69879498",
+                    "download": "40929664"
                 }
             },
             "decryptionkey": "cbea28ba0ec65bde697d2cb86d18bc5c1d7d8f7dcdd6faae9143044da078a771"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18086447",
-                "timeupdated": "1744499860"
+                "buildid": "18216058",
+                "timeupdated": "1745451032"
             }
         },
         "privatebranches": "1"
