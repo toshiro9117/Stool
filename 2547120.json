@@ -4,23 +4,23 @@
     "name": "修炼成仙",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27856467",
-    "update_time": "2025-03-09 13:09:10",
+    "change_number": "28688811",
+    "update_time": "2025-04-27 11:54:44",
     "depot": {
         "2547121": {
             "manifests": {
                 "public": {
-                    "gid": "4352239405554851446",
-                    "size": "111533744",
-                    "download": "65039840"
+                    "gid": "6000008638563740266",
+                    "size": "117051792",
+                    "download": "70540944"
                 }
             },
             "decryptionkey": "1994479c7a42749db12be52c283f7a165bbb01779c23de676ee4610bef858479"
         },
         "branches": {
             "public": {
-                "buildid": "17473509",
-                "timeupdated": "1740314835"
+                "buildid": "18165851",
+                "timeupdated": "1745051006"
             }
         }
     }
