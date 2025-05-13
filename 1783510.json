@@ -4,8 +4,8 @@
     "name": "Bobok",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27944204",
-    "update_time": "2025-03-14 06:23:26",
+    "change_number": "28642449",
+    "update_time": "2025-04-24 18:58:09",
     "depot": {
         "baselanguages": "english,russian",
         "1783512": {
@@ -25,6 +25,6 @@
                 "timeupdated": "1641573442"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "77a2ed0212eecafb410ca37ba2a452b2bb2a68e63530a3c13d8f299f74b9acba"
     }
 }
