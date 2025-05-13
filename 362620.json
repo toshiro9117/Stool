@@ -4,8 +4,8 @@
     "name": "Software Inc.",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27808034",
-    "update_time": "2025-03-06 13:02:25",
+    "change_number": "28701651",
+    "update_time": "2025-04-28 16:01:31",
     "depot": {
         "workshopdepot": "362620",
         "362621": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4097991742667953939",
-                    "size": "753487665",
-                    "download": "250235248"
+                    "gid": "6638471282147604061",
+                    "size": "756087145",
+                    "download": "251564032"
                 },
                 "unstable": {
-                    "gid": "4097991742667953939",
-                    "size": "753487665",
-                    "download": "250235248"
+                    "gid": "6638471282147604061",
+                    "size": "756087145",
+                    "download": "251564032"
                 },
                 "legacy": {
                     "gid": "1420181799895862161",
@@ -42,14 +42,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8582411332784953735",
-                    "size": "764559243",
-                    "download": "259445776"
+                    "gid": "3147657720318979934",
+                    "size": "767157619",
+                    "download": "260778240"
                 },
                 "unstable": {
-                    "gid": "8582411332784953735",
-                    "size": "764559243",
-                    "download": "259445776"
+                    "gid": "3147657720318979934",
+                    "size": "767157619",
+                    "download": "260778240"
                 },
                 "legacy": {
                     "gid": "8928404499534930457",
@@ -70,14 +70,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3086018437759804523",
-                    "size": "722858071",
-                    "download": "242660944"
+                    "gid": "5497269360784004370",
+                    "size": "725462415",
+                    "download": "243995568"
                 },
                 "unstable": {
-                    "gid": "3086018437759804523",
-                    "size": "722858071",
-                    "download": "242660944"
+                    "gid": "5497269360784004370",
+                    "size": "725462415",
+                    "download": "243995568"
                 },
                 "legacy": {
                     "gid": "5637553624589742372",
@@ -99,14 +99,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4538904346256357310",
-                    "size": "756441625",
-                    "download": "251742368"
+                    "gid": "2591590322597638709",
+                    "size": "759041105",
+                    "download": "253073760"
                 },
                 "unstable": {
-                    "gid": "4538904346256357310",
-                    "size": "756441625",
-                    "download": "251742368"
+                    "gid": "2591590322597638709",
+                    "size": "759041105",
+                    "download": "253073760"
                 },
                 "legacy": {
                     "gid": "6155350644152183620",
@@ -123,13 +123,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17145764",
-                "timeupdated": "1738061218"
+                "buildid": "18012201",
+                "timeupdated": "1744034222"
             },
             "unstable": {
-                "buildid": "17145764",
+                "buildid": "18012201",
                 "description": "Beta 1.8",
-                "timeupdated": "1737987759"
+                "timeupdated": "1744034206"
             },
             "legacy": {
                 "buildid": "6986292",
@@ -143,6 +143,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a711892f5aad78fdb03c23c24cf3d528e7a0010c1bb089d82cb9e32ae583d2f2"
     }
 }
