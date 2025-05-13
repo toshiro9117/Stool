@@ -4,33 +4,56 @@
     "name": "Crashlands 2",
     "schinese_name": "崩溃大陆 2",
     "isfreeapp": "0",
-    "change_number": "28538891",
-    "update_time": "2025-04-18 06:16:35",
+    "change_number": "28921263",
+    "update_time": "2025-05-11 07:10:04",
     "depot": {
+        "hasdepotsindlc": "1",
         "1401731": {
             "manifests": {
                 "public": {
-                    "gid": "8976375852684695342",
+                    "gid": "6529444029727075434",
+                    "size": "408331035",
+                    "download": "291349920"
+                },
+                "1.0.10-rc.3": {
+                    "gid": "3067508252457008679",
                     "size": "405815276",
-                    "download": "285610848"
+                    "download": "285584992"
                 },
                 "debug_logging": {
-                    "gid": "8976375852684695342",
-                    "size": "405815276",
-                    "download": "285610848"
+                    "gid": "78485699762226434",
+                    "size": "405827564",
+                    "download": "285594144"
                 }
             },
             "decryptionkey": "9feb5500bb35f27058f1c86e3a465a1f4904b2f5abe5ff891a9928cb702fea64"
         },
+        "3665381": {
+            "manifests": {
+                "public": {
+                    "gid": "4772012287943947955",
+                    "size": "118098748",
+                    "download": "112963280"
+                }
+            },
+            "dlcappid": "3665380",
+            "depotfromapp": "3665380",
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18133352",
-                "timeupdated": "1744901445"
+                "buildid": "18409653",
+                "timeupdated": "1746833461"
+            },
+            "1.0.10-rc.3": {
+                "buildid": "18243040",
+                "description": "Debugging branch",
+                "timeupdated": "1745607556"
             },
             "debug_logging": {
-                "buildid": "18133352",
+                "buildid": "18217541",
                 "description": "Can launch the game with debug logging",
-                "timeupdated": "1744905234"
+                "timeupdated": "1745525033"
             }
         },
         "privatebranches": "1"
