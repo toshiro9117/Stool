@@ -4,8 +4,8 @@
     "name": "DRONE PERSPECTIVE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28504934",
-    "update_time": "2025-04-16 17:40:51",
+    "change_number": "28920772",
+    "update_time": "2025-05-11 05:45:09",
     "depot": {
         "228989": {
             "config": {
@@ -28,29 +28,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6792070481629962611",
-                    "size": "5881430590",
-                    "download": "5641711952"
+                    "gid": "4209571798719801389",
+                    "size": "5882201077",
+                    "download": "5641582096"
                 },
                 "forward_shading": {
-                    "gid": "5375928382666297325",
-                    "size": "5819362533",
-                    "download": "5589010896"
-                },
-                "forwardshading": {
-                    "gid": "5375928382666297325",
-                    "size": "5819362533",
-                    "download": "5589010896"
+                    "gid": "7253174172057824522",
+                    "size": "5820161637",
+                    "download": "5589174496"
                 },
                 "non_rtx": {
-                    "gid": "42302078374434837",
-                    "size": "5836124120",
-                    "download": "5602267392"
+                    "gid": "476498483674673724",
+                    "size": "5836898703",
+                    "download": "5602101824"
                 },
                 "upcoming_features": {
-                    "gid": "5450494097235975894",
-                    "size": "5881487769",
-                    "download": "5641532304"
+                    "gid": "1360404783181311902",
+                    "size": "5902026909",
+                    "download": "5648296160"
                 }
             },
             "decryptionkey": "dba98ceae0220e43e02479a21fe2843be7d4adda5694f3bd8466c96a44b5851c"
@@ -58,28 +53,23 @@
         "workshopdepot": "2730700",
         "branches": {
             "public": {
-                "buildid": "17911519",
-                "timeupdated": "1743326658"
+                "buildid": "18224918",
+                "timeupdated": "1745529270"
             },
             "forward_shading": {
-                "buildid": "17911613",
+                "buildid": "18225300",
                 "description": "Performant mode using forward shading for computers with integrated GPU. Use this branch!",
-                "timeupdated": "1743326677"
-            },
-            "forwardshading": {
-                "buildid": "17911613",
-                "description": "Please use forward_shading branch, they are identical, this name looks ugly",
-                "timeupdated": "1743326669"
+                "timeupdated": "1745507662"
             },
             "non_rtx": {
-                "buildid": "17911709",
+                "buildid": "18225548",
                 "description": "Build with RTX explicitly turned off. Will not be using rtx features, regardless your graphics card. Good for 2060s",
-                "timeupdated": "1743326687"
+                "timeupdated": "1745507694"
             },
             "upcoming_features": {
-                "buildid": "18102134",
+                "buildid": "18281864",
                 "description": "This branch is to test upcoming features, before they are available for everyone",
-                "timeupdated": "1744649338"
+                "timeupdated": "1745938462"
             }
         },
         "privatebranches": "1",
