@@ -4,8 +4,8 @@
     "name": "iDigging",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28497754",
-    "update_time": "2025-04-16 08:08:17",
+    "change_number": "28914903",
+    "update_time": "2025-05-10 15:02:21",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3447691": {
             "manifests": {
                 "public": {
-                    "gid": "3988327556325569419",
-                    "size": "1530132367",
-                    "download": "1328906336"
+                    "gid": "7336819992070415534",
+                    "size": "1534857128",
+                    "download": "1333578352"
                 }
             },
             "decryptionkey": "1f84872c8b0009e840668c4bbb969a273f70e17064a6743b2370be6988d5520d"
         },
         "branches": {
             "public": {
-                "buildid": "17920744",
-                "timeupdated": "1743400743"
+                "buildid": "18385510",
+                "timeupdated": "1746690970"
             }
         },
         "privatebranches": "1"
