@@ -4,8 +4,8 @@
     "name": "No Rest for the Wicked",
     "schinese_name": "《恶意不息》",
     "isfreeapp": "0",
-    "change_number": "28549180",
-    "update_time": "2025-04-18 20:22:10",
+    "change_number": "28922581",
+    "update_time": "2025-05-11 11:41:35",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,14 @@
         "1371981": {
             "manifests": {
                 "public": {
-                    "gid": "7827876886364409416",
-                    "size": "30678628941",
-                    "download": "11020774256"
+                    "gid": "790046450637655121",
+                    "size": "45457066655",
+                    "download": "15651131296"
+                },
+                "crucible_legacy": {
+                    "gid": "6620547913613966320",
+                    "size": "30678630625",
+                    "download": "11020807232"
                 }
             },
             "decryptionkey": "9598cfe06b948f9eca5cbd915b40bec41730f61f6349bbd41d5ee6e86c47a3f6"
@@ -27,6 +32,11 @@
         "1371982": {
             "manifests": {
                 "public": {
+                    "gid": "1676165329502246860",
+                    "size": "567999570",
+                    "download": "354699040"
+                },
+                "crucible_legacy": {
                     "gid": "8070228660872352263",
                     "size": "263983",
                     "download": "115152"
@@ -41,6 +51,11 @@
                     "gid": "269809134955605024",
                     "size": "0",
                     "download": "0"
+                },
+                "crucible_legacy": {
+                    "gid": "269809134955605024",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "decryptionkey": ""
@@ -48,8 +63,13 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17579569",
-                "timeupdated": "1741034572"
+                "buildid": "18381091",
+                "timeupdated": "1746658295"
+            },
+            "crucible_legacy": {
+                "buildid": "17855848",
+                "description": "Crucible legacy build",
+                "timeupdated": "1745912588"
             }
         },
         "privatebranches": "1"
