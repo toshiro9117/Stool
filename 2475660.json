@@ -4,8 +4,8 @@
     "name": "Cozy Keep Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28501968",
-    "update_time": "2025-04-16 14:35:29",
+    "change_number": "28665748",
+    "update_time": "2025-04-25 21:02:27",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -32,17 +32,17 @@
         "2475661": {
             "manifests": {
                 "public": {
-                    "gid": "5731972409680292779",
-                    "size": "2759511149",
-                    "download": "2553322304"
+                    "gid": "4544374537449610092",
+                    "size": "2759507061",
+                    "download": "2553345936"
                 }
             },
             "decryptionkey": "824d34a31ccf83d65c7ecba337b0741bec4d41d4c0db9442edfb8d5de438ac3e"
         },
         "branches": {
             "public": {
-                "buildid": "18160865",
-                "timeupdated": "1745001410"
+                "buildid": "18237778",
+                "timeupdated": "1745583629"
             }
         }
     }
