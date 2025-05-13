@@ -4,8 +4,8 @@
     "name": "MosGhost",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28529353",
-    "update_time": "2025-04-17 21:02:13",
+    "change_number": "28848486",
+    "update_time": "2025-05-07 03:33:14",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,17 @@
         "3265371": {
             "manifests": {
                 "public": {
-                    "gid": "7137708379694716387",
-                    "size": "3359147717",
-                    "download": "3141835648"
+                    "gid": "439221811479676789",
+                    "size": "2847955589",
+                    "download": "2641525904"
                 }
             },
             "decryptionkey": "8b5615ef8d5cc0dc8ba2acaf76cdc93fed19d530816f541e7493412f8cb62b81"
         },
         "branches": {
             "public": {
-                "buildid": "17986152",
-                "timeupdated": "1743776265"
+                "buildid": "18363226",
+                "timeupdated": "1746554705"
             }
         }
     }
