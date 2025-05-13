@@ -4,8 +4,8 @@
     "name": "Leisure Suit Larry 7 - Love for Sail",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27169268",
-    "update_time": "2025-01-26 13:27:20",
+    "change_number": "28803640",
+    "update_time": "2025-05-04 04:23:21",
     "depot": {
         "765891": {
             "manifests": {
@@ -16,6 +16,11 @@
                 }
             },
             "decryptionkey": "6978f219eb91690c8660237a74d7251ae7faecf970424a709025ec6550a62768"
+        },
+        "765892": {
+            "config": {
+                "language": "spanish"
+            }
         },
         "branches": {
             "public": {
