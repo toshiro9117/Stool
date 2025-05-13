@@ -4,8 +4,8 @@
     "name": "Age of Empires IV: Anniversary Edition",
     "schinese_name": "帝国时代4：周年纪念版",
     "isfreeapp": "0",
-    "change_number": "28516430",
-    "update_time": "2025-04-17 04:55:58",
+    "change_number": "28795128",
+    "update_time": "2025-05-03 09:08:25",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam,vietnamese",
         "228988": {
@@ -18,14 +18,14 @@
         "1466861": {
             "manifests": {
                 "public": {
+                    "gid": "3660895483654482496",
+                    "size": "35685866540",
+                    "download": "29221965152"
+                },
+                "previous_live": {
                     "gid": "9158832167332615081",
                     "size": "35676106127",
                     "download": "29207529840"
-                },
-                "previous_live": {
-                    "gid": "8628314603122737639",
-                    "size": "35675998778",
-                    "download": "29214882576"
                 }
             },
             "decryptionkey": "3e9a11fa63f3e2e44b67e70f2333c54bb22330f4af7030669958a23b66e5569f"
@@ -982,13 +982,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18020705",
-                "timeupdated": "1744229127"
+                "buildid": "18134679",
+                "timeupdated": "1745341980"
             },
             "previous_live": {
-                "buildid": "17872561",
+                "buildid": "18020705",
                 "description": "Archive of previous live build",
-                "timeupdated": "1744228625"
+                "timeupdated": "1745340926"
             }
         },
         "privatebranches": "1",
