@@ -4,8 +4,8 @@
     "name": "Squad Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27901665",
-    "update_time": "2025-03-12 09:02:37",
+    "change_number": "28736683",
+    "update_time": "2025-04-30 06:03:01",
     "depot": {
         "1004": {
             "config": {
@@ -114,6 +114,11 @@
             "dlcappid": "1123920",
             "manifests": {
                 "public": {
+                    "gid": "8509449628493661206",
+                    "size": "15654",
+                    "download": "15264"
+                },
+                "squad_experimental": {
                     "gid": "8509449628493661206",
                     "size": "15654",
                     "download": "15264"
