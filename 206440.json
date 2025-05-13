@@ -4,8 +4,8 @@
     "name": "To the Moon",
     "schinese_name": "To the Moon《去月球》",
     "isfreeapp": "0",
-    "change_number": "28520076",
-    "update_time": "2025-04-17 10:08:55",
+    "change_number": "28852462",
+    "update_time": "2025-05-07 09:22:28",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -1242,6 +1242,7 @@
             "config": {
                 "oslist": "windows"
             },
+            "dlcappid": "338250",
             "manifests": {
                 "public": {
                     "gid": "8942241618904751444",
@@ -1265,6 +1266,7 @@
             "config": {
                 "oslist": "windows"
             },
+            "dlcappid": "339550",
             "manifests": {
                 "public": {
                     "gid": "2258284626764654415",
