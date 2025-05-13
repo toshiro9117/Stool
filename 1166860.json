@@ -4,8 +4,8 @@
     "name": "Rival Stars Horse Racing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28496253",
-    "update_time": "2025-04-16 05:55:49",
+    "change_number": "28751839",
+    "update_time": "2025-04-30 22:57:26",
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7949479079215709821",
-                    "size": "4234441113",
-                    "download": "2540634640"
+                    "gid": "7057480570483825638",
+                    "size": "4598450729",
+                    "download": "2753792272"
                 },
                 "local": {
                     "gid": "5568375545895013952",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "604179018081782584",
-                    "size": "4481393040",
-                    "download": "2583047120"
+                    "gid": "5522087834508172931",
+                    "size": "4855493078",
+                    "download": "2800221616"
                 },
                 "local": {
                     "gid": "7676226893386532025",
@@ -58,8 +58,8 @@
         "workshopdepot": "1166860",
         "branches": {
             "public": {
-                "buildid": "17108962",
-                "timeupdated": "1739220779"
+                "buildid": "18209718",
+                "timeupdated": "1745956722"
             },
             "local": {
                 "buildid": "6890468",
