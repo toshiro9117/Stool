@@ -4,8 +4,8 @@
     "name": "Sklime",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28494838",
-    "update_time": "2025-04-16 04:12:35",
+    "change_number": "28848052",
+    "update_time": "2025-05-07 03:05:25",
     "depot": {
         "1380972": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "104514864"
                 },
                 "beta": {
-                    "gid": "242933598265373831",
-                    "size": "398784085",
-                    "download": "104534432"
+                    "gid": "313022109384537494",
+                    "size": "425734522",
+                    "download": "111581616"
                 }
             },
             "decryptionkey": "e2838fcb0e86b775aebc7f00dff9969e8b90c47851fad19972d497e7a7e34a62"
@@ -37,9 +37,9 @@
                     "download": "108285488"
                 },
                 "beta": {
-                    "gid": "814050347228828138",
-                    "size": "447309938",
-                    "download": "108285488"
+                    "gid": "6096489045275210304",
+                    "size": "474592672",
+                    "download": "115353360"
                 }
             }
         },
@@ -54,9 +54,9 @@
                     "download": "102707952"
                 },
                 "beta": {
-                    "gid": "912313019982965446",
-                    "size": "373125850",
-                    "download": "102707952"
+                    "gid": "4184116744516436473",
+                    "size": "399638730",
+                    "download": "109649168"
                 }
             }
         },
@@ -66,9 +66,9 @@
                 "timeupdated": "1742950941"
             },
             "beta": {
-                "buildid": "17904934",
+                "buildid": "18273290",
                 "description": "beta branch",
-                "timeupdated": "1743202159"
+                "timeupdated": "1745891291"
             }
         },
         "privatebranches": "1"
