@@ -4,8 +4,8 @@
     "name": "Sins of a Solar Empire II",
     "schinese_name": "太阳帝国的原罪2",
     "isfreeapp": "0",
-    "change_number": "28528990",
-    "update_time": "2025-04-17 20:42:06",
+    "change_number": "28909089",
+    "update_time": "2025-05-10 04:04:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,brazilian,indonesian",
         "228989": {
@@ -25,9 +25,9 @@
         "1575941": {
             "manifests": {
                 "public": {
-                    "gid": "2081372484367162700",
-                    "size": "16991562188",
-                    "download": "8450526224"
+                    "gid": "396748795968599802",
+                    "size": "16991663891",
+                    "download": "8450531440"
                 },
                 "previous_version": {
                     "gid": "1493648105023103445",
@@ -35,9 +35,9 @@
                     "download": "8216764656"
                 },
                 "test_edition": {
-                    "gid": "2081372484367162700",
-                    "size": "16991562188",
-                    "download": "8450526224"
+                    "gid": "396748795968599802",
+                    "size": "16991663891",
+                    "download": "8450531440"
                 }
             },
             "decryptionkey": "4e2e571147e77d0cadda071bc6cb8aea54d2c0e2c076b1dbf4d5fea94482ff09"
@@ -87,8 +87,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18129034",
-                "timeupdated": "1744812015"
+                "buildid": "18242598",
+                "timeupdated": "1746121729"
             },
             "previous_version": {
                 "buildid": "17867266",
@@ -96,9 +96,9 @@
                 "timeupdated": "1744811978"
             },
             "test_edition": {
-                "buildid": "18129034",
+                "buildid": "18242598",
                 "description": "Try out new versions early",
-                "timeupdated": "1744808975"
+                "timeupdated": "1745605733"
             }
         },
         "privatebranches": "1"
