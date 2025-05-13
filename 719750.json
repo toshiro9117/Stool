@@ -4,8 +4,8 @@
     "name": "PUSS!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28207569",
-    "update_time": "2025-03-30 00:14:43",
+    "change_number": "28909190",
+    "update_time": "2025-05-10 04:12:28",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,russian,japanese,portuguese,polish,dutch,brazilian,ukrainian",
         "hasdepotsindlc": "1",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "602778791053592119",
-                    "size": "666850523",
-                    "download": "357621936"
+                    "gid": "9043713064565830441",
+                    "size": "972884884",
+                    "download": "461200064"
                 }
             },
             "decryptionkey": "b6b196600f6ab32beea140248fe3b5ea19bab6802fd115b894352e2696b4347c"
@@ -85,8 +85,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17029130",
-                "timeupdated": "1737056662"
+                "buildid": "18408306",
+                "timeupdated": "1746821539"
             }
         },
         "privatebranches": "1"
