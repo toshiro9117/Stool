@@ -4,8 +4,8 @@
     "name": "VR Waifu - MuChan",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28152077",
-    "update_time": "2025-03-26 23:16:39",
+    "change_number": "28876161",
+    "update_time": "2025-05-08 14:32:50",
     "depot": {
         "baselanguages": "english",
         "2684261": {
@@ -50,10 +50,24 @@
             },
             "decryptionkey": "df47ed1474f4e479d8cf4d3cb2cf71034e24fefa411c85c3a433a515921289cd"
         },
+        "2684264": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2674742702544828298",
+                    "size": "1175706693",
+                    "download": "438977296"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "13204356",
-                "timeupdated": "1705563793"
+                "buildid": "18317352",
+                "timeupdated": "1746170224"
             }
         },
         "privatebranches": "1"
