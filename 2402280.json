@@ -1,0 +1,55 @@
+{
+    "appid": "2402280",
+    "type": "Game",
+    "name": "Werewolf: The Apocalypse — The Book of Hungry Names",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28886167",
+    "update_time": "2025-05-09 00:30:51",
+    "depot": {
+        "2402281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8917350356457496872",
+                    "size": "279057384",
+                    "download": "100736896"
+                }
+            },
+            "decryptionkey": "b90f12907cbc9568250aeb7ed1edc521a45ae3b33b6899dbc1a1fb928057e1d5"
+        },
+        "2402282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8611467907461034735",
+                    "size": "53213892",
+                    "download": "27916960"
+                }
+            }
+        },
+        "2402283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4929697997148965595",
+                    "size": "281606385",
+                    "download": "95323744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18391541",
+                "timeupdated": "1746721820"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
