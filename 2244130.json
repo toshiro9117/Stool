@@ -4,8 +4,8 @@
     "name": "Ratopia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547493",
-    "update_time": "2025-04-18 18:20:44",
+    "change_number": "28915664",
+    "update_time": "2025-05-10 16:49:48",
     "depot": {
         "2244131": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1381413428042380692",
-                    "size": "2097493080",
-                    "download": "527105232"
+                    "gid": "4984350489509365893",
+                    "size": "2251522762",
+                    "download": "501006432"
                 }
             },
             "decryptionkey": "7340a83f2505a34c0c785f3f3987f8ce558a86a11e0d806d8d8cd6d7a2f742ec"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4640591049379148633",
-                    "size": "2122359039",
-                    "download": "534927120"
+                    "gid": "6488397320879594213",
+                    "size": "2276389166",
+                    "download": "508810976"
                 }
             },
             "decryptionkey": "11a26a5128464419ef11896c4f6511ff277d2e52117a967f17d324a8de391980"
@@ -39,8 +39,8 @@
         "workshopdepot": "2244130",
         "branches": {
             "public": {
-                "buildid": "17417012",
-                "timeupdated": "1739937348"
+                "buildid": "18413184",
+                "timeupdated": "1746866985"
             }
         },
         "privatebranches": "1",
