@@ -4,8 +4,8 @@
     "name": "Teardown: Quilez R0113R Robot",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528245",
-    "update_time": "2025-04-17 19:59:41",
+    "change_number": "28839433",
+    "update_time": "2025-05-06 18:38:52",
     "depot": {
         "2657080": {
             "dlcappid": "2657080",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16036295",
-                "timeupdated": "1728980468"
+                "buildid": "18116349",
+                "timeupdated": "1745998748"
             },
             "experimental": {
                 "buildid": "13633724",
