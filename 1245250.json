@@ -4,15 +4,15 @@
     "name": "Thrive: Heavy Lies The Crown",
     "schinese_name": "盛世繁荣：皇冠之重",
     "isfreeapp": "0",
-    "change_number": "28476265",
-    "update_time": "2025-04-15 07:20:58",
+    "change_number": "28810817",
+    "update_time": "2025-05-04 23:28:39",
     "depot": {
         "1245251": {
             "manifests": {
                 "public": {
-                    "gid": "5293958738792225053",
-                    "size": "6224877443",
-                    "download": "3204458048"
+                    "gid": "5020585593688410674",
+                    "size": "6245454594",
+                    "download": "3211992528"
                 },
                 "local": {
                     "gid": "5806562016910436320",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17684335",
-                "timeupdated": "1741909386"
+                "buildid": "18199599",
+                "timeupdated": "1746057706"
             },
             "local": {
                 "buildid": "12825745",
