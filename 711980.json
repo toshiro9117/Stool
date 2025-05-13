@@ -4,8 +4,8 @@
     "name": "Starship EVO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28358964",
-    "update_time": "2025-04-08 13:16:39",
+    "change_number": "28855670",
+    "update_time": "2025-05-07 14:34:06",
     "depot": {
         "711981": {
             "config": {
@@ -27,6 +27,11 @@
                     "gid": "9159803516787969003",
                     "size": "1337366600",
                     "download": "382541120"
+                },
+                "factions": {
+                    "gid": "3807831528487939753",
+                    "size": "1428023554",
+                    "download": "414282240"
                 }
             },
             "decryptionkey": "7ec0a6f521b3284e171f338e02dee5ce3da8d1c4db13fe4b00e381ff90deb9ba"
@@ -45,6 +50,11 @@
             "experimental": {
                 "buildid": "18006481",
                 "timeupdated": "1743997484"
+            },
+            "factions": {
+                "buildid": "18369742",
+                "description": "faction preview",
+                "timeupdated": "1746599641"
             }
         },
         "workshopdepotdecryptionkey": "335a0fbe24f40d085b0804b7f411bce55b350e8b1b328c5a2300f9b13ff07868"
