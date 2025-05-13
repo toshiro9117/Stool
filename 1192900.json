@@ -4,8 +4,8 @@
     "name": "Iron Rebellion",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28437860",
-    "update_time": "2025-04-12 05:34:15",
+    "change_number": "28910079",
+    "update_time": "2025-05-10 05:21:10",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -20,9 +20,9 @@
                     "download": "4164077744"
                 },
                 "beta_branch": {
-                    "gid": "5880845363227534384",
-                    "size": "10577890828",
-                    "download": "4451832656"
+                    "gid": "7928266717824057331",
+                    "size": "10584145116",
+                    "download": "4462881360"
                 }
             },
             "decryptionkey": "fb618fb08fc5b7a271ef9017703b9366009522ea6df61715a625b474de1686ea"
@@ -33,9 +33,9 @@
                 "timeupdated": "1740174899"
             },
             "beta_branch": {
-                "buildid": "18161576",
+                "buildid": "18408944",
                 "description": "New features tests",
-                "timeupdated": "1745006339"
+                "timeupdated": "1746825667"
             }
         },
         "privatebranches": "1"
