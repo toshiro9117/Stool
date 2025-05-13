@@ -4,8 +4,8 @@
     "name": "The Emperor and State - Supporter Pack",
     "schinese_name": "皇帝与社稷 - 支持者包",
     "isfreeapp": "0",
-    "change_number": "28009949",
-    "update_time": "2025-03-18 17:13:49",
+    "change_number": "28881611",
+    "update_time": "2025-05-08 20:26:55",
     "depot": {
         "3060961": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5365685715024157777",
-                    "size": "1488468492",
-                    "download": "460231152"
+                    "gid": "1396591345213152518",
+                    "size": "1481464976",
+                    "download": "474467968"
                 }
             },
             "dlcappid": "3060960",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17763012",
-                "timeupdated": "1742289223"
+                "buildid": "18388678",
+                "timeupdated": "1746707211"
             }
         },
         "privatebranches": "1"
