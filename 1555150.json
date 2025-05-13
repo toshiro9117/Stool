@@ -4,8 +4,8 @@
     "name": "Pocket Bravery",
     "schinese_name": "口袋勇士",
     "isfreeapp": "0",
-    "change_number": "28542125",
-    "update_time": "2025-04-18 11:16:57",
+    "change_number": "28757134",
+    "update_time": "2025-05-01 03:39:14",
     "depot": {
         "1555151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "473360654460741461",
-                    "size": "25638985340",
-                    "download": "5645099280"
+                    "gid": "8134578753628333818",
+                    "size": "25638933896",
+                    "download": "5716134464"
                 }
             },
             "decryptionkey": "37d31394e432fa3ada0d373f6c218f586289479813fae0a0c5f0ba477a899496"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1278509035041616956",
-                    "size": "12487025471",
-                    "download": "5208413408"
+                    "gid": "4605808151858797749",
+                    "size": "12486957791",
+                    "download": "5208402544"
                 }
             }
         },
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2266251487749708165",
-                    "size": "12502154196",
-                    "download": "5199322240"
+                    "gid": "1372539751266093926",
+                    "size": "12502087028",
+                    "download": "5199308400"
                 }
             }
         },
@@ -80,8 +80,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18056513",
-                "timeupdated": "1744297290"
+                "buildid": "18300930",
+                "timeupdated": "1746041936"
             }
         },
         "privatebranches": "1"
