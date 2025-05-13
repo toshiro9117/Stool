@@ -4,23 +4,23 @@
     "name": "Mika and The Witch's Mountain",
     "schinese_name": "米卡与魔女之山",
     "isfreeapp": "0",
-    "change_number": "28331595",
-    "update_time": "2025-04-06 19:16:33",
+    "change_number": "28897779",
+    "update_time": "2025-05-09 16:36:09",
     "depot": {
         "1819461": {
             "manifests": {
                 "public": {
-                    "gid": "4580632561256187603",
-                    "size": "2949537087",
-                    "download": "1430185792"
+                    "gid": "7965591978529945085",
+                    "size": "2949254881",
+                    "download": "1430074720"
                 }
             },
             "decryptionkey": "9a49390f0d51e7adc680b6ad02d11982f4cef3eea7617f744eb842ccfbed979d"
         },
         "branches": {
             "public": {
-                "buildid": "17865350",
-                "timeupdated": "1742999052"
+                "buildid": "18399950",
+                "timeupdated": "1746779765"
             }
         },
         "privatebranches": "1"
