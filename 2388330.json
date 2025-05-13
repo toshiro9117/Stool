@@ -4,8 +4,8 @@
     "name": "RetroArch - VirtualXT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545178",
-    "update_time": "2025-04-18 15:54:54",
+    "change_number": "28915118",
+    "update_time": "2025-05-10 15:34:45",
     "depot": {
         "2388330": {
             "config": {
@@ -14,12 +14,12 @@
             "dlcappid": "2388330",
             "manifests": {
                 "public": {
-                    "gid": "524343485868664949",
-                    "size": "483690",
-                    "download": "210864"
+                    "gid": "2797756108840242661",
+                    "size": "483693",
+                    "download": "210704"
                 },
                 "nightly": {
-                    "gid": "7735162716742024208",
+                    "gid": "6424145030996376664",
                     "size": "483693",
                     "download": "210704"
                 }
@@ -32,8 +32,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7891060122812939110",
-                    "size": "474818",
+                    "gid": "3420232124036987093",
+                    "size": "474821",
                     "download": "192320"
                 },
                 "nightly": {
@@ -51,8 +51,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8986930167842329616",
-                    "size": "990514",
+                    "gid": "9205176255989120221",
+                    "size": "990517",
                     "download": "271264"
                 },
                 "nightly": {
@@ -65,13 +65,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16911315",
-                "timeupdated": "1736093730"
+                "buildid": "18265072",
+                "timeupdated": "1745844998"
             },
             "nightly": {
-                "buildid": "18155020",
+                "buildid": "18412792",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1744962887"
+                "timeupdated": "1746862481"
             }
         },
         "privatebranches": "1"
