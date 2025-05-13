@@ -4,8 +4,8 @@
     "name": "SysAdmin Odyssey. Back to the office Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28515133",
-    "update_time": "2025-04-17 03:22:56",
+    "change_number": "28730776",
+    "update_time": "2025-04-29 23:40:53",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -35,9 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6362699024732544601",
-                    "size": "2926432998",
-                    "download": "546296400"
+                    "gid": "2089060203254969658",
+                    "size": "2928420113",
+                    "download": "546410800"
+                },
+                "0.15": {
+                    "gid": "2089060203254969658",
+                    "size": "2928420113",
+                    "download": "546410800"
                 }
             },
             "decryptionkey": "7e57387aed03ff44945d75ef33d3c6e272fdbe0976d7d317ffd23fe5cab47389"
@@ -48,9 +53,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5802605149643146878",
-                    "size": "2946339349",
-                    "download": "555304720"
+                    "gid": "8621317027339404719",
+                    "size": "2948242904",
+                    "download": "555389600"
+                },
+                "0.15": {
+                    "gid": "8621317027339404719",
+                    "size": "2948242904",
+                    "download": "555389600"
                 }
             }
         },
@@ -60,17 +70,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "415199879015621796",
-                    "size": "2954952390",
-                    "download": "566339648"
+                    "gid": "3622428059404803104",
+                    "size": "2956585943",
+                    "download": "566237824"
+                },
+                "0.15": {
+                    "gid": "3622428059404803104",
+                    "size": "2956585943",
+                    "download": "566237824"
                 }
             }
         },
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18162842",
-                "timeupdated": "1745016635"
+                "buildid": "18281741",
+                "timeupdated": "1745941250"
+            },
+            "0.15": {
+                "buildid": "18281741",
+                "description": "build 0.15",
+                "timeupdated": "1745937850"
             }
         },
         "privatebranches": "1"
