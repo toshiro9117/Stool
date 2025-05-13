@@ -4,8 +4,8 @@
     "name": "Ocean Keeper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549625",
-    "update_time": "2025-04-18 20:58:39",
+    "change_number": "28886168",
+    "update_time": "2025-05-09 00:30:45",
     "depot": {
         "baselanguages": "english",
         "228988": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6580676442148882655",
-                    "size": "896015770",
-                    "download": "670381840"
+                    "gid": "4286847499006642752",
+                    "size": "2075650646",
+                    "download": "1581702768"
                 }
             },
             "decryptionkey": "4bcf999a98e53405183975f2f098156b1f7e52f228fb9690e7a6695217b5bac4"
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7806567031359469307",
-                    "size": "921639120",
-                    "download": "691897232"
+                    "gid": "7271663202052953238",
+                    "size": "921682783",
+                    "download": "691935200"
                 }
             }
         },
@@ -66,10 +66,24 @@
                 }
             }
         },
+        "2845634": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2339837704546264417",
+                    "size": "2075650646",
+                    "download": "1581719568"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16722749",
-                "timeupdated": "1734019743"
+                "buildid": "18363265",
+                "timeupdated": "1746554825"
             }
         },
         "privatebranches": "1"
