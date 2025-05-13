@@ -4,15 +4,15 @@
     "name": "CarX Street",
     "schinese_name": "街头赛车",
     "isfreeapp": "0",
-    "change_number": "28509417",
-    "update_time": "2025-04-16 21:56:54",
+    "change_number": "28836362",
+    "update_time": "2025-05-06 15:32:51",
     "depot": {
         "1114151": {
             "manifests": {
                 "public": {
-                    "gid": "875634986899966061",
-                    "size": "18655010817",
-                    "download": "16101975296"
+                    "gid": "757823421210380950",
+                    "size": "18309781466",
+                    "download": "15789205856"
                 },
                 "public_test": {
                     "gid": "8734543339205659213",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18117775",
-                "timeupdated": "1744743354"
+                "buildid": "18292664",
+                "timeupdated": "1746010823"
             },
             "public_test": {
                 "buildid": "18074845",
