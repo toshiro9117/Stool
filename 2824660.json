@@ -4,8 +4,8 @@
     "name": "Old School Rally",
     "schinese_name": "旧日飞车",
     "isfreeapp": "0",
-    "change_number": "28506163",
-    "update_time": "2025-04-16 18:43:49",
+    "change_number": "28898664",
+    "update_time": "2025-05-09 17:29:33",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "2824661": {
             "manifests": {
                 "public": {
-                    "gid": "2863671636106140215",
-                    "size": "818790978",
-                    "download": "397855200"
+                    "gid": "979258300398909058",
+                    "size": "939482595",
+                    "download": "347938848"
                 }
             },
             "decryptionkey": "60f3ee3e365512571665fdfec50bd3b1c8f2d4e4fb747a610b4a9b6e83aea870"
@@ -27,8 +27,8 @@
         "workshopdepot": "2824660",
         "branches": {
             "public": {
-                "buildid": "17161216",
-                "timeupdated": "1738093249"
+                "buildid": "18241191",
+                "timeupdated": "1745986598"
             }
         },
         "privatebranches": "1",
