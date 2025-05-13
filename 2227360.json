@@ -4,8 +4,8 @@
     "name": "Plains of Pain (Dedicated Server)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28447510",
-    "update_time": "2025-04-13 03:31:04",
+    "change_number": "28918769",
+    "update_time": "2025-05-11 00:52:15",
     "depot": {
         "1004": {
             "config": {
@@ -63,16 +63,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2670311480874287994",
-                    "size": "530239999",
-                    "download": "200157328"
+                    "gid": "5183639391910707336",
+                    "size": "517842529",
+                    "download": "210821104"
                 },
-                "devtest": {
-                    "gid": "5405020597321764820",
-                    "size": "516461894",
-                    "download": "210155776"
+                "experimental": {
+                    "gid": "5183639391910707336",
+                    "size": "517842529",
+                    "download": "210821104"
                 },
-                "test": {
+                "legacy_v05": {
                     "gid": "2670311480874287994",
                     "size": "530239999",
                     "download": "200157328"
@@ -86,16 +86,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4914551524838793718",
-                    "size": "470587037",
-                    "download": "180787152"
+                    "gid": "3846044601033901720",
+                    "size": "450178738",
+                    "download": "186122704"
                 },
-                "devtest": {
-                    "gid": "4914551524838793718",
-                    "size": "470587037",
-                    "download": "180787152"
+                "experimental": {
+                    "gid": "3846044601033901720",
+                    "size": "450178738",
+                    "download": "186122704"
                 },
-                "test": {
+                "legacy_v05": {
                     "gid": "4914551524838793718",
                     "size": "470587037",
                     "download": "180787152"
@@ -105,18 +105,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "16964335",
-                "timeupdated": "1736512330"
+                "buildid": "18408655",
+                "timeupdated": "1746895930"
             },
-            "devtest": {
-                "buildid": "18083272",
-                "description": "Devtest",
-                "timeupdated": "1744486260"
+            "experimental": {
+                "buildid": "18408655",
+                "description": "Next patch",
+                "timeupdated": "1746823649"
             },
-            "test": {
+            "legacy_v05": {
                 "buildid": "16964335",
-                "description": "Test",
-                "timeupdated": "1736512292"
+                "description": "Plains of Pain v0.5",
+                "timeupdated": "1746698599"
             }
         }
     }
