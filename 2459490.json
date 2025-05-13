@@ -1,0 +1,71 @@
+{
+    "appid": "2459490",
+    "type": "Game",
+    "name": "This Grand Life 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28836920",
+    "update_time": "2025-05-06 16:06:38",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2459491": {
+            "manifests": {
+                "public": {
+                    "gid": "3833383929491920414",
+                    "size": "941951277",
+                    "download": "906738112"
+                },
+                "experimental": {
+                    "gid": "3833383929491920414",
+                    "size": "941951277",
+                    "download": "906738112"
+                },
+                "v0.59.09": {
+                    "gid": "5574560775322840453",
+                    "size": "905731429",
+                    "download": "878128384"
+                }
+            },
+            "decryptionkey": "faf54e9dca0c2db8a411e3c093b1996b91b3b52d534f40ceb705e1596765e3ab"
+        },
+        "workshopdepot": "2459490",
+        "branches": {
+            "public": {
+                "buildid": "18356402",
+                "timeupdated": "1746518792"
+            },
+            "experimental": {
+                "buildid": "18356402",
+                "description": "For early release of major updates",
+                "timeupdated": "1746518766"
+            },
+            "v0.59.09": {
+                "buildid": "16763996",
+                "description": "v0.59.09",
+                "timeupdated": "1736100293"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
