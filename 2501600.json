@@ -4,8 +4,8 @@
     "name": "DICEOMANCER",
     "schinese_name": "骰子浪游者",
     "isfreeapp": "0",
-    "change_number": "28526359",
-    "update_time": "2025-04-17 18:02:56",
+    "change_number": "28739556",
+    "update_time": "2025-04-30 10:16:25",
     "depot": {
         "baselanguages": "english,schinese",
         "2501602": {
@@ -19,9 +19,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3221090569981041069",
-                    "size": "4830068354",
-                    "download": "463516992"
+                    "gid": "8264076963599286862",
+                    "size": "4845399090",
+                    "download": "462388016"
                 },
                 "optimize": {
                     "gid": "2785216145134446345",
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18140435",
-                "timeupdated": "1744884169"
+                "buildid": "18232428",
+                "timeupdated": "1745550509"
             },
             "optimize": {
                 "buildid": "16063525",
