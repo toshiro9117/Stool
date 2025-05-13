@@ -4,8 +4,8 @@
     "name": "RuneScape: Dragonwilds",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28542608",
-    "update_time": "2025-04-18 12:03:59",
+    "change_number": "28908689",
+    "update_time": "2025-05-10 03:37:57",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish",
         "228989": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3459719057240987288",
-                    "size": "20463169990",
-                    "download": "9160968912"
+                    "gid": "7050102872293064479",
+                    "size": "20680281836",
+                    "download": "9251716640"
                 }
             },
             "decryptionkey": "e1a3b5ad6a0fbda32b1fceadce8be5fe365e6c98dcc654bfdef62b6aa01f48d5"
         },
         "branches": {
             "public": {
-                "buildid": "18148585",
-                "timeupdated": "1744918790"
+                "buildid": "18310137",
+                "timeupdated": "1746192286"
             }
         },
         "privatebranches": "1"
