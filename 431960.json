@@ -4,8 +4,8 @@
     "name": "Wallpaper Engine",
     "schinese_name": "Wallpaper Engine：壁纸引擎",
     "isfreeapp": "0",
-    "change_number": "28495509",
-    "update_time": "2025-04-16 05:02:43",
+    "change_number": "28890501",
+    "update_time": "2025-05-09 05:18:28",
     "depot": {
         "workshopdepot": "431960",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
@@ -18,9 +18,9 @@
                     "download": "271191248"
                 },
                 "beta": {
-                    "gid": "7611042905975565140",
-                    "size": "628958639",
-                    "download": "271496352"
+                    "gid": "112974375667714195",
+                    "size": "655323947",
+                    "download": "294043504"
                 },
                 "previous": {
                     "gid": "5465725012314299548",
@@ -46,9 +46,9 @@
                     "download": "1417712"
                 },
                 "beta": {
-                    "gid": "1754970719069376982",
-                    "size": "7180442",
-                    "download": "1420064"
+                    "gid": "938426007155290774",
+                    "size": "7184629",
+                    "download": "1420576"
                 },
                 "previous": {
                     "gid": "1677112453947627885",
@@ -69,9 +69,9 @@
                 "timeupdated": "1739980819"
             },
             "beta": {
-                "buildid": "18119402",
+                "buildid": "18394655",
                 "description": "public beta testing, preview for next update",
-                "timeupdated": "1744750957"
+                "timeupdated": "1746739103"
             },
             "previous": {
                 "buildid": "14603215",
