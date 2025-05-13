@@ -4,24 +4,24 @@
     "name": "AtmaSphere",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549642",
-    "update_time": "2025-04-18 21:00:11",
+    "change_number": "28821859",
+    "update_time": "2025-05-05 20:29:12",
     "depot": {
         "baselanguages": "english",
         "753661": {
             "manifests": {
                 "public": {
-                    "gid": "6138965849146766481",
-                    "size": "1517364506",
-                    "download": "615037168"
+                    "gid": "5618981567580277501",
+                    "size": "1517365018",
+                    "download": "615037344"
                 }
             },
             "decryptionkey": "371dbb7981fdf8a538232857630a24b482c5d4651588b7b1d363264253a5955a"
         },
         "branches": {
             "public": {
-                "buildid": "18160364",
-                "timeupdated": "1744997753"
+                "buildid": "18224234",
+                "timeupdated": "1745500477"
             }
         },
         "privatebranches": "1"
