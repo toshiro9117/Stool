@@ -4,8 +4,8 @@
     "name": "Days Gone",
     "schinese_name": "往日不再",
     "isfreeapp": "0",
-    "change_number": "28543578",
-    "update_time": "2025-04-18 13:46:09",
+    "change_number": "28911240",
+    "update_time": "2025-05-10 07:02:18",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,arabic,brazilian,greek,latam",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "793700435581444608",
-                    "size": "52143390009",
-                    "download": "46646470512"
+                    "gid": "3724277051785280814",
+                    "size": "50756952621",
+                    "download": "44864170640"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2120063653185364239",
-                    "size": "64379713172",
-                    "download": "57221913760"
+                    "gid": "3341519663870409373",
+                    "size": "67370915141",
+                    "download": "59858155744"
                 }
             },
             "decryptionkey": "3a92a76d80b16038abe5b2831f554a22120535ab039dbde663a70c8b52afe11b"
         },
         "branches": {
             "public": {
-                "buildid": "10034136",
-                "timeupdated": "1669921477"
+                "buildid": "18403805",
+                "timeupdated": "1746831726"
             }
         },
         "privatebranches": "1"
