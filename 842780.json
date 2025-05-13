@@ -4,8 +4,8 @@
     "name": "NavalArt",
     "schinese_name": "海军艺术 NavalArt",
     "isfreeapp": "0",
-    "change_number": "28409009",
-    "update_time": "2025-04-10 22:04:12",
+    "change_number": "28860411",
+    "update_time": "2025-05-07 19:26:25",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "842780",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4839024706008039746",
-                    "size": "2853847292",
-                    "download": "688865536"
+                    "gid": "311859059192588960",
+                    "size": "3030159802",
+                    "download": "706402416"
                 },
                 "version0.8": {
                     "gid": "8901879992971740775",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18026695",
-                "timeupdated": "1744293845"
+                "buildid": "18373207",
+                "timeupdated": "1746617182"
             },
             "version0.8": {
                 "buildid": "7345785",
