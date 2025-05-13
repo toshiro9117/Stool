@@ -4,8 +4,8 @@
     "name": "Unturned Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28293063",
-    "update_time": "2025-04-04 00:37:37",
+    "change_number": "28871158",
+    "update_time": "2025-05-08 06:41:24",
     "depot": {
         "1004": {
             "config": {
@@ -91,9 +91,14 @@
                     "download": "255991536"
                 },
                 "preview": {
-                    "gid": "5382643887167003884",
-                    "size": "1094196236",
-                    "download": "224469824"
+                    "gid": "616188609440010362",
+                    "size": "1086168192",
+                    "download": "221387504"
+                },
+                "unity-2022-preview": {
+                    "gid": "3316101053300052474",
+                    "size": "229943227",
+                    "download": "154561056"
                 }
             },
             "decryptionkey": "0b0144375a9b906d593c5bcb567383856495ba5d4c230ce3a8de771955f1cddf"
@@ -140,9 +145,14 @@
                     "download": "248388992"
                 },
                 "preview": {
-                    "gid": "265837601982515135",
-                    "size": "1082865330",
-                    "download": "217269936"
+                    "gid": "2242498023187570289",
+                    "size": "1075460786",
+                    "download": "214675232"
+                },
+                "unity-2022-preview": {
+                    "gid": "3853984192965048568",
+                    "size": "159130236",
+                    "download": "83156432"
                 }
             },
             "decryptionkey": "e10209445f9cde26ac7c213edf1a3549ac70618627ab07648243f4fbe90a0ca4"
@@ -185,9 +195,14 @@
                     "download": "1061979520"
                 },
                 "preview": {
-                    "gid": "5429641194346886672",
-                    "size": "1584242931",
-                    "download": "1062090336"
+                    "gid": "3708521538481991837",
+                    "size": "1584501475",
+                    "download": "1062306224"
+                },
+                "unity-2022-preview": {
+                    "gid": "5850467888648686921",
+                    "size": "1584501445",
+                    "download": "1062306128"
                 }
             },
             "decryptionkey": "931d267a0c5596dc6f4d7a806a83c3635f3f06fded4d9c08e2bf14b1864f53b5"
@@ -230,9 +245,14 @@
                     "download": "218656"
                 },
                 "preview": {
-                    "gid": "2985878951434261778",
-                    "size": "4429834",
-                    "download": "244592"
+                    "gid": "4338553137742515742",
+                    "size": "4431599",
+                    "download": "244800"
+                },
+                "unity-2022-preview": {
+                    "gid": "4338553137742515742",
+                    "size": "4431599",
+                    "download": "244800"
                 }
             },
             "decryptionkey": "391a45bdb71c33afbf925403879823d44a617f923e63dfe193039ccb6473ebc9"
@@ -273,9 +293,14 @@
                 "timeupdated": "1729178178"
             },
             "preview": {
-                "buildid": "17972927",
+                "buildid": "18380983",
                 "description": "Public test branch",
-                "timeupdated": "1743696894"
+                "timeupdated": "1746657681"
+            },
+            "unity-2022-preview": {
+                "buildid": "18363799",
+                "description": " Testing upgrade to Unity 2022 LTS",
+                "timeupdated": "1746557598"
             }
         },
         "privatebranches": "1"
