@@ -4,8 +4,8 @@
     "name": "Tactical Assault VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539404",
-    "update_time": "2025-04-18 07:04:41",
+    "change_number": "28922196",
+    "update_time": "2025-05-11 10:08:54",
     "depot": {
         "2314161": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "822197643614708689",
-                    "size": "12337479912",
-                    "download": "5420194848"
+                    "gid": "380343922999056146",
+                    "size": "12339791753",
+                    "download": "5426771744"
                 },
                 "oculusxr_vdxr_launcher": {
-                    "gid": "3459049622917887227",
-                    "size": "12344738339",
-                    "download": "5422923552"
+                    "gid": "6604550254040905989",
+                    "size": "12347059900",
+                    "download": "5429245664"
                 },
                 "tavr_upgraded_steamvr_build": {
                     "gid": "7005282083445245429",
@@ -32,13 +32,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18064021",
-                "timeupdated": "1744328563"
+                "buildid": "18286804",
+                "timeupdated": "1745968272"
             },
             "oculusxr_vdxr_launcher": {
-                "buildid": "18064029",
+                "buildid": "18286849",
                 "description": "For use with OculusXR and Virtual Desktop XR Launcher",
-                "timeupdated": "1744328542"
+                "timeupdated": "1745968247"
             },
             "tavr_upgraded_steamvr_build": {
                 "buildid": "11363638",
