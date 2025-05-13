@@ -4,8 +4,8 @@
     "name": "Intravenous 2",
     "schinese_name": "静脉注射2",
     "isfreeapp": "0",
-    "change_number": "28453125",
-    "update_time": "2025-04-13 20:43:15",
+    "change_number": "28841958",
+    "update_time": "2025-05-06 21:09:29",
     "depot": {
         "workshopdepot": "2608270",
         "228989": {
@@ -25,14 +25,14 @@
         "2608271": {
             "manifests": {
                 "public": {
-                    "gid": "7083338586183130747",
-                    "size": "1005549849",
-                    "download": "1012947056"
+                    "gid": "2303736138892496173",
+                    "size": "1005547883",
+                    "download": "1012944672"
                 },
                 "test": {
-                    "gid": "4787328789358903539",
-                    "size": "1005550299",
-                    "download": "1012947936"
+                    "gid": "2303736138892496173",
+                    "size": "1005547883",
+                    "download": "1012944672"
                 }
             },
             "decryptionkey": "65303bb0b084fda7e68b6e2dc146d2d0e42df675c4fd522649ad8dc41cea69e5"
@@ -44,14 +44,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3961245131922428457",
-                    "size": "4186900408",
-                    "download": "4200034112"
+                    "gid": "2172993518225357373",
+                    "size": "4187078481",
+                    "download": "4200057488"
                 },
                 "test": {
-                    "gid": "3961245131922428457",
-                    "size": "4186900408",
-                    "download": "4200034112"
+                    "gid": "2172993518225357373",
+                    "size": "4187078481",
+                    "download": "4200057488"
                 }
             },
             "decryptionkey": "e4dc2f66d1a61c0ff2f0249ab17212c51cba476048e43aaf576ee8afbcd80706"
@@ -63,27 +63,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8287400407266370957",
-                    "size": "619682325",
-                    "download": "615098160"
+                    "gid": "6414206952281207899",
+                    "size": "619685733",
+                    "download": "615089136"
                 },
                 "test": {
-                    "gid": "6859268308833605133",
-                    "size": "619681623",
-                    "download": "615097424"
+                    "gid": "6414206952281207899",
+                    "size": "619685733",
+                    "download": "615089136"
                 }
             },
             "decryptionkey": "0dea1e881b2c4b6b457f09a52489a01823c4a3982790d26a13c6856e38b19003"
         },
         "branches": {
             "public": {
-                "buildid": "17943091",
-                "timeupdated": "1743528871"
+                "buildid": "18298713",
+                "timeupdated": "1746030378"
             },
             "test": {
-                "buildid": "18053993",
+                "buildid": "18298713",
                 "description": "upcoming update voluntary testing",
-                "timeupdated": "1744277529"
+                "timeupdated": "1746030185"
             }
         },
         "privatebranches": "1",
