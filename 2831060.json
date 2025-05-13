@@ -4,8 +4,8 @@
     "name": "Moving Houses",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27737767",
-    "update_time": "2025-03-02 08:44:04",
+    "change_number": "28900535",
+    "update_time": "2025-05-09 19:27:05",
     "depot": {
         "2831061": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "395699296"
                 },
                 "beta": {
-                    "gid": "4589719533353399661",
-                    "size": "939758926",
-                    "download": "395695536"
+                    "gid": "8463562958899146415",
+                    "size": "1949664522",
+                    "download": "566671488"
                 }
             },
             "decryptionkey": "382e35fff8fa2b38503adc017848e7414e77dcf49d1a7ebf68ecf6b05ec86021"
@@ -32,9 +32,9 @@
                 "timeupdated": "1729549111"
             },
             "beta": {
-                "buildid": "16108999",
+                "buildid": "18378240",
                 "description": "Beta testing branch",
-                "timeupdated": "1729366698"
+                "timeupdated": "1746790021"
             }
         }
     }
