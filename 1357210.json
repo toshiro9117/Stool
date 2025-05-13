@@ -4,8 +4,8 @@
     "name": "Galactic Civilizations IV",
     "schinese_name": "银河文明IV",
     "isfreeapp": "0",
-    "change_number": "28491302",
-    "update_time": "2025-04-16 00:31:04",
+    "change_number": "28889872",
+    "update_time": "2025-05-09 04:30:03",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,brazilian,greek,latam",
         "workshopdepot": "1357210",
@@ -27,9 +27,9 @@
         "1357211": {
             "manifests": {
                 "public": {
-                    "gid": "5128568344910695336",
-                    "size": "22520070072",
-                    "download": "18384212960"
+                    "gid": "2667839740463873064",
+                    "size": "27214501742",
+                    "download": "22916158144"
                 },
                 "version_1.51": {
                     "gid": "5431806142850171811",
@@ -37,9 +37,9 @@
                     "download": "19562369008"
                 },
                 "insiders": {
-                    "gid": "7863522212675435",
-                    "size": "27296612745",
-                    "download": "22951079568"
+                    "gid": "2667839740463873064",
+                    "size": "27214501742",
+                    "download": "22916158144"
                 }
             },
             "decryptionkey": "e1b28e464e8a1b73bce264c89ada3f3c39d55f32e584807487f8696e927901ff"
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17594387",
-                "timeupdated": "1741197865"
+                "buildid": "18364586",
+                "timeupdated": "1746631266"
             },
             "version_1.51": {
                 "buildid": "11218835",
@@ -75,9 +75,9 @@
                 "timeupdated": "1685545333"
             },
             "insiders": {
-                "buildid": "18060467",
+                "buildid": "18364586",
                 "description": "Explore experimental features and fixes",
-                "timeupdated": "1744313810"
+                "timeupdated": "1746631241"
             }
         },
         "privatebranches": "1",
