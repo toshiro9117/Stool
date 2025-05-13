@@ -4,8 +4,8 @@
     "name": "[Neolithic]To the End",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28532548",
-    "update_time": "2025-04-17 23:42:12",
+    "change_number": "28918944",
+    "update_time": "2025-05-11 01:14:31",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "workshopdepot": "1519140",
@@ -27,9 +27,9 @@
         "1519141": {
             "manifests": {
                 "public": {
-                    "gid": "275666100765900858",
-                    "size": "765128847",
-                    "download": "719344064"
+                    "gid": "450175711419296819",
+                    "size": "772630937",
+                    "download": "726857120"
                 },
                 "aow4_lastexistingversion": {
                     "gid": "590293290179657206",
@@ -47,17 +47,17 @@
                     "download": "299182768"
                 },
                 "rollback_1_version": {
-                    "gid": "2889249684727536412",
-                    "size": "763613904",
-                    "download": "717962576"
+                    "gid": "6492884015564115056",
+                    "size": "772624728",
+                    "download": "726738208"
                 }
             },
             "decryptionkey": "8e0e461f09dcadd643ed7d1efe9805ad828808273c330ca6fc5c8e4e96190518"
         },
         "branches": {
             "public": {
-                "buildid": "18157460",
-                "timeupdated": "1744983851"
+                "buildid": "18415379",
+                "timeupdated": "1746897152"
             },
             "aow4_lastexistingversion": {
                 "buildid": "11174866",
@@ -75,9 +75,9 @@
                 "timeupdated": "1638873632"
             },
             "rollback_1_version": {
-                "buildid": "18146054",
+                "buildid": "18404867",
                 "description": "If anything blows up, use this to roll back to a previous version",
-                "timeupdated": "1744983913"
+                "timeupdated": "1746897267"
             }
         },
         "privatebranches": "1",
