@@ -4,20 +4,20 @@
     "name": "Mirthwood",
     "schinese_name": "欢欣森活",
     "isfreeapp": "0",
-    "change_number": "28254290",
-    "update_time": "2025-04-02 02:31:35",
+    "change_number": "28629409",
+    "update_time": "2025-04-24 03:41:26",
     "depot": {
         "2272901": {
             "manifests": {
                 "public": {
-                    "gid": "2430169352877816989",
-                    "size": "7506177301",
-                    "download": "1568023936"
+                    "gid": "7423906287013784791",
+                    "size": "7506594748",
+                    "download": "1569403872"
                 },
                 "beta": {
-                    "gid": "2430169352877816989",
-                    "size": "7506177301",
-                    "download": "1568023936"
+                    "gid": "7423906287013784791",
+                    "size": "7506594748",
+                    "download": "1569403872"
                 },
                 "test": {
                     "gid": "7423906287013784791",
@@ -29,13 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17813419",
-                "timeupdated": "1742914720"
+                "buildid": "17943829",
+                "timeupdated": "1745437282"
             },
             "beta": {
-                "buildid": "17813419",
+                "buildid": "17943829",
                 "description": "beta testing branch",
-                "timeupdated": "1742826649"
+                "timeupdated": "1745437185"
             },
             "test": {
                 "buildid": "17943829",
