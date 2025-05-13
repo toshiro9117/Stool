@@ -4,8 +4,8 @@
     "name": "Logic World Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28099045",
-    "update_time": "2025-03-24 04:27:42",
+    "change_number": "28694378",
+    "update_time": "2025-04-28 01:34:45",
     "depot": {
         "1004": {
             "config": {
@@ -97,8 +97,8 @@
                     "download": "60965968"
                 },
                 "public-previews": {
-                    "gid": "5296470854872612091",
-                    "size": "113250687",
+                    "gid": "1302343263519608144",
+                    "size": "113250675",
                     "download": "38037456"
                 }
             },
@@ -152,9 +152,9 @@
                     "download": "61764192"
                 },
                 "public-previews": {
-                    "gid": "8128083502478431704",
-                    "size": "113045504",
-                    "download": "37689632"
+                    "gid": "3522503296770845160",
+                    "size": "113045492",
+                    "download": "37689600"
                 }
             },
             "decryptionkey": ""
@@ -207,8 +207,8 @@
                     "download": "60818592"
                 },
                 "public-previews": {
-                    "gid": "8763943662442751909",
-                    "size": "112631081",
+                    "gid": "5432463905933617199",
+                    "size": "112631069",
                     "download": "37457584"
                 }
             },
@@ -255,9 +255,9 @@
                 "timeupdated": "1703102693"
             },
             "public-previews": {
-                "buildid": "17828518",
+                "buildid": "18257127",
                 "description": "Public previews of upcoming LW updates",
-                "timeupdated": "1742761655"
+                "timeupdated": "1745775280"
             }
         },
         "privatebranches": "1"
