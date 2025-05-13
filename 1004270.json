@@ -4,8 +4,8 @@
     "name": "My Island",
     "schinese_name": "我的海岛",
     "isfreeapp": "0",
-    "change_number": "28214902",
-    "update_time": "2025-03-30 21:15:06",
+    "change_number": "28856020",
+    "update_time": "2025-05-07 15:02:19",
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7752273558906160374",
-                    "size": "5858967368",
-                    "download": "5666293952"
+                    "gid": "5574635591483723496",
+                    "size": "5858885336",
+                    "download": "5667283408"
                 }
             },
             "decryptionkey": "e33708c654903e5852d50c652ae8682ffd62ddb00d56e466ddc9a4e2db063bda"
@@ -37,8 +37,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17127588",
-                "timeupdated": "1737775166"
+                "buildid": "18291569",
+                "timeupdated": "1745998681"
             }
         }
     }
