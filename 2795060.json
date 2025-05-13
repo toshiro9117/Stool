@@ -4,8 +4,8 @@
     "name": "DREAMIO: AI-Powered Adventures",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27941691",
-    "update_time": "2025-03-14 03:48:14",
+    "change_number": "28870162",
+    "update_time": "2025-05-08 05:18:54",
     "depot": {
         "228989": {
             "config": {
@@ -17,19 +17,19 @@
         "2795061": {
             "manifests": {
                 "public": {
-                    "gid": "5700747460405817210",
-                    "size": "3297052270",
-                    "download": "1958302544"
+                    "gid": "1566218700196130293",
+                    "size": "3609511327",
+                    "download": "2069829920"
                 },
                 "beta": {
-                    "gid": "2072253216835706144",
-                    "size": "3343092050",
-                    "download": "2014217632"
+                    "gid": "1566218700196130293",
+                    "size": "3609511327",
+                    "download": "2069829920"
                 },
                 "nightly": {
-                    "gid": "2072253216835706144",
-                    "size": "3343092050",
-                    "download": "2014217632"
+                    "gid": "1566218700196130293",
+                    "size": "3609511327",
+                    "download": "2069829920"
                 }
             },
             "decryptionkey": "ef4305110b445059ce0979096ce45df0f73fae89d4fa49738ade891680fc7c9f"
@@ -37,21 +37,21 @@
         "workshopdepot": "2795060",
         "branches": {
             "public": {
-                "buildid": "17477244",
-                "timeupdated": "1740392735"
+                "buildid": "18379513",
+                "timeupdated": "1746652728"
             },
             "beta": {
-                "buildid": "17713587",
+                "buildid": "18379513",
                 "description": "beta testing branch",
-                "timeupdated": "1741895288"
+                "timeupdated": "1746650335"
             },
             "nightly": {
-                "buildid": "17713587",
+                "buildid": "18379513",
                 "description": "very unstable builds",
-                "timeupdated": "1741895281"
+                "timeupdated": "1746650329"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "dd1685629c49c7b999784c53685db62f5f2593b85597fb0082d18443f960c21d"
     }
 }
