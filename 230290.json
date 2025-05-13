@@ -4,8 +4,8 @@
     "name": "Universe Sandbox",
     "schinese_name": "宇宙沙盘²",
     "isfreeapp": "0",
-    "change_number": "28544291",
-    "update_time": "2025-04-18 14:50:45",
+    "change_number": "28914842",
+    "update_time": "2025-05-10 14:51:59",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "230290",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8108344863587421816",
-                    "size": "2868805832",
-                    "download": "1457541840"
+                    "gid": "3557518104772149459",
+                    "size": "2882044997",
+                    "download": "1470508960"
                 },
                 "update-34.1.1": {
                     "gid": "8403049013177121841",
@@ -153,9 +153,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5382537166534337732",
-                    "size": "2846886974",
-                    "download": "1446185968"
+                    "gid": "4569344263425104380",
+                    "size": "2861198669",
+                    "download": "1458752784"
                 },
                 "update-34.1.1": {
                     "gid": "5440130934594855393",
@@ -257,8 +257,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18030451",
-                "timeupdated": "1744144435"
+                "buildid": "18392674",
+                "timeupdated": "1746730918"
             },
             "update-34.1.1": {
                 "buildid": "13730482",
