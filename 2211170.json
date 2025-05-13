@@ -4,8 +4,8 @@
     "name": "Unrailed 2: Back on Track",
     "schinese_name": "一起开火车2：汽笛重鸣",
     "isfreeapp": "0",
-    "change_number": "28517479",
-    "update_time": "2025-04-17 06:23:45",
+    "change_number": "28916086",
+    "update_time": "2025-05-10 18:03:24",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228989": {
@@ -38,9 +38,9 @@
                     "download": "314083616"
                 },
                 "experimental": {
-                    "gid": "2420152924644422876",
-                    "size": "571241603",
-                    "download": "422926896"
+                    "gid": "1647495604449374461",
+                    "size": "590722740",
+                    "download": "442088704"
                 },
                 "last-default": {
                     "gid": "4610484088443080318",
@@ -77,9 +77,9 @@
                     "download": "270367168"
                 },
                 "experimental": {
-                    "gid": "6746222917341225300",
-                    "size": "572294310",
-                    "download": "373058576"
+                    "gid": "588371359803286898",
+                    "size": "592282386",
+                    "download": "392600480"
                 },
                 "last-default": {
                     "gid": "9179172666149704046",
@@ -140,9 +140,9 @@
                 "timeupdated": "1733409422"
             },
             "experimental": {
-                "buildid": "18059577",
+                "buildid": "18404653",
                 "description": "Test new features early on!",
-                "timeupdated": "1744303708"
+                "timeupdated": "1746801368"
             },
             "last-default": {
                 "buildid": "17485059",
