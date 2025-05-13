@@ -4,8 +4,8 @@
     "name": "Liftoff - Night Fever",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28536655",
-    "update_time": "2025-04-18 03:24:38",
+    "change_number": "28879615",
+    "update_time": "2025-05-08 18:15:52",
     "depot": {
         "1020104": {
             "config": {
@@ -34,11 +34,6 @@
                     "gid": "4751368696021242308",
                     "size": "3791463994",
                     "download": "2970844400"
-                },
-                "elimination_tournaments": {
-                    "gid": "4751368696021242308",
-                    "size": "3791463994",
-                    "download": "2970844400"
                 }
             },
             "decryptionkey": "fe135aa7f9b6b35edb302b754d2cbea0aa317fce4c9a98fc2e82b4ff51f6f45e"
@@ -52,9 +47,9 @@
             "dlcappid": "1020100",
             "manifests": {
                 "public": {
-                    "gid": "446156739518268812",
-                    "size": "3129534934",
-                    "download": "2335324240"
+                    "gid": "1399439137519490150",
+                    "size": "3129768452",
+                    "download": "2335891008"
                 },
                 "liftoff_1.2.11": {
                     "gid": "3833607631357216986",
@@ -70,11 +65,6 @@
                     "gid": "6433743371871288707",
                     "size": "2064047254",
                     "download": "1451112928"
-                },
-                "elimination_tournaments": {
-                    "gid": "4970765644837436695",
-                    "size": "3696186836",
-                    "download": "2833961408"
                 }
             },
             "decryptionkey": "a77a77978cfb70d2d1f78af4a8f4cbcc43fa089e3ebd63bc2b2c97b08897e3fc"
@@ -87,9 +77,9 @@
             "dlcappid": "1020100",
             "manifests": {
                 "public": {
-                    "gid": "870371035916938985",
-                    "size": "3105055521",
-                    "download": "2317221088"
+                    "gid": "6418017845677401450",
+                    "size": "3105356939",
+                    "download": "2317900096"
                 },
                 "liftoff_1.2.11": {
                     "gid": "4348453445640888055",
@@ -105,11 +95,6 @@
                     "gid": "3741178714047801780",
                     "size": "2059694595",
                     "download": "1447780256"
-                },
-                "elimination_tournaments": {
-                    "gid": "5813851195104857599",
-                    "size": "3687574645",
-                    "download": "2828909872"
                 }
             },
             "decryptionkey": "79b53caba7e254d7d730b63697de2d39e4fb9a2f749c45e9ceb9fc9d5f97b466"
@@ -122,9 +107,9 @@
             "dlcappid": "1020100",
             "manifests": {
                 "public": {
-                    "gid": "2766528233548018692",
-                    "size": "3123163123",
-                    "download": "2329601760"
+                    "gid": "7276295670584888923",
+                    "size": "3123492858",
+                    "download": "2330297696"
                 },
                 "liftoff_1.2.11": {
                     "gid": "4339761330388142536",
@@ -140,19 +125,14 @@
                     "gid": "3154171882241306956",
                     "size": "2063391059",
                     "download": "1450484624"
-                },
-                "elimination_tournaments": {
-                    "gid": "4937306526628517256",
-                    "size": "3694887259",
-                    "download": "2832969904"
                 }
             },
             "decryptionkey": "c2e02b451e8ebd4955a225df3f2796a2b6ea5276083334ac10ee1de5c10d06b9"
         },
         "branches": {
             "public": {
-                "buildid": "18148234",
-                "timeupdated": "1744917871"
+                "buildid": "18387155",
+                "timeupdated": "1746699347"
             },
             "liftoff_1.2.11": {
                 "buildid": "4910879",
@@ -168,11 +148,6 @@
                 "buildid": "9940301",
                 "description": "Liftoff Legacy v1.4",
                 "timeupdated": "1674033777"
-            },
-            "elimination_tournaments": {
-                "buildid": "16184381",
-                "description": "Elimination tournament testing",
-                "timeupdated": "1730200253"
             }
         },
         "privatebranches": "1"
