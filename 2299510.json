@@ -4,8 +4,8 @@
     "name": "Pixel Composer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545769",
-    "update_time": "2025-04-18 16:30:10",
+    "change_number": "28899777",
+    "update_time": "2025-05-09 18:37:06",
     "depot": {
         "workshopdepot": "2299510",
         "2299511": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6613727479360426973",
-                    "size": "298637751",
-                    "download": "90591536"
+                    "gid": "1777777924559596326",
+                    "size": "318008334",
+                    "download": "101139392"
                 },
                 "1.14": {
                     "gid": "4316908475659697778",
@@ -38,15 +38,20 @@
                     "size": "276651956",
                     "download": "85357232"
                 },
+                "1.18": {
+                    "gid": "6613727479360426973",
+                    "size": "298637751",
+                    "download": "90591536"
+                },
                 "beta": {
-                    "gid": "6592437835338630395",
-                    "size": "317022355",
-                    "download": "100935488"
+                    "gid": "1777777924559596326",
+                    "size": "318008334",
+                    "download": "101139392"
                 },
                 "beta-nosteam": {
-                    "gid": "56749065916271036",
-                    "size": "312212858",
-                    "download": "98708768"
+                    "gid": "7373466254077814621",
+                    "size": "317222649",
+                    "download": "100821904"
                 }
             },
             "decryptionkey": "780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397"
@@ -66,6 +71,11 @@
                     "size": "429795262",
                     "download": "117574208"
                 },
+                "1.18": {
+                    "gid": "2526359806784507848",
+                    "size": "429795262",
+                    "download": "117574208"
+                },
                 "beta": {
                     "gid": "2526359806784507848",
                     "size": "429795262",
@@ -75,8 +85,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16017065",
-                "timeupdated": "1728696443"
+                "buildid": "18384897",
+                "timeupdated": "1746689747"
             },
             "1.14": {
                 "buildid": "11010214",
@@ -98,15 +108,20 @@
                 "description": "1.17 stable",
                 "timeupdated": "1727425366"
             },
+            "1.18": {
+                "buildid": "16017065",
+                "description": "1.18 stable",
+                "timeupdated": "1745140569"
+            },
             "beta": {
-                "buildid": "18155444",
+                "buildid": "18384897",
                 "description": "more frequent, less stable build",
-                "timeupdated": "1744965004"
+                "timeupdated": "1746686694"
             },
             "beta-nosteam": {
-                "buildid": "17878204",
+                "buildid": "18384892",
                 "description": "beta build without steam workshop, use for debugging",
-                "timeupdated": "1743056132"
+                "timeupdated": "1746686648"
             }
         },
         "privatebranches": "1",
