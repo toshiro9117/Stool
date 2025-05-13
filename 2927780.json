@@ -4,24 +4,25 @@
     "name": "Last Outpost",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28302809",
-    "update_time": "2025-04-04 14:16:49",
+    "change_number": "28825988",
+    "update_time": "2025-05-06 00:30:46",
     "depot": {
         "2927781": {
             "manifests": {
                 "public": {
-                    "gid": "7665324258363843659",
-                    "size": "910070972",
-                    "download": "199634288"
+                    "gid": "4563290691491614408",
+                    "size": "965436791",
+                    "download": "214132272"
                 }
             },
             "decryptionkey": "2f80066bc2ec65724f707d1bac4cfa8c63355e03a969f77b06891f789c8bc55a"
         },
         "branches": {
             "public": {
-                "buildid": "17460251",
-                "timeupdated": "1740167342"
+                "buildid": "18248580",
+                "timeupdated": "1745659402"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
