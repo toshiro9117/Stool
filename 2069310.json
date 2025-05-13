@@ -4,8 +4,8 @@
     "name": "RealFlight Evolution",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28532839",
-    "update_time": "2025-04-17 23:55:36",
+    "change_number": "28776376",
+    "update_time": "2025-05-02 06:25:39",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "2069311": {
             "manifests": {
                 "public": {
-                    "gid": "5360418286010769308",
-                    "size": "16126675281",
-                    "download": "7805542720"
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
                 },
                 "directx9_deprecated": {
                     "gid": "782187648783236523",
@@ -27,22 +27,22 @@
                     "download": "5863911872"
                 },
                 "publicbeta": {
-                    "gid": "5360418286010769308",
-                    "size": "16126675281",
-                    "download": "7805542720"
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
                 },
                 "publicbeta_directx11": {
-                    "gid": "5360418286010769308",
-                    "size": "16126675281",
-                    "download": "7805542720"
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
                 }
             },
             "decryptionkey": "f7c10cf67e59ca711014eb225bff0dd5b23321981134b4a51f54d255632bab00"
         },
         "branches": {
             "public": {
-                "buildid": "18106929",
-                "timeupdated": "1744841636"
+                "buildid": "18300747",
+                "timeupdated": "1746138336"
             },
             "directx9_deprecated": {
                 "buildid": "12704724",
@@ -50,14 +50,14 @@
                 "timeupdated": "1700011806"
             },
             "publicbeta": {
-                "buildid": "18106929",
+                "buildid": "18300747",
                 "description": "Distribution of public beta versions",
-                "timeupdated": "1744755379"
+                "timeupdated": "1746138195"
             },
             "publicbeta_directx11": {
-                "buildid": "18106929",
+                "buildid": "18300747",
                 "description": "DirectX 11 public beta",
-                "timeupdated": "1744755369"
+                "timeupdated": "1746138224"
             }
         },
         "privatebranches": "1"
