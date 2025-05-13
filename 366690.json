@@ -4,8 +4,8 @@
     "name": "Cue Club 2: Pool & Snooker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28327667",
-    "update_time": "2025-04-06 07:10:43",
+    "change_number": "28888652",
+    "update_time": "2025-05-09 03:03:01",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6199058093168395687",
-                    "size": "132684802",
-                    "download": "131915008"
+                    "gid": "9144592911876161045",
+                    "size": "132702586",
+                    "download": "131932512"
                 }
             },
             "decryptionkey": "734a892a39768b841316ffa9314c7ca1a64929a27b3cd386fd745f3f97ca5e36"
         },
         "branches": {
             "public": {
-                "buildid": "17992220",
-                "timeupdated": "1743812703"
+                "buildid": "18393290",
+                "timeupdated": "1746730974"
             }
         }
     }
