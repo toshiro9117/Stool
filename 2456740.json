@@ -4,8 +4,8 @@
     "name": "inZOI",
     "schinese_name": "云族裔",
     "isfreeapp": "0",
-    "change_number": "28484393",
-    "update_time": "2025-04-15 18:05:38",
+    "change_number": "28905753",
+    "update_time": "2025-05-10 00:33:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2456741": {
             "manifests": {
                 "public": {
-                    "gid": "5903030682017313252",
-                    "size": "23903334882",
-                    "download": "21716791936"
+                    "gid": "8321490079515316932",
+                    "size": "23993746033",
+                    "download": "21806375632"
                 }
             },
             "decryptionkey": "e91cba2d1d471bdfb115bee76ac997858f84e6ab0a82af5f17d0054f8a3c9686"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "18099680",
-                "timeupdated": "1744711534"
+                "buildid": "18265403",
+                "timeupdated": "1745902819"
             }
         },
         "privatebranches": "1"
