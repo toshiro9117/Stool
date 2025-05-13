@@ -4,8 +4,8 @@
     "name": "Quantum Odyssey",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27981301",
-    "update_time": "2025-03-16 22:09:12",
+    "change_number": "28900023",
+    "update_time": "2025-05-09 18:51:42",
     "depot": {
         "229007": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6408561140648832168",
-                    "size": "1491623911",
-                    "download": "638745072"
+                    "gid": "9037511255754778498",
+                    "size": "1493251600",
+                    "download": "638872944"
                 },
                 "local": {
                     "gid": "6388841297342535376",
@@ -31,17 +31,17 @@
                     "download": "188794432"
                 },
                 "beta": {
-                    "gid": "8057054904636162550",
-                    "size": "1051756282",
-                    "download": "211803936"
+                    "gid": "3500385442894707909",
+                    "size": "1115416111",
+                    "download": "259136992"
                 }
             },
             "decryptionkey": "124613d203dfcabc9d4a9c3f2e11d64f7939f069bc637f280488d90d668b4479"
         },
         "branches": {
             "public": {
-                "buildid": "17588955",
-                "timeupdated": "1741092391"
+                "buildid": "18390635",
+                "timeupdated": "1746717195"
             },
             "local": {
                 "buildid": "13700982",
@@ -50,9 +50,9 @@
                 "timeupdated": "1710153818"
             },
             "beta": {
-                "buildid": "16040415",
+                "buildid": "18345522",
                 "description": "beta branch of QO",
-                "timeupdated": "1728928258"
+                "timeupdated": "1746444972"
             }
         },
         "privatebranches": "1"
