@@ -4,8 +4,8 @@
     "name": "Captain of Industry",
     "schinese_name": "工业巨头 (Captain of Industry)",
     "isfreeapp": "0",
-    "change_number": "28447762",
-    "update_time": "2025-04-13 04:12:56",
+    "change_number": "28920042",
+    "update_time": "2025-05-11 04:03:56",
     "depot": {
         "1594321": {
             "config": {
@@ -52,6 +52,11 @@
                     "gid": "8855127029810949887",
                     "size": "1559770737",
                     "download": "1312997712"
+                },
+                "update2-legacy": {
+                    "gid": "3195232451474689004",
+                    "size": "1561514918",
+                    "download": "1314050912"
                 }
             },
             "decryptionkey": "4ff3d26a9ec89b9d17aa43ee05ea46cb83cd638a31b36a385b43fc810ccc6703"
@@ -87,6 +92,11 @@
                     "gid": "5431795620429349516",
                     "size": "10424252",
                     "download": "8600592"
+                },
+                "update2-legacy": {
+                    "gid": "3673242767828715487",
+                    "size": "10426300",
+                    "download": "8601216"
                 }
             },
             "decryptionkey": "99e976dbccd9e46b15b201695ea57868cd42725d13bb6fc4512e5f3a7d620687"
@@ -130,6 +140,11 @@
                 "buildid": "14310505",
                 "description": "v0.6.3b b334",
                 "timeupdated": "1716070631"
+            },
+            "update2-legacy": {
+                "buildid": "16141552",
+                "description": "Legacy Update 2 build v0.6.4d b347",
+                "timeupdated": "1746683785"
             }
         },
         "privatebranches": "1"
