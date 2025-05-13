@@ -1,0 +1,58 @@
+{
+    "appid": "3172700",
+    "type": "Game",
+    "name": "Banquet for Fools",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28921031",
+    "update_time": "2025-05-11 06:31:19",
+    "depot": {
+        "3172701": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4430602022833286465",
+                    "size": "9023681982",
+                    "download": "5568839248"
+                }
+            },
+            "decryptionkey": "0a51fbcec9c86fe5efd4531fab2c3c094dc9418dd21ddee026bf031a10f1dea2"
+        },
+        "3172702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7925105140311965207",
+                    "size": "9045594078",
+                    "download": "5585715104"
+                }
+            }
+        },
+        "3172703": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5012081202871235793",
+                    "size": "9011342686",
+                    "download": "5575406384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18409346",
+                "timeupdated": "1746828796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
