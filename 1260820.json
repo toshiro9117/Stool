@@ -4,8 +4,8 @@
     "name": "Third Crisis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28254574",
-    "update_time": "2025-04-02 02:50:22",
+    "change_number": "28919656",
+    "update_time": "2025-05-11 03:02:40",
     "depot": {
         "1260821": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "814088137195163716",
-                    "size": "5463092043",
-                    "download": "698661168"
+                    "gid": "4389252463517482400",
+                    "size": "5482560797",
+                    "download": "699434944"
                 }
             },
             "decryptionkey": "852ca57fa9da1bba259bddd26ebf6114b9ee327ffaa4c4e7197e7e30596cc99f"
         },
         "branches": {
             "public": {
-                "buildid": "14708433",
-                "timeupdated": "1718298126"
+                "buildid": "18412641",
+                "timeupdated": "1746861874"
             }
         },
         "privatebranches": "1"
