@@ -4,8 +4,8 @@
     "name": "LIMBO",
     "schinese_name": "地狱边境",
     "isfreeapp": "0",
-    "change_number": "27103756",
-    "update_time": "2025-01-22 09:25:49",
+    "change_number": "28724016",
+    "update_time": "2025-04-29 17:41:24",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,japanese,portuguese,russian,turkish,brazilian,polish,schinese",
@@ -16,9 +16,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2514620715176409184",
-                    "size": "116112402",
-                    "download": "85951424"
+                    "gid": "7717996545831822757",
+                    "size": "113048283",
+                    "download": "85396880"
                 }
             },
             "decryptionkey": "38e1d9684662db75e3ca547186abbf41df7d1dbd382644c7a275c7a35e4e753b"
@@ -81,8 +81,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11105237",
-                "timeupdated": "1682601115"
+                "buildid": "18220724",
+                "timeupdated": "1745919678"
             }
         },
         "privatebranches": "1"
