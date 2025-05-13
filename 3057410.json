@@ -4,23 +4,23 @@
     "name": "Mounted War",
     "schinese_name": "骑战：烈火之剑",
     "isfreeapp": "0",
-    "change_number": "27451730",
-    "update_time": "2025-02-13 11:14:37",
+    "change_number": "28762536",
+    "update_time": "2025-05-01 11:28:56",
     "depot": {
         "3057411": {
             "manifests": {
                 "public": {
-                    "gid": "5743435276065267764",
-                    "size": "1750340732",
-                    "download": "514756896"
+                    "gid": "413980911373527302",
+                    "size": "6745555374",
+                    "download": "2990704576"
                 }
             },
             "decryptionkey": "1ea34118b8f46445e19bc0fab21225d96648db634ab6655ed4d47c6ac0879eb9"
         },
         "branches": {
             "public": {
-                "buildid": "17345876",
-                "timeupdated": "1739416473"
+                "buildid": "18296061",
+                "timeupdated": "1746018060"
             }
         }
     }
