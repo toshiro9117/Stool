@@ -4,8 +4,8 @@
     "name": "The Quinfall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528354",
-    "update_time": "2025-04-17 20:06:23",
+    "change_number": "28837457",
+    "update_time": "2025-05-06 16:39:22",
     "depot": {
         "2294661": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8747825318478492378",
-                    "size": "63514676772",
-                    "download": "34990121248"
+                    "gid": "5950690572055742946",
+                    "size": "69399273046",
+                    "download": "38810560896"
                 }
             },
             "decryptionkey": "39cbd76774d7cd7e3a7638344169ac77056c44361a66db94cb7e59fac501c576"
@@ -24,8 +24,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "branches": {
             "public": {
-                "buildid": "17946321",
-                "timeupdated": "1743549300"
+                "buildid": "18290278",
+                "timeupdated": "1746061424"
             }
         },
         "privatebranches": "1"
