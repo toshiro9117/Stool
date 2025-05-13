@@ -4,8 +4,8 @@
     "name": "Dust Fleet",
     "schinese_name": "尘埃舰队",
     "isfreeapp": "0",
-    "change_number": "28484405",
-    "update_time": "2025-04-15 18:07:10",
+    "change_number": "28859319",
+    "update_time": "2025-05-07 18:17:11",
     "depot": {
         "baselanguages": "",
         "406161": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8415933504853636167",
-                    "size": "4631034294",
-                    "download": "1472819584"
+                    "gid": "590149187735782753",
+                    "size": "4632024899",
+                    "download": "1473064224"
                 }
             },
             "decryptionkey": "4a6340235ac704c786b4cf89dd1aac3cd8467682380d00f4f110da731a1b9fe6"
         },
         "branches": {
             "public": {
-                "buildid": "16992422",
-                "timeupdated": "1736808201"
+                "buildid": "18371619",
+                "timeupdated": "1746609661"
             }
         },
         "privatebranches": "1"
