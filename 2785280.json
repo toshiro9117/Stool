@@ -4,8 +4,8 @@
     "name": "Ruined Nurse",
     "schinese_name": "毁了的护士",
     "isfreeapp": "0",
-    "change_number": "28509670",
-    "update_time": "2025-04-16 22:11:22",
+    "change_number": "28841036",
+    "update_time": "2025-05-06 20:16:06",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7570124259945138664",
-                    "size": "4692566977",
-                    "download": "4200056032"
+                    "gid": "5559909886218572413",
+                    "size": "4690890606",
+                    "download": "4198574496"
                 }
             },
             "decryptionkey": "310cdd51fb23b00e96efb37dc25decdc08cd417a0fced203c292b5d8e1b2a877"
@@ -37,8 +37,8 @@
         "workshopdepot": "2785280",
         "branches": {
             "public": {
-                "buildid": "17952648",
-                "timeupdated": "1743596327"
+                "buildid": "18358646",
+                "timeupdated": "1746533762"
             }
         },
         "privatebranches": "1",
