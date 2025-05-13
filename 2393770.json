@@ -4,8 +4,8 @@
     "name": "Bang Average Football",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28328675",
-    "update_time": "2025-04-06 10:15:01",
+    "change_number": "28774410",
+    "update_time": "2025-05-02 03:40:25",
     "depot": {
         "2393772": {
             "config": {
@@ -61,6 +61,7 @@
             },
             "decryptionkey": ""
         },
+        "workshopdepot": "2393770",
         "branches": {
             "public": {
                 "buildid": "17999250",
@@ -72,6 +73,7 @@
                 "timeupdated": "1743905681"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6f832d242c049689abcdcf88bb891d9d875d5492e70b0dcf2a033722bc3d3b6e"
     }
 }
