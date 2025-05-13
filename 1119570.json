@@ -4,8 +4,8 @@
     "name": "Discord Bot Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28256189",
-    "update_time": "2025-04-02 04:47:46",
+    "change_number": "28604049",
+    "update_time": "2025-04-22 23:17:41",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6669389061941308280",
-                    "size": "313356082",
-                    "download": "96068672"
+                    "gid": "5840408638824319238",
+                    "size": "313291077",
+                    "download": "96103408"
                 },
                 "1.0.0-preview.5": {
                     "gid": "6250883147276527834",
@@ -37,9 +37,9 @@
                     "download": "144874960"
                 },
                 "patch": {
-                    "gid": "7658637663585149574",
-                    "size": "285366985",
-                    "download": "87856864"
+                    "gid": "5840408638824319238",
+                    "size": "313291077",
+                    "download": "96103408"
                 }
             },
             "decryptionkey": "ccfe1ed90bc1639c0d6a17e3f847da573ec8e623fa98aa32c1e3035961a29582"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1510093438988348919",
-                    "size": "280856875",
-                    "download": "90854560"
+                    "gid": "2506988505520645864",
+                    "size": "280791870",
+                    "download": "90889296"
                 },
                 "1.0.0-preview.5": {
                     "gid": "5228368975516622244",
@@ -66,17 +66,17 @@
                     "download": "138083408"
                 },
                 "patch": {
-                    "gid": "30467766959644814",
-                    "size": "255903162",
-                    "download": "83159056"
+                    "gid": "2506988505520645864",
+                    "size": "280791870",
+                    "download": "90889296"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17653519",
-                "timeupdated": "1741560059"
+                "buildid": "18186348",
+                "timeupdated": "1745335054"
             },
             "1.0.0-preview.5": {
                 "buildid": "15868209",
@@ -89,9 +89,9 @@
                 "timeupdated": "1727549121"
             },
             "patch": {
-                "buildid": "17945335",
+                "buildid": "18186348",
                 "description": "1.0.0-preview.6 patch",
-                "timeupdated": "1743540461"
+                "timeupdated": "1745283307"
             }
         },
         "privatebranches": "1"
