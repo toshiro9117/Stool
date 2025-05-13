@@ -4,8 +4,8 @@
     "name": "Cryowakers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28455650",
-    "update_time": "2025-04-14 02:32:44",
+    "change_number": "28612382",
+    "update_time": "2025-04-23 09:21:55",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "914063359245080796",
-                    "size": "4522377913",
-                    "download": "1075032368"
+                    "gid": "5161205314018220645",
+                    "size": "4522519357",
+                    "download": "1075109424"
                 }
             },
             "decryptionkey": "fc770c6a1146ffdf3972493d2d9ce4ce9789534c232e92cb0587e9d3926499e5"
         },
         "branches": {
             "public": {
-                "buildid": "17947420",
-                "timeupdated": "1744333571"
+                "buildid": "18200938",
+                "timeupdated": "1745371311"
             }
         },
         "privatebranches": "1"
