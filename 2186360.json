@@ -4,8 +4,8 @@
     "name": "IDUN - Frontline Survival",
     "schinese_name": "IDUN - 阵线推进官",
     "isfreeapp": "0",
-    "change_number": "28140585",
-    "update_time": "2025-03-26 09:02:19",
+    "change_number": "28911941",
+    "update_time": "2025-05-10 08:06:26",
     "depot": {
         "baselanguages": "english,german,french,spanish",
         "2186361": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6396373008460463573",
-                    "size": "1201485344",
-                    "download": "615144896"
+                    "gid": "2406110609610836022",
+                    "size": "1205146191",
+                    "download": "616161728"
                 },
                 "beta": {
-                    "gid": "6396373008460463573",
-                    "size": "1201485344",
-                    "download": "615144896"
+                    "gid": "2406110609610836022",
+                    "size": "1205146191",
+                    "download": "616161728"
                 }
             },
             "decryptionkey": "e5c469955c4eedc6f11a88a247842af0d74f884765f46916576028e59555c437"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6157566534563463252",
-                    "size": "1231319432",
-                    "download": "624854144"
+                    "gid": "1097366833840782585",
+                    "size": "1234979596",
+                    "download": "625886928"
                 },
                 "beta": {
-                    "gid": "6157566534563463252",
-                    "size": "1231319432",
-                    "download": "624854144"
+                    "gid": "1097366833840782585",
+                    "size": "1234979596",
+                    "download": "625886928"
                 }
             },
             "decryptionkey": "4095cb2636afa750a9812cc767a1cee21fcd292715439fdb79ffa5fe1b2cb318"
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9202142306549977033",
-                    "size": "1261554094",
-                    "download": "624377616"
+                    "gid": "8579481695922631762",
+                    "size": "1265215117",
+                    "download": "625443072"
                 },
                 "beta": {
-                    "gid": "9202142306549977033",
-                    "size": "1261554094",
-                    "download": "624377616"
+                    "gid": "8579481695922631762",
+                    "size": "1265215117",
+                    "download": "625443072"
                 }
             },
             "decryptionkey": "b872e407a994c839463fe2f4dfdd72d90d1757240baf7f8654464cd919438530"
         },
         "branches": {
             "public": {
-                "buildid": "17744400",
-                "timeupdated": "1742152792"
+                "buildid": "18265763",
+                "timeupdated": "1745913958"
             },
             "beta": {
-                "buildid": "17744400",
+                "buildid": "18265763",
                 "description": "Public beta branch",
-                "timeupdated": "1742151917"
+                "timeupdated": "1745846694"
             }
         }
     }
