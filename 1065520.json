@@ -4,8 +4,8 @@
     "name": "Autobahn Police Simulator 3",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28525602",
-    "update_time": "2025-04-17 17:18:40",
+    "change_number": "28820058",
+    "update_time": "2025-05-05 18:07:09",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,turkish",
         "1065521": {
@@ -43,6 +43,14 @@
                 }
             },
             "decryptionkey": ""
+        },
+        "3679160": {
+            "dlcappid": "3679160",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
