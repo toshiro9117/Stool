@@ -4,8 +4,8 @@
     "name": "Striving for Light",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28340448",
-    "update_time": "2025-04-07 14:46:43",
+    "change_number": "28755622",
+    "update_time": "2025-05-01 02:08:59",
     "depot": {
         "1646791": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1015309769119956453",
-                    "size": "1506016872",
-                    "download": "1308747328"
+                    "gid": "669029467879920329",
+                    "size": "1511579128",
+                    "download": "1316413184"
                 }
             },
             "decryptionkey": "387a839d535759a41e628d9eae51b5df05ad03e45ce39e9d92c6a9bd110d9bd5"
@@ -26,17 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2429058852530832751",
-                    "size": "1517500296",
-                    "download": "1313533104"
+                    "gid": "1650801432205237193",
+                    "size": "1523062552",
+                    "download": "1320157664"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17955126",
-                "timeupdated": "1743601848"
+                "buildid": "18143088",
+                "timeupdated": "1744888412"
             }
         },
         "privatebranches": "1"
