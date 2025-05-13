@@ -4,8 +4,8 @@
     "name": "GROUND BRANCH Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544920",
-    "update_time": "2025-04-18 15:38:40",
+    "change_number": "28919275",
+    "update_time": "2025-05-11 02:02:10",
     "depot": {
         "baselanguages": "english",
         "1004": {
@@ -109,17 +109,17 @@
         "476401": {
             "manifests": {
                 "public": {
-                    "gid": "8861432760169143274",
-                    "size": "2137866496",
-                    "download": "1663493696"
+                    "gid": "5204630446855699357",
+                    "size": "1794543151",
+                    "download": "1160843632"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "15542544",
-                "timeupdated": "1725472698"
+                "buildid": "18395135",
+                "timeupdated": "1746747253"
             }
         },
         "privatebranches": "1"
