@@ -4,8 +4,8 @@
     "name": "Sker Ritual",
     "schinese_name": "斯盖尔仪式",
     "isfreeapp": "0",
-    "change_number": "28309759",
-    "update_time": "2025-04-04 21:49:03",
+    "change_number": "28866147",
+    "update_time": "2025-05-08 00:49:43",
     "depot": {
         "1492071": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4450948227971923567",
-                    "size": "25986484773",
-                    "download": "11997611904"
+                    "gid": "4637982939190422997",
+                    "size": "20367635150",
+                    "download": "9678137824"
                 },
                 "publictest": {
-                    "gid": "7589870506556938226",
-                    "size": "20364233407",
-                    "download": "9681596272"
+                    "gid": "4637982939190422997",
+                    "size": "20367635150",
+                    "download": "9678137824"
                 }
             },
             "decryptionkey": "89d465584a0a654f8213c804ff69c907155ed9ba69bbe5084776845eea29f048"
@@ -48,13 +48,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17157678",
-                "timeupdated": "1738071200"
+                "buildid": "18377116",
+                "timeupdated": "1746636579"
             },
             "publictest": {
-                "buildid": "17985703",
+                "buildid": "18377116",
                 "description": "Public Test",
-                "timeupdated": "1743774537"
+                "timeupdated": "1746636548"
             }
         },
         "privatebranches": "1"
