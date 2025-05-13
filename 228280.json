@@ -4,8 +4,8 @@
     "name": "Baldur's Gate: Enhanced Edition",
     "schinese_name": "博德之门：增强版",
     "isfreeapp": "0",
-    "change_number": "28491634",
-    "update_time": "2025-04-16 00:51:04",
+    "change_number": "28787678",
+    "update_time": "2025-05-02 23:11:24",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -189,12 +189,19 @@
         },
         "2488970": {
             "dlcappid": "2488970",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "6576850693656477116",
+                    "size": "5501443",
+                    "download": "3955152"
+                }
+            },
+            "decryptionkey": "eb868fb93e0936f72260320071124dcf050e11fdaefcc2aee9919b6787bc133b"
         },
         "branches": {
             "public": {
-                "buildid": "6660109",
-                "timeupdated": "1621353615"
+                "buildid": "18283271",
+                "timeupdated": "1745945393"
             },
             "bgee_1.3": {
                 "buildid": "5297010",
