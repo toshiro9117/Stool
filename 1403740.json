@@ -4,8 +4,8 @@
     "name": "Space Architect",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28336384",
-    "update_time": "2025-04-07 06:20:37",
+    "change_number": "28914730",
+    "update_time": "2025-05-10 14:32:28",
     "depot": {
         "228990": {
             "config": {
@@ -21,27 +21,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "344581783840935809",
-                    "size": "622148921",
-                    "download": "219700048"
+                    "gid": "2396014042735304167",
+                    "size": "732140153",
+                    "download": "254432224"
                 },
                 "1.1_beta_": {
-                    "gid": "6025678856009194378",
-                    "size": "701469771",
-                    "download": "225762480"
+                    "gid": "3288764936579508990",
+                    "size": "730423604",
+                    "download": "253826272"
                 }
             },
             "decryptionkey": "3798786b29122f525be23456e50a1c5839269d27a4c12ba5a7232e84533f7c4f"
         },
         "branches": {
             "public": {
-                "buildid": "16908676",
-                "timeupdated": "1736040169"
+                "buildid": "18405887",
+                "timeupdated": "1746807647"
             },
             "1.1_beta_": {
-                "buildid": "18003803",
+                "buildid": "18168495",
                 "description": "1.1 Open Beta",
-                "timeupdated": "1743978033"
+                "timeupdated": "1745085313"
             }
         },
         "privatebranches": "1"
