@@ -4,13 +4,13 @@
     "name": "My wife's cheating on me!",
     "schinese_name": "我妻子背叛了我!",
     "isfreeapp": "0",
-    "change_number": "27795085",
-    "update_time": "2025-03-05 21:09:07",
+    "change_number": "28830591",
+    "update_time": "2025-05-06 06:08:50",
     "depot": {
         "3242171": {
             "manifests": {
                 "public": {
-                    "gid": "4832497905268130901",
+                    "gid": "3856624554291200871",
                     "size": "1444626578",
                     "download": "1361125216"
                 }
@@ -27,13 +27,12 @@
                     "size": "1432248632",
                     "download": "1356484688"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "16179796",
-                "timeupdated": "1729856204"
+                "buildid": "18007995",
+                "timeupdated": "1744011432"
             }
         }
     }
