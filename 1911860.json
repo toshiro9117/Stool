@@ -4,8 +4,8 @@
     "name": "Grit and Valor - 1949",
     "schinese_name": "铁锈风云",
     "isfreeapp": "0",
-    "change_number": "28543160",
-    "update_time": "2025-04-18 13:03:30",
+    "change_number": "28919073",
+    "update_time": "2025-05-11 01:32:19",
     "depot": {
         "1911861": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1951045592169206479",
-                    "size": "8623854626",
-                    "download": "2426151296"
+                    "gid": "1981901213546201320",
+                    "size": "8637332220",
+                    "download": "2427811088"
                 }
             },
             "decryptionkey": "c924b130e02468d91c44bbd60d41ae87def8e9a7d9eb42d622281b7da9d04819"
@@ -41,8 +41,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17987878",
-                "timeupdated": "1743784230"
+                "buildid": "18296917",
+                "timeupdated": "1746021879"
             }
         },
         "privatebranches": "1"
