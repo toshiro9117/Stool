@@ -4,8 +4,8 @@
     "name": "Aim Climb",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28364021",
-    "update_time": "2025-04-08 19:05:23",
+    "change_number": "28798600",
+    "update_time": "2025-05-03 16:30:06",
     "depot": {
         "228981": {
             "config": {
@@ -60,9 +60,9 @@
         "1909771": {
             "manifests": {
                 "public": {
-                    "gid": "8920394492967278159",
-                    "size": "412499892",
-                    "download": "335519664"
+                    "gid": "4030232207148297051",
+                    "size": "430954564",
+                    "download": "335232224"
                 },
                 "beta": {
                     "gid": "2934636876175225433",
@@ -93,8 +93,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18024860",
-                "timeupdated": "1744110318"
+                "buildid": "18274531",
+                "timeupdated": "1745900367"
             },
             "beta": {
                 "buildid": "17027983",
