@@ -4,23 +4,23 @@
     "name": "转生魔塔",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28445926",
-    "update_time": "2025-04-13 00:11:54",
+    "change_number": "28692212",
+    "update_time": "2025-04-27 20:53:34",
     "depot": {
         "3292411": {
             "manifests": {
                 "public": {
-                    "gid": "1049471204435445576",
-                    "size": "273360654",
-                    "download": "113224160"
+                    "gid": "3139023840669163438",
+                    "size": "273304095",
+                    "download": "113160416"
                 }
             },
             "decryptionkey": "16d7ececf2db5ba5a981ed018dbc31e6def80aa76eb66c810161e377fa53e010"
         },
         "branches": {
             "public": {
-                "buildid": "18084458",
-                "timeupdated": "1744474311"
+                "buildid": "18235728",
+                "timeupdated": "1745571674"
             }
         },
         "privatebranches": "1"
