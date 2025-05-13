@@ -4,8 +4,8 @@
     "name": "Path of the Abyss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549761",
-    "update_time": "2025-04-18 21:07:40",
+    "change_number": "28901555",
+    "update_time": "2025-05-09 20:32:36",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1768651": {
             "manifests": {
                 "public": {
-                    "gid": "6817983067513736606",
-                    "size": "1405895078",
-                    "download": "1079036592"
+                    "gid": "6168945502803364908",
+                    "size": "1406348106",
+                    "download": "1079483616"
                 }
             },
             "decryptionkey": "3851d9d428d99c555d4edabbbe52ccd16c6e88d08202634eac75ed472d72fcb1"
         },
         "branches": {
             "public": {
-                "buildid": "18157961",
-                "timeupdated": "1744981656"
+                "buildid": "18402998",
+                "timeupdated": "1746793904"
             }
         },
         "privatebranches": "1"
