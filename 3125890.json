@@ -4,8 +4,8 @@
     "name": "Mineral Defense",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28441005",
-    "update_time": "2025-04-12 11:48:57",
+    "change_number": "28678920",
+    "update_time": "2025-04-26 11:48:21",
     "depot": {
         "228989": {
             "config": {
@@ -28,14 +28,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1067324774035342662",
-                    "size": "915653970",
-                    "download": "699890304"
+                    "gid": "8483818861292500074",
+                    "size": "914758929",
+                    "download": "700087184"
                 },
                 "nightly": {
-                    "gid": "7482062446186428166",
-                    "size": "914753799",
-                    "download": "699984704"
+                    "gid": "8483818861292500074",
+                    "size": "914758929",
+                    "download": "700087184"
                 }
             },
             "decryptionkey": "a7a9b39f854c3b38cfd2c6605ee1b6926b5799dd7e2f03d3b5a17c9d27f4c7f9"
@@ -47,26 +47,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4628056854943103295",
-                    "size": "791785121",
-                    "download": "579390928"
+                    "gid": "5801227393517249015",
+                    "size": "791714433",
+                    "download": "579521056"
                 },
                 "nightly": {
-                    "gid": "3492348115274244510",
-                    "size": "791610509",
-                    "download": "579412096"
+                    "gid": "5801227393517249015",
+                    "size": "791714433",
+                    "download": "579521056"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18066664",
-                "timeupdated": "1744347992"
+                "buildid": "18247051",
+                "timeupdated": "1745639297"
             },
             "nightly": {
-                "buildid": "18080862",
+                "buildid": "18247051",
                 "description": "Where the latest changes will be available. Has a greater chance of issues ands bugs.",
-                "timeupdated": "1744429734"
+                "timeupdated": "1745638998"
             }
         },
         "privatebranches": "1"
