@@ -4,8 +4,8 @@
     "name": "Quadrata",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28510172",
-    "update_time": "2025-04-16 22:37:02",
+    "change_number": "28920716",
+    "update_time": "2025-05-11 05:37:02",
     "depot": {
         "2066951": {
             "config": {
@@ -49,6 +49,7 @@
                 "buildid": "12200305",
                 "timeupdated": "1694791384"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
