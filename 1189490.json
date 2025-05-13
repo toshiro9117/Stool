@@ -4,8 +4,8 @@
     "name": "觅长生",
     "schinese_name": "觅长生",
     "isfreeapp": "0",
-    "change_number": "28074568",
-    "update_time": "2025-03-21 23:14:33",
+    "change_number": "28860016",
+    "update_time": "2025-05-07 19:02:22",
     "depot": {
         "1189491": {
             "manifests": {
@@ -35,6 +35,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "266a59b996ba6245f7bf915abcd51a1f573909c073b7322bd84f110dae4949af"
     }
 }
