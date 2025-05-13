@@ -4,8 +4,8 @@
     "name": "Minigame Madness Lite",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28324996",
-    "update_time": "2025-04-06 00:23:50",
+    "change_number": "28801790",
+    "update_time": "2025-05-04 00:34:00",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,ukrainian,vietnamese",
         "228988": {
@@ -35,16 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8745403611720103978",
-                    "size": "764387488",
-                    "download": "565834192"
+                    "gid": "909067636698245596",
+                    "size": "764551980",
+                    "download": "566016528"
                 }
-            }
+            },
+            "decryptionkey": "887399a7c54c68ebff7a46e1d21929130ab94e9940c762b0b6fe3ed78106e345"
         },
         "branches": {
             "public": {
-                "buildid": "17995770",
-                "timeupdated": "1743861417"
+                "buildid": "18332141",
+                "timeupdated": "1746280643"
             }
         },
         "privatebranches": "1"
