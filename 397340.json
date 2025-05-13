@@ -4,8 +4,8 @@
     "name": "SimplePlanes",
     "schinese_name": "简单飞行",
     "isfreeapp": "0",
-    "change_number": "27103127",
-    "update_time": "2025-01-22 08:52:26",
+    "change_number": "28867748",
+    "update_time": "2025-05-08 02:26:11",
     "depot": {
         "workshopdepot": "397340",
         "228990": {
@@ -36,9 +36,9 @@
                     "download": "232257312"
                 },
                 "public-test": {
-                    "gid": "9176549258675666926",
-                    "size": "822109154",
-                    "download": "236871120"
+                    "gid": "476984627647864900",
+                    "size": "860323247",
+                    "download": "244234688"
                 },
                 "steamdeck": {
                     "gid": "5909183538378229532",
@@ -129,9 +129,9 @@
                     "download": "228605200"
                 },
                 "public-test": {
-                    "gid": "2098985517179275026",
-                    "size": "846123681",
-                    "download": "239836592"
+                    "gid": "8390806571308692729",
+                    "size": "846490286",
+                    "download": "239958432"
                 },
                 "steamdeck": {
                     "gid": "7753023197774123665",
@@ -307,9 +307,9 @@
                 "timeupdated": "1644681922"
             },
             "public-test": {
-                "buildid": "12269645",
+                "buildid": "18378130",
                 "description": "Public Test",
-                "timeupdated": "1695590075"
+                "timeupdated": "1746642365"
             },
             "steamdeck": {
                 "buildid": "8247379",
