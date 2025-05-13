@@ -4,8 +4,8 @@
     "name": "Murky Divers",
     "schinese_name": "暗黑潜水员",
     "isfreeapp": "0",
-    "change_number": "28070222",
-    "update_time": "2025-03-21 19:14:47",
+    "change_number": "28836358",
+    "update_time": "2025-05-06 15:32:46",
     "depot": {
         "228989": {
             "config": {
@@ -73,6 +73,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "43146ea72e3548ec5c7fb79a4ced0b1cd87572542f6d6e8b14c1f7e2ec98760c"
     }
 }
