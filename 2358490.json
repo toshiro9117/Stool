@@ -4,23 +4,23 @@
     "name": "Goblin Down",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27056167",
-    "update_time": "2025-01-18 21:55:20",
+    "change_number": "28845585",
+    "update_time": "2025-05-07 00:32:25",
     "depot": {
         "2358491": {
             "manifests": {
                 "public": {
-                    "gid": "7160582622907108810",
-                    "size": "321902672",
-                    "download": "199466224"
+                    "gid": "8815480513613712077",
+                    "size": "321918059",
+                    "download": "199482768"
                 }
             },
             "decryptionkey": "a0218211199f0a473da42f64c70d294ebbd4ec310d7a9b77cf3c5c4204ddf34e"
         },
         "branches": {
             "public": {
-                "buildid": "16893828",
-                "timeupdated": "1735846273"
+                "buildid": "18346907",
+                "timeupdated": "1746453126"
             }
         }
     }
