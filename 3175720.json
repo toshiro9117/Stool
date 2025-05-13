@@ -4,15 +4,15 @@
     "name": "BM Love Cafe",
     "schinese_name": "黑山恋爱咖啡厅",
     "isfreeapp": "0",
-    "change_number": "28211185",
-    "update_time": "2025-03-30 09:12:46",
+    "change_number": "28921073",
+    "update_time": "2025-05-11 06:35:29",
     "depot": {
         "3175721": {
             "manifests": {
                 "public": {
-                    "gid": "568242952321362882",
-                    "size": "1519685932",
-                    "download": "264414288"
+                    "gid": "4229078597546823055",
+                    "size": "1669276902",
+                    "download": "291270624"
                 },
                 "allcg": {
                     "gid": "2865448670720682598",
@@ -26,8 +26,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17913032",
-                "timeupdated": "1743297162"
+                "buildid": "18410300",
+                "timeupdated": "1746836377"
             },
             "allcg": {
                 "buildid": "15456251",
