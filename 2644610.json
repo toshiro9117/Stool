@@ -4,16 +4,16 @@
     "name": "Menace from the Deep",
     "schinese_name": "蠕行的恐惧：克苏鲁选集",
     "isfreeapp": "0",
-    "change_number": "28548091",
-    "update_time": "2025-04-18 19:00:11",
+    "change_number": "28790539",
+    "update_time": "2025-05-03 02:17:29",
     "depot": {
         "hasdepotsindlc": "1",
         "2644611": {
             "manifests": {
                 "public": {
-                    "gid": "282462067139653829",
-                    "size": "3613104362",
-                    "download": "642219136"
+                    "gid": "4376809186039742669",
+                    "size": "4153527219",
+                    "download": "685420736"
                 }
             },
             "decryptionkey": "1904090690a12c756694f903980a0e97fb0057b2dad6885e1cda140e8041d758"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17924809",
-                "timeupdated": "1743434942"
+                "buildid": "18324623",
+                "timeupdated": "1746209845"
             }
         },
         "privatebranches": "1"
