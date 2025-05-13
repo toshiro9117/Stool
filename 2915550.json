@@ -4,8 +4,8 @@
     "name": "FOUNDRY: Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28542387",
-    "update_time": "2025-04-18 11:43:07",
+    "change_number": "28919005",
+    "update_time": "2025-05-11 01:23:27",
     "depot": {
         "1004": {
             "config": {
@@ -63,6 +63,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "719824720577140628",
+                    "size": "2116851737",
+                    "download": "1060222016"
+                },
+                "legacy_update_1": {
                     "gid": "8096038852330380352",
                     "size": "2292217284",
                     "download": "1067599792"
@@ -72,8 +77,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "18367100",
+                "timeupdated": "1746616923"
+            },
+            "legacy_update_1": {
                 "buildid": "15370692",
-                "timeupdated": "1723730213"
+                "description": "Legacy Update 1",
+                "timeupdated": "1746192272"
             }
         },
         "privatebranches": "1"
