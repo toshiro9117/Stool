@@ -4,8 +4,8 @@
     "name": "Drive Beyond Horizons",
     "schinese_name": "驾驶地平线",
     "isfreeapp": "0",
-    "change_number": "28540229",
-    "update_time": "2025-04-18 08:17:12",
+    "change_number": "28917959",
+    "update_time": "2025-05-10 23:02:50",
     "depot": {
         "228989": {
             "config": {
@@ -28,27 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6474954171242964230",
-                    "size": "8474505254",
-                    "download": "8231171856"
-                },
-                "oldsavesystem": {
-                    "gid": "8262611096300714803",
-                    "size": "7877360889",
-                    "download": "7628405344"
+                    "gid": "9124448901300102612",
+                    "size": "8458905531",
+                    "download": "8203023216"
                 }
             },
             "decryptionkey": "e6632a8ac0813239fe1784858878c1dc48c48075d55d2b4045f529ba7ba3a01c"
         },
         "branches": {
             "public": {
-                "buildid": "18149466",
-                "timeupdated": "1744926590"
-            },
-            "oldsavesystem": {
-                "buildid": "17907260",
-                "description": "Branch for old save system",
-                "timeupdated": "1743223065"
+                "buildid": "18339192",
+                "timeupdated": "1746442395"
             }
         },
         "privatebranches": "1"
