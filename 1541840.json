@@ -4,17 +4,17 @@
     "name": "古剑奇谭网络版 海外版",
     "schinese_name": "古剑奇谭网络版 海外版",
     "isfreeapp": "0",
-    "change_number": "28397924",
-    "update_time": "2025-04-10 09:31:04",
+    "change_number": "28872761",
+    "update_time": "2025-05-08 09:08:55",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,schinese,tchinese",
         "1541841": {
             "manifests": {
                 "public": {
-                    "gid": "5693081108711007105",
-                    "size": "118930863639",
-                    "download": "117377154960"
+                    "gid": "5406957866916128547",
+                    "size": "118930867158",
+                    "download": "117377154240"
                 }
             },
             "decryptionkey": "0f5631ce37d98adadf273d08f6fae0e481ff0ccd72eaed5230f9542ea036b3be"
@@ -22,17 +22,17 @@
         "1541842": {
             "manifests": {
                 "public": {
-                    "gid": "3771122326318541899",
-                    "size": "627556136",
-                    "download": "266342448"
+                    "gid": "8068195964129294071",
+                    "size": "627568424",
+                    "download": "266370512"
                 }
             },
             "decryptionkey": "2161fc9e8d3fd0b98f06144ae9b39eeefd137abad8de3802ea3e45a1d11dea95"
         },
         "branches": {
             "public": {
-                "buildid": "18037189",
-                "timeupdated": "1744248644"
+                "buildid": "18369749",
+                "timeupdated": "1746666531"
             }
         },
         "privatebranches": "1"
