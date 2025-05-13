@@ -4,8 +4,8 @@
     "name": "Crown and Adventure / 王冠与冒险  Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27986657",
-    "update_time": "2025-03-17 10:47:00",
+    "change_number": "28721288",
+    "update_time": "2025-04-29 14:57:46",
     "depot": {
         "228985": {
             "config": {
@@ -27,17 +27,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8999970787001275996",
-                    "size": "2406719260",
-                    "download": "2204176752"
+                    "gid": "2934135217607727793",
+                    "size": "2708657325",
+                    "download": "2495875472"
                 }
-            }
+            },
+            "decryptionkey": "30f9dfb6c17340d725b4a5ad647866294907b1131b1711151cbd0b7ff3943eb3"
         },
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "17707637",
-                "timeupdated": "1741864836"
+                "buildid": "18275700",
+                "timeupdated": "1745909858"
             }
         },
         "privatebranches": "1"
