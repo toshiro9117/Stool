@@ -4,8 +4,8 @@
     "name": "Desynced",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28543518",
-    "update_time": "2025-04-18 13:39:02",
+    "change_number": "28918650",
+    "update_time": "2025-05-11 00:29:56",
     "depot": {
         "228988": {
             "config": {
@@ -59,9 +59,9 @@
                     "download": "1833117376"
                 },
                 "experimental_ue5": {
-                    "gid": "1187210329785480978",
-                    "size": "2247497073",
-                    "download": "1833957072"
+                    "gid": "6359959241725849821",
+                    "size": "2492756397",
+                    "download": "2066909680"
                 },
                 "12595_stable": {
                     "gid": "8547825878322002984",
@@ -138,9 +138,9 @@
                 "timeupdated": "1739445700"
             },
             "experimental_ue5": {
-                "buildid": "17350433",
+                "buildid": "18375322",
                 "description": "Experimental Branch, use at your own risk!",
-                "timeupdated": "1739446212"
+                "timeupdated": "1746628392"
             },
             "12595_stable": {
                 "buildid": "13806639",
