@@ -4,8 +4,8 @@
     "name": "Ship of Fools",
     "schinese_name": "同舟共济",
     "isfreeapp": "0",
-    "change_number": "28537456",
-    "update_time": "2025-04-18 04:17:26",
+    "change_number": "28853085",
+    "update_time": "2025-05-07 10:23:09",
     "depot": {
         "228988": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7594638487794826799",
-                    "size": "2840975832",
-                    "download": "1240774352"
+                    "gid": "3772349829949341768",
+                    "size": "2953398901",
+                    "download": "1365462000"
                 }
             },
             "decryptionkey": "883b29255b4c97d3e7840bebc536032840afa67a523fe14b16462d25f394f3e9"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4491337005345644529",
-                    "size": "1225759611",
-                    "download": "905644960"
+                    "gid": "1951466549378458260",
+                    "size": "3410934684",
+                    "download": "1389783984"
                 }
             }
         },
@@ -55,26 +55,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5961248495866746710",
-                    "size": "3913358511",
-                    "download": "1286450416"
+                    "gid": "4226269568781581173",
+                    "size": "3225838222",
+                    "download": "1322415200"
                 }
             }
         },
         "1286584": {
             "manifests": {
                 "public": {
-                    "gid": "4830170744748370425",
-                    "size": "169298334",
-                    "download": "170391856"
+                    "gid": "1132894612518943174",
+                    "size": "169283377",
+                    "download": "170373520"
                 }
             },
             "decryptionkey": "8918ab551ce156f011f80abf247f2d05353c76d198cbdb1a81e5284b111a411d"
         },
         "branches": {
             "public": {
-                "buildid": "18100331",
-                "timeupdated": "1744641014"
+                "buildid": "18227196",
+                "timeupdated": "1745514675"
             }
         },
         "privatebranches": "1"
