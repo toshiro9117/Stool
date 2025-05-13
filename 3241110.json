@@ -4,10 +4,10 @@
     "name": "封神传God pass",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28486757",
-    "update_time": "2025-04-15 20:33:54",
+    "change_number": "28810633",
+    "update_time": "2025-05-04 23:02:43",
     "depot": {
-        "baselanguages": "english,german,koreana,schinese,tchinese,japanese",
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,japanese,vietnamese",
         "hasdepotsindlc": "1",
         "3241111": {
             "manifests": {
@@ -78,15 +78,15 @@
         "3518770": {
             "dlcappid": "3518770",
             "config": {
-                "language": "schinese",
+                "language": "tchinese",
                 "oslist": "windows",
                 "optionaldlc": "3518770"
             },
             "manifests": {
                 "public": {
-                    "gid": "9079894358340117748",
-                    "size": "413011346",
-                    "download": "298142432"
+                    "gid": "9150600530560334918",
+                    "size": "423517167",
+                    "download": "305908256"
                 }
             },
             "decryptionkey": ""
@@ -105,10 +105,48 @@
             },
             "decryptionkey": ""
         },
+        "3241117": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2399419381754431156",
+                    "size": "1155844268",
+                    "download": "233283392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3241118": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows",
+                "optionaldlc": "3518770"
+            },
+            "dlcappid": "3518770",
+            "manifests": {
+                "public": {
+                    "gid": "2370972493995221052",
+                    "size": "423492364",
+                    "download": "306861168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3518771": {
+            "dlcappid": "3518770",
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows",
+                "optionaldlc": "3518770"
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18113439",
-                "timeupdated": "1744720430"
+                "buildid": "18338432",
+                "timeupdated": "1746370940"
             }
         },
         "appmanagesdlc": "1"
