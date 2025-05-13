@@ -4,8 +4,8 @@
     "name": "Tactical Mission: Target Rush",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28303125",
-    "update_time": "2025-04-04 14:46:05",
+    "change_number": "28846373",
+    "update_time": "2025-05-07 01:12:52",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2895351": {
             "manifests": {
                 "public": {
-                    "gid": "1253587728343289625",
-                    "size": "6184886544",
-                    "download": "5837472960"
+                    "gid": "1499901312852190379",
+                    "size": "6577056718",
+                    "download": "6095408848"
                 }
             },
             "decryptionkey": "843b4aab25219e7abc5ebd2efecff62ebf7d825aa24e97d23986498394329b21"
         },
         "branches": {
             "public": {
-                "buildid": "17957523",
-                "timeupdated": "1743749159"
+                "buildid": "18362615",
+                "timeupdated": "1746551526"
             }
         },
         "privatebranches": "1"
