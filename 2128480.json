@@ -4,8 +4,8 @@
     "name": "Staffer Case: A Supernatural Mystery Adventure",
     "schinese_name": "Staffer Case - 异能缉凶",
     "isfreeapp": "0",
-    "change_number": "28031698",
-    "update_time": "2025-03-19 19:56:47",
+    "change_number": "28779803",
+    "update_time": "2025-05-02 12:26:11",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8445998115484900749",
-                    "size": "2798672079",
-                    "download": "2260653776"
+                    "gid": "623336238412844951",
+                    "size": "2798669808",
+                    "download": "2261458384"
                 }
             },
             "decryptionkey": "58d50e75515b3f6a86b2046004aed5de3908c4e5b2ba2e812cbd089a0ff3cae7"
@@ -54,8 +54,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17192890",
-                "timeupdated": "1738307802"
+                "buildid": "18317004",
+                "timeupdated": "1746159964"
             }
         },
         "privatebranches": "1"
