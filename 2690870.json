@@ -1,0 +1,55 @@
+{
+    "appid": "2690870",
+    "type": "Game",
+    "name": "Rogue Kingdoms",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28918668",
+    "update_time": "2025-05-11 00:32:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,brazilian,indonesian",
+        "2690871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "233654496658387927",
+                    "size": "811409167",
+                    "download": "142159520"
+                }
+            },
+            "decryptionkey": "a33f5438bc2d0f283a2de7666cd71ff07f5711f8686f31ded8122e028c224d00"
+        },
+        "2690872": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4908961119774372801",
+                    "size": "798733257",
+                    "download": "137518352"
+                }
+            }
+        },
+        "2690873": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2577103153283878682",
+                    "size": "813628292",
+                    "download": "144832432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18414848",
+                "timeupdated": "1746889573"
+            }
+        }
+    }
+}
