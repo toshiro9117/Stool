@@ -4,8 +4,8 @@
     "name": "Thunder Tier One",
     "schinese_name": "雷霆一号",
     "isfreeapp": "0",
-    "change_number": "27999303",
-    "update_time": "2025-03-18 01:54:53",
+    "change_number": "28705303",
+    "update_time": "2025-04-28 19:53:48",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "377300",
@@ -30,6 +30,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "cca0a068654ce000c2f4adfe5c218ffde8c2145dfd18fd0daad24a820108d9f3"
     }
 }
