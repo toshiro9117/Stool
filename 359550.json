@@ -4,8 +4,8 @@
     "name": "Tom Clancy's Rainbow Six Siege",
     "schinese_name": "彩虹六号®：围攻",
     "isfreeapp": "0",
-    "change_number": "28549727",
-    "update_time": "2025-04-18 21:04:33",
+    "change_number": "28913230",
+    "update_time": "2025-05-10 10:44:52",
     "depot": {
         "depotdeltapatches": "1",
         "baselanguages": "",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2619322944995294928",
-                    "size": "54984718138",
-                    "download": "52937198800"
+                    "gid": "8316097480525415272",
+                    "size": "55001307198",
+                    "download": "52952772160"
                 },
                 "local": {
                     "gid": "6496702401580528635",
@@ -320,8 +320,8 @@
         "377237": {
             "manifests": {
                 "public": {
-                    "gid": "8382986432868135995",
-                    "size": "5689518",
+                    "gid": "1638713000513694780",
+                    "size": "5689551",
                     "download": "5120336"
                 },
                 "local": {
@@ -335,8 +335,8 @@
         "377238": {
             "manifests": {
                 "public": {
-                    "gid": "3364322644809414267",
-                    "size": "5512355",
+                    "gid": "9055105948811185747",
+                    "size": "5512388",
                     "download": "5060320"
                 },
                 "local": {
@@ -438,8 +438,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18130595",
-                "timeupdated": "1744815749"
+                "buildid": "18390375",
+                "timeupdated": "1746715747"
             },
             "local": {
                 "buildid": "2203564",
