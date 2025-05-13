@@ -4,8 +4,8 @@
     "name": "KeepUp Survival",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549203",
-    "update_time": "2025-04-18 20:24:10",
+    "change_number": "28809531",
+    "update_time": "2025-05-04 20:09:15",
     "depot": {
         "228988": {
             "config": {
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8539473299125078950",
-                    "size": "17975789823",
-                    "download": "17339442240"
+                    "gid": "113166718774428366",
+                    "size": "17975415647",
+                    "download": "17339568144"
                 }
             },
             "decryptionkey": "1ceb76f0abd6cb3f022e98eff9073fa4c46f33172a7f369ef21f39f593757582"
@@ -76,8 +76,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18157560",
-                "timeupdated": "1744979046"
+                "buildid": "18211900",
+                "timeupdated": "1745431741"
             }
         }
     }
