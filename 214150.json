@@ -4,8 +4,8 @@
     "name": "Galactic Civilizations I: Ultimate Edition",
     "schinese_name": "银河文明1：终极版",
     "isfreeapp": "0",
-    "change_number": "28529124",
-    "update_time": "2025-04-17 20:49:50",
+    "change_number": "28842274",
+    "update_time": "2025-05-06 21:26:42",
     "depot": {
         "228981": {
             "config": {
@@ -25,12 +25,7 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "3255816285209261835",
-                    "size": "638606481",
-                    "download": "505936400"
-                },
-                "opt-in": {
-                    "gid": "3255816285209261835",
+                    "gid": "2783589573434767904",
                     "size": "638606481",
                     "download": "505936400"
                 }
@@ -40,13 +35,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "6694552",
-                "timeupdated": "1620913991"
-            },
-            "opt-in": {
-                "buildid": "6694552",
-                "description": "Full-screen Test",
-                "timeupdated": "1621269632"
+                "buildid": "18144168",
+                "timeupdated": "1746537996"
             }
         },
         "privatebranches": "1"
