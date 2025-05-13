@@ -4,23 +4,23 @@
     "name": "無休仙途/EndlessJourney",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28430068",
-    "update_time": "2025-04-11 21:42:26",
+    "change_number": "28916279",
+    "update_time": "2025-05-10 18:35:21",
     "depot": {
         "2654541": {
             "manifests": {
                 "public": {
-                    "gid": "3720425027122053957",
-                    "size": "989386877",
-                    "download": "582972528"
+                    "gid": "5405821742759719729",
+                    "size": "989745965",
+                    "download": "582980240"
                 }
             },
             "decryptionkey": "593e4681bf6fca95ddd5ce89407908fa324bdbeb85e7a28dfb1356afb44dc55f"
         },
         "branches": {
             "public": {
-                "buildid": "17968097",
-                "timeupdated": "1744378940"
+                "buildid": "18402787",
+                "timeupdated": "1746793064"
             }
         },
         "privatebranches": "1"
