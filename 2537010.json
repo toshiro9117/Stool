@@ -4,8 +4,8 @@
     "name": "MISTERY",
     "schinese_name": "幽霾",
     "isfreeapp": "0",
-    "change_number": "28204850",
-    "update_time": "2025-03-29 17:17:06",
+    "change_number": "28882143",
+    "update_time": "2025-05-08 20:59:37",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "",
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1659751131607752921",
-                    "size": "10680560329",
-                    "download": "7977911744"
+                    "gid": "4289110208876067129",
+                    "size": "10190965912",
+                    "download": "7690268736"
                 }
             },
             "decryptionkey": "93216e5e4d6dc2a636ca63d1861ef4e448bf3296f40f79cc3827ddc939a0fb61"
         },
         "branches": {
             "public": {
-                "buildid": "17886393",
-                "timeupdated": "1743099082"
+                "buildid": "18290266",
+                "timeupdated": "1745988168"
             }
         }
     }
