@@ -4,8 +4,8 @@
     "name": "ChatWaifu",
     "schinese_name": "AI萌娘",
     "isfreeapp": "0",
-    "change_number": "28212046",
-    "update_time": "2025-03-30 12:16:09",
+    "change_number": "28723132",
+    "update_time": "2025-04-29 16:53:50",
     "depot": {
         "2331611": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1740917563"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "d8cd5ca78c1aa83231030c3c1cf8d500c323f3770a69c75a8044659784f67a1b"
     }
 }
