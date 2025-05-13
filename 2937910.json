@@ -4,8 +4,8 @@
     "name": "Don't Disturb Your STEPMOM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28479131",
-    "update_time": "2025-04-15 11:39:44",
+    "change_number": "28921771",
+    "update_time": "2025-05-11 08:44:13",
     "depot": {
         "228989": {
             "config": {
@@ -52,14 +52,19 @@
         "2937911": {
             "manifests": {
                 "public": {
-                    "gid": "4776125924033141239",
-                    "size": "8128658528",
-                    "download": "6730317504"
+                    "gid": "1776900979132485443",
+                    "size": "10343861140",
+                    "download": "8971626496"
                 },
                 "testing": {
-                    "gid": "5783742989786240447",
-                    "size": "9330958876",
-                    "download": "8273450544"
+                    "gid": "1776900979132485443",
+                    "size": "10343861140",
+                    "download": "8971626496"
+                },
+                "vulkan": {
+                    "gid": "1776900979132485443",
+                    "size": "10343861140",
+                    "download": "8971626496"
                 }
             },
             "decryptionkey": "7f1c7ada777551a1a6b52b48d1def3e574cdc1aae86d2e5575821f5002fe0733"
@@ -67,13 +72,18 @@
         "workshopdepot": "2937910",
         "branches": {
             "public": {
-                "buildid": "16747975",
-                "timeupdated": "1734216728"
+                "buildid": "18417271",
+                "timeupdated": "1746924245"
             },
             "testing": {
-                "buildid": "18108144",
+                "buildid": "18417271",
                 "description": "Preview branch",
-                "timeupdated": "1744688378"
+                "timeupdated": "1746923993"
+            },
+            "vulkan": {
+                "buildid": "18415247",
+                "description": "vulkan driver",
+                "timeupdated": "1746894239"
             }
         },
         "privatebranches": "1",
