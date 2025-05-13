@@ -4,8 +4,8 @@
     "name": "Proton Experimental",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28511330",
-    "update_time": "2025-04-16 23:38:29",
+    "change_number": "28907603",
+    "update_time": "2025-05-10 02:20:31",
     "depot": {
         "1493711": {
             "config": {
@@ -15,34 +15,34 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4801678362639385661",
-                    "size": "1340468079",
-                    "download": "322840864"
-                },
-                "dualsense-haptics-wip": {
-                    "gid": "3648903187173470381",
-                    "size": "1234938991",
-                    "download": "290049520"
+                    "gid": "183705826286017440",
+                    "size": "1390851144",
+                    "download": "330430400"
                 },
                 "bleeding-edge": {
-                    "gid": "7524576451207494097",
-                    "size": "1340687260",
-                    "download": "322927040"
+                    "gid": "1216449087141061338",
+                    "size": "1390887047",
+                    "download": "330460080"
+                },
+                "bleeding-edge-9.0": {
+                    "gid": "2808953810619712121",
+                    "size": "1341026985",
+                    "download": "322972688"
                 },
                 "bleeding-edge-debug": {
-                    "gid": "446110784184855128",
-                    "size": "4877081298",
-                    "download": "939295984"
+                    "gid": "5765958890810748051",
+                    "size": "5014900479",
+                    "download": "956141520"
                 },
                 "debug": {
-                    "gid": "5722987330985380177",
-                    "size": "4866192707",
-                    "download": "938145456"
+                    "gid": "7832620796790472724",
+                    "size": "5014621110",
+                    "download": "956089760"
                 },
-                "old-media-source": {
-                    "gid": "6253612379687866984",
-                    "size": "1222460567",
-                    "download": "288202080"
+                "experimental-9": {
+                    "gid": "1437480922647224640",
+                    "size": "1340464254",
+                    "download": "322842608"
                 },
                 "test-bugid-23887-v2": {
                     "gid": "1031922658557353942",
@@ -54,33 +54,33 @@
         },
         "branches": {
             "public": {
-                "buildid": "17958858",
-                "timeupdated": "1743786432"
-            },
-            "dualsense-haptics-wip": {
-                "buildid": "12450672",
-                "description": "WIP DualSense support",
-                "timeupdated": "1697452971"
+                "buildid": "18404564",
+                "timeupdated": "1746814826"
             },
             "bleeding-edge": {
-                "buildid": "18131075",
+                "buildid": "18405880",
                 "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
-                "timeupdated": "1744817771"
+                "timeupdated": "1746807597"
+            },
+            "bleeding-edge-9.0": {
+                "buildid": "18283073",
+                "description": "the last 9.0 bleeding edge build",
+                "timeupdated": "1745965894"
             },
             "bleeding-edge-debug": {
-                "buildid": "18131116",
+                "buildid": "18405908",
                 "description": "as dangerous as regular bleeding-edge, just with debug symbols",
-                "timeupdated": "1744817903"
+                "timeupdated": "1746807741"
             },
             "debug": {
-                "buildid": "17958874",
+                "buildid": "18404591",
                 "description": "Unstripped",
-                "timeupdated": "1743786403"
+                "timeupdated": "1746814803"
             },
-            "old-media-source": {
-                "buildid": "16140680",
-                "description": "old-media-source",
-                "timeupdated": "1729707536"
+            "experimental-9": {
+                "buildid": "18226380",
+                "description": "the last released version of Proton Experimental 9.0",
+                "timeupdated": "1746108063"
             },
             "test-bugid-23887-v2": {
                 "buildid": "14693446",
