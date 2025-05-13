@@ -1,0 +1,29 @@
+{
+    "appid": "3446150",
+    "type": "Game",
+    "name": "Tsuki ni Yorisou Otome no Sahou 2",
+    "schinese_name": "近月少女的礼仪2",
+    "isfreeapp": "0",
+    "change_number": "28922544",
+    "update_time": "2025-05-11 11:33:19",
+    "depot": {
+        "3446151": {
+            "manifests": {
+                "public": {
+                    "gid": "3098658692828948300",
+                    "size": "14353337432",
+                    "download": "3054250992"
+                }
+            },
+            "decryptionkey": "d709f60e06a1c27e406523c460b2937e4a616bcf65cce5e31dc2d9e89c69f92e"
+        },
+        "baselanguages": "schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18402830",
+                "timeupdated": "1746795635"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
