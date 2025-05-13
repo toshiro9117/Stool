@@ -4,8 +4,8 @@
     "name": "Private Military Manager: Tactical Auto Battler Demo",
     "schinese_name": "私人军事经理：战术自动战斗 [体验版]",
     "isfreeapp": "0",
-    "change_number": "28337156",
-    "update_time": "2025-04-07 08:16:33",
+    "change_number": "28809833",
+    "update_time": "2025-05-04 21:01:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,16 +24,17 @@
         "2964011": {
             "manifests": {
                 "public": {
-                    "gid": "4605892723476529995",
-                    "size": "2179719696",
-                    "download": "1644718096"
+                    "gid": "7011710112076328820",
+                    "size": "1910937515",
+                    "download": "1288669728"
                 }
-            }
+            },
+            "decryptionkey": "d9b1b217b81e16721451142ae8adbfbeab62c99b50065a9420426ab0118fba6c"
         },
         "branches": {
             "public": {
-                "buildid": "17690318",
-                "timeupdated": "1741771631"
+                "buildid": "18328458",
+                "timeupdated": "1746234505"
             }
         },
         "privatebranches": "1"
