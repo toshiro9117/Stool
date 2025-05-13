@@ -4,8 +4,8 @@
     "name": "Project Arrhythmia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28234768",
-    "update_time": "2025-04-01 03:25:53",
+    "change_number": "28635686",
+    "update_time": "2025-04-24 11:17:42",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "440310",
@@ -45,14 +45,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3505432816074628600",
-                    "size": "848586462",
-                    "download": "465682064"
+                    "gid": "4003831988257268771",
+                    "size": "885492881",
+                    "download": "492514928"
                 },
                 "alpha": {
-                    "gid": "5155641040877184331",
-                    "size": "885498984",
-                    "download": "492525536"
+                    "gid": "4003831988257268771",
+                    "size": "885492881",
+                    "download": "492514928"
                 }
             },
             "decryptionkey": "751393c24525029f71ff78d38785beb04b3206384961c2cb01a0223eb9519f43"
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17044183",
-                "timeupdated": "1737141643"
+                "buildid": "18198276",
+                "timeupdated": "1745419988"
             },
             "alpha": {
-                "buildid": "17920330",
+                "buildid": "18198276",
                 "description": "Preview new features, patches before they hit the default branch!",
-                "timeupdated": "1743395806"
+                "timeupdated": "1745352203"
             }
         },
         "privatebranches": "1",
