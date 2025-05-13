@@ -4,8 +4,8 @@
     "name": "Just King",
     "schinese_name": "吾王保卫战 Just King",
     "isfreeapp": "0",
-    "change_number": "28496588",
-    "update_time": "2025-04-16 06:26:33",
+    "change_number": "28888521",
+    "update_time": "2025-05-09 02:52:02",
     "depot": {
         "baselanguages": "english",
         "1059981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "950267433668096850",
-                    "size": "527057269",
-                    "download": "275612144"
+                    "gid": "6801753668977606575",
+                    "size": "521091461",
+                    "download": "269615936"
                 },
                 "april_fools": {
                     "gid": "8540273319229980820",
@@ -29,8 +29,8 @@
         "workshopdepot": "1059980",
         "branches": {
             "public": {
-                "buildid": "18120105",
-                "timeupdated": "1744755989"
+                "buildid": "18393193",
+                "timeupdated": "1746730317"
             },
             "april_fools": {
                 "buildid": "17947811",
