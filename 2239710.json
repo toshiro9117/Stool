@@ -4,8 +4,8 @@
     "name": "Into the Dead: Our Darkest Days",
     "schinese_name": "勇闯死人谷：暗黑之日",
     "isfreeapp": "0",
-    "change_number": "28544282",
-    "update_time": "2025-04-18 14:49:53",
+    "change_number": "28852950",
+    "update_time": "2025-05-07 10:09:01",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,brazilian",
         "2239711": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2415605354653287270",
-                    "size": "6186007383",
-                    "download": "5279515856"
+                    "gid": "5898993445918716048",
+                    "size": "5707856795",
+                    "download": "4849926608"
                 },
                 "local": {
-                    "gid": "3035012416072427536",
-                    "size": "6156850860",
-                    "download": "5250066016"
+                    "gid": "5901182074582638094",
+                    "size": "5763391035",
+                    "download": "4893510448"
                 }
             },
             "decryptionkey": "b157624d7bd77e603f16902ecbb3c59596e83a552e4089ce119057efa9d2f0b4"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3366724112082305886",
-                    "size": "6524557846",
-                    "download": "5400183840"
+                    "gid": "8395659577330740191",
+                    "size": "6046134191",
+                    "download": "4968830624"
                 },
                 "local": {
                     "gid": "4778993126992830278",
@@ -47,14 +47,14 @@
         },
         "branches": {
             "public": {
-                "buildid": "18122557",
-                "timeupdated": "1744858766"
+                "buildid": "18341647",
+                "timeupdated": "1746481630"
             },
             "local": {
-                "buildid": "18107301",
+                "buildid": "18305365",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1744682206"
+                "timeupdated": "1746072657"
             }
         },
         "privatebranches": "1"
