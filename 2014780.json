@@ -4,8 +4,8 @@
     "name": "X-Plane 12",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28531305",
-    "update_time": "2025-04-17 22:40:43",
+    "change_number": "28902212",
+    "update_time": "2025-05-09 21:05:23",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -23,9 +23,9 @@
                     "download": "16568342928"
                 },
                 "public_beta": {
-                    "gid": "869362931116338101",
-                    "size": "32160508645",
-                    "download": "16615314000"
+                    "gid": "3418453688826758832",
+                    "size": "32140723297",
+                    "download": "16581944672"
                 }
             },
             "decryptionkey": "d434a3a2f8e493e4e5aba69d96015b4148060f784373d7a0d366377d79fa109d"
@@ -42,9 +42,9 @@
                     "download": "21271280"
                 },
                 "public_beta": {
-                    "gid": "4806171437202783280",
-                    "size": "93559672",
-                    "download": "21548016"
+                    "gid": "5508191468282489823",
+                    "size": "94151032",
+                    "download": "21630752"
                 }
             },
             "decryptionkey": "a2bf3327753266ca2e73e7e6c5dfe46a5ba12b3fba4ee1a856e20c13eb878c17"
@@ -60,9 +60,9 @@
                     "download": "196926416"
                 },
                 "public_beta": {
-                    "gid": "8346080836581955638",
-                    "size": "649420002",
-                    "download": "197296064"
+                    "gid": "5142764921678651172",
+                    "size": "651901170",
+                    "download": "197443472"
                 }
             },
             "decryptionkey": "8604e88b7e76537580a5a3f7c67b914394a68a621a270b800ee64951069a7559"
@@ -79,9 +79,9 @@
                     "download": "50301232"
                 },
                 "public_beta": {
-                    "gid": "1012298933155133392",
-                    "size": "124797804",
-                    "download": "50897520"
+                    "gid": "8324898194336165394",
+                    "size": "126031838",
+                    "download": "51296816"
                 }
             },
             "decryptionkey": "858fa2504e8bf5101dd680378e1c7a6333239030f84b6a4446cab9b48791c0a9"
@@ -92,9 +92,9 @@
                 "timeupdated": "1740676071"
             },
             "public_beta": {
-                "buildid": "18135404",
+                "buildid": "18395509",
                 "description": "public beta",
-                "timeupdated": "1744900836"
+                "timeupdated": "1746795915"
             }
         },
         "privatebranches": "1"
