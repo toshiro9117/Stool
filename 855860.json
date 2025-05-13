@@ -4,8 +4,8 @@
     "name": "Superfighters Deluxe",
     "schinese_name": "超级像素战士",
     "isfreeapp": "0",
-    "change_number": "28353316",
-    "update_time": "2025-04-08 04:26:10",
+    "change_number": "28888641",
+    "update_time": "2025-05-09 03:02:41",
     "depot": {
         "228983": {
             "config": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3292287492665210267",
-                    "size": "411855574",
-                    "download": "344245648"
+                    "gid": "2507535623118883938",
+                    "size": "411858432",
+                    "download": "336430768"
                 },
                 "sfd_v_1_2_0g": {
                     "gid": "63170819306635382",
@@ -101,9 +101,9 @@
                     "download": "344245648"
                 },
                 "sfd_v_1_4_0_beta": {
-                    "gid": "8223189733389203496",
-                    "size": "409400635",
-                    "download": "334220528"
+                    "gid": "2507535623118883938",
+                    "size": "411858432",
+                    "download": "336430768"
                 }
             },
             "decryptionkey": "c2ffe8f910948e3d9b3855dae6f58b0ae013a0b2bdf622df4ea5ee1ac8983a0d"
@@ -111,8 +111,8 @@
         "workshopdepot": "855860",
         "branches": {
             "public": {
-                "buildid": "8362541",
-                "timeupdated": "1647189967"
+                "buildid": "18180275",
+                "timeupdated": "1745239008"
             },
             "sfd_v_1_2_0g": {
                 "buildid": "3921478",
@@ -170,9 +170,9 @@
                 "timeupdated": "1742739166"
             },
             "sfd_v_1_4_0_beta": {
-                "buildid": "18015423",
+                "buildid": "18180275",
                 "description": "SFD v.1.4.0 (Beta)",
-                "timeupdated": "1744051845"
+                "timeupdated": "1745238735"
             }
         },
         "privatebranches": "1",
