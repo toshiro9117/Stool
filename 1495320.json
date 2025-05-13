@@ -4,8 +4,8 @@
     "name": "Carnal Instinct",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28509334",
-    "update_time": "2025-04-16 21:50:36",
+    "change_number": "28910575",
+    "update_time": "2025-05-10 06:03:35",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "3276349696"
                 },
                 "ue5_beta": {
-                    "gid": "7187302485636485344",
-                    "size": "5953288332",
-                    "download": "5703766944"
+                    "gid": "7574526477767081492",
+                    "size": "7136133333",
+                    "download": "6831568384"
                 }
             },
             "decryptionkey": "ca5070e2afd6a9665bbb4aaf33a228a623ac43c0c7b7a001a618a7cfcb2f6b53"
@@ -39,12 +39,12 @@
         "branches": {
             "public": {
                 "buildid": "11536020",
-                "timeupdated": "1687444476"
+                "timeupdated": "1745968846"
             },
             "ue5_beta": {
-                "buildid": "16830472",
+                "buildid": "18391460",
                 "description": "Unreal Engine 5 Beta",
-                "timeupdated": "1734919600"
+                "timeupdated": "1746724518"
             }
         },
         "privatebranches": "1"
