@@ -4,8 +4,8 @@
     "name": "Blue Prince",
     "schinese_name": "蓝途王子",
     "isfreeapp": "0",
-    "change_number": "28549092",
-    "update_time": "2025-04-18 20:14:14",
+    "change_number": "28919653",
+    "update_time": "2025-05-11 03:02:21",
     "depot": {
         "1569581": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "443549887050970309",
-                    "size": "4217471517",
-                    "download": "2988463376"
+                    "gid": "1922160561998483505",
+                    "size": "4151810249",
+                    "download": "2924692032"
                 }
             },
             "decryptionkey": "31965c819c33220b429da9fb8d633a2620f3b2b9e5f7ad47380878b719d85861"
@@ -32,10 +32,24 @@
                 }
             }
         },
+        "1569583": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7943926757383898843",
+                    "size": "3818818939",
+                    "download": "2544848752"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18157524",
-                "timeupdated": "1744985989"
+                "buildid": "18296918",
+                "timeupdated": "1746021880"
             }
         },
         "privatebranches": "1"
