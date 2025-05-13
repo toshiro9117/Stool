@@ -4,8 +4,8 @@
     "name": "Mech Engineer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28078882",
-    "update_time": "2025-03-22 03:19:10",
+    "change_number": "28605937",
+    "update_time": "2025-04-23 00:58:37",
     "depot": {
         "1428521": {
             "config": {
@@ -70,6 +70,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f3f031f1e751b8f731f96adaf8cb22f043309523f699046eb43183377bbf8f66"
     }
 }
