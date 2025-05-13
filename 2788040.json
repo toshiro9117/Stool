@@ -4,8 +4,8 @@
     "name": "Another Try 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549663",
-    "update_time": "2025-04-18 21:01:08",
+    "change_number": "28849286",
+    "update_time": "2025-05-07 04:32:20",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4393970424191822018",
-                    "size": "6265558573",
-                    "download": "1571446272"
+                    "gid": "7059754470009573867",
+                    "size": "5500847245",
+                    "download": "1141578656"
                 }
             },
             "decryptionkey": "3f69ba9ea50c91ad5ef8da8f9f48a2ace93fd2e9884cb1a7b00666a3a81e0508"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18161487",
-                "timeupdated": "1745006391"
+                "buildid": "18252189",
+                "timeupdated": "1745703857"
             }
         },
         "privatebranches": "1"
