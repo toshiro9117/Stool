@@ -4,8 +4,8 @@
     "name": "Murder Miners",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28519252",
-    "update_time": "2025-04-17 09:03:08",
+    "change_number": "28859318",
+    "update_time": "2025-05-07 18:17:06",
     "depot": {
         "228990": {
             "config": {
@@ -37,34 +37,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "343251569727607990",
-                    "size": "530902300",
-                    "download": "334365328"
-                },
-                "update40-beta": {
-                    "gid": "3719805744307161513",
-                    "size": "1303609437",
-                    "download": "756401088"
-                },
-                "update40-beta-fna": {
-                    "gid": "3719805744307161513",
-                    "size": "1303609437",
-                    "download": "756401088"
-                },
-                "update40-beta-legacy": {
-                    "gid": "2211744450817107270",
-                    "size": "474381262",
-                    "download": "260232240"
-                },
-                "fnatesting": {
-                    "gid": "3302685995122374862",
-                    "size": "560024007",
-                    "download": "302263808"
+                    "gid": "6061054660616748851",
+                    "size": "1424990994",
+                    "download": "850590144"
                 },
                 "update39": {
                     "gid": "7997383347586544155",
                     "size": "530902812",
                     "download": "334366032"
+                },
+                "classic_xboxone": {
+                    "gid": "8985444150942199556",
+                    "size": "490951132",
+                    "download": "324263456"
                 },
                 "classic_xbox360": {
                     "gid": "4704430753368039554",
@@ -82,14 +67,34 @@
                     "download": "42844896"
                 },
                 "beta": {
-                    "gid": "3719805744307161513",
-                    "size": "1303609437",
-                    "download": "756401088"
+                    "gid": "6061054660616748851",
+                    "size": "1424990994",
+                    "download": "850590144"
+                },
+                "update40-beta": {
+                    "gid": "6061054660616748851",
+                    "size": "1424990994",
+                    "download": "850590144"
+                },
+                "update40-beta-fna": {
+                    "gid": "6061054660616748851",
+                    "size": "1424990994",
+                    "download": "850590144"
+                },
+                "update40-beta-legacy": {
+                    "gid": "2211744450817107270",
+                    "size": "474381262",
+                    "download": "260232240"
                 },
                 "egghunt": {
                     "gid": "626448641272506025",
                     "size": "338926757",
                     "download": "161034800"
+                },
+                "fnatesting": {
+                    "gid": "3302685995122374862",
+                    "size": "560024007",
+                    "download": "302263808"
                 }
             },
             "decryptionkey": "47c8c5de20728ea128cdeab1aa121023dff106b685758b185e46fcd7d1c269c3"
@@ -100,34 +105,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7979589072199464679",
-                    "size": "623950102",
-                    "download": "366784368"
-                },
-                "update40-beta": {
-                    "gid": "3830555686352952638",
-                    "size": "1328966243",
-                    "download": "763466320"
-                },
-                "update40-beta-fna": {
-                    "gid": "3830555686352952638",
-                    "size": "1328966243",
-                    "download": "763466320"
-                },
-                "update40-beta-legacy": {
-                    "gid": "3848088715687456066",
-                    "size": "866447846",
-                    "download": "457684912"
-                },
-                "fnatesting": {
-                    "gid": "9197111265610343974",
-                    "size": "555194487",
-                    "download": "300452016"
+                    "gid": "6352119180242876534",
+                    "size": "1450618381",
+                    "download": "857750416"
                 },
                 "update39": {
                     "gid": "8838500307004025703",
                     "size": "623951126",
                     "download": "366784624"
+                },
+                "classic_xboxone": {
+                    "gid": "8701002411800496016",
+                    "size": "517521560",
+                    "download": "330759808"
                 },
                 "classic_xbox360": {
                     "gid": "5277539126956248024",
@@ -145,14 +135,34 @@
                     "download": "168248848"
                 },
                 "beta": {
-                    "gid": "3830555686352952638",
-                    "size": "1328966243",
-                    "download": "763466320"
+                    "gid": "6352119180242876534",
+                    "size": "1450618381",
+                    "download": "857750416"
+                },
+                "update40-beta": {
+                    "gid": "6352119180242876534",
+                    "size": "1450618381",
+                    "download": "857750416"
+                },
+                "update40-beta-fna": {
+                    "gid": "6352119180242876534",
+                    "size": "1450618381",
+                    "download": "857750416"
+                },
+                "update40-beta-legacy": {
+                    "gid": "3848088715687456066",
+                    "size": "866447846",
+                    "download": "457684912"
                 },
                 "egghunt": {
                     "gid": "5932270581273574566",
                     "size": "460029145",
                     "download": "213588640"
+                },
+                "fnatesting": {
+                    "gid": "9197111265610343974",
+                    "size": "555194487",
+                    "download": "300452016"
                 }
             },
             "decryptionkey": "031f83c3b63fdf937359c01d7f30c0aec97943e5582138cde41b688f4c423a07"
@@ -163,34 +173,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "850737902619403739",
-                    "size": "658827963",
-                    "download": "376622688"
-                },
-                "update40-beta": {
-                    "gid": "8838566719195169860",
-                    "size": "1373246587",
-                    "download": "771464032"
-                },
-                "update40-beta-fna": {
-                    "gid": "8838566719195169860",
-                    "size": "1373246587",
-                    "download": "771464032"
-                },
-                "update40-beta-legacy": {
-                    "gid": "5121402883524822866",
-                    "size": "907019546",
-                    "download": "464696304"
-                },
-                "fnatesting": {
-                    "gid": "3449750974956477502",
-                    "size": "590072083",
-                    "download": "310290112"
+                    "gid": "7213001070806004772",
+                    "size": "1495070538",
+                    "download": "865746000"
                 },
                 "update39": {
                     "gid": "4835231241590147984",
                     "size": "658828987",
                     "download": "376622944"
+                },
+                "classic_xboxone": {
+                    "gid": "6744613779066970339",
+                    "size": "517828548",
+                    "download": "331324336"
                 },
                 "classic_xbox360": {
                     "gid": "6924338018689182215",
@@ -208,14 +203,34 @@
                     "download": "172606432"
                 },
                 "beta": {
-                    "gid": "8838566719195169860",
-                    "size": "1373246587",
-                    "download": "771464032"
+                    "gid": "7213001070806004772",
+                    "size": "1495070538",
+                    "download": "865746000"
+                },
+                "update40-beta": {
+                    "gid": "7213001070806004772",
+                    "size": "1495070538",
+                    "download": "865746000"
+                },
+                "update40-beta-fna": {
+                    "gid": "7213001070806004772",
+                    "size": "1495070538",
+                    "download": "865746000"
+                },
+                "update40-beta-legacy": {
+                    "gid": "5121402883524822866",
+                    "size": "907019546",
+                    "download": "464696304"
                 },
                 "egghunt": {
                     "gid": "4645859308252203954",
                     "size": "488776220",
                     "download": "221691856"
+                },
+                "fnatesting": {
+                    "gid": "3449750974956477502",
+                    "size": "590072083",
+                    "download": "310290112"
                 }
             },
             "decryptionkey": "01393a1f9722aa0693dfa21044ca3973ab8ddf9dc662e74be52249443d338caf"
@@ -223,33 +238,18 @@
         "workshopdepot": "274900",
         "branches": {
             "public": {
-                "buildid": "15765242",
-                "timeupdated": "1743893574"
-            },
-            "update40-beta": {
-                "buildid": "18135164",
-                "description": "Update 40 Public Beta Build",
-                "timeupdated": "1744838930"
-            },
-            "update40-beta-fna": {
-                "buildid": "18135164",
-                "description": "FNA Update 40 Public Beta Build",
-                "timeupdated": "1744849265"
-            },
-            "update40-beta-legacy": {
-                "buildid": "16513204",
-                "description": "Update 40 Public Beta Build - XNA Version",
-                "timeupdated": "1732405513"
-            },
-            "fnatesting": {
-                "buildid": "14007979",
-                "description": "FNA Windows Build for Testing.",
-                "timeupdated": "1712742652"
+                "buildid": "18372342",
+                "timeupdated": "1746612955"
             },
             "update39": {
                 "buildid": "18137055",
                 "description": "Update 39.4, 2022-2025 pre update 40 release.",
                 "timeupdated": "1744851535"
+            },
+            "classic_xboxone": {
+                "buildid": "18201625",
+                "description": "Update 35, PC equivalent of the Xbox One version.",
+                "timeupdated": "1745375967"
             },
             "classic_xbox360": {
                 "buildid": "9484785",
@@ -267,13 +267,33 @@
                 "timeupdated": "1738603943"
             },
             "beta": {
-                "buildid": "18135164",
-                "timeupdated": "1744849495"
+                "buildid": "18372342",
+                "timeupdated": "1746612973"
+            },
+            "update40-beta": {
+                "buildid": "18372342",
+                "description": "Update 40 Public Beta Build",
+                "timeupdated": "1746613000"
+            },
+            "update40-beta-fna": {
+                "buildid": "18372342",
+                "description": "FNA Update 40 Public Beta Build",
+                "timeupdated": "1746612986"
+            },
+            "update40-beta-legacy": {
+                "buildid": "16513204",
+                "description": "Update 40 Public Beta Build - XNA Version",
+                "timeupdated": "1732405513"
             },
             "egghunt": {
                 "buildid": "10961357",
                 "description": "Egg Hunt and Trick or Treat Events.",
                 "timeupdated": "1680965631"
+            },
+            "fnatesting": {
+                "buildid": "14007979",
+                "description": "FNA Windows Build for Testing.",
+                "timeupdated": "1712742652"
             }
         },
         "privatebranches": "1",
