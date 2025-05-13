@@ -4,8 +4,8 @@
     "name": "Deep Dark Forest",
     "schinese_name": "深暗森林 Deep Dark Forest",
     "isfreeapp": "0",
-    "change_number": "28546214",
-    "update_time": "2025-04-18 17:03:58",
+    "change_number": "28894653",
+    "update_time": "2025-05-09 11:56:13",
     "depot": {
         "1312901": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5363976141482409686",
-                    "size": "1417004071",
-                    "download": "411895376"
+                    "gid": "2708397832207564995",
+                    "size": "2399596140",
+                    "download": "534918272"
                 }
             },
             "decryptionkey": "c61c80d332d48ad0b007208e6697311d3de94f48685dee62aecec591bb64252c"
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2351107835764221523",
-                    "size": "1416953391",
-                    "download": "412976208"
+                    "gid": "3899938822643307455",
+                    "size": "2399599181",
+                    "download": "536035616"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18145166",
-                "timeupdated": "1744899232"
+                "buildid": "18397926",
+                "timeupdated": "1746762969"
             }
         },
         "privatebranches": "1"
