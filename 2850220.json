@@ -4,25 +4,27 @@
     "name": "少女的移动城堡",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28342246",
-    "update_time": "2025-04-07 16:59:52",
+    "change_number": "28897198",
+    "update_time": "2025-05-09 15:59:22",
     "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "0",
         "2850221": {
             "manifests": {
                 "public": {
-                    "gid": "689091453059588700",
-                    "size": "643794401",
-                    "download": "491714816"
+                    "gid": "3205245917961965802",
+                    "size": "654375797",
+                    "download": "499774080"
                 }
             },
             "decryptionkey": "9103ddc9b429f88c627351d06883403e74cb9baabd6e70fc95c187e57a136db6"
         },
-        "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "18008714",
-                "timeupdated": "1744016387"
+                "buildid": "18399699",
+                "timeupdated": "1746777558"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
