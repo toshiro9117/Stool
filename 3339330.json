@@ -4,23 +4,23 @@
     "name": "Junkyard Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548433",
-    "update_time": "2025-04-18 19:26:33",
+    "change_number": "28916754",
+    "update_time": "2025-05-10 19:51:14",
     "depot": {
         "3339331": {
             "manifests": {
                 "public": {
-                    "gid": "6617954690659521106",
-                    "size": "3593071151",
-                    "download": "1322073952"
+                    "gid": "9216396086789996542",
+                    "size": "4460469157",
+                    "download": "1659527328"
                 }
             },
             "decryptionkey": "3b66c312e31f8601136acfb71627f8b86904a62555395569f8acb4cfd2dfb57f"
         },
         "branches": {
             "public": {
-                "buildid": "18158552",
-                "timeupdated": "1744986882"
+                "buildid": "18404874",
+                "timeupdated": "1746804769"
             }
         },
         "privatebranches": "1"
