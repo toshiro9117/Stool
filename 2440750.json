@@ -4,8 +4,8 @@
     "name": "Silent North",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549886",
-    "update_time": "2025-04-18 21:16:45",
+    "change_number": "28892029",
+    "update_time": "2025-05-09 07:39:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2440752": {
             "manifests": {
                 "public": {
-                    "gid": "7700150157102091337",
-                    "size": "2006309262",
-                    "download": "1615500272"
+                    "gid": "2384934719258711367",
+                    "size": "1839629051",
+                    "download": "1450365360"
                 }
             },
             "decryptionkey": "00d9dd15a98f0c7e647e9ee304b158435db7197fb839bf49fd0b09a37de22f9f"
         },
         "branches": {
             "public": {
-                "buildid": "18078182",
-                "timeupdated": "1744409779"
+                "buildid": "18395834",
+                "timeupdated": "1746747592"
             }
         },
         "privatebranches": "1"
