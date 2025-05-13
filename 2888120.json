@@ -4,8 +4,8 @@
     "name": "Auto Clicker",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28177279",
-    "update_time": "2025-03-28 03:18:25",
+    "change_number": "28902289",
+    "update_time": "2025-05-09 21:09:44",
     "depot": {
         "229007": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2408829237109597678",
-                    "size": "366478103",
-                    "download": "109119424"
+                    "gid": "5469470721950977583",
+                    "size": "365445645",
+                    "download": "109575024"
                 },
                 "local": {
                     "gid": "5651539174729152593",
@@ -35,8 +35,8 @@
         "workshopdepot": "2888120",
         "branches": {
             "public": {
-                "buildid": "17727727",
-                "timeupdated": "1741967747"
+                "buildid": "18403480",
+                "timeupdated": "1746796180"
             },
             "local": {
                 "buildid": "13742314",
