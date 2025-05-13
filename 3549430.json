@@ -4,8 +4,8 @@
     "name": "Veins of DARKNESS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28400115",
-    "update_time": "2025-04-10 13:10:06",
+    "change_number": "28630772",
+    "update_time": "2025-04-24 05:06:36",
     "depot": {
         "baselanguages": "",
         "hasdepotsindlc": "0",
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6041703745925179157",
-                    "size": "3036531863",
-                    "download": "2312711808"
+                    "gid": "6369325898162740458",
+                    "size": "3038507033",
+                    "download": "2314115008"
                 }
             },
             "decryptionkey": "de3df6d5f5cb1b719b90eb8a56347879e7cfc4a6d82193cf2d5d0bc8a800d4b0"
         },
         "branches": {
             "public": {
-                "buildid": "18044220",
-                "timeupdated": "1744261802"
+                "buildid": "18208143",
+                "timeupdated": "1745413463"
             }
         }
     }
