@@ -4,8 +4,8 @@
     "name": "BMX Streets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539720",
-    "update_time": "2025-04-18 07:31:52",
+    "change_number": "28918220",
+    "update_time": "2025-05-10 23:33:53",
     "depot": {
         "228989": {
             "config": {
@@ -49,9 +49,9 @@
                     "download": "4889440816"
                 },
                 "2.0prealpha": {
-                    "gid": "910405657291793905",
-                    "size": "1909158298",
-                    "download": "295432192"
+                    "gid": "4850229289769166517",
+                    "size": "2265802539",
+                    "download": "437760656"
                 },
                 "developer": {
                     "gid": "2505700546001734324",
@@ -59,9 +59,9 @@
                     "download": "3476864896"
                 },
                 "dont": {
-                    "gid": "910405657291793905",
-                    "size": "1909158298",
-                    "download": "295432192"
+                    "gid": "4850229289769166517",
+                    "size": "2265802539",
+                    "download": "437760656"
                 },
                 "experimental": {
                     "gid": "2644275486910898954",
@@ -82,9 +82,9 @@
                 "timeupdated": "1712859659"
             },
             "2.0prealpha": {
-                "buildid": "18151015",
+                "buildid": "18414973",
                 "description": "Streets 2.0 Pre-Alpha",
-                "timeupdated": "1744932703"
+                "timeupdated": "1746891214"
             },
             "developer": {
                 "buildid": "15175986",
@@ -92,15 +92,16 @@
                 "timeupdated": "1722144088"
             },
             "dont": {
-                "buildid": "18151015",
+                "buildid": "18414973",
                 "description": "Pre-Pre-Alpha",
-                "timeupdated": "1744932709"
+                "timeupdated": "1746891177"
             },
             "experimental": {
                 "buildid": "14632959",
                 "description": "experiments",
                 "timeupdated": "1717721314"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
