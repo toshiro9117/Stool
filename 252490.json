@@ -4,8 +4,8 @@
     "name": "Rust",
     "schinese_name": "腐蚀",
     "isfreeapp": "0",
-    "change_number": "28483551",
-    "update_time": "2025-04-15 17:16:19",
+    "change_number": "28896991",
+    "update_time": "2025-05-09 15:46:25",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -32,24 +32,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7430522735051383686",
-                    "size": "38814592604",
-                    "download": "21779034352"
+                    "gid": "1549424205335016410",
+                    "size": "41334776060",
+                    "download": "22940559344"
                 },
                 "last-last-month": {
-                    "gid": "3494012198436129939",
-                    "size": "38216806465",
-                    "download": "21505442352"
-                },
-                "last-month": {
                     "gid": "8731850155050174114",
                     "size": "38598297147",
                     "download": "21660995296"
                 },
+                "last-month": {
+                    "gid": "7430522735051383686",
+                    "size": "38814592604",
+                    "download": "21779034352"
+                },
                 "test": {
-                    "gid": "1921781596203362890",
-                    "size": "38820684940",
-                    "download": "21782399936"
+                    "gid": "2764762970517867700",
+                    "size": "41335204844",
+                    "download": "22941058496"
                 }
             },
             "decryptionkey": "5d5f72c0460cb7598666696c1b2f612f22efb43fb87cf4322e596bfec8a231ec"
@@ -61,24 +61,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6553922847665339902",
-                    "size": "6064755627",
-                    "download": "2149506176"
+                    "gid": "3227146517540025386",
+                    "size": "6511394412",
+                    "download": "2356202224"
                 },
                 "last-last-month": {
-                    "gid": "8411488567255730197",
-                    "size": "5929588735",
-                    "download": "2077930800"
-                },
-                "last-month": {
                     "gid": "9057316328144875299",
                     "size": "6037556573",
                     "download": "2133489408"
                 },
+                "last-month": {
+                    "gid": "6553922847665339902",
+                    "size": "6064755627",
+                    "download": "2149506176"
+                },
                 "test": {
-                    "gid": "7563099502599742421",
-                    "size": "6064748116",
-                    "download": "2149503456"
+                    "gid": "3817369318105651577",
+                    "size": "6511960944",
+                    "download": "2356855296"
                 }
             },
             "decryptionkey": "96b750328197855f4311ba6ad6d86e9051866cc6b9a6c851de55cc41b8ad9a24"
@@ -91,47 +91,47 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "389421182216976169",
-                    "size": "889025442",
-                    "download": "478596032"
+                    "gid": "6823707886316128431",
+                    "size": "879719471",
+                    "download": "478197296"
                 },
                 "last-last-month": {
-                    "gid": "1916884352598295971",
-                    "size": "960252866",
-                    "download": "494843520"
-                },
-                "last-month": {
                     "gid": "4762302534028068430",
                     "size": "889223269",
                     "download": "478696752"
                 },
+                "last-month": {
+                    "gid": "389421182216976169",
+                    "size": "889025442",
+                    "download": "478596032"
+                },
                 "test": {
-                    "gid": "7706916319218620970",
-                    "size": "889041451",
-                    "download": "478702176"
+                    "gid": "4561705932199731464",
+                    "size": "880694827",
+                    "download": "478367904"
                 }
             },
             "decryptionkey": "728fcdc1c6af4454f3c86e5bc62a75875af5ba790cc8a2623620e216086e034d"
         },
         "branches": {
             "public": {
-                "buildid": "18072372",
-                "timeupdated": "1744393378"
+                "buildid": "18338309",
+                "timeupdated": "1746371961"
             },
             "last-last-month": {
-                "buildid": "17528248",
+                "buildid": "17901495",
                 "description": "Last last months patch",
-                "timeupdated": "1743700557"
+                "timeupdated": "1746121661"
             },
             "last-month": {
-                "buildid": "17901495",
+                "buildid": "18072372",
                 "description": "Last months patch",
-                "timeupdated": "1743700586"
+                "timeupdated": "1746121686"
             },
             "test": {
-                "buildid": "17965322",
+                "buildid": "18310825",
                 "description": "GPU skinning test",
-                "timeupdated": "1743700467"
+                "timeupdated": "1746121865"
             }
         },
         "privatebranches": "1",
