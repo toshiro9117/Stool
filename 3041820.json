@@ -4,8 +4,8 @@
     "name": "Lilia: The Fallen Flower in the Prison City",
     "schinese_name": "乱欲牢城~监狱都市的花之少女~",
     "isfreeapp": "0",
-    "change_number": "28535239",
-    "update_time": "2025-04-18 01:58:46",
+    "change_number": "28593011",
+    "update_time": "2025-04-22 10:42:02",
     "depot": {
         "3041821": {
             "manifests": {
@@ -23,8 +23,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3257679860599090367",
-                    "size": "442911197",
+                    "gid": "1850919591991688249",
+                    "size": "442911200",
                     "download": "381226688"
                 }
             },
@@ -43,10 +43,21 @@
             },
             "decryptionkey": ""
         },
+        "3661540": {
+            "dlcappid": "3661540",
+            "manifests": {
+                "public": {
+                    "gid": "5885255478826982259",
+                    "size": "3967901",
+                    "download": "3856608"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17789904",
-                "timeupdated": "1742447756"
+                "buildid": "18187145",
+                "timeupdated": "1745289209"
             }
         }
     }
