@@ -4,8 +4,8 @@
     "name": "Clanfolk",
     "schinese_name": "族人 Clanfolk",
     "isfreeapp": "0",
-    "change_number": "28545321",
-    "update_time": "2025-04-18 16:04:05",
+    "change_number": "28921333",
+    "update_time": "2025-05-11 07:22:30",
     "depot": {
         "1700871": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "228497264"
                 },
                 "testing": {
-                    "gid": "2990652620375542397",
-                    "size": "717694752",
-                    "download": "228498768"
+                    "gid": "81146395066832102",
+                    "size": "807967852",
+                    "download": "252513744"
                 }
             },
             "decryptionkey": "279d4f9fe1b44e97299ee0c570d08dfc6aa69119cc9c5c1a5d1cc3467f4811c7"
@@ -33,9 +33,9 @@
                 "timeupdated": "1741980496"
             },
             "testing": {
-                "buildid": "17772041",
+                "buildid": "18416936",
                 "description": "test Clanfolk between major version releases",
-                "timeupdated": "1742336706"
+                "timeupdated": "1746919345"
             }
         },
         "privatebranches": "1"
