@@ -4,8 +4,8 @@
     "name": "Command: Modern Operations",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28470102",
-    "update_time": "2025-04-15 00:10:05",
+    "change_number": "28731538",
+    "update_time": "2025-04-30 00:21:56",
     "depot": {
         "228989": {
             "config": {
@@ -47,6 +47,11 @@
                     "gid": "2661544588576315632",
                     "size": "25289885466",
                     "download": "15222103104"
+                },
+                "beta": {
+                    "gid": "5722075220049409033",
+                    "size": "36939706740",
+                    "download": "24029043392"
                 }
             },
             "decryptionkey": "7382251e4b0b939ed609909546aa5b1f2eba470796291b9b7a586fc7be38612d"
@@ -62,6 +67,11 @@
                     "gid": "1675218491816951014",
                     "size": "9516833",
                     "download": "7261216"
+                },
+                "beta": {
+                    "gid": "6860335337717603540",
+                    "size": "191404102",
+                    "download": "190829120"
                 }
             },
             "decryptionkey": "180fe6de8201be6c1ab969105660e0ecd48339b08119cbf85b0dd48096faee67"
@@ -75,6 +85,11 @@
                 "buildid": "11782180",
                 "description": "32-bit legacy",
                 "timeupdated": "1691504211"
+            },
+            "beta": {
+                "buildid": "18236538",
+                "description": "Open Beta",
+                "timeupdated": "1745943713"
             }
         },
         "privatebranches": "1",
