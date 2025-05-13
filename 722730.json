@@ -4,8 +4,8 @@
     "name": "Cogmind",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28419611",
-    "update_time": "2025-04-11 09:54:43",
+    "change_number": "28898364",
+    "update_time": "2025-05-09 17:09:21",
     "depot": {
         "228983": {
             "config": {
@@ -20,27 +20,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1042723619271241737",
-                    "size": "49209861",
-                    "download": "41752128"
+                    "gid": "9187020330021144416",
+                    "size": "51913577",
+                    "download": "44220528"
                 },
                 "legacy_beta_13": {
                     "gid": "4901783649765144020",
                     "size": "52286078",
                     "download": "44391072"
+                },
+                "legacy_beta_14": {
+                    "gid": "1042723619271241737",
+                    "size": "49209861",
+                    "download": "41752128"
                 }
             },
             "decryptionkey": "25240df3d4d832044a0c94e601dae06dd0fa0a10316cbbc20711eb4befae1f9a"
         },
         "branches": {
             "public": {
-                "buildid": "15563943",
-                "timeupdated": "1725261237"
+                "buildid": "18400552",
+                "timeupdated": "1746781758"
             },
             "legacy_beta_13": {
                 "buildid": "14035768",
                 "description": "Beta 13 - 240412a",
                 "timeupdated": "1722906186"
+            },
+            "legacy_beta_14": {
+                "buildid": "15563943",
+                "description": "Beta 14 - 240902a",
+                "timeupdated": "1746486733"
             }
         },
         "privatebranches": "1"
