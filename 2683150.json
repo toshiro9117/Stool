@@ -4,8 +4,8 @@
     "name": "Ale & Tale Tavern",
     "schinese_name": "传说酒馆",
     "isfreeapp": "0",
-    "change_number": "28528092",
-    "update_time": "2025-04-17 19:49:51",
+    "change_number": "28781647",
+    "update_time": "2025-05-02 15:45:37",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "2683151": {
             "manifests": {
                 "public": {
-                    "gid": "4361992458820135239",
-                    "size": "4123625383",
-                    "download": "1365830720"
+                    "gid": "5905438660204801724",
+                    "size": "4123761839",
+                    "download": "1365813568"
                 },
                 "prv2": {
                     "gid": "590502473402878070",
@@ -32,9 +32,9 @@
                     "download": "1222692800"
                 },
                 "test": {
-                    "gid": "2686399677692853791",
-                    "size": "4144585149",
-                    "download": "1370548288"
+                    "gid": "2674472566704684917",
+                    "size": "4144721605",
+                    "download": "1370532672"
                 },
                 "v1.4.2": {
                     "gid": "3874936663267624815",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18142241",
-                "timeupdated": "1744886376"
+                "buildid": "18208772",
+                "timeupdated": "1745417878"
             },
             "prv2": {
                 "buildid": "16656249",
@@ -60,9 +60,9 @@
                 "timeupdated": "1737704562"
             },
             "test": {
-                "buildid": "18142235",
+                "buildid": "18208761",
                 "description": "Public",
-                "timeupdated": "1744884505"
+                "timeupdated": "1745417011"
             },
             "v1.4.2": {
                 "buildid": "17794957",
