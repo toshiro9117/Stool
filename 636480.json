@@ -4,8 +4,8 @@
     "name": "Ravenfield",
     "schinese_name": "战地模拟器",
     "isfreeapp": "0",
-    "change_number": "28509317",
-    "update_time": "2025-04-16 21:49:30",
+    "change_number": "28903946",
+    "update_time": "2025-05-09 22:48:28",
     "depot": {
         "636481": {
             "config": {
@@ -33,11 +33,6 @@
                     "size": "1999418220",
                     "download": "675406784"
                 },
-                "experimental": {
-                    "gid": "3893186534429657894",
-                    "size": "1999073364",
-                    "download": "675134656"
-                },
                 "legacy-ea29": {
                     "gid": "5594148554274595620",
                     "size": "1992872044",
@@ -47,6 +42,11 @@
                     "gid": "3893186534429657894",
                     "size": "1999073364",
                     "download": "675134656"
+                },
+                "test": {
+                    "gid": "59062814671627329",
+                    "size": "2109481484",
+                    "download": "718398416"
                 }
             },
             "decryptionkey": "85a0ec71b9f6fb33c36056ce85f0937f8465b590f8cacb1d7eef63d2d9a0061c"
@@ -77,11 +77,6 @@
                     "size": "1992005734",
                     "download": "673593824"
                 },
-                "experimental": {
-                    "gid": "389457069557587729",
-                    "size": "1991660870",
-                    "download": "673324448"
-                },
                 "legacy-ea29": {
                     "gid": "6046542363243417937",
                     "size": "1989932390",
@@ -91,6 +86,11 @@
                     "gid": "389457069557587729",
                     "size": "1991660870",
                     "download": "673324448"
+                },
+                "test": {
+                    "gid": "6180208237620932111",
+                    "size": "2102068998",
+                    "download": "716579376"
                 }
             },
             "decryptionkey": "cabf23d189b4c72001daad4116232b4edacf160742f8dcbc63a39cd935d1e220"
@@ -120,11 +120,6 @@
                     "size": "2026961843",
                     "download": "687547584"
                 },
-                "experimental": {
-                    "gid": "1680182117857674698",
-                    "size": "2026616475",
-                    "download": "687308304"
-                },
                 "legacy-ea29": {
                     "gid": "1359403156121038595",
                     "size": "1996351095",
@@ -134,6 +129,11 @@
                     "gid": "1680182117857674698",
                     "size": "2026616475",
                     "download": "687308304"
+                },
+                "test": {
+                    "gid": "7443642418665050859",
+                    "size": "2137025223",
+                    "download": "730546752"
                 }
             },
             "decryptionkey": "a03e024cec8d0e31aaacd382005c4329f781587c1ddb2eb83248d5eca4488e37"
@@ -163,11 +163,6 @@
                     "size": "2077180240",
                     "download": "694377856"
                 },
-                "experimental": {
-                    "gid": "4779010467759053944",
-                    "size": "2076834872",
-                    "download": "694108384"
-                },
                 "legacy-ea29": {
                     "gid": "992388466436561328",
                     "size": "2046569000",
@@ -177,6 +172,11 @@
                     "gid": "4779010467759053944",
                     "size": "2076834872",
                     "download": "694108384"
+                },
+                "test": {
+                    "gid": "1628564286826060081",
+                    "size": "2187245080",
+                    "download": "737342480"
                 }
             },
             "decryptionkey": "4af2541c989f166ad952fdfcabb3968e30b9c76c86c684c65768f2dd3f6afeb7"
@@ -202,11 +202,6 @@
                 "description": "Latest builds, might be buggy!!!",
                 "timeupdated": "1744811365"
             },
-            "experimental": {
-                "buildid": "16680387",
-                "description": "Test builds, probably very outdated and not what you want!",
-                "timeupdated": "1733748244"
-            },
             "legacy-ea29": {
                 "buildid": "14428568",
                 "description": "RavenM really is stuck on this patch huh?",
@@ -216,6 +211,11 @@
                 "buildid": "16680387",
                 "description": "The previous EA update, use when running mods that haven't yet been updated.",
                 "timeupdated": "1741967488"
+            },
+            "test": {
+                "buildid": "18404790",
+                "description": "Test builds, even buggier than beta branch! HOWWW",
+                "timeupdated": "1746802105"
             }
         },
         "privatebranches": "1",
