@@ -4,23 +4,23 @@
     "name": "Sky Oceans: Wings for Hire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28244913",
-    "update_time": "2025-04-01 17:09:17",
+    "change_number": "28612982",
+    "update_time": "2025-04-23 10:19:50",
     "depot": {
         "1691751": {
             "manifests": {
                 "public": {
-                    "gid": "4804666996336183293",
-                    "size": "9472992304",
-                    "download": "2537306448"
+                    "gid": "6998441994578541802",
+                    "size": "9310307976",
+                    "download": "2453314496"
                 }
             },
             "decryptionkey": "6884b21dca6e140b010827c9904e88b77584627f52d5540202d320b785e9855d"
         },
         "branches": {
             "public": {
-                "buildid": "16074668",
-                "timeupdated": "1729263568"
+                "buildid": "17883465",
+                "timeupdated": "1744491073"
             }
         },
         "privatebranches": "1"
