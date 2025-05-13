@@ -4,8 +4,8 @@
     "name": "ICBM: Escalation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28466671",
-    "update_time": "2025-04-14 20:47:06",
+    "change_number": "28798595",
+    "update_time": "2025-05-03 16:29:38",
     "depot": {
         "228990": {
             "config": {
@@ -24,14 +24,14 @@
         "2647681": {
             "manifests": {
                 "public": {
+                    "gid": "7922092759804978127",
+                    "size": "6081455314",
+                    "download": "5126080864"
+                },
+                "legacy": {
                     "gid": "5958671166726840041",
                     "size": "5964486503",
                     "download": "5074374624"
-                },
-                "legacy": {
-                    "gid": "6671629120081331010",
-                    "size": "5964485479",
-                    "download": "5074376800"
                 }
             },
             "decryptionkey": "b1bf03cc4418c9b103c1d3e63e121d3b36137b3a70cd03b7662c3b155a365a91"
@@ -39,14 +39,14 @@
         "2647682": {
             "manifests": {
                 "public": {
+                    "gid": "1469593302833114994",
+                    "size": "3540053",
+                    "download": "1290768"
+                },
+                "legacy": {
                     "gid": "2246846154666979650",
                     "size": "3592214",
                     "download": "1297952"
-                },
-                "legacy": {
-                    "gid": "5963947239190846580",
-                    "size": "3512689",
-                    "download": "1266768"
                 }
             },
             "decryptionkey": "89cba265964e76f3b0c5986e82b514b75d3292ad19c6e554cde5d67a57906e4e"
@@ -54,13 +54,13 @@
         "workshopdepot": "2647680",
         "branches": {
             "public": {
-                "buildid": "17423597",
-                "timeupdated": "1739977447"
+                "buildid": "18320296",
+                "timeupdated": "1746196877"
             },
             "legacy": {
-                "buildid": "17369699",
+                "buildid": "17423597",
                 "description": "revert back a version",
-                "timeupdated": "1739914226"
+                "timeupdated": "1746031119"
             }
         },
         "privatebranches": "1",
