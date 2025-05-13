@@ -4,8 +4,8 @@
     "name": "Three Kingdoms: The Last Warlord",
     "schinese_name": "三国志汉末霸业",
     "isfreeapp": "0",
-    "change_number": "28543601",
-    "update_time": "2025-04-18 13:48:23",
+    "change_number": "28679092",
+    "update_time": "2025-04-26 12:13:36",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,latam,vietnamese",
         "hasdepotsindlc": "1",
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5986120908041017370",
-                    "size": "3592909831",
-                    "download": "1116054640"
+                    "gid": "1515955014887254546",
+                    "size": "3601536129",
+                    "download": "1116895680"
                 },
                 "test": {
                     "gid": "1634678261806136573",
@@ -135,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1542600273736146831",
-                    "size": "3592909831",
-                    "download": "1116056400"
+                    "gid": "3410006239898260880",
+                    "size": "3601536129",
+                    "download": "1116905680"
                 },
                 "test": {
                     "gid": "7322417346979029126",
@@ -149,8 +149,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18127758",
-                "timeupdated": "1744802237"
+                "buildid": "18221328",
+                "timeupdated": "1745486399"
             },
             "test": {
                 "buildid": "12385017",
