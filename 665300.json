@@ -4,8 +4,8 @@
     "name": "Stream Avatars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548481",
-    "update_time": "2025-04-18 19:30:00",
+    "change_number": "28774306",
+    "update_time": "2025-05-02 03:31:58",
     "depot": {
         "228990": {
             "config": {
@@ -42,9 +42,9 @@
                     "download": "38675488"
                 },
                 "beta--1": {
-                    "gid": "3726838348763296007",
-                    "size": "207775982",
-                    "download": "49848112"
+                    "gid": "4104399790258673780",
+                    "size": "207926726",
+                    "download": "49863824"
                 }
             },
             "decryptionkey": "3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8"
@@ -102,9 +102,9 @@
                 "timeupdated": "1723158208"
             },
             "beta--1": {
-                "buildid": "18157114",
+                "buildid": "18313097",
                 "description": "beta1",
-                "timeupdated": "1744975793"
+                "timeupdated": "1746127912"
             }
         },
         "privatebranches": "1",
