@@ -4,8 +4,8 @@
     "name": "Frostpunk 2",
     "schinese_name": "冰汽时代2",
     "isfreeapp": "0",
-    "change_number": "28549731",
-    "update_time": "2025-04-18 21:05:15",
+    "change_number": "28905862",
+    "update_time": "2025-05-10 00:40:05",
     "depot": {
         "workshopdepot": "1601580",
         "228988": {
@@ -35,6 +35,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8009980236938047830",
+                    "size": "16629429408",
+                    "download": "13015528448"
+                },
+                "release-1.2.3": {
                     "gid": "5625557849574666827",
                     "size": "15299227967",
                     "download": "12055946688"
@@ -50,6 +55,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "62191551857984617",
+                    "size": "167285528",
+                    "download": "109623520"
+                },
+                "release-1.2.3": {
                     "gid": "8765680838166969488",
                     "size": "166236316",
                     "download": "112476960"
@@ -63,6 +73,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "8256345758775628211",
+                    "size": "11904680771",
+                    "download": "11234969968"
+                },
+                "release-1.2.3": {
                     "gid": "7440828960753488473",
                     "size": "11884880639",
                     "download": "11019490032"
@@ -77,6 +92,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3131789466845180102",
+                    "size": "12014101861",
+                    "download": "11338372544"
+                },
+                "release-1.2.3": {
                     "gid": "7970420136762356314",
                     "size": "12003888496",
                     "download": "11123368144"
@@ -94,6 +114,11 @@
                     "gid": "5534266034783623960",
                     "size": "262961032",
                     "download": "246494896"
+                },
+                "release-1.2.3": {
+                    "gid": "5534266034783623960",
+                    "size": "262961032",
+                    "download": "246494896"
                 }
             },
             "decryptionkey": "3f4b6f54645a56bc7991b93bed90155b81354f90e7fb4113e92ed9378980e36c"
@@ -101,8 +126,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
+                "buildid": "18405638",
+                "timeupdated": "1746808800"
+            },
+            "release-1.2.3": {
                 "buildid": "17588985",
-                "timeupdated": "1741099967"
+                "description": "game version 1.2.3",
+                "timeupdated": "1745844743"
             }
         },
         "privatebranches": "1",
