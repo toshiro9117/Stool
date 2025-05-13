@@ -4,8 +4,8 @@
     "name": "ACRES",
     "schinese_name": "亩地",
     "isfreeapp": "0",
-    "change_number": "28532799",
-    "update_time": "2025-04-17 23:54:00",
+    "change_number": "28917484",
+    "update_time": "2025-05-10 21:53:51",
     "depot": {
         "228989": {
             "config": {
@@ -24,27 +24,27 @@
         "2460921": {
             "manifests": {
                 "public": {
-                    "gid": "7694193776819905791",
-                    "size": "1912279459",
-                    "download": "1503749040"
+                    "gid": "8601794058901726457",
+                    "size": "1917364637",
+                    "download": "1508745648"
                 },
                 "development": {
-                    "gid": "7694193776819905791",
-                    "size": "1912279459",
-                    "download": "1503749040"
+                    "gid": "8601794058901726457",
+                    "size": "1917364637",
+                    "download": "1508745648"
                 }
             },
             "decryptionkey": "ad0b9b063d3c69f1fe34bf3c4510219dae3ca63111aa38b5363735d52eb8f94e"
         },
         "branches": {
             "public": {
-                "buildid": "18159173",
-                "timeupdated": "1744990601"
+                "buildid": "18414493",
+                "timeupdated": "1746885226"
             },
             "development": {
-                "buildid": "18159173",
+                "buildid": "18414493",
                 "description": "Beta Testing",
-                "timeupdated": "1744990110"
+                "timeupdated": "1746885165"
             }
         }
     }
