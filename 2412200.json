@@ -4,33 +4,33 @@
     "name": "Cthulhu's Reach: Devil Reef",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28530399",
-    "update_time": "2025-04-17 21:58:28",
+    "change_number": "28922019",
+    "update_time": "2025-05-11 09:32:39",
     "depot": {
         "2412201": {
             "manifests": {
                 "public": {
-                    "gid": "4888272007823186868",
-                    "size": "479831548",
-                    "download": "223105568"
+                    "gid": "7107928351123505301",
+                    "size": "369212349",
+                    "download": "166758400"
                 },
                 "beta": {
-                    "gid": "4888272007823186868",
-                    "size": "479831548",
-                    "download": "223105568"
+                    "gid": "7107928351123505301",
+                    "size": "369212349",
+                    "download": "166758400"
                 }
             },
             "decryptionkey": "60304c9bcaeab9c0669267c89f7f1933d97577cf72de36bae17e0489a7acac7a"
         },
         "branches": {
             "public": {
-                "buildid": "18100546",
-                "timeupdated": "1744649601"
+                "buildid": "18389716",
+                "timeupdated": "1746712436"
             },
             "beta": {
-                "buildid": "18100546",
+                "buildid": "18389716",
                 "description": "Beta branch",
-                "timeupdated": "1744641633"
+                "timeupdated": "1746712323"
             }
         },
         "privatebranches": "1"
