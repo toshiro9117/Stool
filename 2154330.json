@@ -4,15 +4,15 @@
     "name": "The Seven Realms: Terran",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546177",
-    "update_time": "2025-04-18 17:01:34",
+    "change_number": "28725440",
+    "update_time": "2025-04-29 18:56:10",
     "depot": {
         "2154331": {
             "manifests": {
                 "public": {
-                    "gid": "7228471215718844732",
-                    "size": "2646327862",
-                    "download": "2503886832"
+                    "gid": "668261993686345717",
+                    "size": "2646279482",
+                    "download": "2503862064"
                 }
             },
             "decryptionkey": "301400af25781cf3689238601d5557b04a6df2cc65971d4da3ae48d5fd2b4ae3"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "12227644",
-                "timeupdated": "1695281009"
+                "buildid": "18166317",
+                "timeupdated": "1745924166"
             }
         },
         "privatebranches": "1"
