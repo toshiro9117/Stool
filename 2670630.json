@@ -4,23 +4,23 @@
     "name": "Supermarket Simulator",
     "schinese_name": "超市模拟器",
     "isfreeapp": "0",
-    "change_number": "28466333",
-    "update_time": "2025-04-14 20:27:08",
+    "change_number": "28904829",
+    "update_time": "2025-05-09 23:40:01",
     "depot": {
         "2670631": {
             "manifests": {
                 "public": {
-                    "gid": "8341978021354923238",
-                    "size": "3855336321",
-                    "download": "1932611088"
+                    "gid": "3171119147163536569",
+                    "size": "3856452359",
+                    "download": "1932784816"
                 }
             },
             "decryptionkey": "72fc26c211612ffaa7b30cdfea152be9628668260d7f8c375980e0f96e445701"
         },
         "branches": {
             "public": {
-                "buildid": "17982926",
-                "timeupdated": "1743773281"
+                "buildid": "18347334",
+                "timeupdated": "1746459325"
             }
         },
         "privatebranches": "1"
