@@ -4,8 +4,8 @@
     "name": "Vampire Survivors: Tides of the Foscari",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28544120",
-    "update_time": "2025-04-18 14:36:33",
+    "change_number": "28663943",
+    "update_time": "2025-04-25 20:55:15",
     "depot": {
         "2313551": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7575546898803091484",
-                    "size": "22742031",
-                    "download": "16724640"
+                    "gid": "6215272727057572180",
+                    "size": "22742006",
+                    "download": "16724592"
                 },
                 "public-beta": {
-                    "gid": "7575546898803091484",
-                    "size": "22742031",
-                    "download": "16724640"
+                    "gid": "6215272727057572180",
+                    "size": "22742006",
+                    "download": "16724592"
                 }
             },
             "dlcappid": "2313550",
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2803804330183432119",
-                    "size": "22741845",
-                    "download": "16724688"
+                    "gid": "7029826744487586058",
+                    "size": "22741861",
+                    "download": "16724912"
                 },
                 "public-beta": {
-                    "gid": "2803804330183432119",
-                    "size": "22741845",
-                    "download": "16724688"
+                    "gid": "7029826744487586058",
+                    "size": "22741861",
+                    "download": "16724912"
                 }
             },
             "dlcappid": "2313550",
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4028295717466208688",
-                    "size": "22741982",
-                    "download": "16724480"
+                    "gid": "8414023041540976632",
+                    "size": "22741987",
+                    "download": "16724704"
                 },
                 "public-beta": {
-                    "gid": "4028295717466208688",
-                    "size": "22741982",
-                    "download": "16724480"
+                    "gid": "8414023041540976632",
+                    "size": "22741987",
+                    "download": "16724704"
                 }
             },
             "dlcappid": "2313550",
@@ -66,13 +66,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18055585",
-                "timeupdated": "1744302858"
+                "buildid": "18193875",
+                "timeupdated": "1745576930"
             },
             "public-beta": {
-                "buildid": "18055585",
+                "buildid": "18193875",
                 "description": "Public Beta",
-                "timeupdated": "1744297321"
+                "timeupdated": "1745492938"
             }
         },
         "privatebranches": "1"
