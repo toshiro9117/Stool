@@ -1,0 +1,42 @@
+{
+    "appid": "1954160",
+    "type": "Game",
+    "name": "To Pixelia",
+    "schinese_name": "像素人生 To Pixelia",
+    "isfreeapp": "0",
+    "change_number": "28915102",
+    "update_time": "2025-05-10 15:33:21",
+    "depot": {
+        "1954161": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6355447309302333911",
+                    "size": "2571779917",
+                    "download": "314505504"
+                },
+                "crash_solution_test": {
+                    "gid": "320519193355384376",
+                    "size": "2571767895",
+                    "download": "314459744"
+                }
+            },
+            "decryptionkey": "332f2483767301ab094b5f487bec95a0d0595d293c04cc1a244f9af56736db56"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18407418",
+                "timeupdated": "1746816708"
+            },
+            "crash_solution_test": {
+                "buildid": "18364880",
+                "description": "test for crashes",
+                "timeupdated": "1746564018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
