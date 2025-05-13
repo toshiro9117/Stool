@@ -4,8 +4,8 @@
     "name": "Cinnabunny",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28514878",
-    "update_time": "2025-04-17 03:07:13",
+    "change_number": "28848483",
+    "update_time": "2025-05-07 03:33:01",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "82410692225359576",
-                    "size": "1609340941",
-                    "download": "385351936"
+                    "gid": "4172914935792329385",
+                    "size": "1610386610",
+                    "download": "385515264"
                 }
             },
             "decryptionkey": "67535234c22f3cfe512a95e9fa560480021d8db47c1eb095329bbc2baf093c45"
         },
         "branches": {
             "public": {
-                "buildid": "18102952",
-                "timeupdated": "1744656068"
+                "buildid": "18247665",
+                "timeupdated": "1745647336"
             }
         },
         "privatebranches": "1"
