@@ -4,16 +4,16 @@
     "name": "Cube Chaos",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28504315",
-    "update_time": "2025-04-16 17:03:09",
+    "change_number": "28900973",
+    "update_time": "2025-05-09 19:56:58",
     "depot": {
         "workshopdepot": "1958340",
         "1958341": {
             "manifests": {
                 "public": {
-                    "gid": "6089610969728983005",
-                    "size": "20632436",
-                    "download": "13572496"
+                    "gid": "8010028645264701796",
+                    "size": "20639460",
+                    "download": "13574672"
                 },
                 "oldversion_6.2": {
                     "gid": "3108162889837353150",
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17927767",
-                "timeupdated": "1743493251"
+                "buildid": "18307236",
+                "timeupdated": "1746087574"
             },
             "oldversion_6.2": {
                 "buildid": "14019049",
