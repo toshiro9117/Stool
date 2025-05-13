@@ -4,8 +4,8 @@
     "name": "Gold Hunter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549904",
-    "update_time": "2025-04-18 21:18:10",
+    "change_number": "28907462",
+    "update_time": "2025-05-10 02:10:53",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8863666408808667075",
-                    "size": "8073112056",
-                    "download": "7591836784"
+                    "gid": "9188363079548415384",
+                    "size": "8324105835",
+                    "download": "7834428688"
                 }
             },
             "decryptionkey": "bafa50139414aab3e425d8774d6ab3087686570bf6082ab10816aa02eb26f258"
         },
         "branches": {
             "public": {
-                "buildid": "17638601",
-                "timeupdated": "1741368986"
+                "buildid": "18406279",
+                "timeupdated": "1746814249"
             }
         },
         "privatebranches": "1"
