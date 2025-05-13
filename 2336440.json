@@ -4,8 +4,8 @@
     "name": "Once Alive",
     "schinese_name": "无声之地",
     "isfreeapp": "0",
-    "change_number": "28531367",
-    "update_time": "2025-04-17 22:43:36",
+    "change_number": "28726776",
+    "update_time": "2025-04-29 20:13:25",
     "depot": {
         "baselanguages": "english,german,spanish,russian,portuguese,turkish",
         "228989": {
@@ -38,6 +38,12 @@
         "2336444": {
             "config": {
                 "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "2336442": {
+            "config": {
+                "oslist": "macos"
             },
             "manifests": {}
         },
