@@ -1,0 +1,31 @@
+{
+    "appid": "2078230",
+    "type": "Game",
+    "name": "Badlands Crew",
+    "schinese_name": "恶土小队 / Badlands Crew",
+    "isfreeapp": "0",
+    "change_number": "28913555",
+    "update_time": "2025-05-10 11:33:11",
+    "depot": {
+        "2078232": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1498664861122300454",
+                    "size": "7608938633",
+                    "download": "883128096"
+                }
+            },
+            "decryptionkey": "a7eb0d5dab2bf1ac43efa6c5b2174fad39792483606b806c42be4dfccdbddaaa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18357700",
+                "timeupdated": "1746620974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
