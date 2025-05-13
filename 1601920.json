@@ -4,8 +4,8 @@
     "name": "Sparkball - Season Zero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28536483",
-    "update_time": "2025-04-18 03:15:25",
+    "change_number": "28905116",
+    "update_time": "2025-05-09 23:57:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1601921": {
             "manifests": {
                 "public": {
-                    "gid": "8678528742600788521",
-                    "size": "7075734541",
-                    "download": "4241725664"
+                    "gid": "6285896195803473123",
+                    "size": "4584683666",
+                    "download": "3755957792"
                 }
             },
             "decryptionkey": "1156b5d507e85adacbccca78158e27a3fa32f34ef6a8b11c431dc18b9cf10739"
         },
         "branches": {
             "public": {
-                "buildid": "18047667",
-                "timeupdated": "1744313919"
+                "buildid": "18147852",
+                "timeupdated": "1745423712"
             }
         },
         "privatebranches": "1"
