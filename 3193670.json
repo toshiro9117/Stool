@@ -4,8 +4,8 @@
     "name": "对不起！我把美女包围了！",
     "schinese_name": "对不起！我把美女包围了！",
     "isfreeapp": "0",
-    "change_number": "28530402",
-    "update_time": "2025-04-17 21:58:42",
+    "change_number": "28809324",
+    "update_time": "2025-05-04 19:32:45",
     "depot": {
         "3193672": {
             "config": {
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7095106326203024072",
-                    "size": "15189546355",
-                    "download": "15066554752"
+                    "gid": "6543232338472090839",
+                    "size": "15177459663",
+                    "download": "15065367680"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18158919",
-                "timeupdated": "1744988645"
+                "buildid": "18166846",
+                "timeupdated": "1745063030"
             }
         }
     }
