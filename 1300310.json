@@ -1,0 +1,43 @@
+{
+    "appid": "1300310",
+    "type": "Game",
+    "name": "Move Code Lines",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28922161",
+    "update_time": "2025-05-11 10:03:17",
+    "depot": {
+        "1300311": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4504912093473539551",
+                    "size": "194133255",
+                    "download": "178178336"
+                },
+                "local": {
+                    "gid": "95485357723275947",
+                    "size": "194804172",
+                    "download": "178336192"
+                }
+            },
+            "decryptionkey": "496f399124b4b339aae3dcfd57a1627e8b8fa3b066a3107a658a7ec1daf9a943"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9747778",
+                "timeupdated": "1666116473"
+            },
+            "local": {
+                "buildid": "18417532",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1746928128"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
