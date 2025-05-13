@@ -4,8 +4,8 @@
     "name": "Muse Dash",
     "schinese_name": "喵斯快跑",
     "isfreeapp": "0",
-    "change_number": "28477849",
-    "update_time": "2025-04-15 09:38:29",
+    "change_number": "28899261",
+    "update_time": "2025-05-09 18:04:05",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2883128225026039233",
-                    "size": "4120041784",
-                    "download": "3633596336"
+                    "gid": "3501713436346419237",
+                    "size": "4154736467",
+                    "download": "3666459152"
                 }
             },
             "decryptionkey": "c4fdeb37adb91f019b5f8f1378c0a63c3a3b90ffec89c7e0394b32a28206d2ec"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8562534461180035817",
-                    "size": "4092349245",
-                    "download": "3617307040"
+                    "gid": "409941442185822312",
+                    "size": "4126485003",
+                    "download": "3649928560"
                 }
             },
             "decryptionkey": "e3c55a2a1de897657fb5347590d09a3c41d944a2b041848d5cdacb44afed102f"
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17805589",
-                "timeupdated": "1743152457"
+                "buildid": "18107130",
+                "timeupdated": "1745571445"
             }
         },
         "privatebranches": "1"
