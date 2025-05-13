@@ -4,8 +4,8 @@
     "name": "OMSI 2",
     "schinese_name": "巴士模拟2",
     "isfreeapp": "0",
-    "change_number": "28466690",
-    "update_time": "2025-04-14 20:48:04",
+    "change_number": "28747840",
+    "update_time": "2025-04-30 19:33:43",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -1029,9 +1029,9 @@
             "dlcappid": "1478000",
             "manifests": {
                 "public": {
-                    "gid": "6447322080505975874",
-                    "size": "885512164",
-                    "download": "364081216"
+                    "gid": "351283573710937608",
+                    "size": "650061882",
+                    "download": "257777872"
                 }
             },
             "decryptionkey": "af498b26bcc201dcda8cc7d1cd64d9875f07547cb6729c8d40dd27cbf1107d7e"
@@ -1084,9 +1084,9 @@
             "dlcappid": "1549500",
             "manifests": {
                 "public": {
-                    "gid": "8272112117821694725",
-                    "size": "2899329190",
-                    "download": "309318272"
+                    "gid": "5533556550244338261",
+                    "size": "2899329351",
+                    "download": "309318352"
                 }
             },
             "decryptionkey": "f8e464186767638cd2304a0d22e15fcc4f022ae1de0045e241976a21555f9325"
@@ -1546,9 +1546,9 @@
             "dlcappid": "3046770",
             "manifests": {
                 "public": {
-                    "gid": "7423476484870408325",
-                    "size": "4322939750",
-                    "download": "742750944"
+                    "gid": "2970923241218805577",
+                    "size": "4501136259",
+                    "download": "768262064"
                 }
             },
             "decryptionkey": "495ab4b44c071ed09e269da17f6af83f3c6f28798eea7fccd9ec6f94aebc20c0"
@@ -1632,8 +1632,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18099166",
-                "timeupdated": "1744634880"
+                "buildid": "18294936",
+                "timeupdated": "1746012818"
             }
         },
         "appmanagesdlc": "1"
