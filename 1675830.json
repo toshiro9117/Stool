@@ -4,8 +4,8 @@
     "name": "1000xRESIST",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28476336",
-    "update_time": "2025-04-15 07:27:20",
+    "change_number": "28915659",
+    "update_time": "2025-05-10 16:49:04",
     "depot": {
         "1675831": {
             "manifests": {
@@ -31,10 +31,24 @@
             },
             "decryptionkey": ""
         },
+        "3697900": {
+            "dlcappid": "3697900",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "543866198209552999",
+                    "size": "13091854",
+                    "download": "12741696"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "17930263",
-                "timeupdated": "1743469434"
+                "buildid": "18221571",
+                "timeupdated": "1745487563"
             }
         },
         "privatebranches": "1"
