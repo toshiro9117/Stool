@@ -4,8 +4,8 @@
     "name": "FACEMINER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28314293",
-    "update_time": "2025-04-05 01:59:43",
+    "change_number": "28686766",
+    "update_time": "2025-04-27 05:39:20",
     "depot": {
         "2276982": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8632880521551417062",
-                    "size": "764043927",
-                    "download": "567282080"
+                    "gid": "4046137501777355891",
+                    "size": "764572448",
+                    "download": "567351248"
                 }
             },
             "decryptionkey": "4dd90c4b7502551d62833e2ab83711ef706d1560f598ad82008c60b894181ddd"
@@ -27,12 +27,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4514513595651705508",
-                    "size": "925426083",
-                    "download": "612192048"
+                    "gid": "3186575636634028006",
+                    "size": "925960752",
+                    "download": "612261568"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "2276984": {
             "config": {
@@ -41,18 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5928795541984733351",
-                    "size": "766004976",
-                    "download": "561852400"
+                    "gid": "4090200713647957604",
+                    "size": "766533497",
+                    "download": "561921552"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17988891",
-                "timeupdated": "1743789577"
+                "buildid": "18252201",
+                "timeupdated": "1745703555"
             }
         }
     }
