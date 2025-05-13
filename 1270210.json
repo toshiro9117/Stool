@@ -4,8 +4,8 @@
     "name": "Love of Magic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28500107",
-    "update_time": "2025-04-16 11:40:38",
+    "change_number": "28656740",
+    "update_time": "2025-04-25 09:36:17",
     "depot": {
         "1270211": {
             "config": {
@@ -64,9 +64,9 @@
                     "download": "3341868032"
                 },
                 "ngplus": {
-                    "gid": "2226768780368361633",
-                    "size": "6838179593",
-                    "download": "5266901616"
+                    "gid": "8119770014155154174",
+                    "size": "6839671662",
+                    "download": "5266141024"
                 }
             }
         },
@@ -92,9 +92,9 @@
                     "download": "3274976416"
                 },
                 "ngplus": {
-                    "gid": "8929389310278607421",
-                    "size": "6694208690",
-                    "download": "5162736960"
+                    "gid": "727139850804133668",
+                    "size": "6714767176",
+                    "download": "5179472352"
                 }
             }
         },
@@ -121,9 +121,9 @@
                     "download": "3332699168"
                 },
                 "ngplus": {
-                    "gid": "8610880932877454907",
-                    "size": "6814124111",
-                    "download": "5254454672"
+                    "gid": "7463833724320798149",
+                    "size": "6815694245",
+                    "download": "5251702496"
                 }
             },
             "decryptionkey": "7b9ae5aa1e278c57e3594bc544f6365f036a39a71d0026c24058e5ae197f782b"
@@ -259,9 +259,9 @@
                 "timeupdated": "1722827324"
             },
             "ngplus": {
-                "buildid": "18122934",
+                "buildid": "18231931",
                 "description": "Development branch for New Game+",
-                "timeupdated": "1744774833"
+                "timeupdated": "1745544971"
             }
         }
     }
