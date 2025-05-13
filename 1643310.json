@@ -4,8 +4,8 @@
     "name": "Dungeons 4",
     "schinese_name": "地下城4",
     "isfreeapp": "0",
-    "change_number": "28539827",
-    "update_time": "2025-04-18 07:45:27",
+    "change_number": "28911688",
+    "update_time": "2025-05-10 07:42:36",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian",
         "1643311": {
@@ -125,6 +125,10 @@
                 }
             },
             "decryptionkey": "dd724502d1884b9ca8140738830272543fcdec140ff6c981c02b4f6cf78ed957"
+        },
+        "3707110": {
+            "dlcappid": "3707110",
+            "manifests": {}
         },
         "branches": {
             "public": {
