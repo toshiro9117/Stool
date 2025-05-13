@@ -4,8 +4,8 @@
     "name": "Company of Heroes 3",
     "schinese_name": "英雄连3",
     "isfreeapp": "0",
-    "change_number": "28538569",
-    "update_time": "2025-04-18 05:49:49",
+    "change_number": "28737005",
+    "update_time": "2025-04-30 06:36:27",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "1677281": {
             "manifests": {
                 "public": {
-                    "gid": "1392491454277996302",
-                    "size": "31142798885",
-                    "download": "25752068192"
+                    "gid": "873337783350237957",
+                    "size": "31194734047",
+                    "download": "25790999328"
                 }
             },
             "decryptionkey": "946c1091854e4b36a1468dea11adb8fe4fe6db6485976132a50781a70d5a206e"
@@ -62,8 +62,8 @@
         "workshopdepot": "1677280",
         "branches": {
             "public": {
-                "buildid": "17686800",
-                "timeupdated": "1741885196"
+                "buildid": "18149468",
+                "timeupdated": "1745945523"
             }
         },
         "privatebranches": "1",
