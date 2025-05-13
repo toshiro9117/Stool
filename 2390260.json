@@ -4,8 +4,8 @@
     "name": "Topple Tactics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28498494",
-    "update_time": "2025-04-16 09:08:05",
+    "change_number": "28803941",
+    "update_time": "2025-05-04 05:08:18",
     "depot": {
         "2390261": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6910688288443322991",
-                    "size": "1222369260",
-                    "download": "354810304"
+                    "gid": "6640840367159326394",
+                    "size": "1314215924",
+                    "download": "361238496"
                 },
                 "public-beta": {
                     "gid": "6640840367159326394",
@@ -28,8 +28,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17301411",
-                "timeupdated": "1739528100"
+                "buildid": "18121651",
+                "timeupdated": "1745115345"
             },
             "public-beta": {
                 "buildid": "18121651",
