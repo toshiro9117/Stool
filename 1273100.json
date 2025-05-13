@@ -4,8 +4,8 @@
     "name": "Builders of Greece",
     "schinese_name": "希腊建设者",
     "isfreeapp": "0",
-    "change_number": "28485764",
-    "update_time": "2025-04-15 19:31:32",
+    "change_number": "28921712",
+    "update_time": "2025-05-11 08:34:24",
     "depot": {
         "1273101": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6857679895353499517",
-                    "size": "10703848071",
-                    "download": "4844135904"
+                    "gid": "2099322537171585582",
+                    "size": "11248768933",
+                    "download": "5045955424"
                 },
                 "legacy": {
                     "gid": "416348006932591654",
@@ -28,8 +28,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,greek,ukrainian",
         "branches": {
             "public": {
-                "buildid": "18053828",
-                "timeupdated": "1744277929"
+                "buildid": "18390177",
+                "timeupdated": "1746715278"
             },
             "legacy": {
                 "buildid": "16094769",
