@@ -4,8 +4,8 @@
     "name": "SpaceEngine",
     "schinese_name": "太空引擎",
     "isfreeapp": "0",
-    "change_number": "28414080",
-    "update_time": "2025-04-11 02:25:24",
+    "change_number": "28886373",
+    "update_time": "2025-05-09 00:42:29",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam",
         "workshopdepot": "314650",
@@ -47,9 +47,9 @@
                     "download": "4058786064"
                 },
                 "beta": {
-                    "gid": "3614800746741553282",
-                    "size": "4278338766",
-                    "download": "4099072960"
+                    "gid": "482280486444214654",
+                    "size": "4278486312",
+                    "download": "4099111504"
                 }
             },
             "decryptionkey": "cd228cbe8e6b5001e21a62f5f2322b9cde46b13cc86662b09c7c6e27ccf11236"
@@ -480,9 +480,9 @@
                 "timeupdated": "1671185901"
             },
             "beta": {
-                "buildid": "17986562",
+                "buildid": "18350334",
                 "description": "public beta branch",
-                "timeupdated": "1744049845"
+                "timeupdated": "1746722544"
             }
         },
         "privatebranches": "1",
