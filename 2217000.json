@@ -4,8 +4,8 @@
     "name": "Rivals of Aether II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28541751",
-    "update_time": "2025-04-18 10:41:30",
+    "change_number": "28922048",
+    "update_time": "2025-05-11 09:39:57",
     "depot": {
         "228983": {
             "config": {
@@ -45,28 +45,29 @@
         "2217001": {
             "manifests": {
                 "public": {
-                    "gid": "8857168324747692463",
-                    "size": "2747384052",
-                    "download": "2382104864"
+                    "gid": "7332358987127431559",
+                    "size": "2856640657",
+                    "download": "2484844784"
                 },
                 "previous_version": {
-                    "gid": "8945530902580649652",
-                    "size": "2747391220",
-                    "download": "2382177680"
+                    "gid": "6781406733182811686",
+                    "size": "2856621713",
+                    "download": "2484814224"
                 }
             },
             "decryptionkey": "43d69e105073277384193785bd85036890e6506f83ed959407df51df70e51922"
         },
         "workshopdepot": "2217000",
+        "baselanguages": "english,german,french,spanish,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18158669",
-                "timeupdated": "1744995604"
+                "buildid": "18404620",
+                "timeupdated": "1746802899"
             },
             "previous_version": {
-                "buildid": "18145980",
+                "buildid": "18390771",
                 "description": "The previously live version of the game. Use this to access invalid replays",
-                "timeupdated": "1744994941"
+                "timeupdated": "1746802947"
             }
         },
         "privatebranches": "1",
