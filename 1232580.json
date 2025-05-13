@@ -4,27 +4,27 @@
     "name": "Knock on the Coffin Lid",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545638",
-    "update_time": "2025-04-18 16:20:19",
+    "change_number": "28858371",
+    "update_time": "2025-05-07 17:20:46",
     "depot": {
-        "baselanguages": "english,russian",
-        "hasdepotsindlc": "1",
-        "228988": {
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
         "1232581": {
             "config": {
                 "oslist": "windows"
             },
             "manifests": {
                 "public": {
-                    "gid": "999649585824957546",
-                    "size": "20922914951",
-                    "download": "4689448000"
+                    "gid": "542482620673950272",
+                    "size": "20978822043",
+                    "download": "4703737008"
                 },
                 "1.0973": {
                     "gid": "3075907164274466468",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7939743986539392262",
-                    "size": "20934092586",
-                    "download": "4697627872"
+                    "gid": "5850637097931617013",
+                    "size": "20989245594",
+                    "download": "4711734544"
                 },
                 "1.0973": {
                     "gid": "6896800154665352501",
@@ -77,8 +77,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18071119",
-                "timeupdated": "1744372601"
+                "buildid": "18370136",
+                "timeupdated": "1746609642"
             },
             "1.0973": {
                 "buildid": "15916003",
