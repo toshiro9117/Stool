@@ -1,0 +1,27 @@
+{
+    "appid": "3029500",
+    "type": "Game",
+    "name": "Wind Story",
+    "schinese_name": "风铃物语",
+    "isfreeapp": "0",
+    "change_number": "28913091",
+    "update_time": "2025-05-10 10:24:59",
+    "depot": {
+        "3029501": {
+            "manifests": {
+                "public": {
+                    "gid": "2540278295291675958",
+                    "size": "867137969",
+                    "download": "615624656"
+                }
+            },
+            "decryptionkey": "4e2888d71aa0854dd126581eb5a982465f151bd145a8b66ba5ec98984ccb56fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18411099",
+                "timeupdated": "1746843896"
+            }
+        }
+    }
+}
