@@ -4,8 +4,8 @@
     "name": "The Executive - Movie Industry Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28291334",
-    "update_time": "2025-04-03 22:58:20",
+    "change_number": "28845738",
+    "update_time": "2025-05-07 00:42:20",
     "depot": {
         "2315431": {
             "manifests": {
@@ -13,6 +13,11 @@
                     "gid": "5225103690698903370",
                     "size": "1273982816",
                     "download": "293415344"
+                },
+                "experimental-branch": {
+                    "gid": "5112710695761033492",
+                    "size": "1291740497",
+                    "download": "295770448"
                 }
             },
             "decryptionkey": "3c10b450fd01b2a223c4efb4b565fafb56309518f23a7475025782f7137cee3c"
@@ -26,6 +31,11 @@
                     "gid": "6236900023817795363",
                     "size": "1135598354",
                     "download": "274489312"
+                },
+                "experimental-branch": {
+                    "gid": "2124546510298219238",
+                    "size": "1153355945",
+                    "download": "276850960"
                 }
             },
             "decryptionkey": ""
@@ -39,6 +49,11 @@
                     "gid": "6283473803585279177",
                     "size": "1103773799",
                     "download": "275392752"
+                },
+                "experimental-branch": {
+                    "gid": "6283473803585279177",
+                    "size": "1103773799",
+                    "download": "275392752"
                 }
             },
             "decryptionkey": ""
@@ -48,6 +63,11 @@
             "public": {
                 "buildid": "17812474",
                 "timeupdated": "1742578193"
+            },
+            "experimental-branch": {
+                "buildid": "18360908",
+                "description": "A branch for latest changes and fixes - Might be unstable!",
+                "timeupdated": "1746548012"
             }
         },
         "privatebranches": "1",
