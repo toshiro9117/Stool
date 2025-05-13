@@ -4,43 +4,33 @@
     "name": "Wizordum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528969",
-    "update_time": "2025-04-17 20:40:33",
+    "change_number": "28910589",
+    "update_time": "2025-05-10 06:04:27",
     "depot": {
         "1715591": {
             "manifests": {
                 "public": {
-                    "gid": "7547127682647088261",
-                    "size": "634010899",
-                    "download": "179757504"
-                },
-                "v0.2.0.4": {
-                    "gid": "4611320050114248828",
-                    "size": "368733288",
-                    "download": "93170960"
+                    "gid": "9169266984876247251",
+                    "size": "878758837",
+                    "download": "285303392"
                 },
                 "previous": {
-                    "gid": "384402445890182198",
-                    "size": "578250483",
-                    "download": "173072208"
+                    "gid": "939624733719022001",
+                    "size": "881731570",
+                    "download": "285485024"
                 }
             },
             "decryptionkey": "8568263432c963194015f895f9a5eea7abea645f6c010f408eff7f063af3a312"
         },
         "branches": {
             "public": {
-                "buildid": "16222355",
-                "timeupdated": "1730211250"
-            },
-            "v0.2.0.4": {
-                "buildid": "12890847",
-                "description": "v0.2.0.4",
-                "timeupdated": "1703883188"
+                "buildid": "18380190",
+                "timeupdated": "1746652551"
             },
             "previous": {
-                "buildid": "14665498",
+                "buildid": "18313424",
                 "description": "Previous game version (backup)",
-                "timeupdated": "1718050670"
+                "timeupdated": "1746574347"
             }
         },
         "privatebranches": "1"
