@@ -4,8 +4,8 @@
     "name": "Red Dead Online",
     "schinese_name": "荒野大镖客 线上模式 Steam版",
     "isfreeapp": "0",
-    "change_number": "28542611",
-    "update_time": "2025-04-18 12:04:17",
+    "change_number": "28878884",
+    "update_time": "2025-05-08 17:32:29",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228988": {
@@ -105,9 +105,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3737644871765999414",
-                    "size": "230079756",
-                    "download": "186632784"
+                    "gid": "4177720964978853031",
+                    "size": "230627596",
+                    "download": "187200304"
                 }
             },
             "depotfromapp": "1899670",
