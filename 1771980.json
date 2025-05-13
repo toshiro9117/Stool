@@ -4,8 +4,8 @@
     "name": "The Operator",
     "schinese_name": "接线疑云 The Operator",
     "isfreeapp": "0",
-    "change_number": "28525786",
-    "update_time": "2025-04-17 17:29:38",
+    "change_number": "28662656",
+    "update_time": "2025-04-25 20:57:50",
     "depot": {
         "baselanguages": "english,french",
         "1771981": {
@@ -19,9 +19,9 @@
                     "download": "1224805456"
                 },
                 "beta": {
-                    "gid": "805258986548842171",
-                    "size": "1905213683",
-                    "download": "697072928"
+                    "gid": "2022443524706504009",
+                    "size": "1849085939",
+                    "download": "641206000"
                 }
             },
             "decryptionkey": "a132c1c3d884ac55a44f68c500d37d3562afab6e6642d3051469f09a097274c3"
@@ -37,9 +37,9 @@
                     "download": "1235490208"
                 },
                 "beta": {
-                    "gid": "665068496626060541",
-                    "size": "1945470540",
-                    "download": "707611392"
+                    "gid": "5650046098122826048",
+                    "size": "1889345996",
+                    "download": "651747344"
                 }
             }
         },
@@ -54,21 +54,21 @@
                     "download": "624723152"
                 },
                 "beta": {
-                    "gid": "1691373775461388778",
-                    "size": "1884432126",
-                    "download": "691394352"
+                    "gid": "5550187232046164258",
+                    "size": "1830529310",
+                    "download": "637742496"
                 }
             }
         },
         "branches": {
             "public": {
                 "buildid": "18088160",
-                "timeupdated": "1744527557"
+                "timeupdated": "1745572337"
             },
             "beta": {
-                "buildid": "17827012",
+                "buildid": "18235720",
                 "description": "beta branch to test the latest version",
-                "timeupdated": "1742743788"
+                "timeupdated": "1745571541"
             }
         },
         "privatebranches": "1"
