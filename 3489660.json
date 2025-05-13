@@ -4,8 +4,8 @@
     "name": "ORDER 13 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546940",
-    "update_time": "2025-04-18 17:48:47",
+    "change_number": "28702273",
+    "update_time": "2025-04-28 16:42:56",
     "depot": {
         "3489661": {
             "manifests": {
@@ -20,9 +20,9 @@
         "2259312": {
             "manifests": {
                 "public": {
-                    "gid": "7133635665050517984",
-                    "size": "4680214929",
-                    "download": "1750702032"
+                    "gid": "1743321103450271532",
+                    "size": "4782981131",
+                    "download": "1789295216"
                 }
             },
             "depotfromapp": "2259310",
