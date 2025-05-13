@@ -4,8 +4,8 @@
     "name": "Wildermyth",
     "schinese_name": "漫野奇谭",
     "isfreeapp": "0",
-    "change_number": "28173452",
-    "update_time": "2025-03-27 23:53:02",
+    "change_number": "28864422",
+    "update_time": "2025-05-07 23:17:53",
     "depot": {
         "763891": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1090989829458502822",
-                    "size": "2853554246",
-                    "download": "2434074976"
+                    "gid": "13676182793043250",
+                    "size": "2853890394",
+                    "download": "2434408704"
                 },
                 "unstable": {
                     "gid": "1090989829458502822",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7433563330648782410",
-                    "size": "2938507390",
-                    "download": "2454155056"
+                    "gid": "6276017951110827965",
+                    "size": "2938843538",
+                    "download": "2454488784"
                 },
                 "unstable": {
                     "gid": "7433563330648782410",
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5902463533368403730",
-                    "size": "2961202066",
-                    "download": "2459838320"
+                    "gid": "5736880816273323158",
+                    "size": "2961538214",
+                    "download": "2460172048"
                 },
                 "unstable": {
                     "gid": "5902463533368403730",
@@ -67,8 +67,8 @@
         "workshopdepot": "763890",
         "branches": {
             "public": {
-                "buildid": "17884327",
-                "timeupdated": "1743090762"
+                "buildid": "18363359",
+                "timeupdated": "1746631069"
             },
             "unstable": {
                 "buildid": "17884327",
@@ -77,6 +77,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "26ecbc69c0142f8024fbc4217bc98e512d0feb3eeae7b2db2f099ebb1ccfb0ce"
     }
 }
