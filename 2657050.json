@@ -4,16 +4,16 @@
     "name": "Teardown: Time Campers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28528234",
-    "update_time": "2025-04-17 19:59:16",
+    "change_number": "28839419",
+    "update_time": "2025-05-06 18:37:42",
     "depot": {
         "2657050": {
             "dlcappid": "2657050",
             "manifests": {
                 "public": {
-                    "gid": "2321605783739972509",
-                    "size": "1007400728",
-                    "download": "748612832"
+                    "gid": "2033310289830169426",
+                    "size": "1007379161",
+                    "download": "746467328"
                 },
                 "experimental": {
                     "gid": "8020159738882128307",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15982418",
-                "timeupdated": "1728561660"
+                "buildid": "18116322",
+                "timeupdated": "1745998753"
             },
             "experimental": {
                 "buildid": "13633723",
