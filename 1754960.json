@@ -1,0 +1,42 @@
+{
+    "appid": "1754960",
+    "type": "Game",
+    "name": "Astride",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28847530",
+    "update_time": "2025-05-07 02:31:24",
+    "depot": {
+        "1754963": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6080216187872201961",
+                    "size": "6000416478",
+                    "download": "4683005152"
+                },
+                "stream": {
+                    "gid": "8767635706344096578",
+                    "size": "5321810332",
+                    "download": "4136226320"
+                }
+            },
+            "decryptionkey": "713d92e5c6212a0b8c9205206204f8b7ff500c6f2ef62fcc0cd54283d1d723d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17064000",
+                "timeupdated": "1737375156"
+            },
+            "stream": {
+                "buildid": "15745608",
+                "description": "Test during livestreams",
+                "timeupdated": "1726732686"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
