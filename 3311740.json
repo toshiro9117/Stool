@@ -4,8 +4,8 @@
     "name": "The Cabin Factory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28527360",
-    "update_time": "2025-04-17 19:04:20",
+    "change_number": "28806653",
+    "update_time": "2025-05-04 13:08:18",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3311741": {
             "manifests": {
                 "public": {
-                    "gid": "8308125256986285087",
-                    "size": "3687111235",
-                    "download": "3448668240"
+                    "gid": "5832913850010952",
+                    "size": "3706664362",
+                    "download": "3456237888"
                 }
             },
             "decryptionkey": "787c16686bf240711ceb9d86f6c1c936bface7c82f473cf41154365c4e5c9448"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "17675194",
-                "timeupdated": "1741691712"
+                "buildid": "18283829",
+                "timeupdated": "1745949304"
             }
         },
         "privatebranches": "1"
