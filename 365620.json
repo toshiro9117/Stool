@@ -4,8 +4,8 @@
     "name": "WarBirds - World War II Combat Aviation",
     "schinese_name": "空战英雄：二战航空",
     "isfreeapp": "0",
-    "change_number": "28410045",
-    "update_time": "2025-04-10 22:58:56",
+    "change_number": "28803483",
+    "update_time": "2025-05-04 03:59:05",
     "depot": {
         "228990": {
             "config": {
@@ -21,11 +21,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "853213968096696039",
-                    "size": "5863474062",
-                    "download": "2120406512"
-                },
-                "warbirds2025": {
                     "gid": "853213968096696039",
                     "size": "5863474062",
                     "download": "2120406512"
@@ -54,11 +49,6 @@
                     "size": "4756806223",
                     "download": "1738427648"
                 },
-                "warbirds2025": {
-                    "gid": "5732729751576228495",
-                    "size": "4756806223",
-                    "download": "1738427648"
-                },
                 "warbirds2020": {
                     "gid": "5732729751576228495",
                     "size": "4756806223",
@@ -77,10 +67,10 @@
                 "oslist": "windows"
             },
             "manifests": {
-                "warbirds2025": {
-                    "gid": "8130873909597731194",
-                    "size": "7037396594",
-                    "download": "2381913936"
+                "public": {
+                    "gid": "5771501762976928441",
+                    "size": "7068444482",
+                    "download": "2386307456"
                 },
                 "warbirds2020": {
                     "gid": "8113291722978675551",
@@ -92,13 +82,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8208839",
-                "timeupdated": "1644954079"
-            },
-            "warbirds2025": {
-                "buildid": "18058224",
-                "description": "Warbirds 2025",
-                "timeupdated": "1744297132"
+                "buildid": "18333911",
+                "timeupdated": "1746302339"
             },
             "warbirds2020": {
                 "buildid": "5548194",
