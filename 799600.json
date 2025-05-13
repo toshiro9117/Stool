@@ -4,8 +4,8 @@
     "name": "Cosmoteer: Starship Architect & Commander",
     "schinese_name": "Cosmoteer: 星舰设计师",
     "isfreeapp": "0",
-    "change_number": "28042393",
-    "update_time": "2025-03-20 08:28:26",
+    "change_number": "28918573",
+    "update_time": "2025-05-11 00:18:57",
     "depot": {
         "228989": {
             "config": {
@@ -68,9 +68,9 @@
                     "download": "1264188096"
                 },
                 "unstable": {
-                    "gid": "5866450637154484541",
-                    "size": "1310170091",
-                    "download": "1270150016"
+                    "gid": "4661830954161988120",
+                    "size": "1317700098",
+                    "download": "1277668144"
                 }
             },
             "decryptionkey": "c7c1275eba141988dcc75746510071b5a1b826a01cf6c0f974b03f07d89652d4"
@@ -122,9 +122,9 @@
                     "download": "57643760"
                 },
                 "unstable": {
-                    "gid": "6247415567070760565",
-                    "size": "190687676",
-                    "download": "57646624"
+                    "gid": "2322204991838106488",
+                    "size": "190708431",
+                    "download": "57668464"
                 }
             },
             "decryptionkey": "e15c9b74effae3f79409f360b71bf5b110cc1561e23ce2515459dee9e4569cf4"
@@ -176,9 +176,9 @@
                     "download": "63960544"
                 },
                 "unstable": {
-                    "gid": "7710094492626256045",
-                    "size": "205782184",
-                    "download": "63980240"
+                    "gid": "1997297772651181906",
+                    "size": "205816388",
+                    "download": "63978336"
                 }
             },
             "decryptionkey": "957e695d970db86795eea257e7b86217684794eaeabba1ac8ba96167dc412bfe"
@@ -226,12 +226,12 @@
                 "timeupdated": "1741821837"
             },
             "unstable": {
-                "buildid": "17700495",
+                "buildid": "18379854",
                 "description": "Bleeding-edge updates; possibly very buggy!",
-                "timeupdated": "1741821860"
+                "timeupdated": "1746650900"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "3c95902da48b975afeb0b51b08f0b885271b45f59738a49af7108d2f146e3ac2"
     }
 }
