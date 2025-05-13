@@ -4,8 +4,8 @@
     "name": "CHANGE: A Homeless Survival Experience",
     "schinese_name": "CHANGE：无家可归的生存体验",
     "isfreeapp": "0",
-    "change_number": "28248978",
-    "update_time": "2025-04-01 21:19:23",
+    "change_number": "28619947",
+    "update_time": "2025-04-23 18:40:45",
     "depot": {
         "926141": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3304725016749444855",
+                    "gid": "252460511255763801",
                     "size": "1187470397",
-                    "download": "574097568"
+                    "download": "574097392"
                 }
             },
             "decryptionkey": "77470138e52af8fb87708e9084498ce59dea9ead06e835f0fde64faf88b7a059"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8158936273658938069",
-                    "size": "1209197629",
-                    "download": "578844432"
+                    "gid": "2685142302162140574",
+                    "size": "1209197630",
+                    "download": "578844704"
                 }
             },
             "decryptionkey": "42cac4fff425db7bc94a96ddf9bad9158792975a2c51113ad5d10ac042ce8b63"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3958216285972951626",
-                    "size": "1239411765",
-                    "download": "578714672"
+                    "gid": "637024384002827747",
+                    "size": "1239411766",
+                    "download": "578714400"
                 }
             },
             "decryptionkey": "71766b560fab8c4af6bd8dc1855aa386a8ba62a30a94bbbbc5482e56cfcd9069"
         },
         "branches": {
             "public": {
-                "buildid": "17940034",
-                "timeupdated": "1743513556"
+                "buildid": "18206411",
+                "timeupdated": "1745404841"
             }
         }
     }
