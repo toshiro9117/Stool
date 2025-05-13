@@ -4,8 +4,8 @@
     "name": "Isekai Hero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540913",
-    "update_time": "2025-04-18 09:22:40",
+    "change_number": "28800231",
+    "update_time": "2025-05-03 20:46:34",
     "depot": {
         "2587951": {
             "manifests": {
@@ -22,6 +22,7 @@
                 "buildid": "14271045",
                 "timeupdated": "1714922919"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
