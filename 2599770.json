@@ -4,15 +4,15 @@
     "name": "Tactical Warfare",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548539",
-    "update_time": "2025-04-18 19:35:16",
+    "change_number": "28919229",
+    "update_time": "2025-05-11 01:53:00",
     "depot": {
         "2599771": {
             "manifests": {
                 "public": {
-                    "gid": "1937928008335040715",
-                    "size": "7981520380",
-                    "download": "6028323648"
+                    "gid": "7749552293563652716",
+                    "size": "9790163579",
+                    "download": "7189752192"
                 }
             },
             "decryptionkey": "d82fa44d507ef702920ae0fe0a7d8f15c82ce01563f67d2c2b7bd804d993c9d7"
@@ -20,8 +20,8 @@
         "2599772": {},
         "branches": {
             "public": {
-                "buildid": "18085248",
-                "timeupdated": "1744646626"
+                "buildid": "18415353",
+                "timeupdated": "1746899575"
             }
         },
         "privatebranches": "1"
