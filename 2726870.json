@@ -4,8 +4,8 @@
     "name": "玩个Gui",
     "schinese_name": "玩个Gui",
     "isfreeapp": "0",
-    "change_number": "28338746",
-    "update_time": "2025-04-07 11:14:20",
+    "change_number": "28685110",
+    "update_time": "2025-04-27 01:54:11",
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "2726870",
@@ -41,6 +41,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a450a3bcadd806bfd62e0b4e07143e864aabcca16c9238ac293d057cd4c91d12"
     }
 }
