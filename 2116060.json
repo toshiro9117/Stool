@@ -4,23 +4,23 @@
     "name": "Epic Auto Towers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28447733",
-    "update_time": "2025-04-13 04:08:31",
+    "change_number": "28913130",
+    "update_time": "2025-05-10 10:32:55",
     "depot": {
         "2116061": {
             "manifests": {
                 "public": {
-                    "gid": "6750070427915110831",
-                    "size": "339203318",
-                    "download": "278421088"
+                    "gid": "5229487742905105093",
+                    "size": "381710718",
+                    "download": "311159856"
                 }
             },
             "decryptionkey": "0995db5b2ceaa327d82c17e85fcb5e8bf580ad66dc0cfe8de39e0ac225bc97fa"
         },
         "branches": {
             "public": {
-                "buildid": "18058750",
-                "timeupdated": "1744299604"
+                "buildid": "18411137",
+                "timeupdated": "1746844350"
             }
         }
     }
