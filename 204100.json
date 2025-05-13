@@ -4,8 +4,8 @@
     "name": "Max Payne 3",
     "schinese_name": "马克思佩恩3",
     "isfreeapp": "0",
-    "change_number": "28535722",
-    "update_time": "2025-04-18 02:26:48",
+    "change_number": "28878884",
+    "update_time": "2025-05-08 17:32:29",
     "depot": {
         "overridescddb": "1",
         "204104": {
@@ -230,9 +230,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "3737644871765999414",
-                    "size": "230079756",
-                    "download": "186632784"
+                    "gid": "4177720964978853031",
+                    "size": "230627596",
+                    "download": "187200304"
                 }
             },
             "depotfromapp": "1899670",
