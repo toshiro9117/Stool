@@ -4,8 +4,8 @@
     "name": "Cultist Simulator",
     "schinese_name": "《密教模拟器 (Cultist Simulator)》",
     "isfreeapp": "0",
-    "change_number": "28517901",
-    "update_time": "2025-04-17 07:04:19",
+    "change_number": "28823909",
+    "update_time": "2025-05-05 22:28:26",
     "depot": {
         "hasdepotsindlc": "1",
         "718671": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8573706030118944236",
-                    "size": "700526456",
-                    "download": "230766288"
+                    "gid": "6607510102615751559",
+                    "size": "753189755",
+                    "download": "241980384"
                 },
                 "cultist_classic_original_ui": {
                     "gid": "7173530014025165043",
@@ -24,9 +24,9 @@
                     "download": "182125136"
                 },
                 "gateofhorn": {
-                    "gid": "2991241414379783426",
-                    "size": "697292737",
-                    "download": "228452448"
+                    "gid": "6607510102615751559",
+                    "size": "753189755",
+                    "download": "241980384"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "3126456634373454651",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7008575145319496787",
-                    "size": "729051857",
-                    "download": "241662208"
+                    "gid": "1055343139183445328",
+                    "size": "782316400",
+                    "download": "253173136"
                 },
                 "cultist_classic_original_ui": {
                     "gid": "846689903550834864",
@@ -53,9 +53,9 @@
                     "download": "188252096"
                 },
                 "gateofhorn": {
-                    "gid": "6312043134301014346",
-                    "size": "726303462",
-                    "download": "239627760"
+                    "gid": "1055343139183445328",
+                    "size": "782316400",
+                    "download": "253173136"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "1491213042050392666",
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6901571837575637595",
-                    "size": "723846212",
-                    "download": "229662704"
+                    "gid": "1455277394502240041",
+                    "size": "778383478",
+                    "download": "242089952"
                 },
                 "cultist_classic_original_ui": {
                     "gid": "319406596568884481",
@@ -82,9 +82,9 @@
                     "download": "182976352"
                 },
                 "gateofhorn": {
-                    "gid": "4930415515655149140",
-                    "size": "721787772",
-                    "download": "227917152"
+                    "gid": "1455277394502240041",
+                    "size": "778383478",
+                    "download": "242089952"
                 },
                 "legacy_unsupported_2023.12.s.6": {
                     "gid": "2965200299345187373",
@@ -97,8 +97,8 @@
         "workshopdepot": "718670",
         "branches": {
             "public": {
-                "buildid": "16472404",
-                "timeupdated": "1733426243"
+                "buildid": "18347271",
+                "timeupdated": "1746455281"
             },
             "cultist_classic_original_ui": {
                 "buildid": "6169043",
@@ -106,9 +106,9 @@
                 "timeupdated": "1646920085"
             },
             "gateofhorn": {
-                "buildid": "17780967",
+                "buildid": "18347271",
                 "description": "Beta branch, reasonably stable",
-                "timeupdated": "1742392665"
+                "timeupdated": "1746455299"
             },
             "legacy_unsupported_2023.12.s.6": {
                 "buildid": "13977825",
