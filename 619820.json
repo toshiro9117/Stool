@@ -4,8 +4,8 @@
     "name": "Heroes of Hammerwatch II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28281421",
-    "update_time": "2025-04-03 12:10:26",
+    "change_number": "28882641",
+    "update_time": "2025-05-08 21:30:17",
     "depot": {
         "228989": {
             "config": {
@@ -76,6 +76,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ca8d880b5a91567f31e69f77d6dcf6b28bfe87f755e07b54bdbaa301937e972a"
     }
 }
