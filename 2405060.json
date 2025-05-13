@@ -1,0 +1,107 @@
+{
+    "appid": "2405060",
+    "type": "Game",
+    "name": "KIBORG",
+    "schinese_name": "虐杀熔炉",
+    "isfreeapp": "0",
+    "change_number": "28917083",
+    "update_time": "2025-05-10 20:43:42",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2405061": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2406408573195949407",
+                    "size": "21311748837",
+                    "download": "7150762560"
+                },
+                "alphatest": {
+                    "gid": "1963868366633434493",
+                    "size": "21071099546",
+                    "download": "6930317056"
+                },
+                "alphatest_dev": {
+                    "gid": "4090770095119902996",
+                    "size": "20824800924",
+                    "download": "5529490912"
+                },
+                "stable_build": {
+                    "gid": "3837042371458833111",
+                    "size": "19272078388",
+                    "download": "4920527120"
+                }
+            },
+            "decryptionkey": "44e2a2a5b27411fbe5560f3688cce5d5fe65bef7ae16ae220bad5805da08d875"
+        },
+        "2405062": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7428782600285221230",
+                    "size": "21557585988",
+                    "download": "6428027872"
+                },
+                "alphatest": {
+                    "gid": "7428782600285221230",
+                    "size": "21557585988",
+                    "download": "6428027872"
+                },
+                "alphatest_dev": {
+                    "gid": "3438755639920049595",
+                    "size": "18771236542",
+                    "download": "4215951344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18380560",
+                "timeupdated": "1746655989"
+            },
+            "alphatest": {
+                "buildid": "18412499",
+                "description": "Alpha Test Shipping",
+                "timeupdated": "1746859038"
+            },
+            "alphatest_dev": {
+                "buildid": "18000546",
+                "description": "Alpha Test Development",
+                "timeupdated": "1744011032"
+            },
+            "stable_build": {
+                "buildid": "16549807",
+                "description": "Stable Alpha Test Shipping",
+                "timeupdated": "1732700728"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
