@@ -4,8 +4,8 @@
     "name": "Sid Meier's Civilization VII",
     "schinese_name": "席德·梅尔的文明VII",
     "isfreeapp": "0",
-    "change_number": "28544069",
-    "update_time": "2025-04-18 14:33:05",
+    "change_number": "28922326",
+    "update_time": "2025-05-11 10:37:13",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "1295661": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5508748571861199555",
-                    "size": "20891626039",
-                    "download": "16783530384"
+                    "gid": "175896578843953349",
+                    "size": "20940020506",
+                    "download": "16840067232"
                 },
                 "console-compatible": {
-                    "gid": "5508748571861199555",
-                    "size": "20891626039",
-                    "download": "16783530384"
+                    "gid": "175896578843953349",
+                    "size": "20940020506",
+                    "download": "16840067232"
                 },
                 "console-compatible-switch": {
                     "gid": "5508748571861199555",
@@ -38,14 +38,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5341048419205648407",
-                    "size": "1364228408",
-                    "download": "781376960"
+                    "gid": "7585015555046908055",
+                    "size": "1363201858",
+                    "download": "780576864"
                 },
                 "console-compatible": {
-                    "gid": "5341048419205648407",
-                    "size": "1364228408",
-                    "download": "781376960"
+                    "gid": "7585015555046908055",
+                    "size": "1363201858",
+                    "download": "780576864"
                 },
                 "console-compatible-switch": {
                     "gid": "5341048419205648407",
@@ -62,14 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "963989298092155658",
-                    "size": "29462971903",
-                    "download": "16010402272"
+                    "gid": "3025249606721706475",
+                    "size": "29524541416",
+                    "download": "16061853232"
                 },
                 "console-compatible": {
-                    "gid": "963989298092155658",
-                    "size": "29462971903",
-                    "download": "16010402272"
+                    "gid": "3025249606721706475",
+                    "size": "29524541416",
+                    "download": "16061853232"
                 },
                 "console-compatible-switch": {
                     "gid": "963989298092155658",
@@ -91,14 +91,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8565892578199266399",
-                    "size": "236833431",
-                    "download": "30780352"
+                    "gid": "3879975619881742380",
+                    "size": "237110795",
+                    "download": "30689536"
                 },
                 "console-compatible": {
-                    "gid": "8565892578199266399",
-                    "size": "236833431",
-                    "download": "30780352"
+                    "gid": "3879975619881742380",
+                    "size": "237110795",
+                    "download": "30689536"
                 },
                 "console-compatible-switch": {
                     "gid": "8565892578199266399",
@@ -115,14 +115,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5538722189891402402",
-                    "size": "29017580842",
-                    "download": "15756124576"
+                    "gid": "4785609980041134827",
+                    "size": "29081947149",
+                    "download": "15807459776"
                 },
                 "console-compatible": {
-                    "gid": "5538722189891402402",
-                    "size": "29017580842",
-                    "download": "15756124576"
+                    "gid": "4785609980041134827",
+                    "size": "29081947149",
+                    "download": "15807459776"
                 },
                 "console-compatible-switch": {
                     "gid": "5538722189891402402",
@@ -132,15 +132,16 @@
             },
             "decryptionkey": "68e1686bc8f5a23173a86f6a5c3fb61ae2714081bf956976f7f837a1f03a9779"
         },
+        "workshopdepot": "1295660",
         "branches": {
             "public": {
-                "buildid": "17882850",
-                "timeupdated": "1743106113"
+                "buildid": "18252135",
+                "timeupdated": "1745956882"
             },
             "console-compatible": {
-                "buildid": "17882850",
+                "buildid": "18252135",
                 "description": "Maintains compatibility to live PlayStation and Xbox builds but may be missing latest fixes and content.",
-                "timeupdated": "1743110548"
+                "timeupdated": "1746011240"
             },
             "console-compatible-switch": {
                 "buildid": "17882850",
@@ -148,6 +149,7 @@
                 "timeupdated": "1743713096"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "f23c385f4f13e1385d24f0f6033c70e9dd9fbbbbc955227df88693a31db9411b"
     }
 }
