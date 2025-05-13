@@ -4,8 +4,8 @@
     "name": "ShellShock Live",
     "schinese_name": "炮弹冲击",
     "isfreeapp": "0",
-    "change_number": "28517899",
-    "update_time": "2025-04-17 07:03:58",
+    "change_number": "28626857",
+    "update_time": "2025-04-24 01:08:45",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish,turkish,brazilian,ukrainian",
         "326461": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2328376248408815379",
-                    "size": "477496731",
-                    "download": "142517728"
+                    "gid": "2749449630809687196",
+                    "size": "478950679",
+                    "download": "142716384"
                 }
             },
             "decryptionkey": "255615fd92b45dcc379d06436f8ad67d220eaf64713615e0cb4f00eb4c8d8593"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6948667072106113033",
-                    "size": "471146630",
-                    "download": "140975536"
+                    "gid": "2622404192122520119",
+                    "size": "472585372",
+                    "download": "141224528"
                 }
             },
             "decryptionkey": "d24ce1237ef7982c060f53d24687bea438b7859495b8a82776f0e0f792d963b4"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7162662164067466240",
-                    "size": "523775495",
-                    "download": "143537968"
+                    "gid": "3931359314457274103",
+                    "size": "524432915",
+                    "download": "143535728"
                 }
             },
             "decryptionkey": "10faa28179e974767ef38a7ac5768587b982e9d064e4ab6106bc284abe064312"
         },
         "branches": {
             "public": {
-                "buildid": "11280651",
-                "timeupdated": "1684641506"
+                "buildid": "18211148",
+                "timeupdated": "1745428021"
             }
         },
         "privatebranches": "1"
