@@ -4,8 +4,8 @@
     "name": "三国志·天下归心",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548334",
-    "update_time": "2025-04-18 19:18:57",
+    "change_number": "28829342",
+    "update_time": "2025-05-06 04:29:17",
     "depot": {
         "baselanguages": "schinese",
         "1140052": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2649661085501692885",
-                    "size": "440302619",
-                    "download": "437245184"
+                    "gid": "6451926402201055743",
+                    "size": "440434814",
+                    "download": "437360112"
                 }
             },
             "decryptionkey": "ea3b2398e9a9e28f770490ea2f3aaced8a8ad2da262ac79c42fa60b74d2fb658"
         },
         "branches": {
             "public": {
-                "buildid": "18157032",
-                "timeupdated": "1744975134"
+                "buildid": "18282806",
+                "timeupdated": "1745943027"
             }
         }
     }
