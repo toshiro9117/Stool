@@ -4,9 +4,16 @@
     "name": "OUTBRK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539162",
-    "update_time": "2025-04-18 06:45:19",
+    "change_number": "28920829",
+    "update_time": "2025-05-11 05:53:43",
     "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "baselanguages": "english,french",
         "1107321": {
             "config": {
