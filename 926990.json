@@ -4,8 +4,8 @@
     "name": "WolfQuest: Anniversary Edition",
     "schinese_name": "野狼迷踪：周年纪念版",
     "isfreeapp": "0",
-    "change_number": "28517351",
-    "update_time": "2025-04-17 06:12:38",
+    "change_number": "28919740",
+    "update_time": "2025-05-11 03:15:11",
     "depot": {
         "null": {
             "depotfromapp": "457090"
@@ -17,14 +17,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7449711213303146940",
-                    "size": "13964123835",
-                    "download": "6390909088"
+                    "gid": "1215107098805486999",
+                    "size": "13964273873",
+                    "download": "6391003152"
                 },
                 "beta": {
-                    "gid": "7449711213303146940",
-                    "size": "13964123835",
-                    "download": "6390909088"
+                    "gid": "1215107098805486999",
+                    "size": "13964273873",
+                    "download": "6391003152"
                 }
             },
             "decryptionkey": "b6898f382435b9c540dae42e9a2b5fdf283a5c4f340c3294e032e782a89ff950"
@@ -35,14 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9033103157307615757",
-                    "size": "13814451234",
-                    "download": "6335673536"
+                    "gid": "5677513051930675911",
+                    "size": "13814451251",
+                    "download": "6335652432"
                 },
                 "beta": {
-                    "gid": "9033103157307615757",
-                    "size": "13814451234",
-                    "download": "6335673536"
+                    "gid": "5677513051930675911",
+                    "size": "13814451251",
+                    "download": "6335652432"
                 }
             },
             "decryptionkey": "28d993a32040d80b634e5f3338c3f228c75b765f38f99568a398e53b75670e8f"
@@ -59,13 +59,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18045821",
-                "timeupdated": "1744225523"
+                "buildid": "18271423",
+                "timeupdated": "1745878183"
             },
             "beta": {
-                "buildid": "18045699",
+                "buildid": "18271435",
                 "description": "WQ Public Beta",
-                "timeupdated": "1744224809"
+                "timeupdated": "1745878241"
             }
         },
         "privatebranches": "1"
