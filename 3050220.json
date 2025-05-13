@@ -4,8 +4,8 @@
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547220",
-    "update_time": "2025-04-18 18:05:27",
+    "change_number": "28922544",
+    "update_time": "2025-05-11 11:33:19",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3050221": {
             "manifests": {
                 "public": {
-                    "gid": "1066903341337441525",
-                    "size": "2444744206",
-                    "download": "2101338368"
+                    "gid": "1602989561802277272",
+                    "size": "2444748642",
+                    "download": "2101339456"
                 }
             },
             "decryptionkey": "ce82976ac100fcb11681d16de899309652c7d66f55a1be142470d3c3a44a22f2"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18055730",
-                "timeupdated": "1744700419"
+                "buildid": "18291582",
+                "timeupdated": "1746084145"
             }
         },
         "privatebranches": "1"
