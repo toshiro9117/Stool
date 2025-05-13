@@ -4,23 +4,23 @@
     "name": "SHOOPER NOVA",
     "schinese_name": "激射超新星",
     "isfreeapp": "0",
-    "change_number": "28533028",
-    "update_time": "2025-04-18 00:05:15",
+    "change_number": "28893886",
+    "update_time": "2025-05-09 10:38:04",
     "depot": {
         "2853161": {
             "manifests": {
                 "public": {
-                    "gid": "2673494714989731344",
-                    "size": "381542512",
-                    "download": "210968304"
+                    "gid": "2131145460439018764",
+                    "size": "381540917",
+                    "download": "210965344"
                 }
             },
             "decryptionkey": "8847ddb773742ba493c003dd4aa1c2e51b561cc2dfe206eda8cd1fff17132b4f"
         },
         "branches": {
             "public": {
-                "buildid": "18159155",
-                "timeupdated": "1744990459"
+                "buildid": "18172151",
+                "timeupdated": "1745142825"
             }
         },
         "privatebranches": "1"
