@@ -4,25 +4,25 @@
     "name": "A Promise Best Left Unkept",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28117976",
-    "update_time": "2025-03-25 06:02:11",
+    "change_number": "28876926",
+    "update_time": "2025-05-08 15:32:27",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
         "2219001": {
             "manifests": {
                 "public": {
-                    "gid": "8133888058806463609",
-                    "size": "2288572078",
-                    "download": "2141706032"
+                    "gid": "8172300798638682318",
+                    "size": "2309647095",
+                    "download": "2151488288"
                 }
             },
             "decryptionkey": "38e570b65bae7fd172f56d7cc23ce824736c6137580ef5a8630b23f1b699b2ed"
         },
         "branches": {
             "public": {
-                "buildid": "13790269",
-                "timeupdated": "1710879249"
+                "buildid": "18332975",
+                "timeupdated": "1746290499"
             }
         },
         "privatebranches": "1"
