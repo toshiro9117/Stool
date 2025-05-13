@@ -4,8 +4,8 @@
     "name": "Gray Haven",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547525",
-    "update_time": "2025-04-18 18:22:59",
+    "change_number": "28917779",
+    "update_time": "2025-05-10 22:33:32",
     "depot": {
         "baselanguages": "english,koreana,spanish,schinese,japanese",
         "2314651": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4843469465294391116",
-                    "size": "10610792863",
-                    "download": "6515449008"
+                    "gid": "4225534039903532814",
+                    "size": "11064827227",
+                    "download": "6646096544"
                 },
                 "beta": {
                     "gid": "9002907202102205078",
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7901377182273094052",
-                    "size": "10593428439",
-                    "download": "6495390016"
+                    "gid": "3914946841038277268",
+                    "size": "11069336909",
+                    "download": "6645625104"
                 },
                 "beta": {
                     "gid": "3773466956432501303",
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7550927064844201386",
-                    "size": "10610792863",
-                    "download": "6515152112"
+                    "gid": "1335466277769294886",
+                    "size": "11064827227",
+                    "download": "6645898432"
                 },
                 "beta": {
                     "gid": "7121363233815336110",
@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3191819555003737955",
-                    "size": "10610792863",
-                    "download": "6514257888"
+                    "gid": "2762346780824639759",
+                    "size": "11064827227",
+                    "download": "6644878704"
                 },
                 "beta": {
                     "gid": "7732096320265565348",
@@ -111,9 +111,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "766957242480235917",
-                    "size": "10610792863",
-                    "download": "6514795792"
+                    "gid": "6089614132854282037",
+                    "size": "11064827227",
+                    "download": "6645448800"
                 },
                 "beta": {
                     "gid": "2663955357124297382",
@@ -131,13 +131,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17631851",
-                "timeupdated": "1741339109"
+                "buildid": "18397261",
+                "timeupdated": "1746774862"
             },
             "beta": {
                 "buildid": "18156023",
                 "description": "Beta Test",
-                "timeupdated": "1744971760"
+                "timeupdated": "1746005822"
             },
             "last_hotfix": {
                 "buildid": "17027169",
