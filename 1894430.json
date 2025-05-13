@@ -4,8 +4,8 @@
     "name": "Plan B: Terraform",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548211",
-    "update_time": "2025-04-18 19:09:16",
+    "change_number": "28916230",
+    "update_time": "2025-05-10 18:27:42",
     "depot": {
         "228988": {
             "config": {
@@ -24,14 +24,14 @@
         "1894431": {
             "manifests": {
                 "public": {
-                    "gid": "7081411263799970743",
-                    "size": "961461860",
-                    "download": "448741760"
+                    "gid": "3708876065326681168",
+                    "size": "912149610",
+                    "download": "445350336"
                 },
                 "beta": {
-                    "gid": "2753011398444638507",
-                    "size": "909752712",
-                    "download": "444482496"
+                    "gid": "3708876065326681168",
+                    "size": "912149610",
+                    "download": "445350336"
                 },
                 "safe": {
                     "gid": "7081411263799970743",
@@ -60,13 +60,13 @@
         "workshopdepot": "1894430",
         "branches": {
             "public": {
-                "buildid": "18090450",
-                "timeupdated": "1744560087"
+                "buildid": "18403786",
+                "timeupdated": "1746872858"
             },
             "beta": {
-                "buildid": "18160076",
+                "buildid": "18403786",
                 "description": "beta branch",
-                "timeupdated": "1744995657"
+                "timeupdated": "1746797166"
             },
             "safe": {
                 "buildid": "18090450",
