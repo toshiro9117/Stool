@@ -4,8 +4,8 @@
     "name": "Sephiria",
     "schinese_name": "赛菲莉娅",
     "isfreeapp": "0",
-    "change_number": "28540043",
-    "update_time": "2025-04-18 08:03:41",
+    "change_number": "28908211",
+    "update_time": "2025-05-10 03:02:59",
     "depot": {
         "baselanguages": "koreana",
         "2436941": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "41913825068415641",
-                    "size": "613365721",
-                    "download": "136045824"
+                    "gid": "6197578975833922973",
+                    "size": "613103334",
+                    "download": "136094080"
                 }
             },
             "decryptionkey": "65e59b412db2d2909f33ac5755b0d55df645935df94bfd26610fd4f3ee60bb21"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6559920614959893516",
-                    "size": "653069392",
-                    "download": "147414016"
+                    "gid": "5955404049029472454",
+                    "size": "652806997",
+                    "download": "147473296"
                 }
             },
             "decryptionkey": "757a2d2178c53e79923cb2f6fd7694c3fcc6293414ff982ece838c607586ac53"
@@ -37,8 +37,8 @@
         "workshopdepot": "2436940",
         "branches": {
             "public": {
-                "buildid": "18137968",
-                "timeupdated": "1744859084"
+                "buildid": "18402210",
+                "timeupdated": "1746791883"
             }
         },
         "privatebranches": "1",
