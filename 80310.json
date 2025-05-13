@@ -4,8 +4,8 @@
     "name": "Gemini Rue",
     "schinese_name": "双子座行动",
     "isfreeapp": "0",
-    "change_number": "28515048",
-    "update_time": "2025-04-17 03:17:04",
+    "change_number": "28683295",
+    "update_time": "2025-04-26 22:23:37",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8186800891486102058",
-                    "size": "285208970",
-                    "download": "244163248"
+                    "gid": "432574355052031449",
+                    "size": "285209968",
+                    "download": "244164048"
                 }
             },
             "decryptionkey": "4a81d67d9a92e78d13638d071c5e73e2389bcf9257b7d8a0ed3a19b0fc77c16d"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7112653539096827260",
-                    "size": "300221802",
-                    "download": "244841328"
+                    "gid": "955624264312596922",
+                    "size": "300222898",
+                    "download": "244842912"
                 }
             }
         },
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7667966768371961525",
-                    "size": "354294813",
-                    "download": "261305056"
+                    "gid": "129106508979204587",
+                    "size": "354295909",
+                    "download": "261305952"
                 }
             }
         },
@@ -54,16 +54,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7340256079490663537",
-                    "size": "357585532",
-                    "download": "258205776"
+                    "gid": "2814791017423853894",
+                    "size": "357586628",
+                    "download": "258206144"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18133765",
-                "timeupdated": "1744831017"
+                "buildid": "18250134",
+                "timeupdated": "1745677413"
             }
         },
         "privatebranches": "1"
