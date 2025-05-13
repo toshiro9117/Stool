@@ -4,8 +4,8 @@
     "name": "Squad 44",
     "schinese_name": "战争附言",
     "isfreeapp": "0",
-    "change_number": "28154522",
-    "update_time": "2025-03-27 01:28:44",
+    "change_number": "28887264",
+    "update_time": "2025-05-09 01:27:42",
     "depot": {
         "228984": {
             "config": {
@@ -45,17 +45,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4072944232048711520",
-                    "size": "94757070907",
-                    "download": "36215402032"
+                    "gid": "4129497774663143022",
+                    "size": "94757122783",
+                    "download": "36215421568"
                 }
             },
             "decryptionkey": "672051e5cb7894f0c6168ddb34c61671100323d964ab8d5dba04eda83db1a5d2"
         },
         "branches": {
             "public": {
-                "buildid": "17856163",
-                "timeupdated": "1743009998"
+                "buildid": "18378760",
+                "timeupdated": "1746725252"
             }
         },
         "privatebranches": "1",
