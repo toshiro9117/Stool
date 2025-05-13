@@ -4,8 +4,8 @@
     "name": "Backrooms Cleanup Crew",
     "schinese_name": "Backrooms 清洁小队 (Backrooms Cleanup Crew)",
     "isfreeapp": "0",
-    "change_number": "28547138",
-    "update_time": "2025-04-18 18:01:39",
+    "change_number": "28909302",
+    "update_time": "2025-05-10 04:20:01",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3140991": {
             "manifests": {
                 "public": {
-                    "gid": "7330495238387290050",
-                    "size": "1871651031",
-                    "download": "1583073200"
+                    "gid": "440114817700348182",
+                    "size": "1879129690",
+                    "download": "1590184208"
                 }
             },
             "decryptionkey": "d81e674b226c7ab087cff2aedcf107268b8d53a6264227b549fe9b4a0ae7c35f"
         },
         "branches": {
             "public": {
-                "buildid": "18153859",
-                "timeupdated": "1744955875"
+                "buildid": "18174204",
+                "timeupdated": "1745175087"
             }
         },
         "privatebranches": "1"
