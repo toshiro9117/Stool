@@ -4,17 +4,17 @@
     "name": "StarMade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28202208",
-    "update_time": "2025-03-29 10:22:47",
+    "change_number": "28740819",
+    "update_time": "2025-04-30 12:10:02",
     "depot": {
         "overridescddb": "1",
         "244771": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8895246340792505936",
-                    "size": "654242683",
-                    "download": "427492320"
+                    "gid": "9084977058043833571",
+                    "size": "654244652",
+                    "download": "427496144"
                 },
                 "launcherbeta": {
                     "gid": "8127841426135315297",
@@ -138,9 +138,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2405524312869055321",
-                    "size": "295727816",
-                    "download": "96900720"
+                    "gid": "1303309059978942729",
+                    "size": "293271702",
+                    "download": "99562656"
                 },
                 "launcherbeta": {
                     "gid": "9102901634983342693",
@@ -156,9 +156,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6777661849626722870",
-                    "size": "311000419",
-                    "download": "98635744"
+                    "gid": "6620159047888456676",
+                    "size": "313632611",
+                    "download": "102821120"
                 },
                 "launcherbeta": {
                     "gid": "5018712332539170498",
@@ -174,9 +174,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2099018185918396795",
-                    "size": "67631251",
-                    "download": "42207056"
+                    "gid": "7264151155857213181",
+                    "size": "294362594",
+                    "download": "95896352"
                 },
                 "launcherbeta": {
                     "gid": "1331759125743264447",
@@ -188,8 +188,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17906461",
-                "timeupdated": "1743214964"
+                "buildid": "18289920",
+                "timeupdated": "1745985674"
             },
             "launcherbeta": {
                 "buildid": "15524513",
