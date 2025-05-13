@@ -4,8 +4,8 @@
     "name": "つぐのひ -彁名縛りの部屋-",
     "schinese_name": "翌日 -鬼字之屋-",
     "isfreeapp": "0",
-    "change_number": "28545535",
-    "update_time": "2025-04-18 16:13:44",
+    "change_number": "28917365",
+    "update_time": "2025-05-10 21:31:57",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "1562691": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "628504063059943006",
-                    "size": "541498713",
-                    "download": "418494864"
+                    "gid": "8443986201124424167",
+                    "size": "541498760",
+                    "download": "418495392"
                 }
             },
             "decryptionkey": "1752d1993f3de371df36865cf79aaec7f95906a46bd1f8d3e7947784f17ec5eb"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3463642557019369641",
-                    "size": "543601272",
-                    "download": "421263312"
+                    "gid": "8110737503687911927",
+                    "size": "544994073",
+                    "download": "421372304"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7101839185609671600",
-                    "size": "541349122",
-                    "download": "418000512"
+                    "gid": "1861100814617231650",
+                    "size": "541349169",
+                    "download": "418001296"
                 }
             },
             "decryptionkey": "50e13595bb74521c87b78497a5bebf56d1c592eed9b91990a1ecfdcc55073e46"
         },
         "branches": {
             "public": {
-                "buildid": "18150324",
-                "timeupdated": "1744930437"
+                "buildid": "18175194",
+                "timeupdated": "1745187155"
             }
         },
         "privatebranches": "1"
