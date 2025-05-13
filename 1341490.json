@@ -4,8 +4,8 @@
     "name": "Hellsweeper VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28500909",
-    "update_time": "2025-04-16 12:57:24",
+    "change_number": "28748640",
+    "update_time": "2025-04-30 20:17:42",
     "depot": {
         "baselanguages": "english",
         "1341491": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2308179187381532475",
-                    "size": "16634128406",
-                    "download": "6832342256"
+                    "gid": "2888744356346950584",
+                    "size": "16736790538",
+                    "download": "6869774992"
                 }
             },
             "decryptionkey": "5da5f13273be3ce9cf6af7da48f8895ba3ebd10ec643cc0f6c86f425983b9867"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16797108",
-                "timeupdated": "1734619729"
+                "buildid": "18294036",
+                "timeupdated": "1746015458"
             }
         },
         "privatebranches": "1"
