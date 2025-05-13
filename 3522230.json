@@ -4,8 +4,8 @@
     "name": "Death Stream",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28064241",
-    "update_time": "2025-03-21 11:54:58",
+    "change_number": "28687665",
+    "update_time": "2025-04-27 08:13:51",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,russian,thai,japanese,polish,swedish,czech,turkish,brazilian,latam",
         "3522231": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6401318327925924686",
-                    "size": "2339151814",
-                    "download": "966665872"
+                    "gid": "564412746830279190",
+                    "size": "2339145189",
+                    "download": "966672160"
                 }
             },
             "decryptionkey": "51b49635da4b8cd343c456531e1738a01eedae39fe4f664c0952d0204fc70283"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6742837189248182987",
-                    "size": "2349110806",
-                    "download": "969889104"
+                    "gid": "8990617263433090066",
+                    "size": "2380068288",
+                    "download": "979112560"
                 }
             },
             "decryptionkey": ""
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8291927050972759420",
-                    "size": "2437824540",
-                    "download": "1019607792"
+                    "gid": "3297643173261929016",
+                    "size": "2437818314",
+                    "download": "1019614240"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17300345",
-                "timeupdated": "1739138769"
+                "buildid": "18212723",
+                "timeupdated": "1745436681"
             }
         }
     }
