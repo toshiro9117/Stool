@@ -4,8 +4,8 @@
     "name": "Melody Mania",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28415584",
-    "update_time": "2025-04-11 04:10:47",
+    "change_number": "28812842",
+    "update_time": "2025-05-05 03:37:08",
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "1375126080"
                 },
                 "public-beta": {
-                    "gid": "2143848617794148849",
-                    "size": "3003105486",
-                    "download": "1375121488"
+                    "gid": "1656751174291739631",
+                    "size": "3011875156",
+                    "download": "1377904912"
                 }
             },
             "decryptionkey": "1fdf45dcfd05ab8bb2dbe8a5a4523600137e4914eb130a034f05845fa8d2320f"
@@ -37,9 +37,9 @@
                 "timeupdated": "1742850077"
             },
             "public-beta": {
-                "buildid": "17916014",
+                "buildid": "18339727",
                 "description": "Public beta version",
-                "timeupdated": "1743345688"
+                "timeupdated": "1746387425"
             }
         },
         "privatebranches": "1",
