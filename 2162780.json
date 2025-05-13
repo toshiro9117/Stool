@@ -4,20 +4,20 @@
     "name": "E.E.R.I.E2",
     "schinese_name": "异变战区2",
     "isfreeapp": "0",
-    "change_number": "28530378",
-    "update_time": "2025-04-17 21:56:52",
+    "change_number": "28817667",
+    "update_time": "2025-05-05 14:53:30",
     "depot": {
         "2162781": {
             "manifests": {
                 "public": {
+                    "gid": "1840261895673618867",
+                    "size": "6112817940",
+                    "download": "2499653424"
+                },
+                "dev_old": {
                     "gid": "8799899849874319683",
                     "size": "6137821982",
                     "download": "2171836608"
-                },
-                "dev_old": {
-                    "gid": "4783959423670967034",
-                    "size": "5983149957",
-                    "download": "2103484272"
                 },
                 "dev_alpha": {
                     "gid": "5350820807825430771",
@@ -35,13 +35,13 @@
         "workshopdepot": "2162780",
         "branches": {
             "public": {
-                "buildid": "15261194",
-                "timeupdated": "1722844810"
+                "buildid": "18343111",
+                "timeupdated": "1746427995"
             },
             "dev_old": {
-                "buildid": "14429984",
+                "buildid": "15261194",
                 "description": "Older version",
-                "timeupdated": "1721049668"
+                "timeupdated": "1745214666"
             },
             "dev_alpha": {
                 "buildid": "11281765",
