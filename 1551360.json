@@ -4,8 +4,8 @@
     "name": "Forza Horizon 5",
     "schinese_name": "极限竞速：地平线 5",
     "isfreeapp": "0",
-    "change_number": "28522167",
-    "update_time": "2025-04-17 13:25:36",
+    "change_number": "28914408",
+    "update_time": "2025-05-10 13:49:09",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1551361": {
             "manifests": {
                 "public": {
-                    "gid": "6303380406761968937",
-                    "size": "158381590886",
-                    "download": "147547390848"
+                    "gid": "5207122455532745014",
+                    "size": "159138469061",
+                    "download": "148297284240"
                 }
             },
             "decryptionkey": "13b42353469d4bb26905e2c12e73d4cd63ad89c21f438b3cf5b4b9a9bb659227"
@@ -56,8 +56,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "17696169",
-                "timeupdated": "1741798656"
+                "buildid": "17963367",
+                "timeupdated": "1745495516"
             }
         },
         "privatebranches": "1"
