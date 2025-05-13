@@ -4,8 +4,8 @@
     "name": "Mini Motorways",
     "schinese_name": "迷你高速公路",
     "isfreeapp": "0",
-    "change_number": "28516801",
-    "update_time": "2025-04-17 05:25:08",
+    "change_number": "28889382",
+    "update_time": "2025-05-09 03:58:30",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
         "1127501": {
@@ -15,14 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "161334700769308345",
-                    "size": "212438328",
-                    "download": "139637024"
+                    "gid": "68192256756138572",
+                    "size": "213030836",
+                    "download": "139831408"
                 },
                 "1.10_endless_expert": {
                     "gid": "5639111916594631275",
                     "size": "224035834",
                     "download": "138275168"
+                },
+                "1.16_tires_and_spires": {
+                    "gid": "161334700769308345",
+                    "size": "212438328",
+                    "download": "139637024"
                 },
                 "1.11_miniversary": {
                     "gid": "2845776647361762882",
@@ -54,14 +59,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3205423158378798775",
-                    "size": "252246534",
-                    "download": "146926816"
+                    "gid": "6207482808419660276",
+                    "size": "252526438",
+                    "download": "147180928"
                 },
                 "1.10_endless_expert": {
                     "gid": "4176864338619032587",
                     "size": "234819646",
                     "download": "139464256"
+                },
+                "1.16_tires_and_spires": {
+                    "gid": "3205423158378798775",
+                    "size": "252246534",
+                    "download": "146926816"
                 },
                 "1.11_miniversary": {
                     "gid": "5817271829161117709",
@@ -88,13 +98,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17686041",
-                "timeupdated": "1743452908"
+                "buildid": "18105224",
+                "timeupdated": "1745279164"
             },
             "1.10_endless_expert": {
                 "buildid": "11143143",
                 "description": "A snapshot of the game for the Endless and Expert Patch Update",
                 "timeupdated": "1689808314"
+            },
+            "1.16_tires_and_spires": {
+                "buildid": "17686041",
+                "description": "A snapshot of the game for the Tires and Spires update. Unity 2022.3.20f1",
+                "timeupdated": "1745278915"
             },
             "1.11_miniversary": {
                 "buildid": "11742016",
