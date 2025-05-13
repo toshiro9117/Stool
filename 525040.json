@@ -4,8 +4,8 @@
     "name": "The Disney Afternoon Collection",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28357154",
-    "update_time": "2025-04-08 10:04:30",
+    "change_number": "28852919",
+    "update_time": "2025-05-07 10:06:21",
     "depot": {
         "228984": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "59397089291632768",
-                    "size": "336176236",
-                    "download": "325385536"
+                    "gid": "5256007417415092342",
+                    "size": "336326232",
+                    "download": "331609232"
                 }
             },
             "decryptionkey": "c665a9c976e42491f17e547559de95ca0965372283e7a3c5eab4c234d9e27be1"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,italian,spanish,russian,brazilian",
         "branches": {
             "public": {
-                "buildid": "1807518",
-                "timeupdated": "1494350400"
+                "buildid": "18019550",
+                "timeupdated": "1746583202"
             }
         },
         "privatebranches": "1"
