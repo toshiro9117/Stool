@@ -4,16 +4,16 @@
     "name": "祛魅·格心（祛魅3） - Disenchantment Heart",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28292758",
-    "update_time": "2025-04-04 00:16:27",
+    "change_number": "28915848",
+    "update_time": "2025-05-10 17:24:24",
     "depot": {
         "baselanguages": "schinese",
         "1632161": {
             "manifests": {
                 "public": {
-                    "gid": "1680298119550553611",
-                    "size": "809924097",
-                    "download": "664855520"
+                    "gid": "6743075962131600349",
+                    "size": "819356094",
+                    "download": "674105648"
                 }
             },
             "decryptionkey": "cf7924417fbb5223106093efadb4d0338e31dca57c13566824cf6371c3bfd87c"
@@ -22,9 +22,9 @@
             "dlcappid": "1673930",
             "manifests": {
                 "public": {
-                    "gid": "1255432409547139299",
-                    "size": "62002002",
-                    "download": "61601376"
+                    "gid": "3503605912821662412",
+                    "size": "155294867",
+                    "download": "155065328"
                 }
             },
             "decryptionkey": "352778f0c50e0afd2bb41df0c9e1f3b4ebb9c3902218848de6946ac54a12980c"
@@ -33,17 +33,17 @@
             "dlcappid": "1697480",
             "manifests": {
                 "public": {
-                    "gid": "524084847289728055",
-                    "size": "2455946",
-                    "download": "1749328"
+                    "gid": "6152110218182897196",
+                    "size": "2359954",
+                    "download": "1611408"
                 }
             },
             "decryptionkey": "0bb2fa732a5882c0becada6cd55a32eeda4531e1f9d5e6fefc7897ca575d7b9f"
         },
         "branches": {
             "public": {
-                "buildid": "14203751",
-                "timeupdated": "1714352062"
+                "buildid": "18411400",
+                "timeupdated": "1746846170"
             }
         }
     }
