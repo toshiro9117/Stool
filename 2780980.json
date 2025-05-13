@@ -4,8 +4,8 @@
     "name": "LOCKDOWN Protocol",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28440753",
-    "update_time": "2025-04-12 11:08:30",
+    "change_number": "28881538",
+    "update_time": "2025-05-08 20:22:53",
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6639739922687694387",
-                    "size": "2210729256",
-                    "download": "2030648992"
+                    "gid": "774685032636251523",
+                    "size": "2244629173",
+                    "download": "2064090768"
                 }
             },
             "decryptionkey": "b810b1ec8feac6ecba5f581a91d6cc4f32d3e7e37668fa911a7890c98941b508"
@@ -38,8 +38,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18059620",
-                "timeupdated": "1744304164"
+                "buildid": "18388527",
+                "timeupdated": "1746706969"
             }
         },
         "privatebranches": "1"
