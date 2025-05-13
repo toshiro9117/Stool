@@ -4,8 +4,8 @@
     "name": "Death and Taxes",
     "schinese_name": "死亡与税赋",
     "isfreeapp": "0",
-    "change_number": "28493353",
-    "update_time": "2025-04-16 02:29:23",
+    "change_number": "28818615",
+    "update_time": "2025-05-05 16:08:23",
     "depot": {
         "hasdepotsindlc": "0",
         "1166291": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4493405324408966437",
-                    "size": "3124867324",
-                    "download": "765905232"
+                    "gid": "3429024384419910492",
+                    "size": "3143507336",
+                    "download": "769104032"
                 }
             },
             "decryptionkey": "1e8d0c9ff18e0d0561e51dd04f7ba2c50d91f2ed2c1bb928e5ac06af53beccf6"
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9023338542465334138",
-                    "size": "3126721999",
-                    "download": "766710400"
+                    "gid": "9185646888678367197",
+                    "size": "3145362016",
+                    "download": "769908448"
                 }
             },
             "decryptionkey": "326a9000d9ccbd69faf3311eeb3d01f08483dd7f95401f0de9d0f76477ef8d87"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2478136111118858574",
-                    "size": "3135420691",
-                    "download": "767440192"
+                    "gid": "3878094450436766612",
+                    "size": "3154060719",
+                    "download": "770651808"
                 }
             },
             "decryptionkey": "ea63c61235a8f3d41bfc24530bd89a87d3b3c90daf411e9feecbaf3403d0e5e0"
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15279500",
-                "timeupdated": "1722962994"
+                "buildid": "18331591",
+                "timeupdated": "1746271746"
             }
         },
         "privatebranches": "1"
