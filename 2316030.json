@@ -4,8 +4,8 @@
     "name": "Pickup Point Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28370311",
-    "update_time": "2025-04-09 01:03:29",
+    "change_number": "28666892",
+    "update_time": "2025-04-25 21:23:59",
     "depot": {
         "228988": {
             "config": {
@@ -39,17 +39,17 @@
         "2316031": {
             "manifests": {
                 "public": {
-                    "gid": "5829408081728139319",
+                    "gid": "6133120177095220518",
                     "size": "850777023",
-                    "download": "769582496"
+                    "download": "769583888"
                 }
             },
             "decryptionkey": "758579f53006a13750577f7712503dc6398e61d1b4449de56afc76f3ddd375f7"
         },
         "branches": {
             "public": {
-                "buildid": "17412458",
-                "timeupdated": "1739908123"
+                "buildid": "18239065",
+                "timeupdated": "1745587436"
             }
         },
         "privatebranches": "1"
