@@ -4,8 +4,8 @@
     "name": "Border Pioneer",
     "schinese_name": "边境开拓者",
     "isfreeapp": "0",
-    "change_number": "28307986",
-    "update_time": "2025-04-04 20:10:19",
+    "change_number": "28916886",
+    "update_time": "2025-05-10 20:13:50",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "2346410",
@@ -30,9 +30,9 @@
                     "download": "248029040"
                 },
                 "windows11test": {
-                    "gid": "1707597401784288178",
-                    "size": "498267430",
-                    "download": "264178848"
+                    "gid": "4773679553602128410",
+                    "size": "498558126",
+                    "download": "264259104"
                 },
                 "macos-arm64": {
                     "gid": "1806980543329621642",
@@ -92,9 +92,9 @@
                 "timeupdated": "1743176911"
             },
             "windows11test": {
-                "buildid": "17900369",
+                "buildid": "18414070",
                 "description": "WIN11测试版",
-                "timeupdated": "1743176932"
+                "timeupdated": "1746879225"
             },
             "macos-arm64": {
                 "buildid": "17900368",
