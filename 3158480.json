@@ -1,0 +1,43 @@
+{
+    "appid": "3158480",
+    "type": "Game",
+    "name": "Hotel Owner Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28920330",
+    "update_time": "2025-05-11 04:42:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3158481": {
+            "manifests": {
+                "public": {
+                    "gid": "7627838178788596907",
+                    "size": "6820245512",
+                    "download": "6412831088"
+                }
+            },
+            "decryptionkey": "1c548a80ffa11012787f71ba74200c0bad4fba33340e1ac0990341a47469cf95"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18406393",
+                "timeupdated": "1746811071"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
