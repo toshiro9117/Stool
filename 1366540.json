@@ -4,8 +4,8 @@
     "name": "Dyson Sphere Program",
     "schinese_name": "戴森球计划",
     "isfreeapp": "0",
-    "change_number": "28328413",
-    "update_time": "2025-04-06 09:21:05",
+    "change_number": "28593336",
+    "update_time": "2025-04-22 11:21:03",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -70,6 +70,11 @@
                     "gid": "428705337621430928",
                     "size": "4535411259",
                     "download": "1551906048"
+                },
+                "public-test-0": {
+                    "gid": "7835592415243376611",
+                    "size": "4566158259",
+                    "download": "1565043712"
                 }
             },
             "decryptionkey": "88e374cd6c344868ab9b1591cdf0391483ea487bde467410ba7cac376292c19c"
@@ -145,6 +150,12 @@
                 "buildid": "16680241",
                 "description": "Revert to the previous version",
                 "timeupdated": "1737647989"
+            },
+            "public-test-0": {
+                "sc_schinese": "公开测试分支0",
+                "buildid": "17999078",
+                "description": "公开测试分支0",
+                "timeupdated": "1745200291"
             }
         },
         "privatebranches": "1",
