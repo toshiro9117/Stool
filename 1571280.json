@@ -4,8 +4,8 @@
     "name": "Street Legal 1: REVision",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28107542",
-    "update_time": "2025-03-24 19:37:47",
+    "change_number": "28629664",
+    "update_time": "2025-04-24 03:56:57",
     "depot": {
         "228983": {
             "config": {
@@ -70,6 +70,7 @@
                 "timeupdated": "1742816260"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0a63678a545a1d114e9213396a4708e87fa9546a5e4d1d7250ec66d99d793358"
     }
 }
