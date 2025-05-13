@@ -4,25 +4,25 @@
     "name": "Faun Town",
     "schinese_name": "牧神镇物语",
     "isfreeapp": "0",
-    "change_number": "28549242",
-    "update_time": "2025-04-18 20:27:38",
+    "change_number": "28893451",
+    "update_time": "2025-05-09 09:52:53",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
         "2996001": {
             "manifests": {
                 "public": {
-                    "gid": "3835761680594358270",
-                    "size": "1361859589",
-                    "download": "128389312"
+                    "gid": "803943271809908288",
+                    "size": "1363473973",
+                    "download": "128766224"
                 }
             },
             "decryptionkey": "d7e3eac93b6415fc81b711105d4b221a3306aea306d44c8b6e0a5b4835480307"
         },
         "branches": {
             "public": {
-                "buildid": "18157180",
-                "timeupdated": "1744979254"
+                "buildid": "18259446",
+                "timeupdated": "1745809353"
             }
         },
         "privatebranches": "1"
