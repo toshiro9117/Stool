@@ -4,8 +4,8 @@
     "name": "Premium Bowling",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28371242",
-    "update_time": "2025-04-09 01:59:59",
+    "change_number": "28917878",
+    "update_time": "2025-05-10 22:48:33",
     "depot": {
         "228989": {
             "config": {
@@ -21,19 +21,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8823737488445737523",
-                    "size": "2455449297",
-                    "download": "1697493792"
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
                 },
                 "alpha": {
-                    "gid": "8823737488445737523",
-                    "size": "2455449297",
-                    "download": "1697493792"
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
                 },
                 "beta": {
-                    "gid": "8823737488445737523",
-                    "size": "2455449297",
-                    "download": "1697493792"
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
                 },
                 "prev": {
                     "gid": "1372398506598827310",
@@ -72,18 +72,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17854420",
-                "timeupdated": "1742919602"
+                "buildid": "18414756",
+                "timeupdated": "1746888508"
             },
             "alpha": {
-                "buildid": "17854420",
+                "buildid": "18414756",
                 "description": "Too Early Versions",
-                "timeupdated": "1742918722"
+                "timeupdated": "1746888201"
             },
             "beta": {
-                "buildid": "17854420",
+                "buildid": "18414756",
                 "description": "Public Beta Versions",
-                "timeupdated": "1742918730"
+                "timeupdated": "1746888208"
             },
             "prev": {
                 "buildid": "17437927",
