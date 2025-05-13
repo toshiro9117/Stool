@@ -4,8 +4,8 @@
     "name": "LOK Digital",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533622",
-    "update_time": "2025-04-18 00:31:10",
+    "change_number": "28794173",
+    "update_time": "2025-05-03 07:27:32",
     "depot": {
         "baselanguages": "",
         "2207441": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "869233822188188840",
-                    "size": "476881948",
-                    "download": "180888624"
+                    "gid": "9080578407628663005",
+                    "size": "566120718",
+                    "download": "190189744"
                 },
                 "bugfix-test": {
                     "gid": "4596650394374602410",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8075777767167557503",
-                    "size": "507973179",
-                    "download": "190088192"
+                    "gid": "813501489451799238",
+                    "size": "597214271",
+                    "download": "199366400"
                 },
                 "bugfix-test": {
                     "gid": "5393055560768804765",
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4587246945748233146",
-                    "size": "480979874",
-                    "download": "181403056"
+                    "gid": "7910436629328552459",
+                    "size": "566199395",
+                    "download": "187660192"
                 },
                 "bugfix-test": {
                     "gid": "3634801073588476594",
@@ -62,8 +62,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16981965",
-                "timeupdated": "1736721094"
+                "buildid": "18196391",
+                "timeupdated": "1745939490"
             },
             "bugfix-test": {
                 "buildid": "17364839",
