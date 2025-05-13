@@ -4,8 +4,8 @@
     "name": "Fortune Avenue",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547651",
-    "update_time": "2025-04-18 18:30:54",
+    "change_number": "28916142",
+    "update_time": "2025-05-10 18:12:28",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,polish,czech,turkish,brazilian",
         "1810054": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7678819144575810518",
-                    "size": "377245185",
-                    "download": "264558592"
+                    "gid": "440918556652147524",
+                    "size": "566020449",
+                    "download": "261887392"
                 },
                 "unstable": {
-                    "gid": "7678819144575810518",
-                    "size": "377245185",
-                    "download": "264558592"
+                    "gid": "6848338035313222780",
+                    "size": "567184113",
+                    "download": "262819152"
                 }
             }
         },
@@ -33,27 +33,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2496410927915045898",
-                    "size": "376038221",
-                    "download": "263606960"
+                    "gid": "1852874319359575371",
+                    "size": "564817581",
+                    "download": "260927968"
                 },
                 "unstable": {
-                    "gid": "2496410927915045898",
-                    "size": "376038221",
-                    "download": "263606960"
+                    "gid": "1876356522460586868",
+                    "size": "565981245",
+                    "download": "261858752"
                 }
             },
             "decryptionkey": "6575f7dbbb7608bbe7d71afe5321f34372457adf87460acb86992c8001e24249"
         },
         "branches": {
             "public": {
-                "buildid": "18144803",
-                "timeupdated": "1744898640"
+                "buildid": "18331528",
+                "timeupdated": "1746270966"
             },
             "unstable": {
-                "buildid": "18144803",
+                "buildid": "18413524",
                 "description": "Public test",
-                "timeupdated": "1744898624"
+                "timeupdated": "1746871943"
             }
         },
         "privatebranches": "1"
