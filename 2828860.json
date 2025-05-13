@@ -4,8 +4,8 @@
     "name": "The Forever Winter",
     "schinese_name": "永恒寒冬",
     "isfreeapp": "0",
-    "change_number": "28548918",
-    "update_time": "2025-04-18 20:04:33",
+    "change_number": "28848647",
+    "update_time": "2025-05-07 03:42:14",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8323605861532152160",
-                    "size": "120467341931",
-                    "download": "83973388864"
+                    "gid": "898085811130253940",
+                    "size": "120549211464",
+                    "download": "84062079568"
                 }
             },
             "decryptionkey": "e333c16789028087fd8925929beb0a6117f7fdb30559fa9f02677adfd32b076c"
         },
         "branches": {
             "public": {
-                "buildid": "18151148",
-                "timeupdated": "1744938048"
+                "buildid": "18362914",
+                "timeupdated": "1746560526"
             }
         }
     }
