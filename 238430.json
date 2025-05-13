@@ -4,12 +4,17 @@
     "name": "Contagion",
     "schinese_name": "传染病",
     "isfreeapp": "0",
-    "change_number": "28440955",
-    "update_time": "2025-04-12 11:40:51",
+    "change_number": "28922530",
+    "update_time": "2025-05-11 11:30:27",
     "depot": {
-        "overridescddb": "1",
-        "workshopdepot": "238430",
         "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -30,6 +35,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "overridescddb": "1",
+        "workshopdepot": "238430",
         "238431": {
             "systemdefined": "1",
             "manifests": {
@@ -39,9 +46,9 @@
                     "download": "56327344"
                 },
                 "upcoming": {
-                    "gid": "5234521217144833986",
-                    "size": "152211910",
-                    "download": "56327344"
+                    "gid": "5520156355360023892",
+                    "size": "154576494",
+                    "download": "56512256"
                 }
             },
             "decryptionkey": "9634d3738964c481192d594ce8d7f9a419a244256b490377943a7bffc8b0ea19"
@@ -54,9 +61,9 @@
                     "download": "4681559936"
                 },
                 "upcoming": {
-                    "gid": "3394153034084604630",
-                    "size": "15966115583",
-                    "download": "4681559936"
+                    "gid": "5747611919765470889",
+                    "size": "16561471453",
+                    "download": "4743432832"
                 }
             },
             "decryptionkey": "f00f954df6fbd23bb1489bbbc205d4aaa14cd59e86be36568a009ffec817fc26"
@@ -83,9 +90,9 @@
                 "timeupdated": "1744187129"
             },
             "upcoming": {
-                "buildid": "18037796",
+                "buildid": "18243487",
                 "description": "Upcoming Build",
-                "timeupdated": "1744187001"
+                "timeupdated": "1745610258"
             }
         },
         "privatebranches": "1",
