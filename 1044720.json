@@ -4,15 +4,15 @@
     "name": "Farthest Frontier",
     "schinese_name": "最远的边陲",
     "isfreeapp": "0",
-    "change_number": "28542883",
-    "update_time": "2025-04-18 12:30:02",
+    "change_number": "28922686",
+    "update_time": "2025-05-11 12:07:13",
     "depot": {
         "1044721": {
             "manifests": {
                 "public": {
-                    "gid": "4421898832791872054",
-                    "size": "13941601736",
-                    "download": "2492576560"
+                    "gid": "4337546543974368229",
+                    "size": "13941658276",
+                    "download": "2492728272"
                 }
             },
             "decryptionkey": "2a605d9a2257c347b93162b67aa9844b9719d858501c8df4bcf4982565069ab7"
@@ -20,8 +20,8 @@
         "workshopdepot": "1044720",
         "branches": {
             "public": {
-                "buildid": "18149966",
-                "timeupdated": "1744925566"
+                "buildid": "18366353",
+                "timeupdated": "1746574884"
             }
         },
         "privatebranches": "1",
