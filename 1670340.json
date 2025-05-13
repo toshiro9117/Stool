@@ -4,8 +4,8 @@
     "name": "Craftopia Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28547929",
-    "update_time": "2025-04-18 18:49:16",
+    "change_number": "28918880",
+    "update_time": "2025-05-11 01:04:37",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
                     "download": "1247557728"
                 },
                 "alpha-unstable": {
-                    "gid": "3120617379183108547",
-                    "size": "30970538545",
-                    "download": "20159905968"
+                    "gid": "5165924427333260545",
+                    "size": "30997605150",
+                    "download": "20178234320"
                 }
             },
             "decryptionkey": "8eaa170ccca19e9e8637f1f5a9e5f7b12210564418efde5bdf59fb0368649998"
@@ -90,9 +90,9 @@
                     "download": "1383102896"
                 },
                 "alpha-unstable": {
-                    "gid": "8274638876734666381",
-                    "size": "27142820280",
-                    "download": "17045630272"
+                    "gid": "3275065956247754118",
+                    "size": "27170188108",
+                    "download": "17015588000"
                 }
             },
             "decryptionkey": "6594d309cb7b8bd69967f25c85d197cb3fb3deb6cff8074b51fe9dbf6a8ebcd2"
@@ -109,9 +109,9 @@
                 "timeupdated": "1646028165"
             },
             "alpha-unstable": {
-                "buildid": "17920236",
+                "buildid": "18294646",
                 "description": "This branch is literally unstable.",
-                "timeupdated": "1743405267"
+                "timeupdated": "1746161814"
             }
         },
         "privatebranches": "1",
