@@ -4,8 +4,8 @@
     "name": "Surgeon Simulator 2",
     "schinese_name": "外科手术模拟2",
     "isfreeapp": "0",
-    "change_number": "28262805",
-    "update_time": "2025-04-02 15:11:02",
+    "change_number": "28807123",
+    "update_time": "2025-05-04 14:29:04",
     "depot": {
         "workshopdepot": "774791",
         "774793": {
@@ -25,6 +25,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0996a0838029cf895ad24c359750b1e701a370bba33e61248315e26e894ea488"
     }
 }
