@@ -4,8 +4,8 @@
     "name": "Of Life and Land",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28111025",
-    "update_time": "2025-03-24 23:01:31",
+    "change_number": "28901353",
+    "update_time": "2025-05-09 20:20:01",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1733110",
@@ -17,24 +17,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5384359749671780804",
-                    "size": "398640468",
-                    "download": "247188288"
+                    "gid": "2809200283275246613",
+                    "size": "506329140",
+                    "download": "274587920"
                 },
                 "beta": {
+                    "gid": "2809200283275246613",
+                    "size": "506329140",
+                    "download": "274587920"
+                },
+                "pre-balancing": {
                     "gid": "5384359749671780804",
                     "size": "398640468",
                     "download": "247188288"
                 },
-                "pre-balancing": {
-                    "gid": "6650120755154349768",
-                    "size": "374882764",
-                    "download": "229234480"
-                },
                 "previous": {
-                    "gid": "71817888722712160",
-                    "size": "398850710",
-                    "download": "247254240"
+                    "gid": "5384359749671780804",
+                    "size": "398640468",
+                    "download": "247188288"
                 }
             },
             "decryptionkey": "2aefb5610aff8c017b461ec4f3da8d7a17a426b0d4ab6bf30df2bd99c391e208"
@@ -46,47 +46,46 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2494955570030699900",
-                    "size": "410268682",
-                    "download": "250859120"
+                    "gid": "2760683338878270740",
+                    "size": "517957354",
+                    "download": "278408720"
                 },
                 "beta": {
+                    "gid": "2760683338878270740",
+                    "size": "517957354",
+                    "download": "278408720"
+                },
+                "pre-balancing": {
                     "gid": "2494955570030699900",
                     "size": "410268682",
                     "download": "250859120"
                 },
-                "pre-balancing": {
-                    "gid": "6493765696773854098",
-                    "size": "386510978",
-                    "download": "232873664"
-                },
                 "previous": {
-                    "gid": "573518000793478889",
-                    "size": "410478924",
-                    "download": "250883296"
+                    "gid": "2494955570030699900",
+                    "size": "410268682",
+                    "download": "250859120"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17696991",
-                "timeupdated": "1741865691"
+                "buildid": "18235973",
+                "timeupdated": "1745573762"
             },
             "beta": {
-                "buildid": "17696991",
+                "buildid": "18235973",
                 "description": "Get the latest features",
-                "timeupdated": "1741802131"
+                "timeupdated": "1745573033"
             },
             "pre-balancing": {
-                "buildid": "16392484",
+                "buildid": "17696991",
                 "description": "uses the old balancing setting",
-                "timeupdated": "1733306724"
+                "timeupdated": "1744808428"
             },
             "previous": {
-                "buildid": "17334654",
+                "buildid": "17696991",
                 "description": "Loads the previous patch content",
-                "timeupdated": "1741865657"
+                "timeupdated": "1744811292"
             }
         },
         "privatebranches": "1",
