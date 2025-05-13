@@ -4,8 +4,8 @@
     "name": "Looking Up I See Only A Ceiling",
     "schinese_name": "抬头只见天花板 Looking Up I See Only A Ceiling",
     "isfreeapp": "0",
-    "change_number": "28352080",
-    "update_time": "2025-04-08 02:59:10",
+    "change_number": "28828813",
+    "update_time": "2025-05-06 03:45:58",
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4414753632298805670",
-                    "size": "518575596",
-                    "download": "400470576"
+                    "gid": "8301200595087781382",
+                    "size": "450703420",
+                    "download": "372392752"
                 }
             },
             "decryptionkey": "cc19c725cac3e7033de557fc2e9127f808e67b0b725f0d44be7ee520c475f74d"
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7339045708953342312",
-                    "size": "551817563",
-                    "download": "408411296"
+                    "gid": "8205174249670060060",
+                    "size": "511698102",
+                    "download": "384009920"
                 }
             }
         },
@@ -46,16 +46,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2727531990203126785",
-                    "size": "535169809",
-                    "download": "403699472"
+                    "gid": "187387764926453272",
+                    "size": "977663377",
+                    "download": "478564448"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17659477",
-                "timeupdated": "1741722584"
+                "buildid": "18339745",
+                "timeupdated": "1746474249"
             }
         },
         "privatebranches": "1"
