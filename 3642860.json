@@ -1,0 +1,28 @@
+{
+    "appid": "3642860",
+    "type": "Game",
+    "name": "VR Naughty",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28921199",
+    "update_time": "2025-05-11 07:02:21",
+    "depot": {
+        "3642861": {
+            "manifests": {
+                "public": {
+                    "gid": "4299639471918077769",
+                    "size": "7061311086",
+                    "download": "2596937584"
+                }
+            },
+            "decryptionkey": "77c673916b4b93dcb00202eaf45d48c6ae7a265789cde0e2f8f02c8e300a3d34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18320578",
+                "timeupdated": "1746203441"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
