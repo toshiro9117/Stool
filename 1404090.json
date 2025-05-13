@@ -4,8 +4,8 @@
     "name": "Trivia Tricks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28498541",
-    "update_time": "2025-04-16 09:12:06",
+    "change_number": "28851147",
+    "update_time": "2025-05-07 07:24:05",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1404090",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "156722457627742556",
-                    "size": "847097581",
-                    "download": "567697264"
+                    "gid": "491891334030741739",
+                    "size": "908548088",
+                    "download": "584756096"
                 }
             },
             "decryptionkey": "36c2c48f1f620334b5145190429e07af09cd2cf5a2596de9214db7178eb0e8ce"
@@ -42,12 +42,18 @@
                 "oslist": "macos",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "317272288263916410",
+                    "size": "938250957",
+                    "download": "467082368"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17395484",
-                "timeupdated": "1740247010"
+                "buildid": "18354679",
+                "timeupdated": "1746573838"
             }
         },
         "privatebranches": "1",
