@@ -4,8 +4,8 @@
     "name": "东方妖精武踏会",
     "schinese_name": "东方妖精武踏会",
     "isfreeapp": "0",
-    "change_number": "28452122",
-    "update_time": "2025-04-13 17:48:25",
+    "change_number": "28682946",
+    "update_time": "2025-04-26 21:36:39",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "1970021": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "469618787637631334",
-                    "size": "547304570",
-                    "download": "265358672"
+                    "gid": "9004428735430684717",
+                    "size": "661967919",
+                    "download": "332528064"
                 }
             },
             "decryptionkey": "1e1e255c8b2ba78328590d66f72c3af07bb7c2fc2699357493b16bc2d90597d0"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17810681",
-                "timeupdated": "1742570407"
+                "buildid": "18249869",
+                "timeupdated": "1745674595"
             }
         },
         "privatebranches": "1"
