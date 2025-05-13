@@ -4,23 +4,23 @@
     "name": "Store Wars",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28455749",
-    "update_time": "2025-04-14 02:47:17",
+    "change_number": "28812021",
+    "update_time": "2025-05-05 02:08:20",
     "depot": {
         "3213601": {
             "manifests": {
                 "public": {
-                    "gid": "4942008060287126",
-                    "size": "5900771270",
-                    "download": "5624304064"
+                    "gid": "6599159910411155194",
+                    "size": "5900769222",
+                    "download": "5624452560"
                 }
             },
             "decryptionkey": "8d35e1a5eb7262208acade7c3012822a00fce0a1415ee4795a0e2e00662a0f5e"
         },
         "branches": {
             "public": {
-                "buildid": "18091289",
-                "timeupdated": "1744570033"
+                "buildid": "18339310",
+                "timeupdated": "1746382094"
             }
         }
     }
