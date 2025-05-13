@@ -4,8 +4,8 @@
     "name": "Gunsmith Simulator",
     "schinese_name": "枪匠模拟器",
     "isfreeapp": "0",
-    "change_number": "28424306",
-    "update_time": "2025-04-11 16:06:45",
+    "change_number": "28908232",
+    "update_time": "2025-05-10 03:03:33",
     "depot": {
         "1101121": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "679188768351700893",
-                    "size": "22320971686",
-                    "download": "10469439104"
+                    "gid": "2482239131447265944",
+                    "size": "22321849590",
+                    "download": "10470126448"
                 }
             },
             "decryptionkey": "b82f041de94c4180a238a248cb18c8fdbc3d3f0ac8dda0152b6c70e6e2e9a28a"
@@ -33,8 +33,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18068354",
-                "timeupdated": "1744358801"
+                "buildid": "18345764",
+                "timeupdated": "1746446309"
             }
         },
         "privatebranches": "1",
