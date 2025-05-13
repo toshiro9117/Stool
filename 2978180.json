@@ -4,8 +4,8 @@
     "name": "Desktop Cat Cafe",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28456720",
-    "update_time": "2025-04-14 05:08:58",
+    "change_number": "28827821",
+    "update_time": "2025-05-06 02:30:31",
     "depot": {
         "2978182": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1387533618104272928",
-                    "size": "576846415",
-                    "download": "206543264"
+                    "gid": "4230371852736201191",
+                    "size": "467389406",
+                    "download": "275507184"
                 },
                 "1.16.15": {
                     "gid": "7326514968955157808",
@@ -32,10 +32,10 @@
                     "size": "576846415",
                     "download": "206543264"
                 },
-                "1.18.0": {
-                    "gid": "7389708901663528822",
-                    "size": "467324397",
-                    "download": "275550096"
+                "1.18.2": {
+                    "gid": "4230371852736201191",
+                    "size": "467389406",
+                    "download": "275507184"
                 },
                 "1.6.0": {
                     "gid": "912146845626767619",
@@ -97,8 +97,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17997369",
-                "timeupdated": "1743883260"
+                "buildid": "18230498",
+                "timeupdated": "1745534301"
             },
             "1.16.15": {
                 "buildid": "17915862",
@@ -115,10 +115,10 @@
                 "description": "Staff",
                 "timeupdated": "1743878300"
             },
-            "1.18.0": {
-                "buildid": "18024184",
-                "description": "Release 1.18.0 (preview)",
-                "timeupdated": "1744107070"
+            "1.18.2": {
+                "buildid": "18230498",
+                "description": "Release 1.18.2",
+                "timeupdated": "1745534267"
             },
             "1.6.0": {
                 "buildid": "17625166",
