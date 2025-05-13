@@ -4,8 +4,8 @@
     "name": "You Will Die Here Tonight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28533275",
-    "update_time": "2025-04-18 00:17:06",
+    "change_number": "28791085",
+    "update_time": "2025-05-03 03:00:32",
     "depot": {
         "1446352": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5872951685731459258",
-                    "size": "2779278672",
-                    "download": "775532992"
+                    "gid": "7643396578479939454",
+                    "size": "2779793016",
+                    "download": "775680416"
                 },
                 "beta": {
-                    "gid": "992764578309797208",
-                    "size": "2779793696",
-                    "download": "775680576"
+                    "gid": "7643396578479939454",
+                    "size": "2779793016",
+                    "download": "775680416"
                 }
             },
             "decryptionkey": "44b8e72e2f4a08a2b1beea145f260fa395f691b54fba8f44c5d7a7edc8e03434"
@@ -29,13 +29,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "16293317",
-                "timeupdated": "1730784454"
+                "buildid": "18244918",
+                "timeupdated": "1746212428"
             },
             "beta": {
-                "buildid": "18122322",
+                "buildid": "18244918",
                 "description": "Upcoming updates",
-                "timeupdated": "1744770297"
+                "timeupdated": "1745619720"
             }
         },
         "privatebranches": "1"
