@@ -4,8 +4,8 @@
     "name": "SWORD ART ONLINE Fractured Daydream",
     "schinese_name": "刀剑神域 碎梦边境",
     "isfreeapp": "0",
-    "change_number": "28534868",
-    "update_time": "2025-04-18 01:34:54",
+    "change_number": "28909585",
+    "update_time": "2025-05-10 04:41:07",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1858631": {
             "manifests": {
                 "public": {
-                    "gid": "6971959567127770319",
-                    "size": "52266934036",
-                    "download": "50990248752"
+                    "gid": "1814745459102844359",
+                    "size": "52208600552",
+                    "download": "50931113600"
                 }
             },
             "decryptionkey": "21adba4e332aa48b0f8834b0896bc582f7132947f62dd148cd8d5a3f1df6cfee"
@@ -46,8 +46,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17675254",
-                "timeupdated": "1743649204"
+                "buildid": "18054739",
+                "timeupdated": "1745456405"
             }
         },
         "privatebranches": "1"
