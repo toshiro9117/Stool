@@ -4,8 +4,8 @@
     "name": "CHURIP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27903235",
-    "update_time": "2025-03-12 11:09:14",
+    "change_number": "28734054",
+    "update_time": "2025-04-30 02:53:52",
     "depot": {
         "baselanguages": "english,schinese,russian,japanese",
         "3046351": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2538603681134511364",
-                    "size": "366964420",
-                    "download": "275271712"
+                    "gid": "6839451657733381922",
+                    "size": "227968199",
+                    "download": "156523472"
                 }
             },
             "decryptionkey": "8f9ee3b56a5f0a4adafc25489846c3e7cd033143eab6ca6aefc5a22d64dcceff"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5915943143620704918",
-                    "size": "366964249",
-                    "download": "275272656"
+                    "gid": "2294272023907146505",
+                    "size": "227963800",
+                    "download": "156524736"
                 }
             },
             "decryptionkey": "2a70fe48deb8aed43e26ac79dd812070280a1572291c40ad5cd870c76e11df5a"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7008164386210465655",
-                    "size": "366971932",
-                    "download": "275270480"
+                    "gid": "7153005793347203412",
+                    "size": "227965176",
+                    "download": "156520128"
                 }
             },
             "decryptionkey": "feb6ba5cb6f89856959b68c0b638cbdbdb116d821d0371310824658ac75c16e6"
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3008912991663196864",
-                    "size": "366966979",
-                    "download": "278413648"
+                    "gid": "6480020102587858808",
+                    "size": "227966530",
+                    "download": "157615376"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "14852012",
-                "timeupdated": "1719448111"
+                "buildid": "17960977",
+                "timeupdated": "1743629550"
             }
         }
     }
