@@ -4,8 +4,8 @@
     "name": "The Break-In",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28089637",
-    "update_time": "2025-03-23 02:18:47",
+    "change_number": "28915182",
+    "update_time": "2025-05-10 15:41:16",
     "depot": {
         "228988": {
             "config": {
@@ -15,9 +15,6 @@
             "sharedinstall": "1"
         },
         "1397392": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "2483183682884747122",
@@ -27,11 +24,13 @@
             },
             "decryptionkey": "d0d92dae796cdbdb47de6b3d30879a3791866a281b5c2ccf5da7c90033324fc6"
         },
+        "1397391": {},
         "branches": {
             "public": {
                 "buildid": "15821922",
                 "timeupdated": "1727266053"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
