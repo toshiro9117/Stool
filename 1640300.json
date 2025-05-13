@@ -4,8 +4,8 @@
     "name": "Project Warlock II",
     "schinese_name": "术士计划2",
     "isfreeapp": "0",
-    "change_number": "27717544",
-    "update_time": "2025-02-28 20:59:02",
+    "change_number": "28874875",
+    "update_time": "2025-05-08 12:32:12",
     "depot": {
         "1640301": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1053812035756317709",
-                    "size": "10177546909",
-                    "download": "4066102896"
+                    "gid": "979212241812554687",
+                    "size": "10789393261",
+                    "download": "4148665152"
                 },
                 "chapter2_wargression": {
                     "gid": "4855901570708881704",
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17121818",
-                "timeupdated": "1737751461"
+                "buildid": "18359464",
+                "timeupdated": "1746550610"
             },
             "chapter2_wargression": {
                 "buildid": "14627764",
