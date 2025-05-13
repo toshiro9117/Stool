@@ -1,0 +1,32 @@
+{
+    "appid": "3511030",
+    "type": "Game",
+    "name": "Mini Cozy Room: Lo-Fi",
+    "schinese_name": "迷你舒适房间：Lo-Fi",
+    "isfreeapp": "0",
+    "change_number": "28904156",
+    "update_time": "2025-05-09 23:02:34",
+    "depot": {
+        "3511031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1974494180614018256",
+                    "size": "1407289765",
+                    "download": "904128560"
+                }
+            },
+            "decryptionkey": "63addeb1d4c130a0b8466195c15f7c8def157b2fa9b87d815b009f6e1f3b3f54"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18401317",
+                "timeupdated": "1746791624"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
