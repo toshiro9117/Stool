@@ -4,23 +4,23 @@
     "name": "Cinema Simulator 2025",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546586",
-    "update_time": "2025-04-18 17:23:57",
+    "change_number": "28906878",
+    "update_time": "2025-05-10 01:33:01",
     "depot": {
         "3098071": {
             "manifests": {
                 "public": {
-                    "gid": "1910644650548784194",
-                    "size": "6774747516",
-                    "download": "2270683648"
+                    "gid": "1387387919069334661",
+                    "size": "8605919978",
+                    "download": "2822500560"
                 }
             },
             "decryptionkey": "07ba85ee90a70214863d849777e787e059ee14495e6ba118cbf0e1feeacd3e75"
         },
         "branches": {
             "public": {
-                "buildid": "17828581",
-                "timeupdated": "1742821362"
+                "buildid": "18378238",
+                "timeupdated": "1746642202"
             }
         },
         "privatebranches": "1"
