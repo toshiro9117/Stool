@@ -4,8 +4,8 @@
     "name": "Houdini Indie",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28545033",
-    "update_time": "2025-04-18 15:45:40",
+    "change_number": "28918552",
+    "update_time": "2025-05-11 00:15:46",
     "depot": {
         "workshopdepot": "502570",
         "228986": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7663536432395291650",
-                    "size": "5788875250",
-                    "download": "2302353920"
+                    "gid": "5124942316982980980",
+                    "size": "5768497726",
+                    "download": "2302054528"
                 },
                 "houdini_19.5_apple_arm64": {
                     "gid": "7761748776803209013",
@@ -79,9 +79,9 @@
                     "download": "1705999776"
                 },
                 "daily_20.0": {
-                    "gid": "8449117326962108837",
-                    "size": "5094750059",
-                    "download": "2128868064"
+                    "gid": "6609784972842835430",
+                    "size": "5083427555",
+                    "download": "2128708032"
                 },
                 "daily_20.0_apple_arm64": {
                     "gid": "7760424911256607842",
@@ -89,9 +89,9 @@
                     "download": "1715384624"
                 },
                 "daily_20.5": {
-                    "gid": "9089722708504868109",
-                    "size": "5767276004",
-                    "download": "2301708048"
+                    "gid": "4507232779613111178",
+                    "size": "5769713517",
+                    "download": "2302396752"
                 },
                 "daily_20.5_apple_arm64": {
                     "gid": "9221398206300116295",
@@ -124,9 +124,9 @@
                     "download": "2102461536"
                 },
                 "houdini20.5": {
-                    "gid": "7663536432395291650",
-                    "size": "5788875250",
-                    "download": "2302353920"
+                    "gid": "5124942316982980980",
+                    "size": "5768497726",
+                    "download": "2302054528"
                 },
                 "houdini20.5.410": {
                     "gid": "9221398206300116295",
@@ -134,9 +134,9 @@
                     "download": "2128987392"
                 },
                 "houdini20.5_previous": {
-                    "gid": "1144500710556427158",
-                    "size": "5757638946",
-                    "download": "2298138432"
+                    "gid": "7663536432395291650",
+                    "size": "5788875250",
+                    "download": "2302353920"
                 }
             },
             "decryptionkey": "45059bb8eb99ebc52bc35445ee7afb5beb7ae9ecdb14cd772bcb16c934250517"
@@ -148,9 +148,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4984420700969312242",
-                    "size": "4965744227",
-                    "download": "2022057360"
+                    "gid": "2536157948106576876",
+                    "size": "4966435260",
+                    "download": "2022151472"
                 },
                 "houdini_19.5_apple_arm64": {
                     "gid": "5284311743495949150",
@@ -198,24 +198,24 @@
                     "download": "1463608240"
                 },
                 "daily_20.0": {
-                    "gid": "639302962771057522",
-                    "size": "4538003729",
-                    "download": "1863665184"
+                    "gid": "7693767896755878342",
+                    "size": "4539420633",
+                    "download": "1863911536"
                 },
                 "daily_20.0_apple_arm64": {
-                    "gid": "7966839743270742120",
-                    "size": "4215427820",
-                    "download": "1792503808"
+                    "gid": "4942727405970790370",
+                    "size": "4216836370",
+                    "download": "1793616336"
                 },
                 "daily_20.5": {
-                    "gid": "9047330769218317947",
-                    "size": "4966472092",
-                    "download": "2022140288"
+                    "gid": "4024761249028955894",
+                    "size": "4967936292",
+                    "download": "2022455744"
                 },
                 "daily_20.5_apple_arm64": {
-                    "gid": "9000874294573119482",
-                    "size": "4657891583",
-                    "download": "1946455616"
+                    "gid": "6290332276525748075",
+                    "size": "4659371418",
+                    "download": "1946753616"
                 },
                 "houdini_20.0_apple_arm64": {
                     "gid": "3482375658363735912",
@@ -223,9 +223,9 @@
                     "download": "1792578144"
                 },
                 "houdini_20.5_apple_arm64": {
-                    "gid": "6137743836580277770",
-                    "size": "4657144722",
-                    "download": "1946371328"
+                    "gid": "1372742309912157443",
+                    "size": "4657902562",
+                    "download": "1945163200"
                 },
                 "houdini20.0": {
                     "gid": "8007623906898872657",
@@ -243,9 +243,9 @@
                     "download": "1863935504"
                 },
                 "houdini20.5": {
-                    "gid": "4984420700969312242",
-                    "size": "4965744227",
-                    "download": "2022057360"
+                    "gid": "2536157948106576876",
+                    "size": "4966435260",
+                    "download": "2022151472"
                 },
                 "houdini20.5.410": {
                     "gid": "5752128494176713823",
@@ -253,16 +253,16 @@
                     "download": "1946558496"
                 },
                 "houdini20.5_previous": {
-                    "gid": "994509739584542506",
-                    "size": "4965231890",
-                    "download": "2021885472"
+                    "gid": "4984420700969312242",
+                    "size": "4965744227",
+                    "download": "2022057360"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17878055",
-                "timeupdated": "1743098625"
+                "buildid": "18297254",
+                "timeupdated": "1746037798"
             },
             "houdini_19.5_apple_arm64": {
                 "buildid": "12759385",
@@ -310,24 +310,24 @@
                 "timeupdated": "1737548867"
             },
             "daily_20.0": {
-                "buildid": "18028476",
+                "buildid": "18358229",
                 "description": "Daily Houdini 20.0 build",
-                "timeupdated": "1744127760"
+                "timeupdated": "1746529011"
             },
             "daily_20.0_apple_arm64": {
-                "buildid": "18021496",
+                "buildid": "18355286",
                 "description": "Daily Houdini 20.0 build (Apple Silicon)",
-                "timeupdated": "1744091888"
+                "timeupdated": "1746510958"
             },
             "daily_20.5": {
-                "buildid": "18154047",
+                "buildid": "18412331",
                 "description": "Daily Houdini 20.5 builds",
-                "timeupdated": "1744955885"
+                "timeupdated": "1746856727"
             },
             "daily_20.5_apple_arm64": {
-                "buildid": "18153732",
+                "buildid": "18412029",
                 "description": "Daily Houdini 20.5 build (Apple Silicon)",
-                "timeupdated": "1744953105"
+                "timeupdated": "1746853730"
             },
             "houdini_20.0_apple_arm64": {
                 "buildid": "14855303",
@@ -335,9 +335,9 @@
                 "timeupdated": "1719519722"
             },
             "houdini_20.5_apple_arm64": {
-                "buildid": "17877664",
+                "buildid": "18290466",
                 "description": "Houdini 20.5 Production Build (Apple Silicon)",
-                "timeupdated": "1743098521"
+                "timeupdated": "1746037737"
             },
             "houdini20.0": {
                 "buildid": "14863338",
@@ -355,9 +355,9 @@
                 "timeupdated": "1719520400"
             },
             "houdini20.5": {
-                "buildid": "17878055",
+                "buildid": "18297254",
                 "description": "Houdini 20.5 Production Build",
-                "timeupdated": "1743098438"
+                "timeupdated": "1746037695"
             },
             "houdini20.5.410": {
                 "buildid": "16323589",
@@ -365,9 +365,9 @@
                 "timeupdated": "1743078758"
             },
             "houdini20.5_previous": {
-                "buildid": "17533259",
+                "buildid": "17878055",
                 "description": "Previous 20.5 Production Build",
-                "timeupdated": "1743098739"
+                "timeupdated": "1746038418"
             }
         },
         "privatebranches": "1",
