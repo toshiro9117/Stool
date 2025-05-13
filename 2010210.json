@@ -4,8 +4,8 @@
     "name": "Sunwave Hotel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27952681",
-    "update_time": "2025-03-14 17:20:15",
+    "change_number": "28564847",
+    "update_time": "2025-04-20 00:58:44",
     "depot": {
         "2010211": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4435511755068857596",
-                    "size": "6430523336",
-                    "download": "1666598240"
+                    "gid": "5464730797129112650",
+                    "size": "6484931112",
+                    "download": "1674838000"
                 }
             },
             "decryptionkey": "553c412a2d196d1525dd821199d29aea16c8378296f76b0d4ba58c2443e10e10"
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17415059",
-                "timeupdated": "1739925061"
+                "buildid": "18160213",
+                "timeupdated": "1744996524"
             }
         },
         "privatebranches": "1"
