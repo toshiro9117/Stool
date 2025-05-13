@@ -4,8 +4,8 @@
     "name": "Ancient Wars: Medieval Crusades",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27966133",
-    "update_time": "2025-03-15 06:22:27",
+    "change_number": "28905753",
+    "update_time": "2025-05-10 00:33:21",
     "depot": {
         "228981": {
             "config": {
@@ -59,9 +59,9 @@
         "1925621": {
             "manifests": {
                 "public": {
-                    "gid": "6515306601286583927",
-                    "size": "7108309362",
-                    "download": "2272540416"
+                    "gid": "2513983979377719927",
+                    "size": "5905864836",
+                    "download": "2266785392"
                 }
             },
             "decryptionkey": "fa1d7214956b3d94d2655450a6611d52f176b3edfe56bf8bf09b0f6836dcde3e"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5649147116566183804",
-                    "size": "34882348",
-                    "download": "4630688"
+                    "gid": "996242524322207462",
+                    "size": "34959148",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": "9e3082b02687aa3254cf2d757c140b2ea160ac4ddb175b77b1b88e514a32db30"
@@ -85,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4898055765969613717",
-                    "size": "34882348",
-                    "download": "4630688"
+                    "gid": "4321706407291046343",
+                    "size": "34959148",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -98,9 +98,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5965669537674604455",
-                    "size": "34882346",
-                    "download": "4630688"
+                    "gid": "4718289818093941593",
+                    "size": "34959146",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -111,9 +111,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "349801917774090925",
-                    "size": "34882346",
-                    "download": "4630688"
+                    "gid": "4634757046405603908",
+                    "size": "34959146",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -124,9 +124,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2069980378844325556",
-                    "size": "34882348",
-                    "download": "4630688"
+                    "gid": "6234844630895938110",
+                    "size": "34959148",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -137,9 +137,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8157714473690111161",
-                    "size": "52300266",
-                    "download": "9211856"
+                    "gid": "6982792372257395640",
+                    "size": "52690410",
+                    "download": "9305680"
                 }
             },
             "decryptionkey": "979aa615725f97a34e4dc77c1be23606edce349b05ecf373adef8485c4be5233"
@@ -150,9 +150,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6544165988550855299",
-                    "size": "52300266",
-                    "download": "9211856"
+                    "gid": "4291768907781128835",
+                    "size": "52690410",
+                    "download": "9305680"
                 }
             },
             "decryptionkey": ""
@@ -163,9 +163,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3069585317084073764",
-                    "size": "34882348",
-                    "download": "4630688"
+                    "gid": "1887547429967899926",
+                    "size": "34959148",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -176,9 +176,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1148408119979410398",
-                    "size": "52300264",
-                    "download": "9211984"
+                    "gid": "2023209805166704134",
+                    "size": "52690408",
+                    "download": "9305680"
                 }
             },
             "decryptionkey": ""
@@ -189,9 +189,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6058029736105508232",
-                    "size": "52300270",
-                    "download": "9211984"
+                    "gid": "8654738219828804920",
+                    "size": "52690414",
+                    "download": "9305680"
                 }
             },
             "decryptionkey": ""
@@ -202,9 +202,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5383900691674553859",
-                    "size": "34882354",
-                    "download": "4630688"
+                    "gid": "6515208550128525382",
+                    "size": "34959154",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -215,9 +215,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "265411589968976801",
-                    "size": "34882354",
-                    "download": "4630688"
+                    "gid": "3090972126965903413",
+                    "size": "34959154",
+                    "download": "4638496"
                 }
             },
             "decryptionkey": ""
@@ -225,8 +225,8 @@
         "workshopdepot": "1925620",
         "branches": {
             "public": {
-                "buildid": "16500219",
-                "timeupdated": "1732280019"
+                "buildid": "18372843",
+                "timeupdated": "1746615401"
             }
         },
         "workshopdepotdecryptionkey": ""
