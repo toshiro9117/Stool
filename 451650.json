@@ -4,8 +4,8 @@
     "name": "Whirligig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28514068",
-    "update_time": "2025-04-17 02:15:48",
+    "change_number": "28860720",
+    "update_time": "2025-05-07 19:47:26",
     "depot": {
         "451651": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6315822272247976078",
-                    "size": "1476378110",
-                    "download": "459435632"
+                    "gid": "5472240203767641685",
+                    "size": "1648009487",
+                    "download": "481909760"
                 },
                 "whirligig_early_access_v.4.762": {
                     "gid": "9180997339410516764",
@@ -53,15 +53,10 @@
                     "size": "2085274139",
                     "download": "619062992"
                 },
-                "whirligig_v5.22": {
-                    "gid": "7803640108843685226",
-                    "size": "1527762550",
-                    "download": "510028432"
-                },
                 "whirligig_early_access_latest_beta": {
-                    "gid": "6315822272247976078",
-                    "size": "1476378110",
-                    "download": "459435632"
+                    "gid": "3488633486856222537",
+                    "size": "1664091387",
+                    "download": "485122320"
                 },
                 "whirligig_v.5.051": {
                     "gid": "2752739825461690683",
@@ -114,17 +109,27 @@
                     "download": "469926288"
                 },
                 "whirligig_v5.57": {
-                    "gid": "7248839945014261407",
-                    "size": "1606332093",
-                    "download": "470202720"
+                    "gid": "5472240203767641685",
+                    "size": "1648009487",
+                    "download": "481909760"
+                },
+                "whirligig_v5.57_meta": {
+                    "gid": "469856527895768606",
+                    "size": "1673270483",
+                    "download": "486267056"
+                },
+                "whirligig_v5.572": {
+                    "gid": "3488633486856222537",
+                    "size": "1664091387",
+                    "download": "485122320"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
         },
         "branches": {
             "public": {
-                "buildid": "14160365",
-                "timeupdated": "1713988748"
+                "buildid": "18174182",
+                "timeupdated": "1745679213"
             },
             "whirligig_early_access_v.4.762": {
                 "buildid": "4101783",
@@ -161,14 +166,9 @@
                 "description": "General Updates",
                 "timeupdated": "1704572176"
             },
-            "whirligig_v5.22": {
-                "buildid": "14050817",
-                "description": "OpenXR",
-                "timeupdated": "1713126258"
-            },
             "whirligig_early_access_latest_beta": {
-                "buildid": "14160365",
-                "timeupdated": "1713988724"
+                "buildid": "18373441",
+                "timeupdated": "1746618439"
             },
             "whirligig_v.5.051": {
                 "buildid": "13166104",
@@ -221,9 +221,19 @@
                 "timeupdated": "1743971690"
             },
             "whirligig_v5.57": {
-                "buildid": "18133014",
-                "description": "Bug fixing",
-                "timeupdated": "1744827344"
+                "buildid": "18174182",
+                "description": "Default Release",
+                "timeupdated": "1745174196"
+            },
+            "whirligig_v5.57_meta": {
+                "buildid": "18174116",
+                "description": "Passthrough support for Meta",
+                "timeupdated": "1745173431"
+            },
+            "whirligig_v5.572": {
+                "buildid": "18373441",
+                "description": "Vive and menu update",
+                "timeupdated": "1746618427"
             }
         }
     }
