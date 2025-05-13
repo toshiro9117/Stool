@@ -4,8 +4,8 @@
     "name": "Nonsensical Video Generator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27934677",
-    "update_time": "2025-03-13 22:15:56",
+    "change_number": "28893211",
+    "update_time": "2025-05-09 09:26:09",
     "depot": {
         "workshopdepot": "2516360",
         "228990": {
@@ -21,16 +21,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5431914097238478132",
-                    "size": "632788200",
-                    "download": "260441600"
-                },
-                "previous2024": {
-                    "gid": "204049683408082940",
-                    "size": "220144222",
-                    "download": "167279984"
+                    "gid": "3572548574808110799",
+                    "size": "677199517",
+                    "download": "258971440"
                 },
                 "previous": {
+                    "gid": "4257965928849655382",
+                    "size": "666702431",
+                    "download": "257765424"
+                },
+                "previous2024": {
                     "gid": "204049683408082940",
                     "size": "220144222",
                     "download": "167279984"
@@ -44,6 +44,11 @@
                     "gid": "4772348803428612794",
                     "size": "141684556",
                     "download": "96467072"
+                },
+                "initialrelease": {
+                    "gid": "5014747655677779909",
+                    "size": "141546921",
+                    "download": "96250160"
                 }
             },
             "decryptionkey": "779f27dc4de99eec1b8ed7a9ac3a70bc85c571ac15f944b3c8da2f9441cfca2a"
@@ -51,18 +56,18 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17710021",
-                "timeupdated": "1741875348"
+                "buildid": "18390590",
+                "timeupdated": "1746716793"
+            },
+            "previous": {
+                "buildid": "18367290",
+                "description": "Previous build rollback",
+                "timeupdated": "1746716767"
             },
             "previous2024": {
                 "buildid": "16845750",
                 "description": "Milestone 6 Hotfix 9 (v1.0.2.9)",
                 "timeupdated": "1741875134"
-            },
-            "previous": {
-                "buildid": "16845750",
-                "description": "Previous build rollback",
-                "timeupdated": "1741875088"
             },
             "desktopgl": {
                 "buildid": "12238994",
@@ -73,8 +78,14 @@
                 "buildid": "11785658",
                 "description": "Milestone 1 Hotfix 3 (v1.0.0.5)",
                 "timeupdated": "1690403651"
+            },
+            "initialrelease": {
+                "buildid": "11768580",
+                "description": "Initial release (July 23 2023)",
+                "timeupdated": "1746753949"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "09daf2b8cbecda5e32cff45a20fd36556d55965f6c605a48ebb531b1be1bb8b4"
     }
 }
