@@ -4,8 +4,8 @@
     "name": "Brotato",
     "schinese_name": "土豆兄弟(Brotato)",
     "isfreeapp": "0",
-    "change_number": "28530369",
-    "update_time": "2025-04-17 21:56:14",
+    "change_number": "28903342",
+    "update_time": "2025-05-09 22:12:26",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1942280",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "911894105946713949",
-                    "size": "207449547",
-                    "download": "136521536"
+                    "gid": "5738049909286320989",
+                    "size": "207449727",
+                    "download": "136521568"
                 },
                 "modding": {
                     "gid": "1686462306304678426",
@@ -30,9 +30,9 @@
                     "download": "88781184"
                 },
                 "beta": {
-                    "gid": "911894105946713949",
-                    "size": "207449547",
-                    "download": "136521536"
+                    "gid": "7215706020726528614",
+                    "size": "207451147",
+                    "download": "136523536"
                 },
                 "reset": {
                     "gid": "8348398703013273744",
@@ -59,14 +59,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3461758174235909350",
-                    "size": "55315344",
-                    "download": "52502848"
+                    "gid": "4923672488722180782",
+                    "size": "55315696",
+                    "download": "52503808"
                 },
                 "beta": {
-                    "gid": "3461758174235909350",
-                    "size": "55315344",
-                    "download": "52502848"
+                    "gid": "1828673836707152912",
+                    "size": "55315696",
+                    "download": "52502976"
                 },
                 "v1.1.0.0-compat": {
                     "gid": "8743804879875762247",
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18040785",
-                "timeupdated": "1744201528"
+                "buildid": "18223619",
+                "timeupdated": "1745497500"
             },
             "modding": {
                 "buildid": "12879113",
@@ -97,9 +97,9 @@
                 "timeupdated": "1701779214"
             },
             "beta": {
-                "buildid": "18040785",
+                "buildid": "18296478",
                 "description": "Test new updates before they go public, may be unstable",
-                "timeupdated": "1744201503"
+                "timeupdated": "1746020770"
             },
             "reset": {
                 "buildid": "16182449",
