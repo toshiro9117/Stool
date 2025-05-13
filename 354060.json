@@ -4,8 +4,8 @@
     "name": "RaceRoom Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26573282",
-    "update_time": "2024-12-10 18:39:33",
+    "change_number": "28660749",
+    "update_time": "2025-04-25 20:55:07",
     "depot": {
         "229006": {
             "config": {
@@ -17,27 +17,27 @@
         "354061": {
             "manifests": {
                 "public": {
-                    "gid": "2789920355763246410",
-                    "size": "55194624",
-                    "download": "49385632"
+                    "gid": "4103455317979777075",
+                    "size": "56970240",
+                    "download": "51160048"
                 },
                 "preview": {
-                    "gid": "2789920355763246410",
-                    "size": "55194624",
-                    "download": "49385632"
+                    "gid": "4103455317979777075",
+                    "size": "56970240",
+                    "download": "51160048"
                 }
             },
             "decryptionkey": "c1811c77d3445ab53c90d654679efabe128cc6acf20f5652e96dc4661138f110"
         },
         "branches": {
             "public": {
-                "buildid": "16690316",
-                "timeupdated": "1733827166"
+                "buildid": "18234179",
+                "timeupdated": "1745565903"
             },
             "preview": {
-                "buildid": "16690316",
+                "buildid": "18234179",
                 "description": "early look",
-                "timeupdated": "1733814622"
+                "timeupdated": "1745563065"
             }
         },
         "privatebranches": "1"
