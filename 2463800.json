@@ -4,8 +4,8 @@
     "name": "Iron Saga VS",
     "schinese_name": "机动战队VS",
     "isfreeapp": "0",
-    "change_number": "28526822",
-    "update_time": "2025-04-17 18:29:36",
+    "change_number": "28858737",
+    "update_time": "2025-05-07 17:42:49",
     "depot": {
         "baselanguages": "english,schinese",
         "2463801": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2980740374046011025",
-                    "size": "4713677906",
-                    "download": "4135040864"
+                    "gid": "6838483261057128949",
+                    "size": "4717454103",
+                    "download": "4138166048"
                 }
             },
             "decryptionkey": "8cdcbb70a237c9400218b90880a7eabf73d24271972575a40238baa5ba28f3bb"
@@ -24,8 +24,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18142095",
-                "timeupdated": "1744885771"
+                "buildid": "18371846",
+                "timeupdated": "1746610966"
             }
         },
         "privatebranches": "1"
