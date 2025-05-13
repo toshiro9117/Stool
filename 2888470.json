@@ -4,8 +4,8 @@
     "name": "Castle Doombad Classic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28418453",
-    "update_time": "2025-04-11 08:00:56",
+    "change_number": "28883902",
+    "update_time": "2025-05-08 22:30:34",
     "depot": {
         "2888471": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9208069301475643207",
-                    "size": "602083018",
-                    "download": "169764272"
+                    "gid": "2867920487106136532",
+                    "size": "782497733",
+                    "download": "232289632"
                 }
             },
             "decryptionkey": "665e828f5874910f033f726b580e908a2d8cb2953cf0f88ebceac398947d78ae"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5797299212052509938",
-                    "size": "618653572",
-                    "download": "174298560"
+                    "gid": "3727587650654635256",
+                    "size": "966223380",
+                    "download": "251617808"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16932188",
-                "timeupdated": "1736286242"
+                "buildid": "18365975",
+                "timeupdated": "1746573779"
             }
         },
         "privatebranches": "1"
