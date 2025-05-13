@@ -4,8 +4,8 @@
     "name": "STONKS-9800: Stock Market Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28540267",
-    "update_time": "2025-04-18 08:20:04",
+    "change_number": "28865541",
+    "update_time": "2025-05-08 00:14:29",
     "depot": {
         "baselanguages": "english,koreana,japanese,ukrainian",
         "workshopdepot": "1539140",
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7679894742687698386",
-                    "size": "101393634",
-                    "download": "78153664"
+                    "gid": "6215110818167222620",
+                    "size": "96182271",
+                    "download": "77136304"
                 },
                 "beta": {
-                    "gid": "4844583303833453590",
-                    "size": "101190944",
-                    "download": "78110400"
+                    "gid": "6215110818167222620",
+                    "size": "96182271",
+                    "download": "77136304"
                 },
                 "v.0.1": {
                     "gid": "3030159766078331891",
@@ -58,14 +58,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5390912692910569537",
-                    "size": "99405886",
-                    "download": "77564144"
+                    "gid": "2165964434266274519",
+                    "size": "99504763",
+                    "download": "77638912"
                 },
                 "beta": {
-                    "gid": "3957815457537231693",
-                    "size": "99237132",
-                    "download": "77533152"
+                    "gid": "2165964434266274519",
+                    "size": "99504763",
+                    "download": "77638912"
                 },
                 "v.0.1": {
                     "gid": "7803828411245589805",
@@ -100,14 +100,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2883480139678168296",
-                    "size": "142433249",
-                    "download": "88263296"
+                    "gid": "3534038381597754817",
+                    "size": "142080006",
+                    "download": "88484016"
                 },
                 "beta": {
-                    "gid": "3518353201515763934",
-                    "size": "141456985",
-                    "download": "88123472"
+                    "gid": "3534038381597754817",
+                    "size": "142080006",
+                    "download": "88484016"
                 },
                 "v.0.1": {
                     "gid": "6466909058159972148",
@@ -128,13 +128,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17097476",
-                "timeupdated": "1737586061"
+                "buildid": "18363392",
+                "timeupdated": "1746555557"
             },
             "beta": {
-                "buildid": "17838922",
+                "buildid": "18363392",
                 "description": "Branch with more frequent but possibly unstable updates",
-                "timeupdated": "1742835263"
+                "timeupdated": "1746555522"
             },
             "v.0.1": {
                 "buildid": "15061321",
