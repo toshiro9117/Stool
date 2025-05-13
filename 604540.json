@@ -4,8 +4,8 @@
     "name": "Empire of Sin",
     "schinese_name": "罪恶帝国",
     "isfreeapp": "0",
-    "change_number": "28099565",
-    "update_time": "2025-03-24 05:53:16",
+    "change_number": "28680558",
+    "update_time": "2025-04-26 16:13:39",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -127,6 +127,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "939ff4ab6318cce90b5a07c5407acbdc156f475764108db26a7a68ce3dde6142"
     }
 }
