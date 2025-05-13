@@ -4,8 +4,8 @@
     "name": "Conan Exiles",
     "schinese_name": "流放者柯南",
     "isfreeapp": "0",
-    "change_number": "28542344",
-    "update_time": "2025-04-18 11:39:00",
+    "change_number": "28921028",
+    "update_time": "2025-05-11 06:31:00",
     "depot": {
         "depotdeltapatches": "1",
         "workshopdepot": "440900",
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2507971549942679073",
-                    "size": "115902848791",
-                    "download": "71922912752"
+                    "gid": "6690325231620013510",
+                    "size": "115900877400",
+                    "download": "71921966512"
                 }
             },
             "decryptionkey": "57ff2e2d0f7c2740c0c36426359060ef90b3367394dae24b861efff0752010fd"
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7128027383239567406",
-                    "size": "122354825",
-                    "download": "40657808"
+                    "gid": "2026156702260324814",
+                    "size": "122363017",
+                    "download": "40651632"
                 }
             },
             "decryptionkey": "c4039510426aa98899efbe92e3777309401d95e2b341f6605db10afee7e2f7a9"
@@ -77,17 +77,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1936029041535433365",
-                    "size": "230500897",
-                    "download": "98213600"
+                    "gid": "4266020957858595704",
+                    "size": "229574628",
+                    "download": "97275680"
                 }
             },
             "decryptionkey": "55bc314377497f1dc799ba2accf9643afc380ad197155bca6dfb5326e8760270"
         },
         "branches": {
             "public": {
-                "buildid": "17669764",
-                "timeupdated": "1742907598"
+                "buildid": "18405216",
+                "timeupdated": "1746804130"
             }
         },
         "privatebranches": "1",
