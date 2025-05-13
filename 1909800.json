@@ -4,24 +4,24 @@
     "name": "UuultraC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28424448",
-    "update_time": "2025-04-11 16:14:59",
+    "change_number": "28680555",
+    "update_time": "2025-04-26 16:13:19",
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "1909801": {
             "manifests": {
                 "public": {
-                    "gid": "3860511336604473800",
-                    "size": "2715071356",
-                    "download": "2689267072"
+                    "gid": "566180414048557636",
+                    "size": "3719092109",
+                    "download": "3517404944"
                 }
             },
             "decryptionkey": "b7fd1ffed737ac12941ef64e0c05fc987971d1b7c6319092de359f5d0ae0906c"
         },
         "branches": {
             "public": {
-                "buildid": "8250629",
-                "timeupdated": "1645525485"
+                "buildid": "18056738",
+                "timeupdated": "1745294471"
             }
         },
         "privatebranches": "1"
