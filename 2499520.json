@@ -4,8 +4,8 @@
     "name": "Be My Horde",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546238",
-    "update_time": "2025-04-18 17:05:34",
+    "change_number": "28904539",
+    "update_time": "2025-05-09 23:23:28",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2499521": {
             "manifests": {
                 "public": {
-                    "gid": "8763231891159647270",
-                    "size": "873769969",
-                    "download": "703044560"
+                    "gid": "1035505451419599372",
+                    "size": "873820220",
+                    "download": "703086016"
                 }
             },
             "decryptionkey": "bacd69c0a3b7139b1021cdbb881f516adbd0de86041bc85c742c56a5a79d585b"
@@ -34,8 +34,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18039227",
-                "timeupdated": "1744202924"
+                "buildid": "18115412",
+                "timeupdated": "1745337480"
             }
         },
         "privatebranches": "1"
