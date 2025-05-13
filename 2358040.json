@@ -4,8 +4,8 @@
     "name": "Fantasy Craft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28539068",
-    "update_time": "2025-04-18 06:36:06",
+    "change_number": "28890534",
+    "update_time": "2025-05-09 05:20:33",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2358041": {
             "manifests": {
                 "public": {
-                    "gid": "7627334386761543106",
-                    "size": "27513492593",
-                    "download": "27004830736"
+                    "gid": "1533090781242832609",
+                    "size": "27484526310",
+                    "download": "26976268800"
                 },
                 "experimental": {
                     "gid": "3470091767605903179",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18147718",
-                "timeupdated": "1744929362"
+                "buildid": "18186065",
+                "timeupdated": "1745326150"
             },
             "experimental": {
                 "buildid": "16027872",
