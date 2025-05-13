@@ -4,8 +4,8 @@
     "name": "TRAIN CREW",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28546004",
-    "update_time": "2025-04-18 16:46:39",
+    "change_number": "28898277",
+    "update_time": "2025-05-09 17:04:40",
     "depot": {
         "baselanguages": "english,japanese",
         "1618291": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5399071688477680403",
-                    "size": "6168972235",
-                    "download": "3046524032"
+                    "gid": "3678658262360219420",
+                    "size": "6206981205",
+                    "download": "3080198608"
                 }
             },
             "decryptionkey": "92da90c72e7bad853a950e21eb2507ecd64869c4bffb65fc55c9b87373bf883f"
         },
         "branches": {
             "public": {
-                "buildid": "17703227",
-                "timeupdated": "1741839335"
+                "buildid": "18400507",
+                "timeupdated": "1746781474"
             }
         },
         "privatebranches": "1"
