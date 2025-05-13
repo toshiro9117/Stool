@@ -4,20 +4,20 @@
     "name": "Sea Power",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28549611",
-    "update_time": "2025-04-18 20:56:45",
+    "change_number": "28921109",
+    "update_time": "2025-05-11 06:43:17",
     "depot": {
         "1286221": {
             "manifests": {
                 "public": {
-                    "gid": "5034410407623783500",
-                    "size": "16091057680",
-                    "download": "7731344656"
+                    "gid": "7744482255644356126",
+                    "size": "16829413840",
+                    "download": "7967730064"
                 },
                 "stable": {
-                    "gid": "7519633488715014860",
-                    "size": "16695801240",
-                    "download": "7908723328"
+                    "gid": "7790607258611079314",
+                    "size": "16883893175",
+                    "download": "7988267760"
                 }
             },
             "decryptionkey": "984343174565db9374b496a4535fbef08482bad32064195c9afa10617cb1346f"
@@ -25,13 +25,13 @@
         "workshopdepot": "1286220",
         "branches": {
             "public": {
-                "buildid": "17502260",
-                "timeupdated": "1740500329"
+                "buildid": "18279344",
+                "timeupdated": "1745927037"
             },
             "stable": {
-                "buildid": "18130626",
+                "buildid": "18389084",
                 "description": "Beta branch",
-                "timeupdated": "1744815824"
+                "timeupdated": "1746709093"
             }
         },
         "privatebranches": "1",
