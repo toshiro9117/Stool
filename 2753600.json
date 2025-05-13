@@ -4,9 +4,11 @@
     "name": "Vambrace: Dungeon Monarch",
     "schinese_name": "圣铠：地下城君主",
     "isfreeapp": "0",
-    "change_number": "28546554",
-    "update_time": "2025-04-18 17:22:11",
+    "change_number": "28919849",
+    "update_time": "2025-05-11 03:32:41",
     "depot": {
+        "baselanguages": "english,koreana",
+        "hasdepotsindlc": "1",
         "2753601": {
             "config": {
                 "oslist": "windows",
@@ -14,19 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3543337096366090794",
-                    "size": "2355360553",
-                    "download": "1097065440"
+                    "gid": "6809422591586540780",
+                    "size": "2887703235",
+                    "download": "1483246400"
                 }
             },
             "decryptionkey": "c79707c0a6b3c96c9e1f39f9d6eeda3f26d55486e0db297d9e4d3f68cb0e577c"
         },
-        "baselanguages": "english,koreana",
-        "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17986919",
-                "timeupdated": "1743998417"
+                "buildid": "18387893",
+                "timeupdated": "1746716286"
             }
         },
         "privatebranches": "1"
