@@ -4,8 +4,8 @@
     "name": "UNO",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28531541",
-    "update_time": "2025-04-17 22:53:05",
+    "change_number": "28906955",
+    "update_time": "2025-05-10 01:37:13",
     "depot": {
         "228984": {
             "config": {
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1857147229135351663",
-                    "size": "7488105907",
-                    "download": "2859966384"
+                    "gid": "7988117292345916248",
+                    "size": "7509706599",
+                    "download": "2878461104"
                 }
             },
             "decryptionkey": "2820c6fb1f2edf4a12c136aeb6a9fa7bbbc8dfb9cd49cdd4874f9719215e7d23"
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16538088",
-                "timeupdated": "1734339647"
+                "buildid": "18369835",
+                "timeupdated": "1746791545"
             }
         },
         "privatebranches": "1"
