@@ -1,0 +1,49 @@
+{
+    "appid": "3452740",
+    "type": "Game",
+    "name": "Oil Refinery - The Simulation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28880988",
+    "update_time": "2025-05-08 19:46:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3452741": {
+            "manifests": {
+                "public": {
+                    "gid": "2620817884262283667",
+                    "size": "2183495446",
+                    "download": "2006971504"
+                }
+            },
+            "decryptionkey": "f613abb7540ef16b58987d29c3c89f5dabb995d22925345080548b57c44d74b4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18387876",
+                "timeupdated": "1746704815"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
