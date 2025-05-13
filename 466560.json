@@ -4,8 +4,8 @@
     "name": "Northgard",
     "schinese_name": "北境之地",
     "isfreeapp": "0",
-    "change_number": "28547707",
-    "update_time": "2025-04-18 18:36:49",
+    "change_number": "28749532",
+    "update_time": "2025-04-30 21:02:47",
     "depot": {
         "228989": {
             "config": {
@@ -19,14 +19,9 @@
         "466561": {
             "manifests": {
                 "public": {
-                    "gid": "3434946466135383797",
-                    "size": "3576086475",
-                    "download": "1514171232"
-                },
-                "public-beta": {
-                    "gid": "336595794510718881",
-                    "size": "3598686401",
-                    "download": "1513717152"
+                    "gid": "451594188659252191",
+                    "size": "3573267183",
+                    "download": "1512184192"
                 }
             },
             "decryptionkey": "073598adfc95cad9b9866fb7b6625dc6ab9ff54d5f00dff91733906ab3da0042"
@@ -34,11 +29,6 @@
         "820561": {
             "manifests": {
                 "public": {
-                    "gid": "3726179134826158078",
-                    "size": "42165611",
-                    "download": "41489664"
-                },
-                "public-beta": {
                     "gid": "3726179134826158078",
                     "size": "42165611",
                     "download": "41489664"
@@ -56,11 +46,6 @@
                     "gid": "6596220758694751795",
                     "size": "20511596",
                     "download": "5550224"
-                },
-                "public-beta": {
-                    "gid": "6596220758694751795",
-                    "size": "20511596",
-                    "download": "5550224"
                 }
             },
             "decryptionkey": "18aa806b07e8263d3ddfb7adfef61370fec1d963ccdac5661cc60635dd17251c"
@@ -71,11 +56,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5078957507153830469",
-                    "size": "18053821",
-                    "download": "4572800"
-                },
-                "public-beta": {
                     "gid": "5078957507153830469",
                     "size": "18053821",
                     "download": "4572800"
@@ -92,11 +72,6 @@
                     "gid": "2376866793294585779",
                     "size": "9437117",
                     "download": "3382192"
-                },
-                "public-beta": {
-                    "gid": "2376866793294585779",
-                    "size": "9437117",
-                    "download": "3382192"
                 }
             },
             "decryptionkey": "9dc832b17369b422c11784a8553ad9101ecabd9fbc8ae4f00a2011736317dc31"
@@ -110,24 +85,14 @@
                     "gid": "2444457629100233845",
                     "size": "284919082",
                     "download": "100805904"
-                },
-                "public-beta": {
-                    "gid": "2444457629100233845",
-                    "size": "284919082",
-                    "download": "100805904"
                 }
             },
             "decryptionkey": "bb7151f689032a72537d03a88738c298310558b9b87554aa697a430b3d35ae87"
         },
         "branches": {
             "public": {
-                "buildid": "18156647",
-                "timeupdated": "1744984497"
-            },
-            "public-beta": {
-                "buildid": "17895781",
-                "description": "Test the latest addition to the game!",
-                "timeupdated": "1743161203"
+                "buildid": "18221806",
+                "timeupdated": "1745498188"
             }
         },
         "privatebranches": "1",
