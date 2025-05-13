@@ -4,8 +4,8 @@
     "name": "Starri",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28500818",
-    "update_time": "2025-04-16 12:46:24",
+    "change_number": "28738899",
+    "update_time": "2025-04-30 09:16:20",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6744013395104380680",
-                    "size": "803541832",
-                    "download": "576900592"
+                    "gid": "4554815095032791506",
+                    "size": "809794088",
+                    "download": "583745696"
                 },
                 "local": {
                     "gid": "8682994621781669171",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4963002943538956466",
-                    "size": "1017010994",
-                    "download": "611218656"
+                    "gid": "8281543611882625993",
+                    "size": "1004396133",
+                    "download": "602077696"
                 }
             }
         },
@@ -50,17 +50,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3575208371298859552",
-                    "size": "803541832",
-                    "download": "576979904"
+                    "gid": "4224060450411040010",
+                    "size": "819602424",
+                    "download": "585621600"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "13077333",
-                "timeupdated": "1708565967"
+                "buildid": "18123532",
+                "timeupdated": "1745908628"
             },
             "local": {
                 "buildid": "10231398",
