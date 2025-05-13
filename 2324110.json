@@ -4,8 +4,8 @@
     "name": "FMTC",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548103",
-    "update_time": "2025-04-18 19:00:49",
+    "change_number": "28903080",
+    "update_time": "2025-05-09 21:57:30",
     "depot": {
         "228988": {
             "config": {
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8788352993829876513",
-                    "size": "6380778129",
-                    "download": "5859301504"
+                    "gid": "7275123549459668415",
+                    "size": "6327129191",
+                    "download": "5856156384"
                 }
             },
             "decryptionkey": "6d96db93bd5ff4dfded07572295e0588fccf3674e809b8e34d969aff0477ce99"
         },
         "branches": {
             "public": {
-                "buildid": "18159193",
-                "timeupdated": "1744990299"
+                "buildid": "18404141",
+                "timeupdated": "1746799046"
             }
         }
     }
