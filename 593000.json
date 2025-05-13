@@ -4,8 +4,8 @@
     "name": "Alien Swarm: Reactive Drop - SDK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28275273",
-    "update_time": "2025-04-03 03:35:49",
+    "change_number": "28567551",
+    "update_time": "2025-04-20 07:19:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "593001": {
             "manifests": {
                 "public": {
-                    "gid": "251742555524267012",
-                    "size": "107334875",
-                    "download": "26125456"
+                    "gid": "5972513960992757225",
+                    "size": "107335767",
+                    "download": "26125664"
                 },
                 "beta": {
                     "gid": "5972513960992757225",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16830240",
-                "timeupdated": "1734904699"
+                "buildid": "17959699",
+                "timeupdated": "1745104759"
             },
             "beta": {
                 "buildid": "17959699",
