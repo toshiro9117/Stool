@@ -4,8 +4,8 @@
     "name": "伏魔人偶：万象",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28092632",
-    "update_time": "2025-03-23 10:19:40",
+    "change_number": "28918109",
+    "update_time": "2025-05-10 23:21:44",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "schinese",
@@ -16,17 +16,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7518974612839702474",
-                    "size": "440368625",
-                    "download": "74283536"
+                    "gid": "7706347429546784473",
+                    "size": "490033305",
+                    "download": "76027520"
                 }
             },
             "decryptionkey": "516fcea99a00a16a2254514ef76eed35cd141e552fb5ae3dca5c4d76ba05502d"
         },
         "branches": {
             "public": {
-                "buildid": "17565783",
-                "timeupdated": "1740929521"
+                "buildid": "18414931",
+                "timeupdated": "1746890500"
             }
         }
     }
