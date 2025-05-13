@@ -4,8 +4,8 @@
     "name": "LIP! Lewd Idol Project Vol. 1",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27053438",
-    "update_time": "2025-01-18 13:54:27",
+    "change_number": "28772470",
+    "update_time": "2025-05-02 01:24:39",
     "depot": {
         "1604801": {
             "manifests": {
@@ -45,12 +45,19 @@
         },
         "1825810": {
             "dlcappid": "1825810",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "7929116145072600861",
+                    "size": "33168569",
+                    "download": "30769472"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "7037643",
-                "timeupdated": "1637205594"
+                "buildid": "18311816",
+                "timeupdated": "1746120257"
             }
         },
         "privatebranches": "1"
