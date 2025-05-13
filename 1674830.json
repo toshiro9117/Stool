@@ -4,8 +4,8 @@
     "name": "Victory At Sea Atlantic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28527435",
-    "update_time": "2025-04-17 19:07:54",
+    "change_number": "28866586",
+    "update_time": "2025-05-08 01:11:10",
     "depot": {
         "1674831": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6779571629848375718",
-                    "size": "19401566435",
-                    "download": "11288633856"
+                    "gid": "4139009010671978829",
+                    "size": "19401630028",
+                    "download": "11288645936"
                 },
                 "firstlook": {
-                    "gid": "6779571629848375718",
-                    "size": "19401566435",
-                    "download": "11288633856"
+                    "gid": "4139009010671978829",
+                    "size": "19401630028",
+                    "download": "11288645936"
                 }
             },
             "decryptionkey": "9b5fcc1db7c8baf4fea68fde86c9cc64170df6287337a5e23290dad5afccb213"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2254933301224093769",
-                    "size": "19401565923",
-                    "download": "11290764448"
+                    "gid": "6025687893174623353",
+                    "size": "19401630028",
+                    "download": "11290775968"
                 },
                 "firstlook": {
-                    "gid": "2254933301224093769",
-                    "size": "19401565923",
-                    "download": "11290764448"
+                    "gid": "6025687893174623353",
+                    "size": "19401630028",
+                    "download": "11290775968"
                 }
             },
             "decryptionkey": ""
@@ -46,13 +46,13 @@
         "workshopdepot": "1674830",
         "branches": {
             "public": {
-                "buildid": "18015971",
-                "timeupdated": "1744102901"
+                "buildid": "18363880",
+                "timeupdated": "1746610166"
             },
             "firstlook": {
-                "buildid": "18015971",
+                "buildid": "18363880",
                 "description": "Public preview build",
-                "timeupdated": "1744102955"
+                "timeupdated": "1746610180"
             }
         },
         "privatebranches": "1",
