@@ -1,0 +1,56 @@
+{
+    "appid": "3417900",
+    "type": "Game",
+    "name": "Mine & Slash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28821875",
+    "update_time": "2025-05-05 20:30:00",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish",
+        "3417901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7345083351042551608",
+                    "size": "922756520",
+                    "download": "629281792"
+                }
+            },
+            "decryptionkey": "dd9f175e96c14532349deb6430c864bf94192baf1760662e05c8acea8505434b"
+        },
+        "3417902": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5403978931390368322",
+                    "size": "948330725",
+                    "download": "650261456"
+                }
+            }
+        },
+        "3417903": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1544175501887447912",
+                    "size": "909182174",
+                    "download": "627219920"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18159428",
+                "timeupdated": "1744992079"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
