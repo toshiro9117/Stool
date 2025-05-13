@@ -4,8 +4,8 @@
     "name": "The Witcher 3: Wild Hunt",
     "schinese_name": "巫师 3：狂猎",
     "isfreeapp": "0",
-    "change_number": "27806115",
-    "update_time": "2025-03-06 09:52:58",
+    "change_number": "28859107",
+    "update_time": "2025-05-07 18:05:37",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,hungarian,czech,arabic,brazilian",
@@ -1249,6 +1249,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9cee38a2013555e62de550c2d53e86dd747dd60d6ca81fda65ff7711d517e322"
     }
 }
