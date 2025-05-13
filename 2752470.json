@@ -4,8 +4,8 @@
     "name": "バトルスピリッツ クロスオーバー",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28529866",
-    "update_time": "2025-04-17 21:28:02",
+    "change_number": "28895304",
+    "update_time": "2025-05-09 13:11:35",
     "depot": {
         "baselanguages": "japanese",
         "2752471": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3026114567594087096",
-                    "size": "16049095862",
-                    "download": "12060472448"
+                    "gid": "6422811334177894366",
+                    "size": "16279244390",
+                    "download": "12245964528"
                 }
             },
             "decryptionkey": "e188e6b9bf65bc6f2a64d06488b240d1351cfb7a96b295d1ad01bd979ac7c8ff"
         },
         "branches": {
             "public": {
-                "buildid": "17886506",
-                "timeupdated": "1743667200"
+                "buildid": "18132570",
+                "timeupdated": "1745542657"
             }
         },
         "privatebranches": "1"
