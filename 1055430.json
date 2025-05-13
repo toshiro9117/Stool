@@ -4,8 +4,8 @@
     "name": "Swords and Sandals Classic Collection",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27429474",
-    "update_time": "2025-02-12 08:29:42",
+    "change_number": "28835533",
+    "update_time": "2025-05-06 14:26:50",
     "depot": {
         "1055431": {
             "config": {
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4173242377377225233",
-                    "size": "887228286",
-                    "download": "721253616"
+                    "gid": "8820411298905003151",
+                    "size": "1061188356",
+                    "download": "805482608"
                 }
             },
             "decryptionkey": "a76e19417ad344b132f127e1e30afbe5acb7058130665602d4cc586bfc7c122c"
         },
         "branches": {
             "public": {
-                "buildid": "17328535",
-                "timeupdated": "1739317548"
+                "buildid": "18249946",
+                "timeupdated": "1745674718"
             }
         }
     }
