@@ -4,8 +4,8 @@
     "name": "Terminator: Dark Fate - Defiance",
     "schinese_name": "终结者: 黑暗命运 - 反抗",
     "isfreeapp": "0",
-    "change_number": "28487265",
-    "update_time": "2025-04-15 21:01:00",
+    "change_number": "28604260",
+    "update_time": "2025-04-22 23:27:27",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1839951": {
             "manifests": {
                 "public": {
-                    "gid": "450369544576152931",
-                    "size": "23047374297",
-                    "download": "23176990960"
+                    "gid": "92678660420428509",
+                    "size": "23048021805",
+                    "download": "23177646368"
                 },
                 "beta": {
                     "gid": "5276002287685628781",
@@ -39,9 +39,9 @@
         "1839952": {
             "manifests": {
                 "public": {
-                    "gid": "8670777756938380987",
-                    "size": "6701201",
-                    "download": "3533696"
+                    "gid": "3065881597699775512",
+                    "size": "6698394",
+                    "download": "3532128"
                 },
                 "beta": {
                     "gid": "8670777756938380987",
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18042922",
-                "timeupdated": "1744722054"
+                "buildid": "18191389",
+                "timeupdated": "1745335640"
             },
             "beta": {
                 "buildid": "17985606",
