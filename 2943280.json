@@ -4,16 +4,16 @@
     "name": "Dustland Delivery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28548974",
-    "update_time": "2025-04-18 20:07:44",
+    "change_number": "28898394",
+    "update_time": "2025-05-09 17:11:21",
     "depot": {
         "workshopdepot": "2943280",
         "2943281": {
             "manifests": {
                 "public": {
-                    "gid": "5596497878525999973",
-                    "size": "2082788527",
-                    "download": "221007008"
+                    "gid": "8809954385861274704",
+                    "size": "2082814783",
+                    "download": "221003408"
                 }
             },
             "decryptionkey": "21e8caf4a1bbff8f83e2f1d46bdf17045d0466e7c9a319a99094e0bcd945b6d6"
@@ -22,9 +22,9 @@
             "dlcappid": "3404490",
             "manifests": {
                 "public": {
-                    "gid": "2832488378523004753",
-                    "size": "2082788527",
-                    "download": "221084304"
+                    "gid": "7445555900968182339",
+                    "size": "2082814783",
+                    "download": "221080224"
                 }
             },
             "decryptionkey": "631ba94966307eed6f069d2207d3148395e38f7ae53b2bf8b5e55e4d422062c6"
@@ -33,17 +33,17 @@
             "dlcappid": "3559340",
             "manifests": {
                 "public": {
-                    "gid": "993920387311074106",
-                    "size": "2082788527",
-                    "download": "221049216"
+                    "gid": "6079575378212555848",
+                    "size": "2082814783",
+                    "download": "221047584"
                 }
             },
             "decryptionkey": "f02790760e408469ab1876819a79a8c300be8458df2bf791add6694342e7f3b3"
         },
         "branches": {
             "public": {
-                "buildid": "18157378",
-                "timeupdated": "1744978060"
+                "buildid": "18400505",
+                "timeupdated": "1746781877"
             }
         },
         "privatebranches": "1",
