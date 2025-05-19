@@ -4,8 +4,8 @@
     "name": "Soulmask",
     "schinese_name": "灵魂面甲(Soulmask)",
     "isfreeapp": "0",
-    "change_number": "28913342",
-    "update_time": "2025-05-10 11:02:39",
+    "change_number": "29013706",
+    "update_time": "2025-05-16 08:06:44",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "workshopdepot": "2646460",
@@ -41,9 +41,9 @@
         "2646461": {
             "manifests": {
                 "public": {
-                    "gid": "1652875071752550047",
-                    "size": "10516875021",
-                    "download": "10206645376"
+                    "gid": "1447719726129124696",
+                    "size": "10521268261",
+                    "download": "10210494192"
                 }
             },
             "decryptionkey": "b888b7fdf975bfc80d87df6beb2c5d56ada854d2adb6537fce281905a5d74d2a"
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18384915",
-                "timeupdated": "1746687687"
+                "buildid": "18442494",
+                "timeupdated": "1747129824"
             }
         },
         "privatebranches": "1",
