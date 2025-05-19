@@ -4,8 +4,8 @@
     "name": "Mindustry",
     "schinese_name": "像素工厂",
     "isfreeapp": "0",
-    "change_number": "28922653",
-    "update_time": "2025-05-11 11:59:42",
+    "change_number": "29040853",
+    "update_time": "2025-05-17 22:39:29",
     "depot": {
         "workshopdepot": "1127400",
         "1127401": {},
@@ -36,9 +36,9 @@
                     "download": "99651472"
                 },
                 "bleeding-edge": {
-                    "gid": "1830105798021811092",
-                    "size": "103901917",
-                    "download": "87700048"
+                    "gid": "7321667254870110193",
+                    "size": "103909908",
+                    "download": "88770656"
                 },
                 "v8-beta": {
                     "gid": "6514010225582701149",
@@ -75,9 +75,9 @@
                     "download": "93582288"
                 },
                 "bleeding-edge": {
-                    "gid": "7930267749539969014",
-                    "size": "106245955",
-                    "download": "86399952"
+                    "gid": "2602787536507807077",
+                    "size": "106253946",
+                    "download": "86411168"
                 },
                 "v8-beta": {
                     "gid": "4142064910865378577",
@@ -113,9 +113,9 @@
                     "download": "91041392"
                 },
                 "bleeding-edge": {
-                    "gid": "2079638435378516472",
-                    "size": "106035919",
-                    "download": "87836032"
+                    "gid": "8092124381842202779",
+                    "size": "106043910",
+                    "download": "87849216"
                 },
                 "v8-beta": {
                     "gid": "6393700939027897424",
@@ -185,9 +185,9 @@
                 "timeupdated": "1671641877"
             },
             "bleeding-edge": {
-                "buildid": "18417944",
+                "buildid": "18503218",
                 "description": "The latest development build, may be unstable - this is a one way trip, BACK UP SAVES BEFORE SWITCHING!",
-                "timeupdated": "1746935977"
+                "timeupdated": "1747492766"
             },
             "v8-beta": {
                 "buildid": "18303140",
