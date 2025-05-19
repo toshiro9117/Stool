@@ -4,8 +4,8 @@
     "name": "Torque Drift 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28897380",
-    "update_time": "2025-05-09 16:11:15",
+    "change_number": "29017426",
+    "update_time": "2025-05-16 13:56:55",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3116641": {
             "manifests": {
                 "public": {
-                    "gid": "3433688743647037431",
-                    "size": "66634340866",
-                    "download": "65500692432"
+                    "gid": "1071536895328546601",
+                    "size": "60600006084",
+                    "download": "59793901344"
                 }
             },
             "decryptionkey": "76d9b96d0a9d422a6133e9cba82015446749380a2945965f89fb05b584a507c8"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17301158",
-                "timeupdated": "1739332100"
+                "buildid": "18485214",
+                "timeupdated": "1747369212"
             }
         },
         "privatebranches": "1"
