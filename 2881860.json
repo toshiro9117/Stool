@@ -4,8 +4,8 @@
     "name": "TaleSpire - Guest Edition",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28890696",
-    "update_time": "2025-05-09 05:31:27",
+    "change_number": "29032569",
+    "update_time": "2025-05-17 04:51:26",
     "depot": {
         "228988": {
             "config": {
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "148242645628732804",
-                    "size": "4213485204",
-                    "download": "3874069232"
+                    "gid": "8503724652156291491",
+                    "size": "4214210614",
+                    "download": "3875433488"
                 }
             },
             "decryptionkey": "82466bde9b6d5c552f145d95417ee2420f808fc41490c403a0cda479e48766c2"
@@ -51,16 +51,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8664750031865853691",
-                    "size": "4231326323",
-                    "download": "3880252928"
+                    "gid": "1053968255828160802",
+                    "size": "4232145495",
+                    "download": "3882382512"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18324409",
-                "timeupdated": "1746211963"
+                "buildid": "18496693",
+                "timeupdated": "1747428682"
             }
         },
         "privatebranches": "1"
