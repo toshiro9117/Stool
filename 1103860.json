@@ -4,8 +4,8 @@
     "name": "The Wizards - Dark Times",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28900176",
-    "update_time": "2025-05-09 19:03:24",
+    "change_number": "29028405",
+    "update_time": "2025-05-17 00:20:58",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "1103861": {
             "manifests": {
                 "public": {
-                    "gid": "327566112987600474",
-                    "size": "21877195296",
-                    "download": "20521419088"
+                    "gid": "1003612159995827093",
+                    "size": "20856680006",
+                    "download": "19787429568"
                 }
             },
             "decryptionkey": "8cfec9cb1a721afa63655b301fd5b872632b30c028cf2a22fdba1d8202b895e5"
         },
         "branches": {
             "public": {
-                "buildid": "18111707",
-                "timeupdated": "1744901761"
+                "buildid": "18465024",
+                "timeupdated": "1747317436"
             }
         },
         "privatebranches": "1"
