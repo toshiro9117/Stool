@@ -4,8 +4,8 @@
     "name": "PARANOIA PLACE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905071",
-    "update_time": "2025-05-09 23:55:33",
+    "change_number": "28978342",
+    "update_time": "2025-05-14 22:44:41",
     "depot": {
         "228983": {
             "config": {
@@ -38,9 +38,9 @@
         "1592291": {
             "manifests": {
                 "public": {
-                    "gid": "5508328522967425041",
+                    "gid": "5072324807016488702",
                     "size": "8892329463",
-                    "download": "3886380528"
+                    "download": "3886380256"
                 }
             },
             "decryptionkey": "acd2f8b4b5818e8958a6f694789fe7f6c3127753e27e8da0c99dfe11a97bab22"
@@ -48,8 +48,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18405524",
-                "timeupdated": "1746806125"
+                "buildid": "18458246",
+                "timeupdated": "1747217495"
             }
         }
     }
