@@ -4,8 +4,8 @@
     "name": "Chaotic Era",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905753",
-    "update_time": "2025-05-10 00:33:23",
+    "change_number": "28943862",
+    "update_time": "2025-05-13 00:59:31",
     "depot": {
         "baselanguages": "english",
         "2487201": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4625704957338740871",
-                    "size": "299999074",
-                    "download": "147514832"
+                    "gid": "3557473905203755860",
+                    "size": "303352884",
+                    "download": "148411088"
                 },
                 "beta": {
                     "gid": "3249049669276919968",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4624052057039588897",
-                    "size": "280604615",
-                    "download": "139226960"
+                    "gid": "8262644221083890847",
+                    "size": "280665770",
+                    "download": "139237136"
                 },
                 "beta": {
                     "gid": "7854875492086233091",
@@ -49,16 +49,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1120053941074566422",
-                    "size": "416833075",
-                    "download": "185539072"
+                    "gid": "5484409500844943375",
+                    "size": "418123106",
+                    "download": "186403536"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18354332",
-                "timeupdated": "1746502574"
+                "buildid": "18432352",
+                "timeupdated": "1747069164"
             },
             "beta": {
                 "buildid": "14758786",
