@@ -4,15 +4,15 @@
     "name": "Obscured Stories: The Resentment",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917931",
-    "update_time": "2025-05-10 22:57:35",
+    "change_number": "29036543",
+    "update_time": "2025-05-17 12:13:58",
     "depot": {
         "3544971": {
             "manifests": {
                 "public": {
-                    "gid": "2186410596703107670",
-                    "size": "1405951424",
-                    "download": "538831024"
+                    "gid": "830413121848324372",
+                    "size": "1405951456",
+                    "download": "538831072"
                 },
                 "beta": {
                     "gid": "8215809839773246542",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18414816",
-                "timeupdated": "1746889050"
+                "buildid": "18420526",
+                "timeupdated": "1746975718"
             },
             "beta": {
                 "buildid": "18250273",
