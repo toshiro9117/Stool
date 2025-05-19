@@ -4,16 +4,16 @@
     "name": "世外桃源 Land Of Idyllic Beauty",
     "schinese_name": "世外桃源",
     "isfreeapp": "0",
-    "change_number": "28883440",
-    "update_time": "2025-05-08 22:04:12",
+    "change_number": "29036613",
+    "update_time": "2025-05-17 12:24:36",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "3085891": {
             "manifests": {
                 "public": {
-                    "gid": "4167610682647578035",
-                    "size": "4571244009",
-                    "download": "605533104"
+                    "gid": "1651981423771859562",
+                    "size": "4571259601",
+                    "download": "610824096"
                 }
             },
             "decryptionkey": "5cf3c9208314cbde9de4b11acf051ea93779fddaece9022375cbf8f54ba14d84"
@@ -21,10 +21,11 @@
         "workshopdepot": "3085890",
         "branches": {
             "public": {
-                "buildid": "18389832",
-                "timeupdated": "1746713044"
+                "buildid": "18500135",
+                "timeupdated": "1747455872"
             }
         },
+        "privatebranches": "1",
         "workshopdepotdecryptionkey": ""
     }
 }
