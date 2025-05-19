@@ -4,8 +4,8 @@
     "name": "Minigame Madness",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28802722",
-    "update_time": "2025-05-04 02:31:27",
+    "change_number": "29042430",
+    "update_time": "2025-05-18 02:03:19",
     "depot": {
         "228988": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4816656382989195538",
-                    "size": "764551980",
-                    "download": "565005072"
+                    "gid": "5452162831891734800",
+                    "size": "764251368",
+                    "download": "564639760"
                 }
             },
             "decryptionkey": "a9d5e9858c3ac9c1af67c66759fa3d885cdcf991de3ae4acbcd7637c3aa5dbba"
@@ -45,8 +45,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,swedish,turkish,brazilian,ukrainian,vietnamese",
         "branches": {
             "public": {
-                "buildid": "18332120",
-                "timeupdated": "1746280640"
+                "buildid": "18503593",
+                "timeupdated": "1747497866"
             }
         },
         "privatebranches": "1"
