@@ -4,14 +4,15 @@
     "name": "From Madness with Love",
     "schinese_name": "若不疯魔何言爱过",
     "isfreeapp": "0",
-    "change_number": "28864321",
-    "update_time": "2025-05-07 23:12:09",
+    "change_number": "29008735",
+    "update_time": "2025-05-16 02:00:43",
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
         "2101131": {
             "config": {
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -25,7 +26,8 @@
         "2101132": {
             "config": {
                 "language": "japanese",
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -39,7 +41,8 @@
         "2101133": {
             "config": {
                 "language": "tchinese",
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -53,7 +56,8 @@
         "2101134": {
             "config": {
                 "language": "schinese",
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
@@ -90,7 +94,8 @@
         "3678560": {
             "dlcappid": "3678560",
             "config": {
-                "oslist": "windows"
+                "oslist": "windows",
+                "osarch": "64"
             },
             "manifests": {}
         },
