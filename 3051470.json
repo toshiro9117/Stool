@@ -4,23 +4,23 @@
     "name": "Kaya's Prophecy",
     "schinese_name": "酋长的野望",
     "isfreeapp": "0",
-    "change_number": "28912746",
-    "update_time": "2025-05-10 09:32:36",
+    "change_number": "29042906",
+    "update_time": "2025-05-18 03:12:26",
     "depot": {
         "3051471": {
             "manifests": {
                 "public": {
-                    "gid": "4714320760081107299",
-                    "size": "330270224",
-                    "download": "234222528"
+                    "gid": "2484691943971470103",
+                    "size": "330331709",
+                    "download": "245043280"
                 }
             },
             "decryptionkey": "fd82a12824aaa017fd9f9df79a69c912499fcb6030c97006df6481e8eecd7432"
         },
         "branches": {
             "public": {
-                "buildid": "18280262",
-                "timeupdated": "1746032187"
+                "buildid": "18425931",
+                "timeupdated": "1747387003"
             }
         },
         "privatebranches": "1"
