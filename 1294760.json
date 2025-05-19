@@ -4,8 +4,8 @@
     "name": "Hard Bullet",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28644018",
-    "update_time": "2025-04-24 20:33:12",
+    "change_number": "28985976",
+    "update_time": "2025-05-15 01:06:36",
     "depot": {
         "1294761": {
             "config": {
@@ -53,6 +53,11 @@
                     "gid": "1364788504415157210",
                     "size": "12441513349",
                     "download": "4903115072"
+                },
+                "preview": {
+                    "gid": "8984637042412289584",
+                    "size": "19856962713",
+                    "download": "7463058352"
                 }
             },
             "decryptionkey": "8b64986de50b2544da769e174eac8b083ddca7e9d9bc080b9122a7c4ed0c5627"
@@ -96,6 +101,11 @@
                 "buildid": "6569678",
                 "description": "April 2021",
                 "timeupdated": "1627598620"
+            },
+            "preview": {
+                "buildid": "18460161",
+                "description": "Public Beta",
+                "timeupdated": "1747226443"
             }
         },
         "privatebranches": "1"
