@@ -4,8 +4,8 @@
     "name": "Rising Front",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28802038",
-    "update_time": "2025-05-04 01:08:35",
+    "change_number": "28992067",
+    "update_time": "2025-05-15 08:22:33",
     "depot": {
         "baselanguages": "english",
         "1560252": {
@@ -21,9 +21,9 @@
                     "download": "2057745808"
                 },
                 "beta": {
-                    "gid": "1842062022653491638",
-                    "size": "9905987147",
-                    "download": "2102407280"
+                    "gid": "535434357408218009",
+                    "size": "9913371409",
+                    "download": "2105956848"
                 }
             },
             "decryptionkey": "f3f6f6db116ce81041fc3f358582e5ad09e76e9b0c54dd65b85851ef11bce0e9"
@@ -35,9 +35,9 @@
                 "timeupdated": "1737053509"
             },
             "beta": {
-                "buildid": "18323211",
+                "buildid": "18468354",
                 "description": "beta branch for unreleased updates",
-                "timeupdated": "1746199207"
+                "timeupdated": "1747268550"
             }
         },
         "workshopdepotdecryptionkey": "f758b39466d7e1577827f7e91403e069e8d615ac84e3e8a5d362e5f0c4fd047e"
