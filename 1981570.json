@@ -4,8 +4,8 @@
     "name": "Land of the Vikings",
     "schinese_name": "维京人之地",
     "isfreeapp": "0",
-    "change_number": "28072118",
-    "update_time": "2025-03-21 21:05:27",
+    "change_number": "28995214",
+    "update_time": "2025-05-15 13:10:06",
     "depot": {
         "1981571": {
             "manifests": {
@@ -36,6 +36,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "deda2919d13e947d72d5a79a817850224f56848c617298f50e08ba1ae3997ecb"
     }
 }
