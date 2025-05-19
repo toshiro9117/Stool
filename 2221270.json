@@ -4,15 +4,15 @@
     "name": "Arkero VR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28912018",
-    "update_time": "2025-05-10 08:11:55",
+    "change_number": "29032845",
+    "update_time": "2025-05-17 05:17:22",
     "depot": {
         "2221271": {
             "manifests": {
                 "public": {
-                    "gid": "4681239203664467767",
-                    "size": "6470848281",
-                    "download": "2435319216"
+                    "gid": "5425263141488193152",
+                    "size": "7638704289",
+                    "download": "2875525840"
                 }
             },
             "decryptionkey": "b3e657d2704028f2c569b0ee261932fae5cd2978dabb86bb25191e362ccc0616"
@@ -20,8 +20,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18409022",
-                "timeupdated": "1746826142"
+                "buildid": "18497243",
+                "timeupdated": "1747430239"
             }
         },
         "privatebranches": "1"
