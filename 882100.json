@@ -4,8 +4,8 @@
     "name": "XCOM: Chimera Squad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27810977",
-    "update_time": "2025-03-06 17:01:20",
+    "change_number": "28979943",
+    "update_time": "2025-05-14 22:47:51",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish",
         "workshopdepot": "882100",
@@ -102,6 +102,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "df4019225c7813711445dd171f07be53f1476c6974260ca751541fb4c194a0c7"
     }
 }
