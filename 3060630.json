@@ -4,15 +4,15 @@
     "name": "修仙：但系统让我种田",
     "schinese_name": "修仙：但系统让我种田",
     "isfreeapp": "0",
-    "change_number": "28919621",
-    "update_time": "2025-05-11 02:56:53",
+    "change_number": "28995211",
+    "update_time": "2025-05-15 13:09:56",
     "depot": {
         "3060632": {
             "manifests": {
                 "public": {
-                    "gid": "3474528131006748201",
-                    "size": "7224037719",
-                    "download": "5368627168"
+                    "gid": "5915372663666755576",
+                    "size": "7224037775",
+                    "download": "5368655376"
                 }
             },
             "decryptionkey": "18866e1f46a0203087f2f9d7841a1246cd4d918b127c6e8b1cd8803da6a9341f"
@@ -20,8 +20,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18415824",
-                "timeupdated": "1746903406"
+                "buildid": "18431104",
+                "timeupdated": "1747063335"
             }
         },
         "privatebranches": "1"
