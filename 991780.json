@@ -4,8 +4,8 @@
     "name": "探灵笔記/拾遗记-1v5(Notes of Soul)",
     "schinese_name": "探灵笔记",
     "isfreeapp": "0",
-    "change_number": "27786568",
-    "update_time": "2025-03-05 10:29:59",
+    "change_number": "29019955",
+    "update_time": "2025-05-16 16:36:58",
     "depot": {
         "228981": {
             "config": {
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1977250897574423856",
-                    "size": "25876003296",
-                    "download": "24223456080"
+                    "gid": "631583843673414869",
+                    "size": "25996671639",
+                    "download": "24342162624"
                 }
             },
             "decryptionkey": "96d486bdee232132c4f0f1c79089e5f04b6e822ef9a3bd14f4e652c4bdba75e9"
@@ -102,8 +102,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16852924",
-                "timeupdated": "1735198783"
+                "buildid": "18488028",
+                "timeupdated": "1747384615"
             }
         },
         "privatebranches": "1"
