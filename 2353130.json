@@ -4,23 +4,23 @@
     "name": "刻印战记2：七圣英雄",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917399",
-    "update_time": "2025-05-10 21:37:03",
+    "change_number": "28995303",
+    "update_time": "2025-05-15 13:19:07",
     "depot": {
         "2353131": {
             "manifests": {
                 "public": {
-                    "gid": "7601928282311521033",
-                    "size": "1178950315",
-                    "download": "1106418912"
+                    "gid": "1789017722713772388",
+                    "size": "1180520261",
+                    "download": "1107984384"
                 }
             },
             "decryptionkey": "7e4b6bb2bbafaba3b15c2dffe0b0ab2a381513ec1624010a0df7ae5cedfdc9db"
         },
         "branches": {
             "public": {
-                "buildid": "18414439",
-                "timeupdated": "1746884217"
+                "buildid": "18470779",
+                "timeupdated": "1747286345"
             }
         }
     }
