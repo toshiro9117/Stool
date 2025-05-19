@@ -4,8 +4,8 @@
     "name": "Rain World: The Watcher",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28829283",
-    "update_time": "2025-05-06 04:24:47",
+    "change_number": "28983211",
+    "update_time": "2025-05-14 22:52:33",
     "depot": {
         "2857120": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1691418036520690419",
-                    "size": "1345103865",
-                    "download": "862348656"
+                    "gid": "7862422328578630671",
+                    "size": "1345822200",
+                    "download": "862407488"
                 }
             },
             "dlcappid": "2857120",
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18284003",
-                "timeupdated": "1745958361"
+                "buildid": "18461992",
+                "timeupdated": "1747233883"
             }
         },
         "privatebranches": "1"
