@@ -4,8 +4,8 @@
     "name": "Nonsensical Video Generator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28893211",
-    "update_time": "2025-05-09 09:26:09",
+    "change_number": "28984454",
+    "update_time": "2025-05-14 23:49:11",
     "depot": {
         "workshopdepot": "2516360",
         "228990": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "2438859194764024868",
+                    "size": "676673564",
+                    "download": "258970400"
+                },
+                "previous": {
                     "gid": "3572548574808110799",
                     "size": "677199517",
                     "download": "258971440"
-                },
-                "previous": {
-                    "gid": "4257965928849655382",
-                    "size": "666702431",
-                    "download": "257765424"
                 },
                 "previous2024": {
                     "gid": "204049683408082940",
@@ -56,13 +56,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18390590",
-                "timeupdated": "1746716793"
+                "buildid": "18462869",
+                "timeupdated": "1747237745"
             },
             "previous": {
-                "buildid": "18367290",
+                "buildid": "18390590",
                 "description": "Previous build rollback",
-                "timeupdated": "1746716767"
+                "timeupdated": "1747237727"
             },
             "previous2024": {
                 "buildid": "16845750",
