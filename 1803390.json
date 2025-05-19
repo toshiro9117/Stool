@@ -4,8 +4,8 @@
     "name": "Bounty: Drag Racing",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28891642",
-    "update_time": "2025-05-09 07:03:01",
+    "change_number": "29036561",
+    "update_time": "2025-05-17 12:15:50",
     "depot": {
         "1803391": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7959376922313353876",
-                    "size": "13126237075",
-                    "download": "3676325984"
+                    "gid": "5312903908204690414",
+                    "size": "13549688413",
+                    "download": "3740431616"
                 },
                 "physicsbeta": {
                     "gid": "4942636027337839290",
@@ -33,8 +33,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18134615",
-                "timeupdated": "1744883470"
+                "buildid": "18436671",
+                "timeupdated": "1747093490"
             },
             "physicsbeta": {
                 "buildid": "18103441",
