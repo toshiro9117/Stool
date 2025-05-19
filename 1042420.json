@@ -4,8 +4,8 @@
     "name": "DayZ Experimental Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28824264",
-    "update_time": "2025-05-05 22:48:59",
+    "change_number": "28959861",
+    "update_time": "2025-05-13 20:07:21",
     "depot": {
         "228985": {
             "config": {
@@ -31,9 +31,9 @@
         "1042421": {
             "manifests": {
                 "public": {
-                    "gid": "3879085669845758763",
-                    "size": "3619313645",
-                    "download": "1270779024"
+                    "gid": "6523245748996804775",
+                    "size": "3619368071",
+                    "download": "1270785760"
                 }
             },
             "decryptionkey": "f4596b432b405afdbbb09e42aa7bd3f96ae6494881a0cea19d23b7b35e74ee77"
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7853509843415273003",
-                    "size": "80657344",
-                    "download": "23727472"
+                    "gid": "2374629755920590477",
+                    "size": "80665536",
+                    "download": "23730944"
                 }
             },
             "decryptionkey": "c12b4ec6ef456e1185dbc6ff68429ddd09837bd4bf5f14927952833fb7f2f7f8"
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5388959252993736882",
-                    "size": "42025456",
-                    "download": "13193712"
+                    "gid": "8853330281491622951",
+                    "size": "42033648",
+                    "download": "13194768"
                 }
             },
             "decryptionkey": "19bd5536221757549f30bf24e346ee7c68529e3554522c6d12d45e102a6f61bc"
@@ -69,17 +69,17 @@
         "1042424": {
             "manifests": {
                 "public": {
-                    "gid": "1900903895398737833",
-                    "size": "303100360",
-                    "download": "11663968"
+                    "gid": "8778839850529060016",
+                    "size": "303102753",
+                    "download": "11664096"
                 }
             },
             "decryptionkey": "b869b62f6255017c325a1e5bfc1331919a5441fa698e973cf6af5384f6ac86a0"
         },
         "branches": {
             "public": {
-                "buildid": "18053213",
-                "timeupdated": "1744718380"
+                "buildid": "18347498",
+                "timeupdated": "1747138037"
             }
         },
         "privatebranches": "1"
