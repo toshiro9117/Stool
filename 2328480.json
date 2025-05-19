@@ -4,8 +4,8 @@
     "name": "Ascension",
     "schinese_name": "宗门志",
     "isfreeapp": "0",
-    "change_number": "28919849",
-    "update_time": "2025-05-11 03:32:42",
+    "change_number": "29047942",
+    "update_time": "2025-05-18 18:31:14",
     "depot": {
         "2328481": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7926808369301931206",
-                    "size": "5698827645",
-                    "download": "4621398928"
+                    "gid": "5949781895705095736",
+                    "size": "5701383351",
+                    "download": "4623251888"
                 },
                 "publictest": {
                     "gid": "4962172236373058236",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8485457977508900202",
-                    "size": "5698827645",
-                    "download": "4621399472"
+                    "gid": "8136950110171222815",
+                    "size": "5701383351",
+                    "download": "4623252432"
                 },
                 "publictest": {
                     "gid": "6410038114784074292",
@@ -51,8 +51,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18415366",
-                "timeupdated": "1746896187"
+                "buildid": "18508059",
+                "timeupdated": "1747564271"
             },
             "publictest": {
                 "buildid": "12033768",
