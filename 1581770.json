@@ -4,16 +4,16 @@
     "name": "SpellForce: Conquest of Eo",
     "schinese_name": "咒语力量：征服埃欧大陆",
     "isfreeapp": "0",
-    "change_number": "28888060",
-    "update_time": "2025-05-09 02:18:36",
+    "change_number": "29030385",
+    "update_time": "2025-05-17 02:17:10",
     "depot": {
         "workshopdepot": "1581770",
         "1581771": {
             "manifests": {
                 "public": {
-                    "gid": "3678639957793942693",
-                    "size": "8227876390",
-                    "download": "3577269312"
+                    "gid": "1585000752568338642",
+                    "size": "8261124580",
+                    "download": "3589989744"
                 }
             },
             "decryptionkey": "ffe2a296f48776e37af1454d167edda61275a0f08fed2ab4664ebbe27be48bb8"
@@ -35,9 +35,9 @@
             "dlcappid": "2681600",
             "manifests": {
                 "public": {
-                    "gid": "4965455006813102251",
-                    "size": "350763224",
-                    "download": "178739648"
+                    "gid": "7983079202580721992",
+                    "size": "349104460",
+                    "download": "177697056"
                 }
             },
             "decryptionkey": "010d5842cb048d1e414ee229a6d3e84fae9e0f1388348c12259eba9716616077"
@@ -46,9 +46,9 @@
             "dlcappid": "3132660",
             "manifests": {
                 "public": {
-                    "gid": "3468051301018807627",
-                    "size": "33699190",
-                    "download": "13976560"
+                    "gid": "6399383896425725389",
+                    "size": "34394659",
+                    "download": "13920048"
                 }
             },
             "decryptionkey": "b77d01b9249631e8560b47025ec291ac854c156849a85d1246e4948f430c88e4"
@@ -58,12 +58,19 @@
         },
         "3540990": {
             "dlcappid": "3540990",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "8417792293308017559",
+                    "size": "126072087",
+                    "download": "48670080"
+                }
+            },
+            "decryptionkey": "c8a10b9f25096828786fd2b533bf975d3aa4b3e5aa7937fc12b5b00c508a2343"
         },
         "branches": {
             "public": {
-                "buildid": "17158883",
-                "timeupdated": "1738073668"
+                "buildid": "18473319",
+                "timeupdated": "1747300890"
             }
         },
         "privatebranches": "1",
