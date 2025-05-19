@@ -4,8 +4,8 @@
     "name": "Sea Power",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921109",
-    "update_time": "2025-05-11 06:43:17",
+    "change_number": "29044646",
+    "update_time": "2025-05-18 07:54:56",
     "depot": {
         "1286221": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "7967730064"
                 },
                 "stable": {
-                    "gid": "7790607258611079314",
-                    "size": "16883893175",
-                    "download": "7988267760"
+                    "gid": "3170276034835873287",
+                    "size": "16835141522",
+                    "download": "7973206352"
                 }
             },
             "decryptionkey": "984343174565db9374b496a4535fbef08482bad32064195c9afa10617cb1346f"
@@ -29,9 +29,9 @@
                 "timeupdated": "1745927037"
             },
             "stable": {
-                "buildid": "18389084",
+                "buildid": "18472934",
                 "description": "Beta branch",
-                "timeupdated": "1746709093"
+                "timeupdated": "1747299108"
             }
         },
         "privatebranches": "1",
