@@ -4,8 +4,8 @@
     "name": "Fortune Avenue",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916142",
-    "update_time": "2025-05-10 18:12:28",
+    "change_number": "29039322",
+    "update_time": "2025-05-17 19:12:53",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,polish,czech,turkish,brazilian",
         "1810054": {
@@ -20,9 +20,9 @@
                     "download": "261887392"
                 },
                 "unstable": {
-                    "gid": "6848338035313222780",
-                    "size": "567184113",
-                    "download": "262819152"
+                    "gid": "7767525501324114676",
+                    "size": "567184097",
+                    "download": "262818832"
                 }
             }
         },
@@ -38,9 +38,9 @@
                     "download": "260927968"
                 },
                 "unstable": {
-                    "gid": "1876356522460586868",
-                    "size": "565981245",
-                    "download": "261858752"
+                    "gid": "5122890468921988679",
+                    "size": "565981229",
+                    "download": "261860800"
                 }
             },
             "decryptionkey": "6575f7dbbb7608bbe7d71afe5321f34372457adf87460acb86992c8001e24249"
@@ -51,9 +51,9 @@
                 "timeupdated": "1746270966"
             },
             "unstable": {
-                "buildid": "18413524",
+                "buildid": "18425215",
                 "description": "Public test",
-                "timeupdated": "1746871943"
+                "timeupdated": "1747031074"
             }
         },
         "privatebranches": "1"
