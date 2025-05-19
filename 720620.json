@@ -4,8 +4,8 @@
     "name": "TaleSpire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28790980",
-    "update_time": "2025-05-03 02:52:44",
+    "change_number": "29032572",
+    "update_time": "2025-05-17 04:51:29",
     "depot": {
         "228988": {
             "config": {
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3233044364623736860",
-                    "size": "4213485204",
-                    "download": "3874104176"
+                    "gid": "3851738253677734879",
+                    "size": "4214210614",
+                    "download": "3874279168"
                 }
             },
             "decryptionkey": "fffc0300271cb14d251db3991723c0466bbc687791f7aaf30f77c1dd97b38e8f"
@@ -51,17 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7308097247302459201",
-                    "size": "4231326323",
-                    "download": "3880294704"
+                    "gid": "6595754989230084601",
+                    "size": "4232145495",
+                    "download": "3880462512"
                 }
             },
             "decryptionkey": "d08d757f36b034d29142c59699b700bcd098998d1bb9aff7b251b9ca67b96d46"
         },
         "branches": {
             "public": {
-                "buildid": "18324398",
-                "timeupdated": "1746211959"
+                "buildid": "18496673",
+                "timeupdated": "1747428684"
             }
         },
         "privatebranches": "1"
