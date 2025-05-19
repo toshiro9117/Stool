@@ -4,8 +4,8 @@
     "name": "MyDockFinder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28572144",
-    "update_time": "2025-04-20 21:03:30",
+    "change_number": "28925572",
+    "update_time": "2025-05-11 20:56:53",
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2154568122750825844",
-                    "size": "188980434",
-                    "download": "125073600"
+                    "gid": "8036141996819168767",
+                    "size": "199381846",
+                    "download": "126171136"
                 },
                 "v1.9.7.7": {
                     "gid": "1233479017008926626",
@@ -70,9 +70,9 @@
                     "download": "19953136"
                 },
                 "testversion": {
-                    "gid": "2154568122750825844",
-                    "size": "188980434",
-                    "download": "125073600"
+                    "gid": "8036141996819168767",
+                    "size": "199381846",
+                    "download": "126171136"
                 },
                 "v1.9.9.8": {
                     "gid": "4022701773837980726",
@@ -89,8 +89,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18172949",
-                "timeupdated": "1745154170"
+                "buildid": "18419929",
+                "timeupdated": "1746968191"
             },
             "v1.9.7.7": {
                 "sc_schinese": "旧版本1.9.7.7",
@@ -135,10 +135,10 @@
                 "timeupdated": "1713095753"
             },
             "testversion": {
-                "sc_schinese": "新版本测试通道 1.10.8",
-                "buildid": "18172949",
-                "description": "new version test 1.10.8",
-                "timeupdated": "1745154127"
+                "sc_schinese": "新版本测试通道 1.10.9",
+                "buildid": "18419929",
+                "description": "new version test 1.10.9",
+                "timeupdated": "1746968152"
             },
             "v1.9.9.8": {
                 "sc_schinese": "旧版本1.9.9.8",
