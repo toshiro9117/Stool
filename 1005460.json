@@ -4,8 +4,8 @@
     "name": "NationWar2",
     "schinese_name": "国战2:列国志传 | 春秋霸业",
     "isfreeapp": "0",
-    "change_number": "28779493",
-    "update_time": "2025-05-02 11:47:30",
+    "change_number": "29046141",
+    "update_time": "2025-05-18 13:02:03",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "1005461": {
             "manifests": {
                 "public": {
-                    "gid": "1653032211704976535",
-                    "size": "3454990349",
-                    "download": "2711831376"
+                    "gid": "3740128573082949420",
+                    "size": "3454971160",
+                    "download": "2711796464"
                 },
                 "0.17.0": {
                     "gid": "8333257423072779224",
@@ -50,10 +50,15 @@
                     "size": "3461104526",
                     "download": "2696764288"
                 },
+                "0.40.1": {
+                    "gid": "1653032211704976535",
+                    "size": "3454990349",
+                    "download": "2711831376"
+                },
                 "preversion": {
-                    "gid": "1832497029235098133",
-                    "size": "3541658880",
-                    "download": "2816671472"
+                    "gid": "4637599080201562741",
+                    "size": "3454852714",
+                    "download": "2711709440"
                 }
             },
             "decryptionkey": "79e3a2725decbe353a8a20b2b8ab666f44acd2c16b9a83c178a25c0b9f64775c"
@@ -61,8 +66,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "18316912",
-                "timeupdated": "1746157645"
+                "buildid": "18506815",
+                "timeupdated": "1747544384"
             },
             "0.17.0": {
                 "buildid": "15479127",
@@ -79,10 +84,15 @@
                 "description": "Version：0.19.0",
                 "timeupdated": "1727925865"
             },
+            "0.40.1": {
+                "buildid": "18316912",
+                "description": "Version：0.40.1",
+                "timeupdated": "1747544496"
+            },
             "preversion": {
-                "buildid": "8895714",
+                "buildid": "17994256",
                 "description": "上一个版本",
-                "timeupdated": "1714962277"
+                "timeupdated": "1747544519"
             }
         }
     }
