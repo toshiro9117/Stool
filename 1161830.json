@@ -4,8 +4,8 @@
     "name": "Age of Reforging:The Freelands",
     "schinese_name": "重铸纪元：自由地",
     "isfreeapp": "0",
-    "change_number": "28919845",
-    "update_time": "2025-05-11 03:31:54",
+    "change_number": "29046696",
+    "update_time": "2025-05-18 15:07:59",
     "depot": {
         "baselanguages": "english,schinese",
         "1161831": {
@@ -14,27 +14,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2696754013374546092",
-                    "size": "49161028988",
-                    "download": "41249469552"
+                    "gid": "5488903879768817852",
+                    "size": "49194817858",
+                    "download": "41335859328"
                 },
                 "beta": {
-                    "gid": "2696754013374546092",
-                    "size": "49161028988",
-                    "download": "41249469552"
+                    "gid": "5488903879768817852",
+                    "size": "49194817858",
+                    "download": "41335859328"
                 }
             },
             "decryptionkey": "e1a623d865fa1f73a35221e8f9e08f42bedac87bb2b26a0110c87fa8324467d0"
         },
         "branches": {
             "public": {
-                "buildid": "18415378",
-                "timeupdated": "1746896509"
+                "buildid": "18506951",
+                "timeupdated": "1747552075"
             },
             "beta": {
-                "buildid": "18415378",
+                "buildid": "18506951",
                 "description": "For pre release test",
-                "timeupdated": "1746896481"
+                "timeupdated": "1747547880"
             }
         },
         "privatebranches": "1"
