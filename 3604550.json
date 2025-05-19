@@ -4,23 +4,23 @@
     "name": "Ball Scooping Friends",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28901587",
-    "update_time": "2025-05-09 20:33:38",
+    "change_number": "29022709",
+    "update_time": "2025-05-16 19:10:05",
     "depot": {
         "3604551": {
             "manifests": {
                 "public": {
-                    "gid": "567722654252080217",
-                    "size": "1124849922",
-                    "download": "265667728"
+                    "gid": "1394921685601680856",
+                    "size": "1124845474",
+                    "download": "265773648"
                 }
             },
             "decryptionkey": "2aed629ae7a6d7654de2a32984ec292f74b1fd741e29faf3e1bbc607b4e4ac93"
         },
         "branches": {
             "public": {
-                "buildid": "18397108",
-                "timeupdated": "1746756717"
+                "buildid": "18437804",
+                "timeupdated": "1747102533"
             }
         },
         "privatebranches": "1"
