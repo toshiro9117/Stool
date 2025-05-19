@@ -4,16 +4,16 @@
     "name": "汉尘：腐草为萤",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28913135",
-    "update_time": "2025-05-10 10:33:10",
+    "change_number": "29034759",
+    "update_time": "2025-05-17 08:21:58",
     "depot": {
         "baselanguages": "english,schinese",
         "2078911": {
             "manifests": {
                 "public": {
-                    "gid": "858459430903132398",
-                    "size": "6567749354",
-                    "download": "4722907184"
+                    "gid": "4462419351801147442",
+                    "size": "6465581580",
+                    "download": "4645704352"
                 },
                 "v0.4": {
                     "gid": "5169707365490036567",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18403929",
-                "timeupdated": "1746804101"
+                "buildid": "18490230",
+                "timeupdated": "1747394114"
             },
             "v0.4": {
                 "buildid": "18322677",
