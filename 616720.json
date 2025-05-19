@@ -4,8 +4,8 @@
     "name": "Live2DViewerEX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27862704",
-    "update_time": "2025-03-10 07:10:19",
+    "change_number": "29013672",
+    "update_time": "2025-05-16 08:03:58",
     "depot": {
         "workshopdepot": "616720",
         "hasdepotsindlc": "0",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "652191753480006462",
-                    "size": "1974207749",
-                    "download": "333838128"
+                    "gid": "2239874357266311005",
+                    "size": "1974377749",
+                    "download": "333821616"
                 },
                 "legacy_version": {
                     "gid": "7911698314792274347",
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1804784660641629920",
-                    "size": "1056447826",
-                    "download": "224112640"
+                    "gid": "4205336952804416869",
+                    "size": "1056414044",
+                    "download": "224103664"
                 },
                 "legacy_version": {
                     "gid": "1498672270706767204",
@@ -79,8 +79,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17655203",
-                "timeupdated": "1741561813"
+                "buildid": "18483750",
+                "timeupdated": "1747353836"
             },
             "legacy_version": {
                 "buildid": "6741992",
@@ -89,6 +89,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "99529225ccd19a436d52b19894a9a5d24f0559ec79e9384570a58f11d9871727"
     }
 }
