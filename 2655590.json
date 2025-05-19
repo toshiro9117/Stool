@@ -4,8 +4,8 @@
     "name": "Kingdom's Deck",
     "schinese_name": "卡牌王国",
     "isfreeapp": "0",
-    "change_number": "28868348",
-    "update_time": "2025-05-08 03:11:14",
+    "change_number": "29018668",
+    "update_time": "2025-05-16 15:27:06",
     "depot": {
         "2655591": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5681496932788440153",
-                    "size": "2599762156",
-                    "download": "710073216"
+                    "gid": "6813794175587314841",
+                    "size": "2622452843",
+                    "download": "673377040"
                 },
                 "beta": {
-                    "gid": "5681496932788440153",
-                    "size": "2599762156",
-                    "download": "710073216"
+                    "gid": "6813794175587314841",
+                    "size": "2622452843",
+                    "download": "673377040"
                 }
             },
             "decryptionkey": "938cf7542d29fddb19cc588a978b2bcabbf645729522dfbd8d3c2a87e9341e8c"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2888190326613910222",
-                    "size": "2539075855",
-                    "download": "676218608"
+                    "gid": "4959995198749856531",
+                    "size": "2561766534",
+                    "download": "639531408"
                 },
                 "beta": {
-                    "gid": "2888190326613910222",
-                    "size": "2539075855",
-                    "download": "676218608"
+                    "gid": "4959995198749856531",
+                    "size": "2561766534",
+                    "download": "639531408"
                 }
             }
         },
@@ -48,26 +48,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4982193900689297337",
-                    "size": "2587287973",
-                    "download": "702958384"
+                    "gid": "2911002778065287357",
+                    "size": "2609978660",
+                    "download": "666255280"
                 },
                 "beta": {
-                    "gid": "4982193900689297337",
-                    "size": "2587287973",
-                    "download": "702958384"
+                    "gid": "2911002778065287357",
+                    "size": "2609978660",
+                    "download": "666255280"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18337250",
-                "timeupdated": "1746404065"
+                "buildid": "18424238",
+                "timeupdated": "1747020973"
             },
             "beta": {
-                "buildid": "18337250",
+                "buildid": "18424238",
                 "description": "Staging branch for Kingdom's Deck, usually full of bugs",
-                "timeupdated": "1746352712"
+                "timeupdated": "1747020966"
             }
         }
     }
