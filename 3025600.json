@@ -4,23 +4,23 @@
     "name": "Bishojo Battlefield",
     "schinese_name": "少女战地",
     "isfreeapp": "0",
-    "change_number": "28854709",
-    "update_time": "2025-05-07 13:14:06",
+    "change_number": "29046604",
+    "update_time": "2025-05-18 14:46:47",
     "depot": {
         "3025601": {
             "manifests": {
                 "public": {
-                    "gid": "1420809808499256407",
-                    "size": "5610214918",
-                    "download": "1776551088"
+                    "gid": "117790084901067181",
+                    "size": "5611332571",
+                    "download": "1786821824"
                 }
             },
             "decryptionkey": "3aefcdb860ab398748f69b37bfc90e44dd088bf59da9722d2818934d149f7806"
         },
         "branches": {
             "public": {
-                "buildid": "18338475",
-                "timeupdated": "1746372030"
+                "buildid": "18507179",
+                "timeupdated": "1747550804"
             }
         }
     }
