@@ -4,8 +4,8 @@
     "name": "Nevergrind Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28894432",
-    "update_time": "2025-05-09 11:31:57",
+    "change_number": "29042812",
+    "update_time": "2025-05-18 03:01:24",
     "depot": {
         "baselanguages": "english",
         "853452": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8714029862768530101",
-                    "size": "859092988",
-                    "download": "550316096"
+                    "gid": "3014623255053445097",
+                    "size": "859100242",
+                    "download": "550334880"
                 }
             },
             "decryptionkey": "7b8bb5776a770cf0d28212060a0adfa63680a66149dbc81e415c9ea398fba9f8"
         },
         "branches": {
             "public": {
-                "buildid": "18397740",
-                "timeupdated": "1746761513"
+                "buildid": "18504437",
+                "timeupdated": "1747508479"
             }
         },
         "privatebranches": "1"
