@@ -4,8 +4,8 @@
     "name": "The First Berserker: Khazan",
     "schinese_name": "第一狂战士：卡赞",
     "isfreeapp": "0",
-    "change_number": "28742754",
-    "update_time": "2025-04-30 15:01:03",
+    "change_number": "29038771",
+    "update_time": "2025-05-17 17:56:11",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2680011": {
             "manifests": {
                 "public": {
-                    "gid": "8682449471101369376",
-                    "size": "53527517255",
-                    "download": "22754128528"
+                    "gid": "7154624241641340317",
+                    "size": "54011109925",
+                    "download": "22934858080"
                 }
             },
             "decryptionkey": "fe9a3ee6a263260b75cf97d27ffc4eeda8c9eebc8019bdc57c247a546f450077"
         },
         "branches": {
             "public": {
-                "buildid": "18261053",
-                "timeupdated": "1745888468"
+                "buildid": "18501708",
+                "timeupdated": "1747475767"
             }
         },
         "privatebranches": "1"
