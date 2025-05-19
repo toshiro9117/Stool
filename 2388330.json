@@ -4,8 +4,8 @@
     "name": "RetroArch - VirtualXT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915118",
-    "update_time": "2025-05-10 15:34:45",
+    "change_number": "29046853",
+    "update_time": "2025-05-18 15:34:52",
     "depot": {
         "2388330": {
             "config": {
@@ -19,7 +19,7 @@
                     "download": "210704"
                 },
                 "nightly": {
-                    "gid": "6424145030996376664",
+                    "gid": "1000709559676611974",
                     "size": "483693",
                     "download": "210704"
                 }
@@ -69,9 +69,9 @@
                 "timeupdated": "1745844998"
             },
             "nightly": {
-                "buildid": "18412792",
+                "buildid": "18507345",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1746862481"
+                "timeupdated": "1747553689"
             }
         },
         "privatebranches": "1"
