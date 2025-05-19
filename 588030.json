@@ -4,8 +4,8 @@
     "name": "Derail Valley",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922611",
-    "update_time": "2025-05-11 11:49:53",
+    "change_number": "29045851",
+    "update_time": "2025-05-18 11:54:29",
     "depot": {
         "588031": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2366994774495445173",
-                    "size": "5021883501",
-                    "download": "2160350240"
+                    "gid": "8207368404015146668",
+                    "size": "5021940761",
+                    "download": "2160362496"
                 }
             },
             "decryptionkey": "8f86e8547e0ff976ae25b0485d10a772f80b80edd6a0223e81425d8b69917c21"
@@ -38,8 +38,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18410427",
-                "timeupdated": "1746838331"
+                "buildid": "18464259",
+                "timeupdated": "1747257559"
             }
         },
         "privatebranches": "1"
