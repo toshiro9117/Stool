@@ -4,8 +4,8 @@
     "name": "诸天刷宝录",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28899597",
-    "update_time": "2025-05-09 18:24:34",
+    "change_number": "29004963",
+    "update_time": "2025-05-15 22:50:49",
     "depot": {
         "2776451": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4707744832234029017",
-                    "size": "552181851",
-                    "download": "377116704"
+                    "gid": "3244591428888878382",
+                    "size": "552344395",
+                    "download": "377296480"
                 },
                 "compatibility": {
                     "gid": "8608289334369023355",
@@ -49,8 +49,8 @@
         "baselanguages": "schinese",
         "branches": {
             "public": {
-                "buildid": "18401499",
-                "timeupdated": "1746786041"
+                "buildid": "18469589",
+                "timeupdated": "1747276911"
             },
             "compatibility": {
                 "buildid": "18401543",
