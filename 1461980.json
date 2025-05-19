@@ -4,8 +4,8 @@
     "name": "Nine：Ambition",
     "schinese_name": "九州：立志",
     "isfreeapp": "0",
-    "change_number": "28922253",
-    "update_time": "2025-05-11 10:23:12",
+    "change_number": "29046368",
+    "update_time": "2025-05-18 13:44:55",
     "depot": {
         "baselanguages": "schinese",
         "1461981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8746262401001238707",
-                    "size": "897773675",
-                    "download": "354715696"
+                    "gid": "7051479350628523157",
+                    "size": "897774500",
+                    "download": "354718000"
                 },
                 "20250225": {
                     "gid": "6452639631002355338",
@@ -44,8 +44,8 @@
         "workshopdepot": "1461980",
         "branches": {
             "public": {
-                "buildid": "18417630",
-                "timeupdated": "1746930188"
+                "buildid": "18506965",
+                "timeupdated": "1747547092"
             },
             "20250225": {
                 "buildid": "17290768",
