@@ -4,8 +4,8 @@
     "name": "Paleo Pines",
     "schinese_name": "恐龙牧场",
     "isfreeapp": "0",
-    "change_number": "27329794",
-    "update_time": "2025-02-06 00:52:41",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:20:01",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "1202201": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1235313511228964127",
-                    "size": "4413093127",
-                    "download": "1212654128"
+                    "gid": "2740532889751818124",
+                    "size": "4412562613",
+                    "download": "1211635712"
                 },
                 "beta": {
-                    "gid": "1235313511228964127",
-                    "size": "4413093127",
-                    "download": "1212654128"
+                    "gid": "2740532889751818124",
+                    "size": "4412562613",
+                    "download": "1211635712"
                 }
             },
             "decryptionkey": "c64a197ca6dffdd997a3a8120f31ff6f6e2eadb82b35d468f0d2004336811c57"
@@ -40,27 +40,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6314504659539435599",
-                    "size": "4527416892",
-                    "download": "1255902976"
+                    "gid": "5250344385962213384",
+                    "size": "4525420760",
+                    "download": "1254745248"
                 },
                 "beta": {
-                    "gid": "6314504659539435599",
-                    "size": "4527416892",
-                    "download": "1255902976"
+                    "gid": "5250344385962213384",
+                    "size": "4525420760",
+                    "download": "1254745248"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16036385",
-                "timeupdated": "1732642349"
+                "buildid": "17254652",
+                "timeupdated": "1743682522"
             },
             "beta": {
-                "buildid": "16036385",
+                "buildid": "17254652",
                 "description": "Public beta testing",
-                "timeupdated": "1728910046"
+                "timeupdated": "1743682493"
             }
         },
         "privatebranches": "1"
