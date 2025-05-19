@@ -4,8 +4,8 @@
     "name": "Legioncraft",
     "schinese_name": "军团",
     "isfreeapp": "0",
-    "change_number": "28005662",
-    "update_time": "2025-03-18 10:37:25",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:54",
     "depot": {
         "1100931": {
             "manifests": {
@@ -26,6 +26,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e4219f053483c12a74b4a00870c633ee0401c232e07bdd5fd7c6c599a9740dee"
     }
 }
