@@ -4,16 +4,16 @@
     "name": "Fisher Online",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28882620",
-    "update_time": "2025-05-08 21:28:20",
+    "change_number": "29039829",
+    "update_time": "2025-05-17 20:19:19",
     "depot": {
         "workshopdepot": "1094780",
         "1094781": {
             "manifests": {
                 "public": {
-                    "gid": "857225554269177416",
-                    "size": "28312030266",
-                    "download": "23872371712"
+                    "gid": "3350566350058172176",
+                    "size": "29845141802",
+                    "download": "25157557264"
                 }
             },
             "decryptionkey": "4bb3628dc1eb56e6e42becfe2801675a4102c378dcf1941b150fd58c9bb84bd9"
@@ -23,8 +23,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18389414",
-                "timeupdated": "1746710849"
+                "buildid": "18427052",
+                "timeupdated": "1747049582"
             }
         },
         "privatebranches": "1",
