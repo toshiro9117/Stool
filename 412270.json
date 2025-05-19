@@ -4,8 +4,8 @@
     "name": "Stories of Bethem: Full Moon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27501920",
-    "update_time": "2025-02-16 18:42:39",
+    "change_number": "28973129",
+    "update_time": "2025-05-14 12:07:46",
     "depot": {
         "baselanguages": "english,spanish",
         "412271": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2828327201065386956",
-                    "size": "310885717",
-                    "download": "274829808"
+                    "gid": "8236195659689977288",
+                    "size": "310885845",
+                    "download": "274843200"
                 },
                 "compatibility": {
                     "gid": "6396452889458822537",
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4337824907946779828",
-                    "size": "369521051",
-                    "download": "290200480"
+                    "gid": "4360719703949847623",
+                    "size": "369522092",
+                    "download": "290188528"
                 },
                 "compatibility": {
                     "gid": "3263020080113706723",
@@ -79,8 +79,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17383294",
-                "timeupdated": "1739702555"
+                "buildid": "17742281",
+                "timeupdated": "1742121515"
             },
             "compatibility": {
                 "buildid": "1359974",
