@@ -4,8 +4,8 @@
     "name": "Shattered Pixel Dungeon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28585577",
-    "update_time": "2025-04-22 00:14:02",
+    "change_number": "29043096",
+    "update_time": "2025-05-18 03:42:00",
     "depot": {
         "1769171": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "105182000"
                 },
                 "beta": {
-                    "gid": "517724325589653607",
-                    "size": "122997640",
-                    "download": "105182000"
+                    "gid": "3047468459660479670",
+                    "size": "123257667",
+                    "download": "105424688"
                 }
             },
             "decryptionkey": "16fd8f03cbefeee50bcd0bee58adf8fa760e02ad522cd43ff176adc6809fe459"
@@ -36,9 +36,9 @@
                     "download": "103272496"
                 },
                 "beta": {
-                    "gid": "6571463272562178533",
-                    "size": "128270563",
-                    "download": "103272496"
+                    "gid": "5537762047654109948",
+                    "size": "128532553",
+                    "download": "103512160"
                 }
             },
             "decryptionkey": "437b34162453cb091719a785061a77e63a466a4aff5e80e6e5c239d950349bc5"
@@ -54,9 +54,9 @@
                     "download": "107964640"
                 },
                 "beta": {
-                    "gid": "807678386525290044",
-                    "size": "135051624",
-                    "download": "107964640"
+                    "gid": "1500237289166030640",
+                    "size": "135311353",
+                    "download": "108208288"
                 }
             },
             "decryptionkey": "d1735f3afa87ecbf4b228220e1738c6eaf9ee9840229767e0694ec13bf87614f"
@@ -67,9 +67,9 @@
                 "timeupdated": "1742574057"
             },
             "beta": {
-                "buildid": "17799758",
+                "buildid": "18504620",
                 "description": "Get access to updates early, but in a rougher state.",
-                "timeupdated": "1742502260"
+                "timeupdated": "1747510916"
             }
         },
         "privatebranches": "1"
