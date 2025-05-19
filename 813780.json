@@ -4,8 +4,8 @@
     "name": "Age of Empires II: Definitive Edition",
     "schinese_name": "帝国时代2：决定版",
     "isfreeapp": "0",
-    "change_number": "28911731",
-    "update_time": "2025-05-10 07:45:34",
+    "change_number": "29033517",
+    "update_time": "2025-05-17 06:19:24",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam,vietnamese",
         "workshopdepot": "813780",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9213176984184373022",
-                    "size": "1897009969",
-                    "download": "1316933856"
+                    "gid": "1398877325236590595",
+                    "size": "1894725280",
+                    "download": "1315129168"
                 }
             },
             "decryptionkey": "ce8298ca2efc0683b222f691a4739d2e7a33a2418cc32e2dcc407311c987854f"
@@ -288,9 +288,9 @@
             "dlcappid": "2141580",
             "manifests": {
                 "public": {
-                    "gid": "1489173907902261093",
-                    "size": "3224036684",
-                    "download": "1855212608"
+                    "gid": "2505764874974228902",
+                    "size": "3224038785",
+                    "download": "1855212816"
                 }
             },
             "decryptionkey": "1126414cba4a5dbe17811159078c4bf3055d2df584a7119135c1bd7613568167"
@@ -467,8 +467,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18209429",
-                "timeupdated": "1746550848"
+                "buildid": "18358599",
+                "timeupdated": "1747069351"
             }
         },
         "privatebranches": "1",
