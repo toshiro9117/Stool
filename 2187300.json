@@ -4,8 +4,8 @@
     "name": "Active Soccer 2023",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28882348",
-    "update_time": "2025-05-08 21:11:39",
+    "change_number": "29009583",
+    "update_time": "2025-05-16 02:48:42",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2187301": {
             "manifests": {
                 "public": {
-                    "gid": "4444392235103068994",
-                    "size": "2296409322",
-                    "download": "2126665104"
+                    "gid": "2796661355952420151",
+                    "size": "763632997",
+                    "download": "674200896"
                 },
                 "patch3": {
                     "gid": "7021837165139321845",
@@ -44,9 +44,9 @@
                     "download": "2126665104"
                 },
                 "patch6": {
-                    "gid": "3640781299302096629",
-                    "size": "2302888596",
-                    "download": "2132752144"
+                    "gid": "2796661355952420151",
+                    "size": "763632997",
+                    "download": "674200896"
                 }
             },
             "decryptionkey": "ce8a07c2b9ff39e806eea3b6b6c90c35a021d76a8544131fea2731c09fe53172"
@@ -54,8 +54,8 @@
         "baselanguages": "english,german,french,italian,spanish,dutch",
         "branches": {
             "public": {
-                "buildid": "14834345",
-                "timeupdated": "1719335648"
+                "buildid": "18458761",
+                "timeupdated": "1747220984"
             },
             "patch3": {
                 "buildid": "11927950",
@@ -73,9 +73,9 @@
                 "timeupdated": "1719335609"
             },
             "patch6": {
-                "buildid": "15162054",
+                "buildid": "18458761",
                 "description": "Patch #6 build",
-                "timeupdated": "1721992895"
+                "timeupdated": "1747220827"
             }
         },
         "privatebranches": "1"
