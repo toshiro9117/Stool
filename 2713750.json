@@ -4,8 +4,8 @@
     "name": "Table Tennis Toon!",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28811663",
-    "update_time": "2025-05-05 01:25:33",
+    "change_number": "28924840",
+    "update_time": "2025-05-11 18:59:23",
     "depot": {
         "2713751": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7663377520015194744",
-                    "size": "218993648",
-                    "download": "132729664"
+                    "gid": "401408364308567370",
+                    "size": "219089729",
+                    "download": "132762912"
                 }
             },
             "decryptionkey": "51ed968ead73a44207dcca5f090d21418ff4bc97c7628c91aae114e56d0794e2"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3194855044754732496",
-                    "size": "227561090",
-                    "download": "138870416"
+                    "gid": "489381078510928821",
+                    "size": "227452003",
+                    "download": "138990528"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18339109",
-                "timeupdated": "1746379529"
+                "buildid": "18419425",
+                "timeupdated": "1746961158"
             }
         }
     }
