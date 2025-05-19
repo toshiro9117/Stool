@@ -4,8 +4,8 @@
     "name": "SVFI - Professional",
     "schinese_name": "SVFI - 专业版",
     "isfreeapp": "0",
-    "change_number": "28789669",
-    "update_time": "2025-05-03 01:10:19",
+    "change_number": "29019255",
+    "update_time": "2025-05-16 15:57:47",
     "depot": {
         "1718751": {
             "config": {
@@ -24,14 +24,14 @@
                     "download": "1299005168"
                 },
                 "beta": {
-                    "gid": "9109992919745633824",
-                    "size": "4399327492",
-                    "download": "3354591776"
+                    "gid": "3581668728162192238",
+                    "size": "4325517819",
+                    "download": "3344002000"
                 },
                 "beta-cu128": {
-                    "gid": "9109992919745633824",
-                    "size": "4399327492",
-                    "download": "3354591776"
+                    "gid": "3581668728162192238",
+                    "size": "4325517819",
+                    "download": "3344002000"
                 },
                 "revision-1": {
                     "gid": "2123462492286852784",
@@ -54,14 +54,14 @@
                     "download": "22166896"
                 },
                 "beta": {
-                    "gid": "4878408348558983705",
-                    "size": "51742208",
-                    "download": "22686704"
+                    "gid": "738705164645308224",
+                    "size": "48253952",
+                    "download": "21706000"
                 },
                 "beta-cu128": {
-                    "gid": "4878408348558983705",
-                    "size": "51742208",
-                    "download": "22686704"
+                    "gid": "738705164645308224",
+                    "size": "48253952",
+                    "download": "21706000"
                 }
             },
             "dlcappid": "1718750",
@@ -78,14 +78,14 @@
                 "timeupdated": "1698293546"
             },
             "beta": {
-                "buildid": "18324321",
+                "buildid": "18487788",
                 "description": "SVFI Beta Test",
-                "timeupdated": "1746205807"
+                "timeupdated": "1747382254"
             },
             "beta-cu128": {
-                "buildid": "18324321",
+                "buildid": "18487788",
                 "description": "Blackwell Support",
-                "timeupdated": "1746205815"
+                "timeupdated": "1747382262"
             },
             "revision-1": {
                 "buildid": "14333259",
