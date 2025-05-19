@@ -4,8 +4,8 @@
     "name": "Bulwark Evolution: Falconeer Chronicles",
     "schinese_name": "堡垒：猎鹰战纪",
     "isfreeapp": "0",
-    "change_number": "28919634",
-    "update_time": "2025-05-11 02:58:47",
+    "change_number": "28996234",
+    "update_time": "2025-05-15 14:46:15",
     "depot": {
         "overridescddb": "1",
         "290102": {
@@ -19,9 +19,9 @@
                     "download": "897222144"
                 },
                 "beta": {
-                    "gid": "2145482082345974655",
-                    "size": "2026796448",
-                    "download": "928079520"
+                    "gid": "2395482238649183724",
+                    "size": "1668482368",
+                    "download": "823819968"
                 },
                 "debug": {
                     "gid": "7877005178278294006",
@@ -42,9 +42,9 @@
                 "timeupdated": "1744210550"
             },
             "beta": {
-                "buildid": "18415843",
+                "buildid": "18471460",
                 "description": "Beta patch",
-                "timeupdated": "1746903522"
+                "timeupdated": "1747291571"
             },
             "debug": {
                 "buildid": "16137087",
