@@ -4,8 +4,8 @@
     "name": "Railroads & Catacombs",
     "schinese_name": "铁轨与墓穴 Railroads & Catacombs",
     "isfreeapp": "0",
-    "change_number": "25132450",
-    "update_time": "2024-09-09 08:06:50",
+    "change_number": "29029289",
+    "update_time": "2025-05-17 01:05:58",
     "depot": {
         "baselanguages": "english",
         "1156061": {
@@ -23,6 +23,7 @@
                 "buildid": "15633065",
                 "timeupdated": "1725840405"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
