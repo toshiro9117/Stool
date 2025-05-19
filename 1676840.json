@@ -4,8 +4,8 @@
     "name": "For The King II",
     "schinese_name": "为了吾王II / For The King II",
     "isfreeapp": "0",
-    "change_number": "28905396",
-    "update_time": "2025-05-10 00:12:26",
+    "change_number": "28989105",
+    "update_time": "2025-05-15 04:26:33",
     "depot": {
         "1676841": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1900169353772272201",
-                    "size": "7299702706",
-                    "download": "6050946688"
+                    "gid": "3520571924344116418",
+                    "size": "7299199963",
+                    "download": "6050559488"
                 }
             },
             "decryptionkey": "9e9bc5c19be892894290e7c750d0e94ab08b89d76dcf20f675df2bf99bd19b58"
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18397743",
-                "timeupdated": "1746807136"
+                "buildid": "18433683",
+                "timeupdated": "1747238561"
             }
         },
         "privatebranches": "1"
