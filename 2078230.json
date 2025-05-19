@@ -4,8 +4,8 @@
     "name": "Badlands Crew",
     "schinese_name": "恶土小队 / Badlands Crew",
     "isfreeapp": "0",
-    "change_number": "28913555",
-    "update_time": "2025-05-10 11:33:11",
+    "change_number": "29036557",
+    "update_time": "2025-05-17 12:15:43",
     "depot": {
         "2078232": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1498664861122300454",
-                    "size": "7608938633",
-                    "download": "883128096"
+                    "gid": "2491619381529074859",
+                    "size": "7608452349",
+                    "download": "883067136"
                 }
             },
             "decryptionkey": "a7eb0d5dab2bf1ac43efa6c5b2174fad39792483606b806c42be4dfccdbddaaa"
         },
         "branches": {
             "public": {
-                "buildid": "18357700",
-                "timeupdated": "1746620974"
+                "buildid": "18387253",
+                "timeupdated": "1747044056"
             }
         },
         "privatebranches": "1"
