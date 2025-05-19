@@ -4,8 +4,8 @@
     "name": "Terrordrome - Reign of the Legends",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28911557",
-    "update_time": "2025-05-10 07:31:58",
+    "change_number": "29046556",
+    "update_time": "2025-05-18 14:31:18",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2712336326046283431",
-                    "size": "16192066782",
-                    "download": "11460188848"
+                    "gid": "3131263791700052799",
+                    "size": "16319475409",
+                    "download": "11718457968"
                 }
             },
             "decryptionkey": "1a3918aa22c50743d5a2748097a8952bd085d245b7a4815b8b6d4b7be5e7b6d2"
         },
         "branches": {
             "public": {
-                "buildid": "17147109",
-                "timeupdated": "1737995782"
+                "buildid": "18505157",
+                "timeupdated": "1747521302"
             }
         },
         "privatebranches": "1"
