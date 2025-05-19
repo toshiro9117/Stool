@@ -4,8 +4,8 @@
     "name": "Clanfolk",
     "schinese_name": "族人 Clanfolk",
     "isfreeapp": "0",
-    "change_number": "28921333",
-    "update_time": "2025-05-11 07:22:30",
+    "change_number": "29044507",
+    "update_time": "2025-05-18 07:31:34",
     "depot": {
         "1700871": {
             "config": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4250285768427438483",
+                    "size": "809015484",
+                    "download": "252643424"
+                },
+                "testing": {
+                    "gid": "958338806577301320",
+                    "size": "809015628",
+                    "download": "252665312"
+                },
+                "update16": {
                     "gid": "5939123074703077233",
                     "size": "717693520",
                     "download": "228497264"
-                },
-                "testing": {
-                    "gid": "81146395066832102",
-                    "size": "807967852",
-                    "download": "252513744"
                 }
             },
             "decryptionkey": "279d4f9fe1b44e97299ee0c570d08dfc6aa69119cc9c5c1a5d1cc3467f4811c7"
@@ -29,13 +34,18 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,brazilian",
         "branches": {
             "public": {
-                "buildid": "17730231",
-                "timeupdated": "1741980496"
+                "buildid": "18497891",
+                "timeupdated": "1747499886"
             },
             "testing": {
-                "buildid": "18416936",
+                "buildid": "18505630",
                 "description": "test Clanfolk between major version releases",
-                "timeupdated": "1746919345"
+                "timeupdated": "1747524690"
+            },
+            "update16": {
+                "buildid": "17730231",
+                "description": "older Update 16 build prior to World Map",
+                "timeupdated": "1747332618"
             }
         },
         "privatebranches": "1"
