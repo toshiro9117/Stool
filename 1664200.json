@@ -4,8 +4,8 @@
     "name": "Duelists of Eden",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28715264",
-    "update_time": "2025-04-29 05:50:27",
+    "change_number": "29007043",
+    "update_time": "2025-05-16 00:33:56",
     "depot": {
         "baselanguages": "english,japanese",
         "228988": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6655890930901230807",
-                    "size": "535763156",
-                    "download": "272870224"
+                    "gid": "2174593489810662693",
+                    "size": "535763452",
+                    "download": "272878784"
                 },
                 "multi-keyboard": {
                     "gid": "7572701459277840373",
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2081248536589827731",
-                    "size": "563834886",
-                    "download": "280293920"
+                    "gid": "5207632417126317675",
+                    "size": "563835182",
+                    "download": "280303280"
                 },
                 "multi-keyboard": {
                     "gid": "8269222959452729511",
@@ -87,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7101933995838623365",
-                    "size": "576194195",
-                    "download": "272041888"
+                    "gid": "1521386731235121126",
+                    "size": "576194491",
+                    "download": "272051200"
                 },
                 "multi-keyboard": {
                     "gid": "3976201654486641188",
@@ -115,8 +115,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18271222",
-                "timeupdated": "1745877022"
+                "buildid": "18479123",
+                "timeupdated": "1747326833"
             },
             "multi-keyboard": {
                 "buildid": "15960660",
