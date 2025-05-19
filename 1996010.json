@@ -4,8 +4,8 @@
     "name": "Crow Country",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920928",
-    "update_time": "2025-05-11 06:14:47",
+    "change_number": "29033376",
+    "update_time": "2025-05-17 06:08:04",
     "depot": {
         "1996011": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8543650871718837669",
-                    "size": "1312163075",
-                    "download": "339441744"
+                    "gid": "6155048724365096490",
+                    "size": "1308281707",
+                    "download": "337565264"
                 }
             },
             "decryptionkey": "03fd552f6a3450a294492f8843ab72c7575d5196b28c686b118bd6d850a7f553"
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18416687",
-                "timeupdated": "1746915282"
+                "buildid": "18435138",
+                "timeupdated": "1747130260"
             }
         },
         "privatebranches": "1"
