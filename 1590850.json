@@ -4,8 +4,8 @@
     "name": "DeadOS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28368162",
-    "update_time": "2025-04-08 23:10:47",
+    "change_number": "29027294",
+    "update_time": "2025-05-16 23:22:30",
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1590851": {
             "manifests": {
                 "public": {
-                    "gid": "156033031628466036",
-                    "size": "287564775",
-                    "download": "121010992"
+                    "gid": "4392940939513748587",
+                    "size": "287785535",
+                    "download": "121069536"
                 }
             },
             "decryptionkey": "90abaa1ddd415b0c7533e726b4291b86620372245dac0154049e3d666af646bf"
@@ -34,8 +34,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18027754",
-                "timeupdated": "1744125043"
+                "buildid": "18493412",
+                "timeupdated": "1747408946"
             }
         }
     }
