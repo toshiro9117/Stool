@@ -4,8 +4,8 @@
     "name": "The Test",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28853581",
-    "update_time": "2025-05-07 11:13:45",
+    "change_number": "29007503",
+    "update_time": "2025-05-16 00:59:49",
     "depot": {
         "228990": {
             "config": {
@@ -20,17 +20,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7434221623384050166",
-                    "size": "950152248",
-                    "download": "798898560"
+                    "gid": "8374861294216583072",
+                    "size": "949885249",
+                    "download": "798882544"
                 }
             },
             "decryptionkey": "fb43bf5c6fb4aee4dc51764bb66b431460a9f2cacc3ff6460c4b9ff8d92cf645"
         },
         "branches": {
             "public": {
-                "buildid": "8360393",
-                "timeupdated": "1647113695"
+                "buildid": "18479484",
+                "timeupdated": "1747328366"
             }
         }
     }
