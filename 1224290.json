@@ -4,8 +4,8 @@
     "name": "Horizon's Gate",
     "schinese_name": "地平线之门",
     "isfreeapp": "0",
-    "change_number": "28919050",
-    "update_time": "2025-05-11 01:28:57",
+    "change_number": "28985209",
+    "update_time": "2025-05-15 00:26:35",
     "depot": {
         "228990": {
             "config": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "950104558054910723",
-                    "size": "1930650677",
-                    "download": "1737423168"
+                    "gid": "3362633919924448877",
+                    "size": "1930652887",
+                    "download": "1737423536"
                 },
                 "older": {
                     "gid": "4951916148340736278",
@@ -77,8 +77,8 @@
         "workshopdepot": "1224290",
         "branches": {
             "public": {
-                "buildid": "18174393",
-                "timeupdated": "1745177469"
+                "buildid": "18415497",
+                "timeupdated": "1747074545"
             },
             "older": {
                 "buildid": "5395809",
