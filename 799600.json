@@ -4,8 +4,8 @@
     "name": "Cosmoteer: Starship Architect & Commander",
     "schinese_name": "Cosmoteer: 星舰设计师",
     "isfreeapp": "0",
-    "change_number": "28918573",
-    "update_time": "2025-05-11 00:18:57",
+    "change_number": "29011687",
+    "update_time": "2025-05-16 05:15:55",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5866450637154484541",
-                    "size": "1310170091",
-                    "download": "1270150016"
+                    "gid": "5766635915334634129",
+                    "size": "1317702192",
+                    "download": "1277669840"
                 },
                 "0.21.0": {
                     "gid": "8798703307783890563",
@@ -63,14 +63,14 @@
                     "download": "1198078288"
                 },
                 "previous-build": {
-                    "gid": "171602880349817437",
-                    "size": "1304232094",
-                    "download": "1264188096"
+                    "gid": "5866450637154484541",
+                    "size": "1310170091",
+                    "download": "1270150016"
                 },
                 "unstable": {
-                    "gid": "4661830954161988120",
-                    "size": "1317700098",
-                    "download": "1277668144"
+                    "gid": "5766635915334634129",
+                    "size": "1317702192",
+                    "download": "1277669840"
                 }
             },
             "decryptionkey": "c7c1275eba141988dcc75746510071b5a1b826a01cf6c0f974b03f07d89652d4"
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6247415567070760565",
-                    "size": "190687676",
-                    "download": "57646624"
+                    "gid": "6047139145712231359",
+                    "size": "190708447",
+                    "download": "57669152"
                 },
                 "0.21.0": {
                     "gid": "3644198040669067447",
@@ -117,14 +117,14 @@
                     "download": "73471744"
                 },
                 "previous-build": {
-                    "gid": "3949789466599459780",
-                    "size": "190617849",
-                    "download": "57643760"
+                    "gid": "6247415567070760565",
+                    "size": "190687676",
+                    "download": "57646624"
                 },
                 "unstable": {
-                    "gid": "2322204991838106488",
-                    "size": "190708431",
-                    "download": "57668464"
+                    "gid": "6047139145712231359",
+                    "size": "190708447",
+                    "download": "57669152"
                 }
             },
             "decryptionkey": "e15c9b74effae3f79409f360b71bf5b110cc1561e23ce2515459dee9e4569cf4"
@@ -136,9 +136,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7710094492626256045",
-                    "size": "205782184",
-                    "download": "63980240"
+                    "gid": "8448064040364019213",
+                    "size": "205816412",
+                    "download": "63981312"
                 },
                 "0.21.0": {
                     "gid": "287415624646651659",
@@ -171,14 +171,14 @@
                     "download": "80702992"
                 },
                 "previous-build": {
-                    "gid": "1768276040030909059",
-                    "size": "205724958",
-                    "download": "63960544"
+                    "gid": "7710094492626256045",
+                    "size": "205782184",
+                    "download": "63980240"
                 },
                 "unstable": {
-                    "gid": "1997297772651181906",
-                    "size": "205816388",
-                    "download": "63978336"
+                    "gid": "8448064040364019213",
+                    "size": "205816412",
+                    "download": "63981312"
                 }
             },
             "decryptionkey": "957e695d970db86795eea257e7b86217684794eaeabba1ac8ba96167dc412bfe"
@@ -187,8 +187,8 @@
         "baselanguages": "english,german,french,schinese,russian,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "17700495",
-                "timeupdated": "1741821883"
+                "buildid": "18408408",
+                "timeupdated": "1746997385"
             },
             "0.21.0": {
                 "buildid": "10532372",
@@ -221,14 +221,14 @@
                 "timeupdated": "1721773744"
             },
             "previous-build": {
-                "buildid": "17260476",
+                "buildid": "17700495",
                 "description": "The previous game build, in case the latest build has any issues.",
-                "timeupdated": "1741821837"
+                "timeupdated": "1746997329"
             },
             "unstable": {
-                "buildid": "18379854",
+                "buildid": "18408408",
                 "description": "Bleeding-edge updates; possibly very buggy!",
-                "timeupdated": "1746650900"
+                "timeupdated": "1746997348"
             }
         },
         "privatebranches": "1",
