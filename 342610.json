@@ -4,8 +4,8 @@
     "name": "HyperRogue",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27194297",
-    "update_time": "2025-01-28 11:34:08",
+    "change_number": "28972112",
+    "update_time": "2025-05-14 10:37:43",
     "depot": {
         "baselanguages": "english,german,russian,polish,czech,turkish",
         "hasdepotsindlc": "1",
@@ -17,19 +17,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3776356716430255544",
-                    "size": "31955027",
-                    "download": "9742496"
+                    "gid": "6053315626245458667",
+                    "size": "32334008",
+                    "download": "9851536"
                 },
                 "develop": {
-                    "gid": "3776356716430255544",
-                    "size": "31955027",
-                    "download": "9742496"
+                    "gid": "6053315626245458667",
+                    "size": "32334008",
+                    "download": "9851536"
                 },
                 "previous": {
-                    "gid": "6691452228063686323",
-                    "size": "30852560",
-                    "download": "9468656"
+                    "gid": "5096285286280096387",
+                    "size": "32261088",
+                    "download": "9818080"
                 }
             },
             "decryptionkey": ""
@@ -67,19 +67,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7839645281300909820",
-                    "size": "17383067",
-                    "download": "4920688"
+                    "gid": "1956455893902063668",
+                    "size": "19693659",
+                    "download": "5638288"
                 },
                 "develop": {
-                    "gid": "7839645281300909820",
-                    "size": "17383067",
-                    "download": "4920688"
+                    "gid": "1956455893902063668",
+                    "size": "19693659",
+                    "download": "5638288"
                 },
                 "previous": {
-                    "gid": "2623304839399982640",
-                    "size": "16621518",
-                    "download": "4726448"
+                    "gid": "6468529069293904123",
+                    "size": "17428622",
+                    "download": "4932624"
                 }
             },
             "decryptionkey": ""
@@ -91,19 +91,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5490169480821641410",
-                    "size": "19438908",
-                    "download": "5833184"
+                    "gid": "553509741143238247",
+                    "size": "19578036",
+                    "download": "5846464"
                 },
                 "develop": {
+                    "gid": "553509741143238247",
+                    "size": "19578036",
+                    "download": "5846464"
+                },
+                "previous": {
                     "gid": "5490169480821641410",
                     "size": "19438908",
                     "download": "5833184"
-                },
-                "previous": {
-                    "gid": "7271409686482249958",
-                    "size": "18570956",
-                    "download": "5596944"
                 }
             },
             "decryptionkey": ""
@@ -114,19 +114,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4173104445830895910",
-                    "size": "106391212",
-                    "download": "84732496"
+                    "gid": "1696590095517378776",
+                    "size": "106402560",
+                    "download": "84738160"
                 },
                 "develop": {
-                    "gid": "4173104445830895910",
-                    "size": "106391212",
-                    "download": "84732496"
+                    "gid": "1696590095517378776",
+                    "size": "106402560",
+                    "download": "84738160"
                 },
                 "previous": {
-                    "gid": "8767267152935482328",
-                    "size": "86628531",
-                    "download": "74617360"
+                    "gid": "4581057948047373012",
+                    "size": "106410196",
+                    "download": "84737968"
                 }
             },
             "decryptionkey": "df185ce25cb989072caa85c01cf1d8daab2f70b244404ba24a8cee436bc0b155"
@@ -162,35 +162,35 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8727692030484841625",
-                    "size": "32230186",
-                    "download": "9951024"
+                    "gid": "4378093607400934015",
+                    "size": "33566557",
+                    "download": "10462080"
                 },
                 "develop": {
-                    "gid": "8727692030484841625",
-                    "size": "32230186",
-                    "download": "9951024"
+                    "gid": "4378093607400934015",
+                    "size": "33566557",
+                    "download": "10462080"
                 },
                 "previous": {
-                    "gid": "7864026544580852468",
-                    "size": "31108381",
-                    "download": "9691552"
+                    "gid": "99646860676949300",
+                    "size": "33057009",
+                    "download": "10305472"
                 }
             },
             "decryptionkey": "bc54489fa1002ed7125ba3e128f10c131872bcc6e53701685127d87cb75bc644"
         },
         "branches": {
             "public": {
-                "buildid": "16830720",
-                "timeupdated": "1734902915"
+                "buildid": "18422766",
+                "timeupdated": "1747004486"
             },
             "develop": {
-                "buildid": "16830720",
-                "timeupdated": "1734902862"
+                "buildid": "18422766",
+                "timeupdated": "1747003899"
             },
             "previous": {
-                "buildid": "14330147",
-                "timeupdated": "1716917599"
+                "buildid": "17481965",
+                "timeupdated": "1747002275"
             }
         },
         "privatebranches": "1"
