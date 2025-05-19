@@ -4,8 +4,8 @@
     "name": "Voxel Tycoon",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28812696",
-    "update_time": "2025-05-05 03:22:56",
+    "change_number": "29040726",
+    "update_time": "2025-05-17 22:21:26",
     "depot": {
         "732051": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3006460196300598960",
-                    "size": "474899896",
-                    "download": "296514672"
+                    "gid": "6256882391250056843",
+                    "size": "475015592",
+                    "download": "296606208"
                 },
                 "local": {
                     "gid": "174616154013978845",
@@ -23,9 +23,9 @@
                     "download": "282047904"
                 },
                 "beta": {
-                    "gid": "3006460196300598960",
-                    "size": "474899896",
-                    "download": "296514672"
+                    "gid": "6256882391250056843",
+                    "size": "475015592",
+                    "download": "296606208"
                 }
             },
             "decryptionkey": "27645fbec4e2e2e2ebe1b7c1070fbc67132e1f1a18902f7f879fa59c0ea2ecb4"
@@ -36,14 +36,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5449900888156379839",
-                    "size": "486732682",
-                    "download": "301885152"
+                    "gid": "6170080806206592813",
+                    "size": "486711898",
+                    "download": "301874720"
                 },
                 "beta": {
-                    "gid": "5449900888156379839",
-                    "size": "486732682",
-                    "download": "301885152"
+                    "gid": "6170080806206592813",
+                    "size": "486711898",
+                    "download": "301874720"
                 }
             },
             "decryptionkey": "17f8caf0e9e64513f318cd82fdbf0e6d574754745995b16e65b61d56e2d0e137"
@@ -54,14 +54,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2764434336273603706",
-                    "size": "521006824",
-                    "download": "297726592"
+                    "gid": "7618749566831061941",
+                    "size": "520536992",
+                    "download": "297556080"
                 },
                 "beta": {
-                    "gid": "2764434336273603706",
-                    "size": "521006824",
-                    "download": "297726592"
+                    "gid": "7618749566831061941",
+                    "size": "520536992",
+                    "download": "297556080"
                 }
             },
             "decryptionkey": "128f48efafcf1622a14a8a8ade244c6c39260044b99df1062235976b9ed5eab2"
@@ -70,8 +70,8 @@
         "workshopdepot": "732050",
         "branches": {
             "public": {
-                "buildid": "18339550",
-                "timeupdated": "1746386569"
+                "buildid": "18503062",
+                "timeupdated": "1747491683"
             },
             "local": {
                 "buildid": "3286907",
@@ -80,9 +80,9 @@
                 "timeupdated": "1541633732"
             },
             "beta": {
-                "buildid": "18339550",
+                "buildid": "18503062",
                 "description": "Beta",
-                "timeupdated": "1746384965"
+                "timeupdated": "1747491664"
             }
         },
         "privatebranches": "1",
