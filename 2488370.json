@@ -4,8 +4,8 @@
     "name": "Cash Cleaner Simulator",
     "schinese_name": "浣币模拟器",
     "isfreeapp": "0",
-    "change_number": "28922665",
-    "update_time": "2025-05-11 12:02:22",
+    "change_number": "29039794",
+    "update_time": "2025-05-17 20:15:39",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8922701838637428899",
-                    "size": "5114203738",
-                    "download": "1885561360"
+                    "gid": "3405157620225939108",
+                    "size": "5135586561",
+                    "download": "1891730688"
                 }
             },
             "decryptionkey": "977e890c85c823ca9de5001068b30e038ade55c019c6e777e357cea4c148f33b"
         },
         "branches": {
             "public": {
-                "buildid": "18393718",
-                "timeupdated": "1746734481"
+                "buildid": "18461849",
+                "timeupdated": "1747236252"
             }
         },
         "privatebranches": "1"
