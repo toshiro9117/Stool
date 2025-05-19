@@ -4,8 +4,8 @@
     "name": "Skin Deep",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905180",
-    "update_time": "2025-05-10 00:00:48",
+    "change_number": "29039794",
+    "update_time": "2025-05-17 20:15:38",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
         "workshopdepot": "301280",
@@ -30,27 +30,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2643905063220975111",
-                    "size": "6276636530",
-                    "download": "2101090320"
+                    "gid": "2942227175657953857",
+                    "size": "6278785510",
+                    "download": "2100928816"
                 },
                 "next_build": {
-                    "gid": "2643905063220975111",
-                    "size": "6276636530",
-                    "download": "2101090320"
+                    "gid": "2942227175657953857",
+                    "size": "6278785510",
+                    "download": "2100928816"
+                },
+                "prev_build": {
+                    "gid": "3546963491099815167",
+                    "size": "6276636018",
+                    "download": "2101088688"
                 }
             },
             "decryptionkey": "7ffc4347e349c8503314f1cb1ee522e82f1f07642a76fdc9f11658adda0fde86"
         },
         "branches": {
             "public": {
-                "buildid": "18354168",
-                "timeupdated": "1746566225"
+                "buildid": "18461408",
+                "timeupdated": "1747338862"
             },
             "next_build": {
-                "buildid": "18354168",
+                "buildid": "18461408",
                 "description": "Next build",
-                "timeupdated": "1746566199"
+                "timeupdated": "1747338824"
+            },
+            "prev_build": {
+                "buildid": "18360364",
+                "description": "Previous build",
+                "timeupdated": "1747355556"
             }
         },
         "privatebranches": "1",
