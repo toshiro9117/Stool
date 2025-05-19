@@ -4,23 +4,23 @@
     "name": "Journey to Incrementalia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28494263",
-    "update_time": "2025-04-16 03:30:36",
+    "change_number": "29016345",
+    "update_time": "2025-05-16 12:06:44",
     "depot": {
         "3147431": {
             "manifests": {
                 "public": {
-                    "gid": "7687277007040808574",
-                    "size": "186706458",
-                    "download": "111502880"
+                    "gid": "4518638485600302398",
+                    "size": "186865322",
+                    "download": "111767296"
                 }
             },
             "decryptionkey": "4aab435ba111207f062739efb410a414d38f11e0e1910a84df1ac5e2b682d325"
         },
         "branches": {
             "public": {
-                "buildid": "17745800",
-                "timeupdated": "1742170754"
+                "buildid": "18452021",
+                "timeupdated": "1747179179"
             }
         }
     }
