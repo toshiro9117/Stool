@@ -4,8 +4,8 @@
     "name": "Soar: Pillars of Tasneem",
     "schinese_name": "龙与苍穹之歌",
     "isfreeapp": "0",
-    "change_number": "28922573",
-    "update_time": "2025-05-11 11:39:58",
+    "change_number": "28991976",
+    "update_time": "2025-05-15 08:14:33",
     "depot": {
         "228988": {
             "config": {
@@ -29,27 +29,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1599763083873885509",
-                    "size": "3083996434",
-                    "download": "1175343072"
+                    "gid": "3852283225069422211",
+                    "size": "3061751569",
+                    "download": "1168925488"
                 },
                 "beta": {
-                    "gid": "7134499266270402813",
-                    "size": "3062170597",
-                    "download": "1168968784"
+                    "gid": "6607883910597979630",
+                    "size": "3063746336",
+                    "download": "1169478176"
                 }
             },
             "decryptionkey": "17cb26fd207678129ed3610538c4b404213ba4aa9318b2f852e85ebaaf7f559c"
         },
         "branches": {
             "public": {
-                "buildid": "18416847",
-                "timeupdated": "1746917507"
+                "buildid": "18432882",
+                "timeupdated": "1747072004"
             },
             "beta": {
-                "buildid": "18418040",
+                "buildid": "18434739",
                 "description": "the very latest in Soar's development. potentially very bizarre or unstable",
-                "timeupdated": "1746937963"
+                "timeupdated": "1747081436"
             }
         }
     }
