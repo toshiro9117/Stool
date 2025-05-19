@@ -4,8 +4,8 @@
     "name": "SpaceEngine",
     "schinese_name": "太空引擎",
     "isfreeapp": "0",
-    "change_number": "28886373",
-    "update_time": "2025-05-09 00:42:29",
+    "change_number": "28971804",
+    "update_time": "2025-05-14 10:07:52",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam",
         "workshopdepot": "314650",
@@ -27,9 +27,9 @@
         "314651": {
             "manifests": {
                 "public": {
-                    "gid": "3614800746741553282",
-                    "size": "4278338766",
-                    "download": "4099072960"
+                    "gid": "482280486444214654",
+                    "size": "4278486312",
+                    "download": "4099111504"
                 },
                 "0.990.39": {
                     "gid": "3142674547714852647",
@@ -461,8 +461,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17986562",
-                "timeupdated": "1744309520"
+                "buildid": "18350334",
+                "timeupdated": "1747068339"
             },
             "0.990.39": {
                 "buildid": "4531769",
