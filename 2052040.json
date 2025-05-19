@@ -4,8 +4,8 @@
     "name": "Golden Lap",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28888280",
-    "update_time": "2025-05-09 02:33:03",
+    "change_number": "29001403",
+    "update_time": "2025-05-15 19:51:05",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4560568217033032230",
-                    "size": "476042740",
-                    "download": "249706864"
+                    "gid": "5842329782155020919",
+                    "size": "477156940",
+                    "download": "249745056"
                 },
                 "public-beta": {
                     "gid": "8493410666947014318",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2633224306988498728",
-                    "size": "481491219",
-                    "download": "253590192"
+                    "gid": "3740242314603926473",
+                    "size": "482566747",
+                    "download": "253618800"
                 },
                 "public-beta": {
                     "gid": "2548248019208735873",
@@ -74,8 +74,8 @@
         "workshopdepot": "2052040",
         "branches": {
             "public": {
-                "buildid": "17709647",
-                "timeupdated": "1741884027"
+                "buildid": "18475032",
+                "timeupdated": "1747308524"
             },
             "public-beta": {
                 "buildid": "17253104",
