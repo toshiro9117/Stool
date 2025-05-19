@@ -4,8 +4,8 @@
     "name": "Ancient Kingdoms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28809801",
-    "update_time": "2025-05-04 20:56:01",
+    "change_number": "29042045",
+    "update_time": "2025-05-18 01:13:06",
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4871919100706399854",
-                    "size": "6331029651",
-                    "download": "305102176"
+                    "gid": "3339811397361876046",
+                    "size": "6571278295",
+                    "download": "305992080"
                 }
             },
             "decryptionkey": "ab5171b37a9c9646a992af3a861922b53c021caac43ebf80eea6d58712669eee"
@@ -34,16 +34,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2996606292016348390",
-                    "size": "6388456729",
-                    "download": "310717120"
+                    "gid": "8956675548697991178",
+                    "size": "6628890001",
+                    "download": "311600800"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18337946",
-                "timeupdated": "1746363356"
+                "buildid": "18431236",
+                "timeupdated": "1747064082"
             }
         }
     }
