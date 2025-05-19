@@ -4,15 +4,15 @@
     "name": "恐龙岛 3.0",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28221399",
-    "update_time": "2025-03-31 11:19:47",
+    "change_number": "28971430",
+    "update_time": "2025-05-14 09:35:01",
     "depot": {
         "2894941": {
             "manifests": {
                 "public": {
-                    "gid": "8002930656560379299",
-                    "size": "14405374348",
-                    "download": "12069174512"
+                    "gid": "4846709521634042877",
+                    "size": "14405876891",
+                    "download": "12069553232"
                 },
                 "broadcast": {
                     "gid": "2970625336030962895",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16833519",
-                "timeupdated": "1735004353"
+                "buildid": "18443667",
+                "timeupdated": "1747186494"
             },
             "broadcast": {
                 "buildid": "17919928",
