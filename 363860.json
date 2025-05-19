@@ -4,8 +4,8 @@
     "name": "MythForce",
     "schinese_name": "神话力量",
     "isfreeapp": "0",
-    "change_number": "28921032",
-    "update_time": "2025-05-11 06:31:23",
+    "change_number": "29037761",
+    "update_time": "2025-05-17 15:32:46",
     "depot": {
         "228988": {
             "config": {
@@ -32,9 +32,9 @@
                     "download": "11651691392"
                 },
                 "publictest": {
-                    "gid": "5365361534779945195",
-                    "size": "9482466956",
-                    "download": "8965657312"
+                    "gid": "7391192652084022184",
+                    "size": "9483019500",
+                    "download": "8964744672"
                 }
             },
             "decryptionkey": "95d289db6425849619bee0c01f4ad1a6394913957d879f06484a6ff93384841a"
@@ -61,9 +61,9 @@
                 "timeupdated": "1715897021"
             },
             "publictest": {
-                "buildid": "18312187",
+                "buildid": "18416765",
                 "description": "Beta builds for testing",
-                "timeupdated": "1746127393"
+                "timeupdated": "1747076352"
             }
         },
         "privatebranches": "1"
