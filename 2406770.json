@@ -4,8 +4,8 @@
     "name": "Bodycam",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918421",
-    "update_time": "2025-05-10 23:59:08",
+    "change_number": "29048541",
+    "update_time": "2025-05-18 20:16:02",
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "2406771": {
             "manifests": {
                 "public": {
-                    "gid": "8860714860085256799",
-                    "size": "64052004461",
-                    "download": "63529377264"
+                    "gid": "3891232300680959360",
+                    "size": "61858626811",
+                    "download": "61201776720"
                 },
                 "publicbeta": {
-                    "gid": "7231692497328181010",
-                    "size": "47529014889",
-                    "download": "47469965552"
+                    "gid": "6634908307061687336",
+                    "size": "65914104629",
+                    "download": "65258107360"
                 }
             },
             "decryptionkey": "0456324ba6c023dafc26bedc6005e6145a7b03bfe59a6d2806bf7e07ef54e6c2"
@@ -39,13 +39,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18168159",
-                "timeupdated": "1745083379"
+                "buildid": "18497092",
+                "timeupdated": "1747432709"
             },
             "publicbeta": {
-                "buildid": "16723847",
+                "buildid": "18479878",
                 "description": "Bodycam Public Beta Version - Join the Reissad Studio Discord for more information.",
-                "timeupdated": "1734024750"
+                "timeupdated": "1747348711"
             }
         },
         "privatebranches": "1"
