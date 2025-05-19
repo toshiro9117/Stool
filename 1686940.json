@@ -4,8 +4,8 @@
     "name": "Bopl Battle",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28899148",
-    "update_time": "2025-05-09 17:58:59",
+    "change_number": "28989187",
+    "update_time": "2025-05-15 04:33:10",
     "depot": {
         "1686941": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8833946599165236585",
-                    "size": "570244511",
-                    "download": "118203904"
+                    "gid": "4020615913877950697",
+                    "size": "570242999",
+                    "download": "118223328"
                 }
             },
             "decryptionkey": "de23a57d97b78aaf4bbf11afcce1b6d2e96ce42e7518fb58ddf5535a51b81c65"
         },
         "branches": {
             "public": {
-                "buildid": "17821549",
-                "timeupdated": "1742668127"
+                "buildid": "18420069",
+                "timeupdated": "1746970255"
             }
         },
         "privatebranches": "1"
