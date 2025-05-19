@@ -4,8 +4,8 @@
     "name": "FACEMINER",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28686766",
-    "update_time": "2025-04-27 05:39:20",
+    "change_number": "29010338",
+    "update_time": "2025-05-16 03:42:44",
     "depot": {
         "2276982": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4046137501777355891",
-                    "size": "764572448",
-                    "download": "567351248"
+                    "gid": "7771793241534104522",
+                    "size": "1215629760",
+                    "download": "987010416"
                 }
             },
             "decryptionkey": "4dd90c4b7502551d62833e2ab83711ef706d1560f598ad82008c60b894181ddd"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3186575636634028006",
-                    "size": "925960752",
-                    "download": "612261568"
+                    "gid": "8278109464120759272",
+                    "size": "1377018064",
+                    "download": "1031920736"
                 }
             }
         },
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4090200713647957604",
-                    "size": "766533497",
-                    "download": "561921552"
+                    "gid": "8636543569705388769",
+                    "size": "1217603105",
+                    "download": "981581392"
                 }
             }
         },
-        "baselanguages": "english",
+        "baselanguages": "english,russian,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18252201",
-                "timeupdated": "1745703555"
+                "buildid": "18463170",
+                "timeupdated": "1747239292"
             }
         }
     }
