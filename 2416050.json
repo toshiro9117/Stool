@@ -4,15 +4,15 @@
     "name": "Cento",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28706658",
-    "update_time": "2025-04-28 21:12:30",
+    "change_number": "29043044",
+    "update_time": "2025-05-18 03:32:53",
     "depot": {
         "2416051": {
             "manifests": {
                 "public": {
-                    "gid": "1314971274265266538",
-                    "size": "545410280",
-                    "download": "459202800"
+                    "gid": "5652845568722653142",
+                    "size": "562054261",
+                    "download": "475013504"
                 }
             },
             "decryptionkey": "db9f67f3e1af4f8549a6f559de7d6de7818e453a17e44731d0c2f5148499a2f4"
@@ -20,8 +20,8 @@
         "workshopdepot": "2416050",
         "branches": {
             "public": {
-                "buildid": "18264964",
-                "timeupdated": "1745845947"
+                "buildid": "18501292",
+                "timeupdated": "1747469621"
             }
         },
         "privatebranches": "1",
