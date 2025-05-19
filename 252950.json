@@ -4,8 +4,8 @@
     "name": "Rocket League",
     "schinese_name": "火箭联盟",
     "isfreeapp": "0",
-    "change_number": "28913685",
-    "update_time": "2025-05-10 11:52:34",
+    "change_number": "29036374",
+    "update_time": "2025-05-17 11:51:57",
     "depot": {
         "228989": {
             "config": {
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2789711894989684371",
-                    "size": "35517491521",
-                    "download": "32415415184"
+                    "gid": "7755386413948344815",
+                    "size": "35509248052",
+                    "download": "32402230624"
                 }
             },
             "decryptionkey": "2c5162dd5164c160a18d4a0086a9a540bf27b1879d0a0e7c69e2d5e0b287e681"
@@ -218,8 +218,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18080055",
-                "timeupdated": "1745362743"
+                "buildid": "18351797",
+                "timeupdated": "1747177160"
             }
         },
         "privatebranches": "1",
