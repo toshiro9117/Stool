@@ -4,8 +4,8 @@
     "name": "Fight Crab 2",
     "schinese_name": "螃蟹大战 2",
     "isfreeapp": "0",
-    "change_number": "28698389",
-    "update_time": "2025-04-28 10:47:41",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:44",
     "depot": {
         "228989": {
             "config": {
@@ -17,37 +17,37 @@
         "2457581": {
             "manifests": {
                 "public": {
-                    "gid": "5580123309783521800",
-                    "size": "5056361303",
-                    "download": "4205750016"
+                    "gid": "6165613859623113772",
+                    "size": "4970695878",
+                    "download": "4130172848"
                 },
                 "highend_graphics": {
-                    "gid": "5580123309783521800",
-                    "size": "5056361303",
-                    "download": "4205750016"
+                    "gid": "6165613859623113772",
+                    "size": "4970695878",
+                    "download": "4130172848"
                 },
                 "lowend_graphics": {
-                    "gid": "2352541217818644103",
-                    "size": "5123206487",
-                    "download": "4207395552"
+                    "gid": "1952515233545075329",
+                    "size": "5398509470",
+                    "download": "4455650816"
                 }
             },
             "decryptionkey": "1682b6999e630f66c641d8d04a3693f90a6618dc6cfc1d52712bcc95a1c7ca25"
         },
         "branches": {
             "public": {
-                "buildid": "18259722",
-                "timeupdated": "1745808402"
+                "buildid": "18439551",
+                "timeupdated": "1747114590"
             },
             "highend_graphics": {
-                "buildid": "18259722",
+                "buildid": "18439551",
                 "description": "High Definition Render Pipeline Version",
-                "timeupdated": "1745806076"
+                "timeupdated": "1747114569"
             },
             "lowend_graphics": {
-                "buildid": "18259997",
+                "buildid": "18439647",
                 "description": "Universal Render Pipeline Version",
-                "timeupdated": "1745808457"
+                "timeupdated": "1747115136"
             }
         },
         "privatebranches": "1"
