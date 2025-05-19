@@ -4,8 +4,8 @@
     "name": "Konfronto Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28914696",
-    "update_time": "2025-05-10 14:26:23",
+    "change_number": "29040143",
+    "update_time": "2025-05-17 21:08:01",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3186691": {
             "manifests": {
                 "public": {
-                    "gid": "3126021472329175771",
-                    "size": "1451541297",
-                    "download": "778705584"
+                    "gid": "4925586772162824907",
+                    "size": "1452049005",
+                    "download": "779046112"
                 },
                 "open-beta": {
                     "gid": "2318734808093935109",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18406550",
-                "timeupdated": "1746819126"
+                "buildid": "18500666",
+                "timeupdated": "1747478499"
             },
             "open-beta": {
                 "buildid": "18385418",
