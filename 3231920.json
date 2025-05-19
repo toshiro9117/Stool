@@ -4,8 +4,8 @@
     "name": "Project SJHG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28859447",
-    "update_time": "2025-05-07 18:25:29",
+    "change_number": "29039181",
+    "update_time": "2025-05-17 18:56:52",
     "depot": {
         "228989": {
             "config": {
@@ -34,9 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6065436818505475632",
-                    "size": "9044465976",
-                    "download": "8918851984"
+                    "gid": "1548564113816195931",
+                    "size": "9183166509",
+                    "download": "9054541440"
                 }
             },
             "decryptionkey": "622b443f4b585d765c9d53d0ba8c9a4811af3d0828bf9654e5ec632bf33277cd"
@@ -44,8 +44,8 @@
         "baselanguages": "english,koreana",
         "branches": {
             "public": {
-                "buildid": "18372470",
-                "timeupdated": "1746613524"
+                "buildid": "18502102",
+                "timeupdated": "1747479408"
             }
         }
     }
