@@ -4,8 +4,8 @@
     "name": "Our Adventurer Guild",
     "schinese_name": "我们的冒险者公会",
     "isfreeapp": "0",
-    "change_number": "28887409",
-    "update_time": "2025-05-09 01:34:34",
+    "change_number": "29006579",
+    "update_time": "2025-05-16 00:10:01",
     "depot": {
         "2026001": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "723045644466387341",
-                    "size": "3409986277",
-                    "download": "1107584544"
+                    "gid": "3460221892213987340",
+                    "size": "3410094841",
+                    "download": "1107638624"
                 },
                 "p1-52": {
                     "gid": "4967786547391738098",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18392328",
-                "timeupdated": "1746725667"
+                "buildid": "18447278",
+                "timeupdated": "1747152700"
             },
             "p1-52": {
                 "buildid": "16898875",
