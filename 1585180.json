@@ -4,8 +4,8 @@
     "name": "Drova - Forsaken Kin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922422",
-    "update_time": "2025-05-11 11:00:21",
+    "change_number": "29045638",
+    "update_time": "2025-05-18 11:00:18",
     "depot": {
         "229006": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5950243261715950366",
-                    "size": "3642962899",
-                    "download": "1158888416"
+                    "gid": "3028857314096909511",
+                    "size": "3642921992",
+                    "download": "1158837968"
                 }
             },
             "decryptionkey": "e3f3f5b9271ecc5008846fdb91f891cfec142053bee010982ef6927466254c52"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5006959088546578529",
-                    "size": "3539533905",
-                    "download": "1142263856"
+                    "gid": "7984230180066610582",
+                    "size": "3539190187",
+                    "download": "1140170512"
                 }
             }
         },
@@ -47,16 +47,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1656542807071556766",
-                    "size": "3833287376",
-                    "download": "1191337104"
+                    "gid": "6277738526832887337",
+                    "size": "3832973694",
+                    "download": "1191343376"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17984874",
-                "timeupdated": "1743771330"
+                "buildid": "18461987",
+                "timeupdated": "1747235327"
             }
         },
         "privatebranches": "1",
