@@ -4,8 +4,8 @@
     "name": "Kingdom, Dungeon, and Hero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28850001",
-    "update_time": "2025-05-07 05:28:25",
+    "change_number": "29004309",
+    "update_time": "2025-05-15 22:18:03",
     "depot": {
         "2572401": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "10925480408376908",
+                    "gid": "5121104778544948035",
                     "size": "837513040",
-                    "download": "321825424"
+                    "download": "321825248"
                 }
             },
             "decryptionkey": "6b02f6c33c4cff2fa7972bfb8a9c87cea0a6c9fd70e1d6db6bd68b442b46c2b7"
@@ -24,8 +24,8 @@
         "workshopdepot": "2572400",
         "branches": {
             "public": {
-                "buildid": "18365380",
-                "timeupdated": "1746566897"
+                "buildid": "18477321",
+                "timeupdated": "1747318679"
             }
         },
         "privatebranches": "1",
