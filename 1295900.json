@@ -4,8 +4,8 @@
     "name": "Draconia",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28866601",
-    "update_time": "2025-05-08 01:11:44",
+    "change_number": "29048336",
+    "update_time": "2025-05-18 19:37:31",
     "depot": {
         "228989": {
             "config": {
@@ -21,27 +21,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "229006": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "229020": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "229033": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "baselanguages": "english",
         "1295901": {
             "config": {
@@ -50,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7637206667144859809",
-                    "size": "5492590332",
-                    "download": "4809560864"
+                    "gid": "4644796852867982871",
+                    "size": "5507410063",
+                    "download": "4825713104"
                 },
                 "legacy": {
                     "gid": "6787191241507819406",
@@ -60,9 +39,9 @@
                     "download": "2375999488"
                 },
                 "buildtest": {
-                    "gid": "7637206667144859809",
-                    "size": "5492590332",
-                    "download": "4809560864"
+                    "gid": "4644796852867982871",
+                    "size": "5507410063",
+                    "download": "4825713104"
                 }
             },
             "decryptionkey": "c0d279495752c84a0904db347b03b01004415fc4e31a7664f0f9f4755102b56a"
@@ -74,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8882450974127048428",
-                    "size": "6034249119",
-                    "download": "3943056992"
+                    "gid": "7186154125924201444",
+                    "size": "6049255505",
+                    "download": "3957983216"
                 },
                 "legacy": {
                     "gid": "8855412788177870780",
@@ -84,26 +63,26 @@
                     "download": "2385261744"
                 },
                 "buildtest": {
-                    "gid": "8882450974127048428",
-                    "size": "6034249119",
-                    "download": "3943056992"
+                    "gid": "7186154125924201444",
+                    "size": "6049255505",
+                    "download": "3957983216"
                 }
             },
             "decryptionkey": "1885c9965c99d8d841eae4379c7addfae49fe24f53f2177ddac623d6d19ebda1"
         },
         "branches": {
             "public": {
-                "buildid": "18377417",
-                "timeupdated": "1746637901"
+                "buildid": "18427250",
+                "timeupdated": "1747044281"
             },
             "legacy": {
                 "buildid": "8503300",
                 "timeupdated": "1650185500"
             },
             "buildtest": {
-                "buildid": "18377417",
+                "buildid": "18427250",
                 "description": "public developer build branch",
-                "timeupdated": "1746637864"
+                "timeupdated": "1747044292"
             }
         },
         "privatebranches": "1"
