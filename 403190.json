@@ -4,8 +4,8 @@
     "name": "Planetbase",
     "schinese_name": "星球基地",
     "isfreeapp": "0",
-    "change_number": "28286637",
-    "update_time": "2025-04-03 18:34:06",
+    "change_number": "28972977",
+    "update_time": "2025-05-14 11:57:52",
     "depot": {
         "baselanguages": "english,german,french,spanish",
         "workshopdepot": "403190",
@@ -72,6 +72,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e38d67aafa1754dba9dac6ccce399a0ae8261ef69ba79fe6f9997d4a00daa705"
     }
 }
