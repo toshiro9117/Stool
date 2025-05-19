@@ -4,8 +4,8 @@
     "name": "Of Life and Land",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28901353",
-    "update_time": "2025-05-09 20:20:01",
+    "change_number": "29039643",
+    "update_time": "2025-05-17 19:52:12",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1733110",
@@ -17,24 +17,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2809200283275246613",
-                    "size": "506329140",
-                    "download": "274587920"
+                    "gid": "35379659935153187",
+                    "size": "535195086",
+                    "download": "286042256"
                 },
                 "beta": {
-                    "gid": "2809200283275246613",
-                    "size": "506329140",
-                    "download": "274587920"
-                },
-                "pre-balancing": {
-                    "gid": "5384359749671780804",
-                    "size": "398640468",
-                    "download": "247188288"
+                    "gid": "35379659935153187",
+                    "size": "535195086",
+                    "download": "286042256"
                 },
                 "previous": {
-                    "gid": "5384359749671780804",
-                    "size": "398640468",
-                    "download": "247188288"
+                    "gid": "5168310629761138574",
+                    "size": "535190366",
+                    "download": "286040240"
                 }
             },
             "decryptionkey": "2aefb5610aff8c017b461ec4f3da8d7a17a426b0d4ab6bf30df2bd99c391e208"
@@ -46,46 +41,36 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2760683338878270740",
-                    "size": "517957354",
-                    "download": "278408720"
+                    "gid": "813493246898852843",
+                    "size": "546823300",
+                    "download": "289890160"
                 },
                 "beta": {
-                    "gid": "2760683338878270740",
-                    "size": "517957354",
-                    "download": "278408720"
-                },
-                "pre-balancing": {
-                    "gid": "2494955570030699900",
-                    "size": "410268682",
-                    "download": "250859120"
+                    "gid": "813493246898852843",
+                    "size": "546823300",
+                    "download": "289890160"
                 },
                 "previous": {
-                    "gid": "2494955570030699900",
-                    "size": "410268682",
-                    "download": "250859120"
+                    "gid": "7276328003724879936",
+                    "size": "546818580",
+                    "download": "289915728"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18235973",
-                "timeupdated": "1745573762"
+                "buildid": "18502286",
+                "timeupdated": "1747482726"
             },
             "beta": {
-                "buildid": "18235973",
+                "buildid": "18502286",
                 "description": "Get the latest features",
-                "timeupdated": "1745573033"
-            },
-            "pre-balancing": {
-                "buildid": "17696991",
-                "description": "uses the old balancing setting",
-                "timeupdated": "1744808428"
+                "timeupdated": "1747482472"
             },
             "previous": {
-                "buildid": "17696991",
+                "buildid": "18472619",
                 "description": "Loads the previous patch content",
-                "timeupdated": "1744811292"
+                "timeupdated": "1747482706"
             }
         },
         "privatebranches": "1",
