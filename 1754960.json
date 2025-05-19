@@ -4,8 +4,8 @@
     "name": "Astride",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28847530",
-    "update_time": "2025-05-07 02:31:24",
+    "change_number": "29001601",
+    "update_time": "2025-05-15 20:01:47",
     "depot": {
         "1754963": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6080216187872201961",
-                    "size": "6000416478",
-                    "download": "4683005152"
+                    "gid": "58603126926306493",
+                    "size": "5937701054",
+                    "download": "4622402576"
                 },
                 "stream": {
                     "gid": "8767635706344096578",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17064000",
-                "timeupdated": "1737375156"
+                "buildid": "18474162",
+                "timeupdated": "1747310475"
             },
             "stream": {
                 "buildid": "15745608",
