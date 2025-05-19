@@ -4,8 +4,8 @@
     "name": "Lawgivers II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916510",
-    "update_time": "2025-05-10 19:08:46",
+    "change_number": "29040806",
+    "update_time": "2025-05-17 22:33:20",
     "depot": {
         "hasdepotsindlc": "0",
         "1407182": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8443534373237453802",
-                    "size": "487357926",
-                    "download": "126569280"
+                    "gid": "8438352098023093482",
+                    "size": "486929641",
+                    "download": "126556480"
                 }
             },
             "decryptionkey": "37d832db8bea2b43cfaea7753226ee774e87420661eec39535b2c19b125b0db6"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4236911665206144956",
-                    "size": "455975952",
-                    "download": "131561664"
+                    "gid": "3519532815190356641",
+                    "size": "455971851",
+                    "download": "131552352"
                 }
             }
         },
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1566224696687613846",
-                    "size": "483008511",
-                    "download": "125115024"
+                    "gid": "5050770364220677087",
+                    "size": "482990274",
+                    "download": "125114592"
                 }
             }
         },
         "workshopdepot": "1407180",
         "branches": {
             "public": {
-                "buildid": "18413723",
-                "timeupdated": "1746875322"
+                "buildid": "18502994",
+                "timeupdated": "1747492397"
             }
         },
         "privatebranches": "1",
