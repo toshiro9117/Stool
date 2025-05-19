@@ -4,43 +4,43 @@
     "name": "Fida Puti Samurai",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28883438",
-    "update_time": "2025-05-08 22:04:01",
+    "change_number": "29040823",
+    "update_time": "2025-05-17 22:35:09",
     "depot": {
         "1534341": {
             "manifests": {
                 "public": {
-                    "gid": "5561907261388628145",
-                    "size": "3999346079",
-                    "download": "1364924144"
+                    "gid": "7053955239327841938",
+                    "size": "2761956776",
+                    "download": "1251524608"
                 },
                 "risky": {
-                    "gid": "5994079268107126529",
-                    "size": "2767306941",
-                    "download": "1245535984"
+                    "gid": "7053955239327841938",
+                    "size": "2761956776",
+                    "download": "1251524608"
                 },
                 "test": {
-                    "gid": "709997113823915253",
-                    "size": "2762634576",
-                    "download": "1251321680"
+                    "gid": "7053955239327841938",
+                    "size": "2761956776",
+                    "download": "1251524608"
                 }
             },
             "decryptionkey": "1a3b2d3914505a32f0ade9b93f0bde095532a7999cf12ac80066cab8406fc4c8"
         },
         "branches": {
             "public": {
-                "buildid": "15888380",
-                "timeupdated": "1727965371"
+                "buildid": "18503173",
+                "timeupdated": "1747492506"
             },
             "risky": {
-                "buildid": "18226809",
+                "buildid": "18503173",
                 "description": "Beta or something dude",
-                "timeupdated": "1745671588"
+                "timeupdated": "1747492469"
             },
             "test": {
-                "buildid": "18389837",
+                "buildid": "18503173",
                 "description": "for tests before publishing to main branch",
-                "timeupdated": "1746713036"
+                "timeupdated": "1747492456"
             }
         }
     }
