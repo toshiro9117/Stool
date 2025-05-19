@@ -4,8 +4,8 @@
     "name": "Deceit 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905133",
-    "update_time": "2025-05-09 23:58:39",
+    "change_number": "29021604",
+    "update_time": "2025-05-16 18:06:45",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
         "228989": {
@@ -25,9 +25,9 @@
         "2064871": {
             "manifests": {
                 "public": {
-                    "gid": "3122542336323277244",
-                    "size": "25073494600",
-                    "download": "21069820160"
+                    "gid": "3163386588104583099",
+                    "size": "25112424220",
+                    "download": "21106292144"
                 }
             },
             "depotfromapp": "2064870",
