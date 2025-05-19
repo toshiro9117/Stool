@@ -4,8 +4,8 @@
     "name": "Deck of Haunts",
     "schinese_name": "《幽室鬼牌》（Deck of Haunts）",
     "isfreeapp": "0",
-    "change_number": "28919081",
-    "update_time": "2025-05-11 01:32:48",
+    "change_number": "29045403",
+    "update_time": "2025-05-18 10:13:35",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3179731": {
             "manifests": {
                 "public": {
-                    "gid": "721578614603735931",
-                    "size": "1176782837",
-                    "download": "1034102256"
+                    "gid": "1978919139869641268",
+                    "size": "1176827588",
+                    "download": "1035009536"
                 }
             },
             "decryptionkey": "91d2eed03b2cc6817cc2329b211f66b067b0bba3941763d1852e02eb8f56e970"
         },
         "branches": {
             "public": {
-                "buildid": "18404779",
-                "timeupdated": "1746803027"
+                "buildid": "18475606",
+                "timeupdated": "1747311348"
             }
         },
         "privatebranches": "1"
