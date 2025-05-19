@@ -4,8 +4,8 @@
     "name": "Hauntsville",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28884616",
-    "update_time": "2025-05-08 23:05:47",
+    "change_number": "29027180",
+    "update_time": "2025-05-16 23:15:29",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5254032603135244427",
-                    "size": "9052889292",
-                    "download": "8374136688"
+                    "gid": "2313551624888458186",
+                    "size": "9061955125",
+                    "download": "8375533696"
                 }
             },
             "decryptionkey": "1db34303394ca3a9c48e61c3cf6eb8d9a64a4b95765c951f7a7ec1561977f6e3"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18268408",
-                "timeupdated": "1745860304"
+                "buildid": "18479055",
+                "timeupdated": "1747326993"
             }
         },
         "privatebranches": "1"
