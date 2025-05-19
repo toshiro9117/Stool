@@ -4,8 +4,8 @@
     "name": "Archean",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915199",
-    "update_time": "2025-05-10 15:43:25",
+    "change_number": "29043009",
+    "update_time": "2025-05-18 03:27:27",
     "depot": {
         "2941661": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3676171061542033988",
-                    "size": "778870363",
-                    "download": "318238416"
+                    "gid": "2892565196998655573",
+                    "size": "779532855",
+                    "download": "324098224"
                 }
             },
             "decryptionkey": "9e9c4a4cb9451b1e189a13b090d38f79707b0a150a3bf50a17cdd38aedfb85c5"
@@ -23,8 +23,8 @@
         "workshopdepot": "2941660",
         "branches": {
             "public": {
-                "buildid": "18412818",
-                "timeupdated": "1746862997"
+                "buildid": "18503883",
+                "timeupdated": "1747510044"
             }
         },
         "privatebranches": "1",
