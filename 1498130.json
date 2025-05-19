@@ -4,16 +4,16 @@
     "name": "Tank Squad",
     "schinese_name": "坦克小队",
     "isfreeapp": "0",
-    "change_number": "28921386",
-    "update_time": "2025-05-11 07:31:03",
+    "change_number": "29029857",
+    "update_time": "2025-05-17 01:42:33",
     "depot": {
         "baselanguages": "english",
         "1498131": {
             "manifests": {
                 "public": {
-                    "gid": "3323988770118395191",
-                    "size": "17737849529",
-                    "download": "12460128928"
+                    "gid": "4794030681610382872",
+                    "size": "17826131210",
+                    "download": "12516241296"
                 }
             },
             "decryptionkey": "bb2fa96b40e0441aea32a605f09e313a1f83262896d6b14058cd2000d8e4fd7d"
@@ -21,17 +21,17 @@
         "1498132": {
             "manifests": {
                 "public": {
-                    "gid": "4652005508135051572",
-                    "size": "17737849529",
-                    "download": "12451034560"
+                    "gid": "35698462485987653",
+                    "size": "17826131210",
+                    "download": "12507078560"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18414810",
-                "timeupdated": "1746889982"
+                "buildid": "18494901",
+                "timeupdated": "1747417299"
             }
         },
         "privatebranches": "1"
