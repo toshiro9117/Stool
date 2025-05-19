@@ -4,23 +4,23 @@
     "name": "REKA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28904497",
-    "update_time": "2025-05-09 23:20:31",
+    "change_number": "29043678",
+    "update_time": "2025-05-18 05:12:46",
     "depot": {
         "1737871": {
             "manifests": {
                 "public": {
-                    "gid": "93842127426878658",
-                    "size": "5571137228",
-                    "download": "2824911136"
+                    "gid": "8927099467702607770",
+                    "size": "4591355486",
+                    "download": "1985728560"
                 }
             },
             "decryptionkey": "288b0a2a0e74dc9fa05b6bc7ff0cb545073f5cef5c2039549a4373491652e742"
         },
         "branches": {
             "public": {
-                "buildid": "17187778",
-                "timeupdated": "1738258868"
+                "buildid": "18446567",
+                "timeupdated": "1747217863"
             }
         },
         "privatebranches": "1"
