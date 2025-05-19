@@ -4,8 +4,8 @@
     "name": "Quasimorph",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915960",
-    "update_time": "2025-05-10 17:45:25",
+    "change_number": "29048001",
+    "update_time": "2025-05-18 18:40:00",
     "depot": {
         "hasdepotsindlc": "1",
         "2059171": {
@@ -16,9 +16,9 @@
                     "download": "303893840"
                 },
                 "beta": {
-                    "gid": "496384443395428138",
-                    "size": "1133579913",
-                    "download": "303893840"
+                    "gid": "8640996796625666766",
+                    "size": "1150678441",
+                    "download": "319964256"
                 }
             },
             "decryptionkey": "25e2854f4569dfc0b7ed84a0c42b6726d69fa1b7c2157806c0827925d741eede"
@@ -30,9 +30,9 @@
                 "timeupdated": "1745530528"
             },
             "beta": {
-                "buildid": "18229753",
-                "description": "0.8.7 beta",
-                "timeupdated": "1745530501"
+                "buildid": "18508108",
+                "description": "0.9.1 beta",
+                "timeupdated": "1747564795"
             }
         },
         "privatebranches": "1",
