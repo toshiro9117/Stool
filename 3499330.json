@@ -4,8 +4,8 @@
     "name": "SUCCU-MAMA",
     "schinese_name": "我的妈妈是魅魔",
     "isfreeapp": "0",
-    "change_number": "28914903",
-    "update_time": "2025-05-10 15:02:21",
+    "change_number": "29032075",
+    "update_time": "2025-05-17 04:13:33",
     "depot": {
         "3499331": {
             "config": {
@@ -37,6 +37,7 @@
                 "buildid": "18392591",
                 "timeupdated": "1746726506"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
