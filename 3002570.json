@@ -4,8 +4,8 @@
     "name": "Nymphomaniac - Sex Addict",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921535",
-    "update_time": "2025-05-11 08:02:49",
+    "change_number": "29044686",
+    "update_time": "2025-05-18 08:01:40",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -32,9 +32,9 @@
         "3002571": {
             "manifests": {
                 "public": {
-                    "gid": "3596815150987796700",
-                    "size": "16462054825",
-                    "download": "15423737392"
+                    "gid": "1300078660848002874",
+                    "size": "16468346591",
+                    "download": "15431910880"
                 }
             },
             "decryptionkey": "e6978a8a04524482ba060c58ba0f45e185f278af036c31730452acee6a40ccb9"
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18299703",
-                "timeupdated": "1746040511"
+                "buildid": "18493656",
+                "timeupdated": "1747421637"
             }
         },
         "privatebranches": "1"
