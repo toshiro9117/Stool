@@ -4,8 +4,8 @@
     "name": "ODDADA",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27181242",
-    "update_time": "2025-01-27 18:47:04",
+    "change_number": "28988679",
+    "update_time": "2025-05-15 03:59:56",
     "depot": {
         "1627871": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2157723409030593237",
-                    "size": "512775565",
-                    "download": "288246752"
+                    "gid": "6408425320061413752",
+                    "size": "512716453",
+                    "download": "288238592"
                 }
             },
             "decryptionkey": "5035d70dce2ed8539869a79804512133d229cd722a5107339c5608737a1d448f"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5392799409672222274",
-                    "size": "542202028",
-                    "download": "296116112"
+                    "gid": "3875354007123018538",
+                    "size": "542137044",
+                    "download": "296108848"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16493381",
-                "timeupdated": "1732232812"
+                "buildid": "17488430",
+                "timeupdated": "1740475885"
             }
         },
         "privatebranches": "1"
