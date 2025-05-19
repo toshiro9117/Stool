@@ -4,8 +4,8 @@
     "name": "Artifact Seeker: Resurrection",
     "schinese_name": "神器行者: 重生",
     "isfreeapp": "0",
-    "change_number": "28919081",
-    "update_time": "2025-05-11 01:32:47",
+    "change_number": "29047840",
+    "update_time": "2025-05-18 18:15:43",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
         "3054611": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "356173348989841594",
-                    "size": "1057160731",
-                    "download": "917410224"
+                    "gid": "4541121035131585184",
+                    "size": "1401872264",
+                    "download": "1157499936"
                 }
             },
             "decryptionkey": "aa38570149979e30a8b798b4f967470137f962bb9a79df62d73faf1835612b36"
@@ -62,16 +62,30 @@
         },
         "3518900": {
             "dlcappid": "3518900",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "878717891148742685",
+                    "size": "23",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": ""
         },
         "3534930": {
             "dlcappid": "3534930",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2797154343053210534",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17085127",
-                "timeupdated": "1737510089"
+                "buildid": "18508036",
+                "timeupdated": "1747563339"
             }
         },
         "privatebranches": "1"
