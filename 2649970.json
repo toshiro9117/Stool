@@ -4,8 +4,8 @@
     "name": "Steps of Debauchery",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28673076",
-    "update_time": "2025-04-26 02:52:38",
+    "change_number": "29037754",
+    "update_time": "2025-05-17 15:31:53",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2085057617579826136",
-                    "size": "10064304352",
-                    "download": "9963136128"
+                    "gid": "7100045703227129035",
+                    "size": "10064346217",
+                    "download": "9963168496"
                 }
             },
             "decryptionkey": "9aa3e4d1f2a413dbec23cbda51fe786f5f55564444b24d8bdbc0e05099d2a483"
@@ -31,17 +31,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6171668397567594102",
-                    "size": "37338689",
-                    "download": "36121856"
+                    "gid": "876277596364764642",
+                    "size": "37337923",
+                    "download": "36119904"
                 }
             },
             "decryptionkey": "76b27b3113a09f716499a01206b3d65237b9bf62d0bba7f3ef5bf798d3eb9881"
         },
         "branches": {
             "public": {
-                "buildid": "17825698",
-                "timeupdated": "1742745427"
+                "buildid": "18501059",
+                "timeupdated": "1747467110"
             }
         },
         "privatebranches": "1"
