@@ -4,17 +4,17 @@
     "name": "Everhood 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28825923",
-    "update_time": "2025-05-06 00:26:58",
+    "change_number": "29000213",
+    "update_time": "2025-05-15 18:43:42",
     "depot": {
         "baselanguages": "english,french,japanese",
         "workshopdepot": "1984020",
         "1984021": {
             "manifests": {
                 "public": {
-                    "gid": "3898976967557857153",
-                    "size": "1657501919",
-                    "download": "889156528"
+                    "gid": "1211753015327743798",
+                    "size": "1657413607",
+                    "download": "889158848"
                 },
                 "battle-warp-bug": {
                     "gid": "3846618076835830125",
@@ -22,17 +22,17 @@
                     "download": "874404016"
                 },
                 "russian-translation": {
-                    "gid": "6337466633790412222",
-                    "size": "1658572543",
-                    "download": "889163040"
+                    "gid": "8865184937221436726",
+                    "size": "1658490679",
+                    "download": "889165504"
                 }
             },
             "decryptionkey": "08f1a3d67b607bd3ee2f42873e693d99e99ed8ef0f93389a91debed6bb422dee"
         },
         "branches": {
             "public": {
-                "buildid": "18343470",
-                "timeupdated": "1746431198"
+                "buildid": "18474312",
+                "timeupdated": "1747305817"
             },
             "battle-warp-bug": {
                 "buildid": "17625721",
@@ -40,9 +40,9 @@
                 "timeupdated": "1742404902"
             },
             "russian-translation": {
-                "buildid": "18348528",
+                "buildid": "18466554",
                 "description": "russian translation test",
-                "timeupdated": "1746462413"
+                "timeupdated": "1747256495"
             }
         },
         "workshopdepotdecryptionkey": "2d7f3f1308451c96455f836fdf1c83caa92f2b335ce51d0eb542639fa8aacbde"
