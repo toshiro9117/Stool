@@ -4,8 +4,8 @@
     "name": "琉隐神渡",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28759986",
-    "update_time": "2025-05-01 07:28:48",
+    "change_number": "28983831",
+    "update_time": "2025-05-14 23:15:07",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "3306401": {
             "manifests": {
                 "public": {
-                    "gid": "6851390172575432464",
-                    "size": "6082805200",
-                    "download": "5927788336"
+                    "gid": "8573542878939658074",
+                    "size": "6298649550",
+                    "download": "6140200848"
                 }
             },
             "decryptionkey": "e16ab6f68f421d0e9a1d6d99dd126873879b1be5c09ed9f7b9152fedcee2a768"
@@ -41,8 +41,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18052200",
-                "timeupdated": "1744331728"
+                "buildid": "18304228",
+                "timeupdated": "1747097919"
             }
         }
     }
