@@ -4,8 +4,8 @@
     "name": "Victoria 3",
     "schinese_name": "维多利亚3",
     "isfreeapp": "0",
-    "change_number": "28917957",
-    "update_time": "2025-05-10 23:02:22",
+    "change_number": "28974341",
+    "update_time": "2025-05-14 14:08:02",
     "depot": {
         "workshopdepot": "529340",
         "529341": {
@@ -1387,6 +1387,10 @@
                 }
             },
             "decryptionkey": "6fc91d1743fbec84b8887e3092e4c473292d0dbc973bb31ea812805e28f7ea50"
+        },
+        "3450170": {
+            "dlcappid": "3450170",
+            "manifests": {}
         },
         "hasdepotsindlc": "1",
         "branches": {
