@@ -4,8 +4,8 @@
     "name": "Remote Reaper: FPV Drone",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28903830",
-    "update_time": "2025-05-09 22:41:35",
+    "change_number": "28946410",
+    "update_time": "2025-05-13 03:35:41",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3295811": {
             "manifests": {
                 "public": {
-                    "gid": "7730516387011645694",
-                    "size": "6527492750",
-                    "download": "6066822608"
+                    "gid": "2060132269556596999",
+                    "size": "6529040130",
+                    "download": "6077737680"
                 },
                 "dji_test": {
                     "gid": "4360761534372234587",
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18404346",
-                "timeupdated": "1746801691"
+                "buildid": "18420039",
+                "timeupdated": "1746969739"
             },
             "dji_test": {
                 "buildid": "18283841",
