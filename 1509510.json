@@ -4,8 +4,8 @@
     "name": "Settlement Survival",
     "schinese_name": "部落幸存者",
     "isfreeapp": "0",
-    "change_number": "27749475",
-    "update_time": "2025-03-03 14:48:52",
+    "change_number": "28987731",
+    "update_time": "2025-05-15 02:53:18",
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,latam",
         "workshopdepot": "1509510",
@@ -151,6 +151,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5fee7edbb04d351f1158c4ae923e4a53a1ef9f5eddddb10048a5b5e190495e73"
     }
 }
