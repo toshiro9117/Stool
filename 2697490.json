@@ -4,8 +4,8 @@
     "name": "欺神弄鬼",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918234",
-    "update_time": "2025-05-10 23:34:56",
+    "change_number": "29042572",
+    "update_time": "2025-05-18 02:24:17",
     "depot": {
         "baselanguages": "schinese",
         "228988": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "765530197817988095",
-                    "size": "3080741252",
-                    "download": "2574589456"
+                    "gid": "8477841909159755664",
+                    "size": "3080748827",
+                    "download": "2574763232"
                 }
             },
             "decryptionkey": "4597f45d9ef1e69cfed27b87576d5f3b2b962dfeb9ee469aa7a28738d7069cfb"
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1927606736910178627",
-                    "size": "3052932447",
-                    "download": "2573062688"
+                    "gid": "334498049489478005",
+                    "size": "3052940022",
+                    "download": "2573236464"
                 }
             },
             "decryptionkey": "d55b322d81492867c57230e2563f7f2289935625c339196559782a227da25962"
         },
         "branches": {
             "public": {
-                "buildid": "18414974",
-                "timeupdated": "1746891288"
+                "buildid": "18504278",
+                "timeupdated": "1747506008"
             }
         },
         "privatebranches": "1"
