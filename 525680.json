@@ -4,8 +4,8 @@
     "name": "Deisim",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28902091",
-    "update_time": "2025-05-09 20:59:33",
+    "change_number": "29025558",
+    "update_time": "2025-05-16 21:54:56",
     "depot": {
         "525681": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9084930213837322885",
-                    "size": "1218988702",
-                    "download": "574959408"
+                    "gid": "7610577517260079329",
+                    "size": "1227888598",
+                    "download": "582964592"
                 },
                 "steamdeck-experimental": {
                     "gid": "272484355215546281",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18390915",
-                "timeupdated": "1746718588"
+                "buildid": "18492201",
+                "timeupdated": "1747403691"
             },
             "steamdeck-experimental": {
                 "buildid": "18279079",
