@@ -4,8 +4,8 @@
     "name": "A Hat in Time",
     "schinese_name": "时光之帽",
     "isfreeapp": "0",
-    "change_number": "28772181",
-    "update_time": "2025-05-02 01:08:15",
+    "change_number": "29028115",
+    "update_time": "2025-05-17 00:06:36",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -127,9 +127,9 @@
                     "download": "3469826800"
                 },
                 "experimental": {
-                    "gid": "1058673078674118754",
-                    "size": "7841773430",
-                    "download": "5711280576"
+                    "gid": "1425319827262125807",
+                    "size": "7841761978",
+                    "download": "5711220912"
                 },
                 "tcplink": {
                     "gid": "363046749924510332",
@@ -218,9 +218,9 @@
                 "timeupdated": "1508643141"
             },
             "experimental": {
-                "buildid": "18112335",
+                "buildid": "18493952",
                 "description": "Updates frequently, and might be unstable.",
-                "timeupdated": "1744714770"
+                "timeupdated": "1747411591"
             },
             "tcplink": {
                 "buildid": "15039951",
