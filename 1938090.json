@@ -4,8 +4,8 @@
     "name": "Call of Duty®",
     "schinese_name": "使命召唤®",
     "isfreeapp": "0",
-    "change_number": "28912077",
-    "update_time": "2025-05-10 08:17:45",
+    "change_number": "29034948",
+    "update_time": "2025-05-17 08:39:44",
     "depot": {
         "baselanguages": "",
         "228989": {
@@ -18,9 +18,9 @@
         "1938091": {
             "manifests": {
                 "public": {
-                    "gid": "2312477340531052355",
-                    "size": "756462433",
-                    "download": "477941728"
+                    "gid": "5118407478891215466",
+                    "size": "756463969",
+                    "download": "458763648"
                 },
                 "local": {
                     "gid": "7073109254292645340",
@@ -927,9 +927,9 @@
             "dlcappid": "1962662",
             "manifests": {
                 "public": {
-                    "gid": "393830994752366964",
+                    "gid": "1713489369588893954",
                     "size": "1497762840",
-                    "download": "873159120"
+                    "download": "873159024"
                 }
             },
             "decryptionkey": "4c612016e2f3de99f68dc0c702d52a59bccf4db5998ee6ee48b1fd34c2aab05d"
@@ -1341,9 +1341,9 @@
             "dlcappid": "1962660",
             "manifests": {
                 "public": {
-                    "gid": "4188454665493301331",
+                    "gid": "9108514970390233393",
                     "size": "474114832",
-                    "download": "311560400"
+                    "download": "311560176"
                 }
             },
             "decryptionkey": "4f310f990649d91a1f8d3dde9cef9d826d6a08e2c2717bc7b2e50ff3ab797a92"
@@ -1937,9 +1937,9 @@
             "dlcappid": "1962661",
             "manifests": {
                 "public": {
-                    "gid": "7603325602673125874",
+                    "gid": "8283152811956711872",
                     "size": "1497762840",
-                    "download": "873159120"
+                    "download": "873159024"
                 }
             },
             "decryptionkey": "7899fa2ceefd0387120ad784cf7abe6ab583895edbf7ac4f4ae49300090be076"
@@ -2125,9 +2125,9 @@
             "dlcappid": "1962663",
             "manifests": {
                 "public": {
-                    "gid": "2345678158939837346",
+                    "gid": "4057358561827451408",
                     "size": "1497762840",
-                    "download": "873159120"
+                    "download": "873159024"
                 }
             },
             "decryptionkey": "67d981a72e747b1ada2b72ef1275a2fdb37c505f38809b50d5ad55632d7cfd24"
@@ -2240,9 +2240,9 @@
             "dlcappid": "2519060",
             "manifests": {
                 "public": {
-                    "gid": "5171930295255557226",
+                    "gid": "4342314239995376656",
                     "size": "1462609264",
-                    "download": "804578880"
+                    "download": "804578720"
                 }
             },
             "decryptionkey": "b4333be0962ba3a0b09713c4940a3ae3aee96ece5e9ca524e2878e0b6887ac1b"
@@ -2505,9 +2505,9 @@
             "dlcappid": "2933620",
             "manifests": {
                 "public": {
-                    "gid": "2433667446155400946",
+                    "gid": "3885567234188991098",
                     "size": "718378208",
-                    "download": "436010464"
+                    "download": "436010224"
                 }
             },
             "decryptionkey": "95af15de8af9c29a87dded41059531dbcfcd9f55eb647ee4bfa517a70d37102d"
@@ -3024,9 +3024,9 @@
             "dlcappid": "2519070",
             "manifests": {
                 "public": {
-                    "gid": "6298174246308919982",
+                    "gid": "4582171706102417286",
                     "size": "727754088",
-                    "download": "460975456"
+                    "download": "460975408"
                 }
             },
             "decryptionkey": "4cc024250107cc3d88a46e0ffaa0d7f867cfa3a8f283216f0a718547bbf5d1b6"
@@ -3047,8 +3047,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18366073",
-                "timeupdated": "1746806418"
+                "buildid": "18410275",
+                "timeupdated": "1747324815"
             },
             "local": {
                 "buildid": "8518761",
