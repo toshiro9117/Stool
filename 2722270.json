@@ -4,8 +4,8 @@
     "name": "永恒幻境 Eternal Dreamland",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28687217",
-    "update_time": "2025-04-27 06:54:58",
+    "change_number": "29035335",
+    "update_time": "2025-05-17 09:31:13",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2722271": {
             "manifests": {
                 "public": {
-                    "gid": "6104963458861094706",
-                    "size": "21692315476",
-                    "download": "21160242768"
+                    "gid": "5744491669229168181",
+                    "size": "21688062281",
+                    "download": "21156053232"
                 }
             },
             "decryptionkey": "8d6a6d6558a8b1c4531e3ad621a235eabb499bbdcda18dad860faf57e4274a7c"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "17170778",
-                "timeupdated": "1738154688"
+                "buildid": "18499161",
+                "timeupdated": "1747445470"
             }
         }
     }
