@@ -4,8 +4,8 @@
     "name": "Alien Swarm: Reactive Drop Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28572661",
-    "update_time": "2025-04-20 22:33:57",
+    "change_number": "29042646",
+    "update_time": "2025-05-18 02:37:26",
     "depot": {
         "1004": {
             "config": {
@@ -64,9 +64,9 @@
                     "download": "673677232"
                 },
                 "beta": {
-                    "gid": "2021005836813230203",
-                    "size": "2739181606",
-                    "download": "673721472"
+                    "gid": "8383280962723627816",
+                    "size": "2739813951",
+                    "download": "673793184"
                 }
             },
             "decryptionkey": "e8b47259be06a7ed76a9551ac6d424e292e4a5804f365602a07b3e91c34b5d6d"
@@ -77,9 +77,9 @@
                 "timeupdated": "1745159632"
             },
             "beta": {
-                "buildid": "18107026",
+                "buildid": "18504355",
                 "description": " Latest changes. Probably broken.",
-                "timeupdated": "1744680213"
+                "timeupdated": "1747507043"
             }
         }
     }
