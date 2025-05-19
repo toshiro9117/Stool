@@ -4,23 +4,23 @@
     "name": "Danger and Deadlier",
     "schinese_name": "越来越危险：逃离暗影",
     "isfreeapp": "0",
-    "change_number": "28915651",
-    "update_time": "2025-05-10 16:48:00",
+    "change_number": "29046527",
+    "update_time": "2025-05-18 14:26:08",
     "depot": {
         "3070351": {
             "manifests": {
                 "public": {
-                    "gid": "467580042086344321",
-                    "size": "4511274669",
-                    "download": "1878411616"
+                    "gid": "9175648467017025847",
+                    "size": "4511855315",
+                    "download": "1879183600"
                 }
             },
             "decryptionkey": "703fbe0f862a646e80759b7e12fe5133eb097b69dc0cb703a1ef7d4a30d9cd51"
         },
         "branches": {
             "public": {
-                "buildid": "18413169",
-                "timeupdated": "1746866876"
+                "buildid": "18507117",
+                "timeupdated": "1747549565"
             }
         }
     }
