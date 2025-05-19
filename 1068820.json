@@ -4,8 +4,8 @@
     "name": "OVR Toolkit",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28911299",
-    "update_time": "2025-05-10 07:06:57",
+    "change_number": "29045006",
+    "update_time": "2025-05-18 08:55:04",
     "depot": {
         "1068821": {
             "config": {
@@ -24,9 +24,9 @@
                     "download": "153086976"
                 },
                 "open-beta": {
-                    "gid": "2376941402674004475",
-                    "size": "955386890",
-                    "download": "195626048"
+                    "gid": "6372134784242297122",
+                    "size": "956614438",
+                    "download": "195905216"
                 },
                 "previous-release": {
                     "gid": "588968288140795784",
@@ -48,9 +48,9 @@
                 "timeupdated": "1699915438"
             },
             "open-beta": {
-                "buildid": "18224656",
+                "buildid": "18505864",
                 "description": "Open Beta",
-                "timeupdated": "1745502273"
+                "timeupdated": "1747529700"
             },
             "previous-release": {
                 "buildid": "14405330",
