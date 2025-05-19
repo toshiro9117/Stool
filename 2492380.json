@@ -4,8 +4,8 @@
     "name": "Shooting Game Builder",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28834876",
-    "update_time": "2025-05-06 13:14:05",
+    "change_number": "29033757",
+    "update_time": "2025-05-17 06:43:07",
     "depot": {
         "228989": {
             "config": {
@@ -26,9 +26,9 @@
                     "download": "34309296"
                 },
                 "experimental": {
-                    "gid": "3852044818111862594",
-                    "size": "65259308",
-                    "download": "34318272"
+                    "gid": "2674569948863351076",
+                    "size": "65261650",
+                    "download": "34318208"
                 },
                 "ver1.1.47": {
                     "gid": "4581773520320863613",
@@ -155,9 +155,9 @@
                 "timeupdated": "1745043792"
             },
             "experimental": {
-                "buildid": "18355012",
+                "buildid": "18498019",
                 "description": "experimental",
-                "timeupdated": "1746508440"
+                "timeupdated": "1747435384"
             },
             "ver1.1.47": {
                 "buildid": "18165263",
