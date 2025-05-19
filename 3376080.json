@@ -4,8 +4,8 @@
     "name": "The Leviathan's fantasy",
     "schinese_name": "我的幻想乡",
     "isfreeapp": "0",
-    "change_number": "28918215",
-    "update_time": "2025-05-10 23:33:39",
+    "change_number": "29036435",
+    "update_time": "2025-05-17 12:00:15",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -65,6 +65,9 @@
             },
             "decryptionkey": "3fe0ea7d856c0431a2fd1ce4605b7d8f379c45fa41d47f17c4a8a3ceac051d67"
         },
+        "3376082": {
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "17695213",
@@ -75,6 +78,7 @@
                 "description": "用于测试",
                 "timeupdated": "1741794623"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
