@@ -4,8 +4,8 @@
     "name": "Castle Craft",
     "schinese_name": "最强城堡",
     "isfreeapp": "0",
-    "change_number": "28882652",
-    "update_time": "2025-05-08 21:30:53",
+    "change_number": "29012391",
+    "update_time": "2025-05-16 06:12:22",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2086681": {
             "manifests": {
                 "public": {
-                    "gid": "1139848805881254902",
-                    "size": "2405570135",
-                    "download": "2187227104"
+                    "gid": "2009088992569259979",
+                    "size": "2405103094",
+                    "download": "2186751136"
                 }
             },
             "decryptionkey": "d26f1082b54bbbc389fc56aedfc2cb3f47a9a5d8257f27f6fab2dcfcbf25bae0"
         },
         "branches": {
             "public": {
-                "buildid": "18325352",
-                "timeupdated": "1746212487"
+                "buildid": "18460747",
+                "timeupdated": "1747228891"
             }
         },
         "privatebranches": "1"
