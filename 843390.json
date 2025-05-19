@@ -4,8 +4,8 @@
     "name": "Vertigo 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28848826",
-    "update_time": "2025-05-07 03:54:56",
+    "change_number": "28979378",
+    "update_time": "2025-05-14 22:46:50",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,dutch,ukrainian",
         "228989": {
@@ -18,9 +18,9 @@
         "843391": {
             "manifests": {
                 "public": {
-                    "gid": "6846715495914882373",
-                    "size": "10484602996",
-                    "download": "8733277712"
+                    "gid": "5824447818455206467",
+                    "size": "10482346459",
+                    "download": "8732365824"
                 },
                 "crunchy": {
                     "gid": "2528080387207617193",
@@ -28,9 +28,9 @@
                     "download": "2560061296"
                 },
                 "beta": {
-                    "gid": "6846715495914882373",
-                    "size": "10484602996",
-                    "download": "8733277712"
+                    "gid": "5824447818455206467",
+                    "size": "10482346459",
+                    "download": "8732365824"
                 },
                 "pre-bottomless": {
                     "gid": "5343498457472758998",
@@ -61,8 +61,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18364427",
-                "timeupdated": "1746561292"
+                "buildid": "18434931",
+                "timeupdated": "1747082706"
             },
             "crunchy": {
                 "buildid": "13918786",
@@ -70,9 +70,9 @@
                 "timeupdated": "1712074689"
             },
             "beta": {
-                "buildid": "18364427",
+                "buildid": "18434931",
                 "description": "beta",
-                "timeupdated": "1746561268"
+                "timeupdated": "1747082680"
             },
             "pre-bottomless": {
                 "buildid": "11634835",
