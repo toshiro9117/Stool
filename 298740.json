@@ -4,8 +4,8 @@
     "name": "Space Engineers Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28904253",
-    "update_time": "2025-05-09 23:06:57",
+    "change_number": "29028327",
+    "update_time": "2025-05-17 00:17:12",
     "depot": {
         "1004": {
             "config": {
@@ -73,9 +73,9 @@
         "298741": {
             "manifests": {
                 "public": {
-                    "gid": "4676763767941647098",
-                    "size": "7253390373",
-                    "download": "1564268624"
+                    "gid": "4971221875897048817",
+                    "size": "7253408181",
+                    "download": "1564266528"
                 },
                 "1.189": {
                     "gid": "242985783397483595",
@@ -172,8 +172,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18323353",
-                "timeupdated": "1746200469"
+                "buildid": "18373443",
+                "timeupdated": "1747144914"
             },
             "1.189": {
                 "buildid": "3664468",
