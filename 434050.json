@@ -4,8 +4,8 @@
     "name": "Duke Nukem 3D: 20th Anniversary World Tour",
     "schinese_name": "毁灭公爵3D：20周年世界之旅",
     "isfreeapp": "0",
-    "change_number": "28323260",
-    "update_time": "2025-04-05 20:10:55",
+    "change_number": "28973357",
+    "update_time": "2025-05-14 12:27:51",
     "depot": {
         "workshopdepot": "434050",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese,brazilian",
@@ -56,6 +56,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "17ff9e62712e93a245f53a899b45dc108dc33bdd4ecb215e6019097071913426"
     }
 }
