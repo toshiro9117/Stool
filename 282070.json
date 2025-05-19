@@ -4,8 +4,8 @@
     "name": "This War of Mine",
     "schinese_name": "这是我的战争",
     "isfreeapp": "0",
-    "change_number": "27833986",
-    "update_time": "2025-03-07 19:20:28",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:52",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
@@ -168,6 +168,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "fe6e6a89b726d9c05a497190f0fc3246543f146d4ca7d5e0835461754229642b"
     }
 }
