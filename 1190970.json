@@ -4,16 +4,16 @@
     "name": "House Flipper 2",
     "schinese_name": "房产达人 2",
     "isfreeapp": "0",
-    "change_number": "28922156",
-    "update_time": "2025-05-11 10:01:36",
+    "change_number": "29047936",
+    "update_time": "2025-05-18 18:30:56",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,norwegian,turkish,brazilian,ukrainian,latam",
         "1190971": {
             "manifests": {
                 "public": {
-                    "gid": "8820744748546580434",
-                    "size": "9728779093",
-                    "download": "8278040288"
+                    "gid": "2890442336681381968",
+                    "size": "10127972915",
+                    "download": "8620652656"
                 }
             },
             "decryptionkey": "a6202777d416dcf4d2f36cc5f7a69f90cca6e1bfbde6e27eaa4e97e86c7d3196"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18118749",
-                "timeupdated": "1744963611"
+                "buildid": "18488652",
+                "timeupdated": "1747396983"
             }
         },
         "privatebranches": "1"
