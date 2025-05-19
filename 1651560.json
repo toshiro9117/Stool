@@ -4,15 +4,15 @@
     "name": "Fabledom",
     "schinese_name": "寓言之地 (Fabledom)",
     "isfreeapp": "0",
-    "change_number": "28622165",
-    "update_time": "2025-04-23 20:52:55",
+    "change_number": "29003384",
+    "update_time": "2025-05-15 21:33:39",
     "depot": {
         "1651561": {
             "manifests": {
                 "public": {
-                    "gid": "6015857579935377412",
-                    "size": "4029865667",
-                    "download": "1450690944"
+                    "gid": "2922201590293598515",
+                    "size": "4030914299",
+                    "download": "1450680912"
                 },
                 "fabledom_1.07_update": {
                     "gid": "2661599579044441318",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18195985",
-                "timeupdated": "1745412772"
+                "buildid": "18457870",
+                "timeupdated": "1747316016"
             },
             "fabledom_1.07_update": {
                 "buildid": "18069119",
