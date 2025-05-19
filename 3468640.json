@@ -4,8 +4,8 @@
     "name": "AFL 26",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921393",
-    "update_time": "2025-05-11 07:31:30",
+    "change_number": "29045689",
+    "update_time": "2025-05-18 11:13:34",
     "depot": {
         "228988": {
             "config": {
@@ -31,17 +31,17 @@
         "3468641": {
             "manifests": {
                 "public": {
-                    "gid": "1893298055864761185",
-                    "size": "92823683353",
-                    "download": "88679706544"
+                    "gid": "8026639198911778455",
+                    "size": "92825368289",
+                    "download": "88680735616"
                 }
             },
             "decryptionkey": "54b5a9f3588ad385739af2f66921a9c534d8df0b56643b96b60d5ef37583584d"
         },
         "branches": {
             "public": {
-                "buildid": "18398394",
-                "timeupdated": "1746781077"
+                "buildid": "18453142",
+                "timeupdated": "1747212567"
             }
         },
         "privatebranches": "1"
