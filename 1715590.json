@@ -4,15 +4,15 @@
     "name": "Wizordum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28910589",
-    "update_time": "2025-05-10 06:04:27",
+    "change_number": "29040649",
+    "update_time": "2025-05-17 22:12:59",
     "depot": {
         "1715591": {
             "manifests": {
                 "public": {
-                    "gid": "9169266984876247251",
-                    "size": "878758837",
-                    "download": "285303392"
+                    "gid": "6183035261950562094",
+                    "size": "865106386",
+                    "download": "286241184"
                 },
                 "previous": {
                     "gid": "939624733719022001",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18380190",
-                "timeupdated": "1746652551"
+                "buildid": "18496481",
+                "timeupdated": "1747425578"
             },
             "previous": {
                 "buildid": "18313424",
