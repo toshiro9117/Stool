@@ -4,8 +4,8 @@
     "name": "Green Hell",
     "schinese_name": "绿色地狱",
     "isfreeapp": "0",
-    "change_number": "28835973",
-    "update_time": "2025-05-06 15:05:59",
+    "change_number": "28997669",
+    "update_time": "2025-05-15 16:19:13",
     "depot": {
         "815371": {
             "manifests": {
@@ -25,9 +25,9 @@
         "815372": {
             "manifests": {
                 "public": {
-                    "gid": "21894754054490575",
-                    "size": "8504732342",
-                    "download": "5762729728"
+                    "gid": "7603326693566120265",
+                    "size": "8504799447",
+                    "download": "5762768304"
                 },
                 "public_test": {
                     "gid": "7103309609447664054",
@@ -40,8 +40,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17225899",
-                "timeupdated": "1738672016"
+                "buildid": "18461298",
+                "timeupdated": "1747292520"
             },
             "public_test": {
                 "buildid": "7223899",
