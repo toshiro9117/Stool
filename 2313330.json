@@ -4,8 +4,8 @@
     "name": "TerraTech Worlds",
     "schinese_name": "泰拉科技世界",
     "isfreeapp": "0",
-    "change_number": "28901559",
-    "update_time": "2025-05-09 20:32:35",
+    "change_number": "29028777",
+    "update_time": "2025-05-17 00:36:14",
     "depot": {
         "228989": {
             "config": {
@@ -28,15 +28,15 @@
                     "size": "8979978647",
                     "download": "2790417616"
                 },
+                "ttw_unstable": {
+                    "gid": "8572921994996528618",
+                    "size": "8980083095",
+                    "download": "2790422752"
+                },
                 "legacy_0.5_build": {
                     "gid": "29336971284646861",
                     "size": "10134019365",
                     "download": "2864736384"
-                },
-                "ttw_unstable": {
-                    "gid": "3637510435570749068",
-                    "size": "8979978647",
-                    "download": "2790417616"
                 }
             },
             "decryptionkey": "8ee1a4fafbd70d88f090b0ea5334848b76fc0833f64012b442b92183465bddc1"
@@ -50,15 +50,15 @@
                 "buildid": "18237199",
                 "timeupdated": "1745581888"
             },
+            "ttw_unstable": {
+                "buildid": "18491488",
+                "description": "Work-in-progress version",
+                "timeupdated": "1747413368"
+            },
             "legacy_0.5_build": {
                 "buildid": "15162671",
                 "description": "Legacy 0.5 build",
                 "timeupdated": "1734534477"
-            },
-            "ttw_unstable": {
-                "buildid": "18237199",
-                "description": "Work-in-progress version",
-                "timeupdated": "1745581694"
             }
         },
         "privatebranches": "1",
