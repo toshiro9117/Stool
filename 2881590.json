@@ -4,8 +4,8 @@
     "name": "PropFight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28884040",
-    "update_time": "2025-05-08 22:39:34",
+    "change_number": "29048091",
+    "update_time": "2025-05-18 18:57:07",
     "depot": {
         "hasdepotsindlc": "0",
         "2881591": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "642618743012280525",
+                    "gid": "3141256138741369867",
                     "size": "282276100",
-                    "download": "203411136"
+                    "download": "203449904"
                 },
                 "local": {
                     "gid": "4891832062130733736",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1277153516543736887",
-                    "size": "254348350",
-                    "download": "197770768"
+                    "gid": "2415418707339918320",
+                    "size": "254349754",
+                    "download": "197839024"
                 },
                 "local": {
                     "gid": "6385307567211183637",
@@ -50,8 +50,8 @@
         "workshopdepot": "2881590",
         "branches": {
             "public": {
-                "buildid": "18390204",
-                "timeupdated": "1746715168"
+                "buildid": "18508172",
+                "timeupdated": "1747565821"
             },
             "local": {
                 "buildid": "13715924",
