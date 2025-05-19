@@ -4,8 +4,8 @@
     "name": "Saleblazers Dedicated Server (Beta)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28914750",
-    "update_time": "2025-05-10 14:35:53",
+    "change_number": "28988833",
+    "update_time": "2025-05-15 04:09:14",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
         "3099601": {
             "manifests": {
                 "public": {
-                    "gid": "2759727736056428554",
-                    "size": "4062642874",
-                    "download": "1483685872"
+                    "gid": "8573789797341122339",
+                    "size": "4064029431",
+                    "download": "1553078736"
                 },
                 "experimental": {
                     "gid": "8137224420065128601",
@@ -80,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18151316",
-                "timeupdated": "1744936039"
+                "buildid": "18412495",
+                "timeupdated": "1747071053"
             },
             "experimental": {
                 "buildid": "17907792",
