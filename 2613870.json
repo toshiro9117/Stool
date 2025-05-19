@@ -4,15 +4,15 @@
     "name": "BattleCore Arena",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28800957",
-    "update_time": "2025-05-03 22:30:29",
+    "change_number": "28984351",
+    "update_time": "2025-05-14 23:43:42",
     "depot": {
         "2613871": {
             "manifests": {
                 "public": {
-                    "gid": "4783415857498792631",
-                    "size": "3224695479",
-                    "download": "3097981440"
+                    "gid": "3075019914964586029",
+                    "size": "3223626630",
+                    "download": "3099777072"
                 }
             }
         },
@@ -30,8 +30,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "17185340",
-                "timeupdated": "1738246403"
+                "buildid": "18461722",
+                "timeupdated": "1747237416"
             }
         },
         "privatebranches": "1"
