@@ -4,8 +4,8 @@
     "name": "Zortch",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28095928",
-    "update_time": "2025-03-23 21:20:03",
+    "change_number": "29012034",
+    "update_time": "2025-05-16 05:42:42",
     "depot": {
         "2443361": {
             "manifests": {
@@ -34,6 +34,6 @@
                 "timeupdated": "1717890450"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "9207a3182c4e310edf14a2f58c69610be71a11451fecdd01156fb4cffb22ec60"
     }
 }
