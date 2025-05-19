@@ -4,8 +4,8 @@
     "name": "Troublemaker 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28713511",
-    "update_time": "2025-04-29 03:42:24",
+    "change_number": "28963547",
+    "update_time": "2025-05-13 23:35:28",
     "depot": {
         "228988": {
             "config": {
@@ -76,17 +76,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4854260093699755218",
-                    "size": "5276076039",
-                    "download": "4855140528"
+                    "gid": "6795533895460616328",
+                    "size": "5352893041",
+                    "download": "4926858304"
                 }
             },
             "decryptionkey": "b11b3b0e202153884e017b272cc272864f1cf8de719b803ac23c4c7a7533ca48"
         },
         "branches": {
             "public": {
-                "buildid": "18113573",
-                "timeupdated": "1744721084"
+                "buildid": "18442450",
+                "timeupdated": "1747150500"
             }
         },
         "privatebranches": "1"
