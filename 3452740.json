@@ -4,8 +4,8 @@
     "name": "Oil Refinery - The Simulation",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28880988",
-    "update_time": "2025-05-08 19:46:59",
+    "change_number": "29010789",
+    "update_time": "2025-05-16 04:12:56",
     "depot": {
         "228989": {
             "config": {
@@ -31,17 +31,17 @@
         "3452741": {
             "manifests": {
                 "public": {
-                    "gid": "2620817884262283667",
-                    "size": "2183495446",
-                    "download": "2006971504"
+                    "gid": "3839335073524947921",
+                    "size": "2183487190",
+                    "download": "2008447344"
                 }
             },
             "decryptionkey": "f613abb7540ef16b58987d29c3c89f5dabb995d22925345080548b57c44d74b4"
         },
         "branches": {
             "public": {
-                "buildid": "18387876",
-                "timeupdated": "1746704815"
+                "buildid": "18425126",
+                "timeupdated": "1747030205"
             }
         },
         "privatebranches": "1"
