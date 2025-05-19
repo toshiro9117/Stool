@@ -4,8 +4,8 @@
     "name": "Panzer War:Definitely Edition",
     "schinese_name": "装甲纷争:决定版",
     "isfreeapp": "0",
-    "change_number": "28853201",
-    "update_time": "2025-05-07 10:34:44",
+    "change_number": "29035703",
+    "update_time": "2025-05-17 10:15:34",
     "depot": {
         "baselanguages": "english,schinese,russian,ukrainian",
         "hasdepotsindlc": "1",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1388838528453419945",
-                    "size": "8587992709",
-                    "download": "6036309568"
+                    "gid": "5238985525028962986",
+                    "size": "8588047816",
+                    "download": "6036678928"
                 },
                 "old_frag_replay": {
                     "gid": "8947390067449636522",
@@ -32,9 +32,9 @@
                     "download": "4686985760"
                 },
                 "supertest": {
-                    "gid": "1388838528453419945",
-                    "size": "8587992709",
-                    "download": "6036309568"
+                    "gid": "5238985525028962986",
+                    "size": "8588047816",
+                    "download": "6036678928"
                 }
             },
             "decryptionkey": "b76b149da694cf2ce80690e30879f3eeb86839127d379a035a7bfeac8fc3bc87"
@@ -75,8 +75,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18367893",
-                "timeupdated": "1746585280"
+                "buildid": "18499461",
+                "timeupdated": "1747448131"
             },
             "old_frag_replay": {
                 "buildid": "15037801",
@@ -89,9 +89,9 @@
                 "timeupdated": "1720492193"
             },
             "supertest": {
-                "buildid": "18367893",
+                "buildid": "18499461",
                 "description": "Super Test",
-                "timeupdated": "1746585237"
+                "timeupdated": "1747448109"
             }
         },
         "privatebranches": "1",
