@@ -4,8 +4,8 @@
     "name": "Subnautica: Below Zero",
     "schinese_name": "深海迷航：冰点之下",
     "isfreeapp": "0",
-    "change_number": "28888641",
-    "update_time": "2025-05-09 03:02:41",
+    "change_number": "29040530",
+    "update_time": "2025-05-17 21:59:26",
     "depot": {
         "228985": {
             "config": {
@@ -38,9 +38,9 @@
                     "download": "5086432192"
                 },
                 "experimental": {
-                    "gid": "6865983159363083859",
-                    "size": "8477659061",
-                    "download": "5086485280"
+                    "gid": "1195151912818737856",
+                    "size": "8477159015",
+                    "download": "5086301248"
                 }
             },
             "decryptionkey": "2faf06aaa2ceea761e8a38f7f8f72d4c64e3768d5e94c600e3c671f2eeffa17e"
@@ -61,9 +61,9 @@
                     "download": "5097309968"
                 },
                 "experimental": {
-                    "gid": "8980192540215406816",
-                    "size": "8555760366",
-                    "download": "5097338208"
+                    "gid": "3294751279953619034",
+                    "size": "8555260317",
+                    "download": "5097152176"
                 }
             },
             "decryptionkey": "396d4aced9c9e5f7fa7f07f8971b1f0d673438dc324831ebd79a9cce5ae693b8"
@@ -79,9 +79,9 @@
                 "timeupdated": "1665698882"
             },
             "experimental": {
-                "buildid": "14907155",
+                "buildid": "18502869",
                 "description": "Automatic daily updates. Lots of bugs!",
-                "timeupdated": "1719927383"
+                "timeupdated": "1747489087"
             }
         },
         "privatebranches": "1"
