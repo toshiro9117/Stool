@@ -4,8 +4,8 @@
     "name": "Mini Settlers",
     "schinese_name": "小小城建 Mini Settlers",
     "isfreeapp": "0",
-    "change_number": "28919632",
-    "update_time": "2025-05-11 02:58:13",
+    "change_number": "29030344",
+    "update_time": "2025-05-17 02:14:50",
     "depot": {
         "2521631": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5929404649995735986",
-                    "size": "926513398",
-                    "download": "325051648"
+                    "gid": "4656086993732340043",
+                    "size": "926514894",
+                    "download": "325056912"
                 },
                 "earlyaccess_build": {
                     "gid": "5404401322768448737",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18415831",
-                "timeupdated": "1746903466"
+                "buildid": "18419775",
+                "timeupdated": "1746965653"
             },
             "earlyaccess_build": {
                 "buildid": "16362871",
