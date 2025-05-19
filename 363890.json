@@ -4,8 +4,8 @@
     "name": "RPG Maker MV",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28879081",
-    "update_time": "2025-05-08 17:42:08",
+    "change_number": "29042899",
+    "update_time": "2025-05-18 03:11:32",
     "depot": {
         "workshopdepot": "363890",
         "hasdepotsindlc": "1",
@@ -67972,10 +67972,71 @@
             },
             "decryptionkey": ""
         },
+        "3699640": {
+            "dlcappid": "3699640",
+            "manifests": {
+                "public": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.0.1": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.1.0": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.2.0": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.3.5": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.4.1": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.5.1": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.5.2": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.6.2": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.6.3": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                },
+                "v1.6.3a": {
+                    "gid": "6059663586340207912",
+                    "size": "8373317",
+                    "download": "3742640"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18386801",
-                "timeupdated": "1746697321"
+                "buildid": "18433302",
+                "timeupdated": "1747074164"
             },
             "open_beta": {
                 "buildid": "16990438",
@@ -67983,46 +68044,46 @@
                 "timeupdated": "1736794518"
             },
             "v1.0.1": {
-                "buildid": "18386742",
-                "timeupdated": "1746697074"
+                "buildid": "18433247",
+                "timeupdated": "1747073940"
             },
             "v1.1.0": {
-                "buildid": "18386754",
-                "timeupdated": "1746697100"
+                "buildid": "18433249",
+                "timeupdated": "1747073961"
             },
             "v1.2.0": {
-                "buildid": "18386761",
-                "timeupdated": "1746697132"
+                "buildid": "18433257",
+                "timeupdated": "1747073980"
             },
             "v1.3.5": {
-                "buildid": "18386763",
-                "timeupdated": "1746697149"
+                "buildid": "18433263",
+                "timeupdated": "1747073998"
             },
             "v1.4.1": {
-                "buildid": "18386769",
-                "timeupdated": "1746697168"
+                "buildid": "18433270",
+                "timeupdated": "1747074015"
             },
             "v1.5.1": {
-                "buildid": "18386774",
-                "timeupdated": "1746697184"
+                "buildid": "18433273",
+                "timeupdated": "1747074033"
             },
             "v1.5.2": {
-                "buildid": "18386776",
-                "timeupdated": "1746697198"
+                "buildid": "18433279",
+                "timeupdated": "1747074050"
             },
             "v1.6.2": {
-                "buildid": "18386779",
-                "timeupdated": "1746697216"
+                "buildid": "18433285",
+                "timeupdated": "1747074073"
             },
             "v1.6.3": {
-                "buildid": "18386785",
+                "buildid": "18433292",
                 "description": "v1.6.3",
-                "timeupdated": "1746697231"
+                "timeupdated": "1747074092"
             },
             "v1.6.3a": {
-                "buildid": "18386789",
+                "buildid": "18433294",
                 "description": "v1.6.3a",
-                "timeupdated": "1746697246"
+                "timeupdated": "1747074110"
             }
         },
         "privatebranches": "1",
