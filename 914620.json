@@ -4,8 +4,8 @@
     "name": "Mist Survival",
     "schinese_name": "迷霧生存",
     "isfreeapp": "0",
-    "change_number": "28847970",
-    "update_time": "2025-05-07 02:59:53",
+    "change_number": "29038469",
+    "update_time": "2025-05-17 17:13:49",
     "depot": {
         "228986": {
             "config": {
@@ -44,9 +44,9 @@
                     "download": "9664396560"
                 },
                 "devtest": {
-                    "gid": "2119618038062794999",
-                    "size": "28583630382",
-                    "download": "13492527584"
+                    "gid": "5951148004030853231",
+                    "size": "28583530988",
+                    "download": "13491039984"
                 }
             },
             "decryptionkey": "3de6377dcc0c7e93bb1fdd7a9b8b9f13d72ab35f016e283d585b3a595f8b6367"
@@ -67,9 +67,9 @@
                 "timeupdated": "1701788038"
             },
             "devtest": {
-                "buildid": "18363518",
+                "buildid": "18492787",
                 "description": "Test Branch",
-                "timeupdated": "1746557987"
+                "timeupdated": "1747473224"
             }
         },
         "privatebranches": "1"
