@@ -4,8 +4,8 @@
     "name": "Everholm",
     "schinese_name": "永恒岛梦旅",
     "isfreeapp": "0",
-    "change_number": "28810021",
-    "update_time": "2025-05-04 21:28:48",
+    "change_number": "29039784",
+    "update_time": "2025-05-17 20:13:09",
     "depot": {
         "2312521": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "185449440"
                 },
                 "public-beta": {
-                    "gid": "6969875442197679804",
-                    "size": "1561678860",
-                    "download": "185456128"
+                    "gid": "6610800627145129560",
+                    "size": "1561548476",
+                    "download": "185408912"
                 }
             },
             "decryptionkey": "2a14f67a943e532e9b9823337407ef6bc13e31d557f095c70b8b84e2b414658e"
@@ -34,9 +34,9 @@
                 "timeupdated": "1745505910"
             },
             "public-beta": {
-                "buildid": "18224162",
+                "buildid": "18490109",
                 "description": "For public",
-                "timeupdated": "1745505847"
+                "timeupdated": "1747393450"
             }
         },
         "privatebranches": "1"
