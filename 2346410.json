@@ -4,8 +4,8 @@
     "name": "Border Pioneer",
     "schinese_name": "边境开拓者",
     "isfreeapp": "0",
-    "change_number": "28916886",
-    "update_time": "2025-05-10 20:13:50",
+    "change_number": "29042905",
+    "update_time": "2025-05-18 03:12:13",
     "depot": {
         "baselanguages": "",
         "workshopdepot": "2346410",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5472966203045164052",
-                    "size": "488753801",
-                    "download": "260816432"
+                    "gid": "1067812077674089121",
+                    "size": "489044497",
+                    "download": "260896688"
                 },
                 "macos-universal-test": {
                     "gid": "8516521781901950876",
@@ -25,9 +25,9 @@
                     "download": "258693104"
                 },
                 "windows7compatibility": {
-                    "gid": "8686825993308402797",
-                    "size": "435380337",
-                    "download": "248029040"
+                    "gid": "7084719317061906127",
+                    "size": "435671033",
+                    "download": "248109296"
                 },
                 "windows11test": {
                     "gid": "4773679553602128410",
@@ -49,14 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7870123106126803138",
-                    "size": "469720334",
-                    "download": "255625440"
+                    "gid": "4745269107038325801",
+                    "size": "470011030",
+                    "download": "255705696"
                 },
                 "macos-universal-test": {
-                    "gid": "3831159385195202037",
-                    "size": "661270262",
-                    "download": "310518464"
+                    "gid": "5870709412352503605",
+                    "size": "661560958",
+                    "download": "310598720"
                 },
                 "windows7compatibility": {
                     "gid": "5015957073761543182",
@@ -69,27 +69,27 @@
                     "download": "307374864"
                 },
                 "macos-arm64": {
-                    "gid": "3628025037913234794",
-                    "size": "465401038",
-                    "download": "247650272"
+                    "gid": "1202617697370754184",
+                    "size": "465691734",
+                    "download": "247730528"
                 }
             },
             "decryptionkey": "ebe8752fee2158c9d8e60668c78b9788c8f6f3ddc530f5cb3df579ead78edd7f"
         },
         "branches": {
             "public": {
-                "buildid": "17900350",
-                "timeupdated": "1743176952"
+                "buildid": "18446638",
+                "timeupdated": "1747148583"
             },
             "macos-universal-test": {
-                "buildid": "17900359",
+                "buildid": "18446657",
                 "description": "MacOS-universal-TEST",
-                "timeupdated": "1743176902"
+                "timeupdated": "1747148559"
             },
             "windows7compatibility": {
-                "buildid": "17900361",
+                "buildid": "18446653",
                 "description": "WIN7旧版本",
-                "timeupdated": "1743176911"
+                "timeupdated": "1747148546"
             },
             "windows11test": {
                 "buildid": "18414070",
@@ -97,9 +97,9 @@
                 "timeupdated": "1746879225"
             },
             "macos-arm64": {
-                "buildid": "17900368",
+                "buildid": "18446648",
                 "description": "MacOS-arm64",
-                "timeupdated": "1743176922"
+                "timeupdated": "1747148534"
             }
         },
         "privatebranches": "1",
