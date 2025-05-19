@@ -4,8 +4,8 @@
     "name": "Maximum Action",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27852863",
-    "update_time": "2025-03-09 02:28:29",
+    "change_number": "28979645",
+    "update_time": "2025-05-14 22:47:14",
     "depot": {
         "workshopdepot": "853770",
         "853772": {
@@ -72,6 +72,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4f32dda37e1c25d6992df4c6b41763c4d516b24a84e4479f271dcc4d3dc30d30"
     }
 }
