@@ -4,8 +4,8 @@
     "name": "Farm Manager World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919540",
-    "update_time": "2025-05-11 02:43:16",
+    "change_number": "29037149",
+    "update_time": "2025-05-17 13:51:55",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2206351": {
             "manifests": {
                 "public": {
-                    "gid": "244516153504871105",
-                    "size": "11743934762",
-                    "download": "6298023312"
+                    "gid": "6741581838326870257",
+                    "size": "11744167704",
+                    "download": "6298355200"
                 },
                 "publicbeta": {
                     "gid": "8516360038217722523",
@@ -32,8 +32,8 @@
         "workshopdepot": "2206350",
         "branches": {
             "public": {
-                "buildid": "18415784",
-                "timeupdated": "1746902590"
+                "buildid": "18464663",
+                "timeupdated": "1747246975"
             },
             "publicbeta": {
                 "buildid": "17981596",
