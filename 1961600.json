@@ -4,8 +4,8 @@
     "name": "Darfall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922543",
-    "update_time": "2025-05-11 11:32:59",
+    "change_number": "29039371",
+    "update_time": "2025-05-17 19:18:15",
     "depot": {
         "1961601": {
             "config": {
@@ -13,19 +13,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1686423097071404722",
-                    "size": "4249916932",
-                    "download": "1853542592"
+                    "gid": "4688362966421019041",
+                    "size": "4250152052",
+                    "download": "1853612864"
+                },
+                "ptr-1": {
+                    "gid": "45727068817031837",
+                    "size": "4250353970",
+                    "download": "1853678208"
+                },
+                "ptr-2": {
+                    "gid": "4857288066993722191",
+                    "size": "4250164242",
+                    "download": "1853613904"
                 },
                 "ptr-osx": {
-                    "gid": "5075850112434783734",
-                    "size": "4249914675",
-                    "download": "1853543056"
-                },
-                "ptr-stable": {
-                    "gid": "6197275962223745152",
-                    "size": "4249900673",
-                    "download": "1853535920"
+                    "gid": "8414385900372025860",
+                    "size": "4249918500",
+                    "download": "1853549776"
                 }
             },
             "decryptionkey": "648e64e57df4bde6e9a0e771af2cc97e87617a73b96057c3c67a788fab747bdb"
@@ -40,33 +45,43 @@
                     "size": "0",
                     "download": "0"
                 },
-                "ptr-osx": {
-                    "gid": "4180911116842233927",
-                    "size": "4214149569",
-                    "download": "1819582128"
+                "ptr-1": {
+                    "gid": "8211938843249727105",
+                    "size": "0",
+                    "download": "0"
                 },
-                "ptr-stable": {
-                    "gid": "4180911116842233927",
-                    "size": "4214149569",
-                    "download": "1819582128"
+                "ptr-2": {
+                    "gid": "8211938843249727105",
+                    "size": "0",
+                    "download": "0"
+                },
+                "ptr-osx": {
+                    "gid": "5782595649130144157",
+                    "size": "4214233870",
+                    "download": "1819653024"
                 }
             }
         },
         "workshopdepot": "1961600",
         "branches": {
             "public": {
-                "buildid": "18415608",
-                "timeupdated": "1746901668"
+                "buildid": "18492757",
+                "timeupdated": "1747411330"
+            },
+            "ptr-1": {
+                "buildid": "18492557",
+                "description": "[Prod] Public Test Branch 1 for testing early builds. Expect issues.",
+                "timeupdated": "1747404829"
+            },
+            "ptr-2": {
+                "buildid": "18502218",
+                "description": "\t[Prod] Public Test Branch 2 for testing early builds. Expect issues.",
+                "timeupdated": "1747480692"
             },
             "ptr-osx": {
-                "buildid": "18413248",
+                "buildid": "18448723",
                 "description": "[Prod] Public Test Branch for MacOS build",
-                "timeupdated": "1746867980"
-            },
-            "ptr-stable": {
-                "buildid": "18402927",
-                "description": "[Prod] Public Test Branch for testing early builds. Expect issues.",
-                "timeupdated": "1746793333"
+                "timeupdated": "1747158338"
             }
         },
         "privatebranches": "1",
