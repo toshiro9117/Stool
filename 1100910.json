@@ -4,10 +4,11 @@
     "name": "鬼哭岭",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28857172",
-    "update_time": "2025-05-07 16:08:38",
+    "change_number": "29030358",
+    "update_time": "2025-05-17 02:15:09",
     "depot": {
-        "baselanguages": "",
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
         "1100911": {
             "config": {
                 "oslist": "windows"
@@ -21,11 +22,24 @@
             },
             "decryptionkey": "760aeecde28db6521c27b4d765166beed7b2a4bad578c13d86366ccd6825e128"
         },
-        "hasdepotsindlc": "0",
+        "3726170": {
+            "dlcappid": "3726170",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7593661029837381308",
+                    "size": "30232214",
+                    "download": "29740784"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18294042",
-                "timeupdated": "1746008804"
+                "buildid": "18495420",
+                "timeupdated": "1747419305"
             }
         }
     }
