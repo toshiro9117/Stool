@@ -4,8 +4,8 @@
     "name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28593143",
-    "update_time": "2025-04-22 10:59:00",
+    "change_number": "29008897",
+    "update_time": "2025-05-16 02:10:33",
     "depot": {
         "2564581": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8396311390983898379",
-                    "size": "1214428135",
-                    "download": "892489488"
+                    "gid": "7635707382126950774",
+                    "size": "1214428110",
+                    "download": "892489408"
                 },
                 "2.3.3k": {
                     "gid": "2489635988062247145",
@@ -37,7 +37,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4193421601593023119",
+                    "gid": "4479581622200963615",
                     "size": "1214445635",
                     "download": "892763088"
                 },
@@ -57,8 +57,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17412126",
-                "timeupdated": "1741697573"
+                "buildid": "18026045",
+                "timeupdated": "1747310124"
             },
             "2.3.3k": {
                 "buildid": "15001256",
