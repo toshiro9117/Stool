@@ -4,8 +4,8 @@
     "name": "SAELIG",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28820010",
-    "update_time": "2025-05-05 18:02:26",
+    "change_number": "29048198",
+    "update_time": "2025-05-18 19:14:59",
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -39,9 +39,9 @@
                     "download": "4470613472"
                 },
                 "testbuilds": {
-                    "gid": "8996536988433148563",
-                    "size": "11082527411",
-                    "download": "4471718896"
+                    "gid": "4935048781470293445",
+                    "size": "11197373701",
+                    "download": "4475277600"
                 }
             },
             "decryptionkey": "d3575fdef5f8a4429ed0be59eb02c6992fe5037e76f3ab08e33f2e8729a51e8e"
@@ -63,9 +63,9 @@
                     "download": "4707565088"
                 },
                 "testbuilds": {
-                    "gid": "8862923295452384519",
-                    "size": "12307706116",
-                    "download": "4717400800"
+                    "gid": "1085816586600014488",
+                    "size": "12575294313",
+                    "download": "4721397360"
                 }
             },
             "decryptionkey": "d91319bdf93b20e0aa4fb1489a78275aae6763acd5e4b8f97b6c56583b95bb56"
@@ -86,9 +86,9 @@
                     "download": "4438687264"
                 },
                 "testbuilds": {
-                    "gid": "2354796029685091195",
-                    "size": "10936394440",
-                    "download": "4448495488"
+                    "gid": "665198993280240206",
+                    "size": "11206026894",
+                    "download": "4465297136"
                 }
             },
             "decryptionkey": "da6b749c1231609d17710244325041e79623a34dafe113ec694486f2a8101edb"
@@ -104,9 +104,9 @@
                 "timeupdated": "1740371841"
             },
             "testbuilds": {
-                "buildid": "18344793",
+                "buildid": "18508249",
                 "description": "test builds",
-                "timeupdated": "1746439337"
+                "timeupdated": "1747566896"
             }
         },
         "privatebranches": "1"
