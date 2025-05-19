@@ -4,8 +4,8 @@
     "name": "Emissary Zero Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28191825",
-    "update_time": "2025-03-28 22:00:11",
+    "change_number": "29044063",
+    "update_time": "2025-05-18 06:15:33",
     "depot": {
         "228989": {
             "config": {
@@ -28,7 +28,8 @@
                     "size": "4706803057",
                     "download": "4522608768"
                 }
-            }
+            },
+            "decryptionkey": "27b242ff8edfcc2412b0a47fc5b8c608cd19afe5ac5c79db74b4bc1feede3836"
         },
         "branches": {
             "public": {
