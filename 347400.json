@@ -4,8 +4,8 @@
     "name": "001 Game Creator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28890972",
-    "update_time": "2025-05-09 05:57:18",
+    "change_number": "28972227",
+    "update_time": "2025-05-14 10:47:46",
     "depot": {
         "347401": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1613963218013947813",
-                    "size": "1650135578",
-                    "download": "366454768"
+                    "gid": "253065536830586219",
+                    "size": "1650124125",
+                    "download": "366451120"
                 },
                 "previous_version": {
                     "gid": "3275001585216653107",
@@ -262,8 +262,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18352612",
-                "timeupdated": "1746741262"
+                "buildid": "18447363",
+                "timeupdated": "1747153981"
             },
             "previous_version": {
                 "buildid": "14945960",
