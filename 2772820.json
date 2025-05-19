@@ -4,8 +4,8 @@
     "name": "ButtKnight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919656",
-    "update_time": "2025-05-11 03:02:46",
+    "change_number": "29014472",
+    "update_time": "2025-05-16 09:12:46",
     "depot": {
         "baselanguages": "english",
         "2772821": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7884898117196401396",
-                    "size": "2341779789",
-                    "download": "581600912"
+                    "gid": "9079707641501047880",
+                    "size": "2333558754",
+                    "download": "578693568"
                 }
             },
             "decryptionkey": "d9cb8cd6f940a0c4f850fd34e68dfe7ff611d4882b9b00dc6815275894e476e2"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5266039873685942995",
-                    "size": "2381087222",
-                    "download": "593081840"
+                    "gid": "7398277561731481614",
+                    "size": "2358079103",
+                    "download": "587249840"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18331717",
-                "timeupdated": "1746778780"
+                "buildid": "18427040",
+                "timeupdated": "1747044235"
             }
         },
         "privatebranches": "1"
