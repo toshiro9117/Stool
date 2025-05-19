@@ -4,8 +4,8 @@
     "name": "Hachishaku",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922666",
-    "update_time": "2025-05-11 12:02:50",
+    "change_number": "29048545",
+    "update_time": "2025-05-18 20:16:18",
     "depot": {
         "228981": {
             "config": {
@@ -66,17 +66,17 @@
         "3572581": {
             "manifests": {
                 "public": {
-                    "gid": "4251355222543599118",
-                    "size": "7191040006",
-                    "download": "2499200288"
+                    "gid": "7520122074603695922",
+                    "size": "7325628804",
+                    "download": "2550896976"
                 }
             },
             "decryptionkey": "b0ca124ae5018d1edd1987ae01a800a4de5e0bd18fee2ff27ea588b1740813d3"
         },
         "branches": {
             "public": {
-                "buildid": "18417647",
-                "timeupdated": "1746931257"
+                "buildid": "18504510",
+                "timeupdated": "1747511698"
             }
         }
     }
