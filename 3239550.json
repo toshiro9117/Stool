@@ -4,33 +4,33 @@
     "name": "ATC Ground Point",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28883706",
-    "update_time": "2025-05-08 22:17:29",
+    "change_number": "28954124",
+    "update_time": "2025-05-13 14:21:48",
     "depot": {
         "3239551": {
             "manifests": {
                 "public": {
-                    "gid": "4527026037586984664",
-                    "size": "2290705593",
-                    "download": "266059216"
+                    "gid": "2211420691105700943",
+                    "size": "2290625014",
+                    "download": "270403888"
                 },
                 "publicbeta": {
-                    "gid": "3863227521006859043",
-                    "size": "2290968825",
-                    "download": "266060880"
+                    "gid": "2439285754075338875",
+                    "size": "2290624870",
+                    "download": "270403872"
                 }
             },
             "decryptionkey": "c8cf68ff7c5f23849eec1b5532e7f9d718d4cb397a5b398b9894d8b46a99aa8f"
         },
         "branches": {
             "public": {
-                "buildid": "18389758",
-                "timeupdated": "1746713842"
+                "buildid": "18439823",
+                "timeupdated": "1747117303"
             },
             "publicbeta": {
-                "buildid": "18389535",
+                "buildid": "18439901",
                 "description": "Public beta version",
-                "timeupdated": "1746713760"
+                "timeupdated": "1747117274"
             }
         },
         "privatebranches": "1"
