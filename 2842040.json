@@ -4,8 +4,8 @@
     "name": "Star Wars Outlaws",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28856632",
-    "update_time": "2025-05-07 15:42:41",
+    "change_number": "29037535",
+    "update_time": "2025-05-17 14:59:47",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228989": {
@@ -25,9 +25,9 @@
         "2842041": {
             "manifests": {
                 "public": {
-                    "gid": "9042079270922835296",
-                    "size": "67805320469",
-                    "download": "59346544544"
+                    "gid": "8842927823039478131",
+                    "size": "72392614497",
+                    "download": "63286158832"
                 }
             },
             "decryptionkey": "bed1b2aedb9b823e084bde3a15663caf8f50feaadd104bba0c7e474540a11f43"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6596515840944274477",
-                    "size": "2411829852",
-                    "download": "2269040384"
+                    "gid": "8610286617393134158",
+                    "size": "2643446008",
+                    "download": "2496533648"
                 }
             },
             "decryptionkey": "110e9180cab6db688b21cc6f16820d8197b333d0c1d88b66da81d43753a9c786"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4458353435930819",
-                    "size": "2569587765",
-                    "download": "2419275840"
+                    "gid": "8859101703496423151",
+                    "size": "2807377100",
+                    "download": "2652810912"
                 }
             },
             "decryptionkey": "2d98d4345bb461b3ee9574d5e4f00cf62e968042031e7d7361b3d15d09282788"
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6975703995784537551",
-                    "size": "2742922661",
-                    "download": "2589293968"
+                    "gid": "8418102817984498731",
+                    "size": "3009708982",
+                    "download": "2849017776"
                 }
             },
             "decryptionkey": ""
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6668316624464142974",
-                    "size": "2659737948",
-                    "download": "2512970704"
+                    "gid": "9016804939720508248",
+                    "size": "2922009368",
+                    "download": "2768149664"
                 }
             },
             "decryptionkey": "845fbe248a74375c3dda44984552af44018332d3b7f355dce4d1c833727e0a42"
@@ -90,9 +90,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9074332820694038601",
-                    "size": "2628016451",
-                    "download": "2473963824"
+                    "gid": "8212445786421051901",
+                    "size": "2884493203",
+                    "download": "2723315056"
                 }
             },
             "decryptionkey": ""
@@ -101,9 +101,9 @@
             "dlcappid": "3271130",
             "manifests": {
                 "public": {
-                    "gid": "6201374884478353732",
-                    "size": "1193346374",
-                    "download": "1097001040"
+                    "gid": "3461169736963805799",
+                    "size": "1197670442",
+                    "download": "1100629424"
                 }
             },
             "decryptionkey": "cd4259d93979d9d480227cf581dbb3855b238747fa76988d8c94da591300669e"
@@ -121,12 +121,19 @@
         },
         "3541390": {
             "dlcappid": "3541390",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1847147110342817159",
+                    "size": "2300313957",
+                    "download": "2059613760"
+                }
+            },
+            "decryptionkey": "a2c323e9b71ce1d184500fedc2ddaf67f9f96af0f57324757cb7f9949f71944a"
         },
         "branches": {
             "public": {
-                "buildid": "17848890",
-                "timeupdated": "1743667248"
+                "buildid": "18349056",
+                "timeupdated": "1747296111"
             }
         },
         "privatebranches": "1"
