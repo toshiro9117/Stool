@@ -4,8 +4,8 @@
     "name": "EVERSPACE™ 2",
     "schinese_name": "永恒空间2",
     "isfreeapp": "0",
-    "change_number": "28906848",
-    "update_time": "2025-05-10 01:29:57",
+    "change_number": "29026704",
+    "update_time": "2025-05-16 22:51:07",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam",
         "228989": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3891424963955743868",
-                    "size": "35400986243",
-                    "download": "30743604208"
+                    "gid": "4415922863161237626",
+                    "size": "34619421071",
+                    "download": "30388440416"
                 }
             },
             "decryptionkey": "4fb55ad1df336278e71c3e9a335c0363bb35b6e0f494a94c99191bfbadc8eb0f"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8554032321995029812",
-                    "size": "34483546557",
-                    "download": "31682125424"
+                    "gid": "3770613384387839106",
+                    "size": "35266750781",
+                    "download": "32544138704"
                 }
             },
             "decryptionkey": "ff9edec770843a8d63f9a1aba47498ac0f23a8b40c8f999fbc2ee734f06362aa"
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7415357329579237865",
-                    "size": "424868882",
-                    "download": "418097664"
+                    "gid": "4076460737945110410",
+                    "size": "402565456",
+                    "download": "395878144"
                 }
             },
             "decryptionkey": "c503ae9096190326103167eba0703865863e047bb2850a9a016c969f05c3a948"
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2400209119289260242",
-                    "size": "5448997896",
-                    "download": "5198993088"
+                    "gid": "2897284881468853360",
+                    "size": "8253747345",
+                    "download": "8048135744"
                 }
             },
             "decryptionkey": ""
@@ -97,9 +97,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2278166748315113962",
-                    "size": "35400986243",
-                    "download": "30792147696"
+                    "gid": "1510102404333634978",
+                    "size": "34619421071",
+                    "download": "30436445888"
                 }
             },
             "decryptionkey": "4527c674a543e15dd06218ee6b3bb80c44ceb6d511e84b1380c1607746f3a0ab"
@@ -111,9 +111,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3623310737991872776",
-                    "size": "423820362",
-                    "download": "418049600"
+                    "gid": "7020948658551848412",
+                    "size": "402565440",
+                    "download": "395686688"
                 }
             }
         },
@@ -124,9 +124,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "253350956780648251",
-                    "size": "5345172840",
-                    "download": "5145538320"
+                    "gid": "6040933981137249352",
+                    "size": "8665261680",
+                    "download": "8467039584"
                 }
             }
         },
@@ -137,8 +137,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4235370435524516347",
-                    "size": "1659",
+                    "gid": "6223906961600506367",
+                    "size": "1641",
                     "download": "1264"
                 }
             },
@@ -151,20 +151,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "938197630289205625",
-                    "size": "1667",
+                    "gid": "448084749179990953",
+                    "size": "1649",
                     "download": "1264"
                 }
             }
         },
         "3690840": {
             "dlcappid": "3690840",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1523801439398253059",
+                    "size": "398807957",
+                    "download": "309114064"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16407650",
-                "timeupdated": "1731596276"
+                "buildid": "18481555",
+                "timeupdated": "1747407062"
             }
         },
         "privatebranches": "1"
