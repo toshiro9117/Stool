@@ -4,9 +4,10 @@
     "name": "Shale Hill Secrets",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922543",
-    "update_time": "2025-05-11 11:32:58",
+    "change_number": "29046485",
+    "update_time": "2025-05-18 14:14:35",
     "depot": {
+        "hasdepotsindlc": "0",
         "1793441": {
             "config": {
                 "oslist": "windows",
@@ -14,14 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1422612964384604712",
-                    "size": "7952807317",
-                    "download": "7981201120"
-                },
-                "beta": {
-                    "gid": "1422612964384604712",
-                    "size": "7952807317",
-                    "download": "7981201120"
+                    "gid": "7652720077929148129",
+                    "size": "8989428895",
+                    "download": "8996765408"
                 }
             },
             "decryptionkey": "6b074b78ca04366d020ffa23b460f9317fdc5cbd7243ccdf2bbc8e950c3b627f"
@@ -33,27 +29,32 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6222559038277726535",
-                    "size": "7987806843",
-                    "download": "7991054416"
-                },
-                "beta": {
-                    "gid": "6222559038277726535",
-                    "size": "7987806843",
-                    "download": "7991054416"
+                    "gid": "8205567544421362964",
+                    "size": "7988043575",
+                    "download": "7991113968"
                 }
+            }
+        },
+        "3302100": {
+            "dlcappid": "3302100",
+            "config": {
+                "oslist": "windows,macos",
+                "osarch": "64"
+            }
+        },
+        "3302170": {
+            "dlcappid": "3302170",
+            "config": {
+                "oslist": "windows,macos",
+                "osarch": "64"
             }
         },
         "branches": {
             "public": {
-                "buildid": "18409489",
-                "timeupdated": "1746830779"
-            },
-            "beta": {
-                "buildid": "18409489",
-                "description": "beta testing",
-                "timeupdated": "1746829755"
+                "buildid": "18483079",
+                "timeupdated": "1747349022"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
