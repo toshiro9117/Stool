@@ -4,8 +4,8 @@
     "name": "Orcs Must Die! Deathtrap",
     "schinese_name": "兽人必须死! 死亡陷阱",
     "isfreeapp": "0",
-    "change_number": "28915902",
-    "update_time": "2025-05-10 17:33:21",
+    "change_number": "29038754",
+    "update_time": "2025-05-17 17:54:10",
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "10390842288"
                 },
                 "local": {
-                    "gid": "1972665193243868858",
-                    "size": "15935086554",
-                    "download": "10364913872"
+                    "gid": "6785500905217864613",
+                    "size": "16209390128",
+                    "download": "10571918656"
                 }
             },
             "decryptionkey": "179ec5c394c5940b45918894a57184084765edbab18b181584b305b0e9d917a7"
@@ -42,10 +42,10 @@
                 "timeupdated": "1746205249"
             },
             "local": {
-                "buildid": "18413364",
+                "buildid": "18501810",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1746869474"
+                "timeupdated": "1747475513"
             }
         },
         "privatebranches": "1"
