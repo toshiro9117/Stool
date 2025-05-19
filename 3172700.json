@@ -4,8 +4,8 @@
     "name": "Banquet for Fools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921031",
-    "update_time": "2025-05-11 06:31:19",
+    "change_number": "29032663",
+    "update_time": "2025-05-17 04:59:39",
     "depot": {
         "3172701": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4430602022833286465",
-                    "size": "9023681982",
-                    "download": "5568839248"
+                    "gid": "4990574300945064638",
+                    "size": "9604867626",
+                    "download": "5989395648"
                 }
             },
             "decryptionkey": "0a51fbcec9c86fe5efd4531fab2c3c094dc9418dd21ddee026bf031a10f1dea2"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7925105140311965207",
-                    "size": "9045594078",
-                    "download": "5585715104"
+                    "gid": "6765120368653290677",
+                    "size": "9626794186",
+                    "download": "6005687696"
                 }
             }
         },
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5012081202871235793",
-                    "size": "9011342686",
-                    "download": "5575406384"
+                    "gid": "1892274956775240004",
+                    "size": "9592531482",
+                    "download": "5996957232"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18409346",
-                "timeupdated": "1746828796"
+                "buildid": "18497011",
+                "timeupdated": "1747429176"
             }
         },
         "privatebranches": "1"
