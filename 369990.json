@@ -4,8 +4,8 @@
     "name": "Gremlins, Inc.",
     "schinese_name": "妖精股份公司",
     "isfreeapp": "0",
-    "change_number": "28918651",
-    "update_time": "2025-05-11 00:29:56",
+    "change_number": "29027454",
+    "update_time": "2025-05-16 23:32:32",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,czech,brazilian,ukrainian",
         "workshopdepot": "369990",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8624944285279499715",
-                    "size": "3576806054",
-                    "download": "833853440"
+                    "gid": "6821738410009944211",
+                    "size": "3576825878",
+                    "download": "833852848"
                 }
             },
             "decryptionkey": "534b5beaad35355d46d32578854588a8a12e256a227d6af56643edbab2fb4a3e"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "820916652033477200",
-                    "size": "3578939762",
-                    "download": "834928688"
+                    "gid": "3842314888798454615",
+                    "size": "3578959586",
+                    "download": "834941168"
                 }
             },
             "decryptionkey": "ad045829679383a71655fdd92629e2f3cefdfac79596755a30e07364fda4293b"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5751622805652653275",
-                    "size": "3586517518",
-                    "download": "834697472"
+                    "gid": "6394384557962880203",
+                    "size": "3586537342",
+                    "download": "834694192"
                 }
             },
             "decryptionkey": "1f7fc9d5204aa79384151c69b69ac1d57adf3be6e28c7fb53e6be2ab5e8fb8f8"
@@ -102,17 +102,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5981424856297475621",
-                    "size": "3569497198",
-                    "download": "832915552"
+                    "gid": "8899356782068890939",
+                    "size": "3569517022",
+                    "download": "832912416"
                 }
             },
             "decryptionkey": "d90a7d03e205e63214fce340a5564524a3f2dc418749e125b618a8c42ccd583e"
         },
         "branches": {
             "public": {
-                "buildid": "18340908",
-                "timeupdated": "1746403135"
+                "buildid": "18492935",
+                "timeupdated": "1747409530"
             }
         },
         "privatebranches": "1",
