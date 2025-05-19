@@ -4,8 +4,8 @@
     "name": "Rogue Command",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28902051",
-    "update_time": "2025-05-09 20:57:38",
+    "change_number": "29025320",
+    "update_time": "2025-05-16 21:42:46",
     "depot": {
         "1461911": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "579408928"
                 },
                 "beta": {
-                    "gid": "5559743359783555701",
-                    "size": "4724843661",
-                    "download": "579399680"
+                    "gid": "4155793023150745999",
+                    "size": "4851676181",
+                    "download": "582630208"
                 }
             },
             "decryptionkey": "5b635c96f61959d88cc4b8ae99f6c35834a8948fe2528ea1974756c863d7b882"
@@ -29,9 +29,9 @@
                 "timeupdated": "1745579171"
             },
             "beta": {
-                "buildid": "18237738",
+                "buildid": "18492066",
                 "description": "latest unstable version",
-                "timeupdated": "1746795452"
+                "timeupdated": "1747402961"
             }
         }
     }
