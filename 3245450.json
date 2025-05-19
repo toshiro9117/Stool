@@ -4,8 +4,8 @@
     "name": "No Heroes Here 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26183469",
-    "update_time": "2024-11-14 07:40:29",
+    "change_number": "29007632",
+    "update_time": "2025-05-16 01:04:38",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3245451": {
             "manifests": {
                 "public": {
-                    "gid": "6643932116654931156",
-                    "size": "660387280",
-                    "download": "442980144"
+                    "gid": "7711905033506687211",
+                    "size": "658994005",
+                    "download": "440736496"
                 }
             },
             "decryptionkey": "21120da151205c78bc66196726c3a15066eaa1c963cb84084bfb9b111fcf3356"
         },
         "branches": {
             "public": {
-                "buildid": "16072755",
-                "timeupdated": "1729121490"
+                "buildid": "18479505",
+                "timeupdated": "1747328635"
             }
         },
         "privatebranches": "1"
