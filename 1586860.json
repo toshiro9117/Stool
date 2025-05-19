@@ -4,8 +4,8 @@
     "name": "Bonesaw",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922018",
-    "update_time": "2025-05-11 09:32:20",
+    "change_number": "28989729",
+    "update_time": "2025-05-15 05:14:14",
     "depot": {
         "228989": {
             "config": {
@@ -25,14 +25,14 @@
         "1586863": {
             "manifests": {
                 "public": {
-                    "gid": "2893874018215879875",
-                    "size": "1129985920",
-                    "download": "1013074720"
+                    "gid": "1082036377686623404",
+                    "size": "1130002640",
+                    "download": "1012911856"
                 },
                 "publictest": {
-                    "gid": "2893874018215879875",
-                    "size": "1129985920",
-                    "download": "1013074720"
+                    "gid": "1082036377686623404",
+                    "size": "1130002640",
+                    "download": "1012911856"
                 }
             },
             "decryptionkey": "62046e9541f922e78b4990844a7167ba7ab8471e1af792f502c78bdafb747f24"
@@ -58,13 +58,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17713122",
-                "timeupdated": "1741888974"
+                "buildid": "18464960",
+                "timeupdated": "1747247683"
             },
             "publictest": {
-                "buildid": "17713122",
+                "buildid": "18464960",
                 "description": "Purgatory of the Devil, where the upcoming update is first available to you, sinners.",
-                "timeupdated": "1741888931"
+                "timeupdated": "1747247246"
             }
         },
         "privatebranches": "1"
