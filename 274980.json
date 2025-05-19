@@ -4,8 +4,8 @@
     "name": "Influent",
     "schinese_name": "流利学语言",
     "isfreeapp": "0",
-    "change_number": "28915322",
-    "update_time": "2025-05-10 15:57:00",
+    "change_number": "28956541",
+    "update_time": "2025-05-13 16:52:28",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,brazilian,ukrainian",
@@ -24,9 +24,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6775408805148129161",
-                    "size": "401971122",
-                    "download": "155032032"
+                    "gid": "1878312207235637448",
+                    "size": "401971034",
+                    "download": "155031888"
                 }
             },
             "decryptionkey": "bea417e4a305c21dfc6075d8a1fa973253d23d1c725a9f0e4bf09ccc0997d233"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6193191411782858522",
-                    "size": "432428795",
-                    "download": "161001136"
+                    "gid": "4253253997219416501",
+                    "size": "432428699",
+                    "download": "161002528"
                 }
             },
             "decryptionkey": "3bbd342ff2f68b06b47458205e991d0de7e5f64723453d1ba2c3dd2c8fd9732d"
@@ -65,9 +65,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8214202169208707935",
-                    "size": "414167738",
-                    "download": "158685248"
+                    "gid": "5757076552938764715",
+                    "size": "414167746",
+                    "download": "158687408"
                 }
             },
             "decryptionkey": "85b576a559e6123be99d7ceee963622ee065665a48f7de2946a3d09990a430fb"
@@ -78,9 +78,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4244704705108734125",
-                    "size": "446739795",
-                    "download": "167314832"
+                    "gid": "6835351650751100799",
+                    "size": "446739707",
+                    "download": "167314464"
                 }
             },
             "decryptionkey": "feb35a8ae8e323b37ca16cdf276056c75c6f65a1d81488c34c0b13c261312b49"
@@ -340,8 +340,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18412852",
-                "timeupdated": "1746863815"
+                "buildid": "18441535",
+                "timeupdated": "1747126342"
             }
         },
         "privatebranches": "1"
