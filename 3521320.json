@@ -4,8 +4,8 @@
     "name": "魔法書自走棋：契約",
     "schinese_name": "魔法书自走棋：契约",
     "isfreeapp": "0",
-    "change_number": "28922544",
-    "update_time": "2025-05-11 11:33:17",
+    "change_number": "29036512",
+    "update_time": "2025-05-17 12:10:41",
     "depot": {
         "3521321": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8964267223222104694",
-                    "size": "515917906",
-                    "download": "455953024"
+                    "gid": "2745977220158078264",
+                    "size": "516572534",
+                    "download": "454085296"
                 }
             },
             "decryptionkey": "da8e5c19dbd799a01ab9954cdf822c966f4179b3d5d51a2e7a98627bf2c39165"
@@ -24,8 +24,8 @@
         "workshopdepot": "3521320",
         "branches": {
             "public": {
-                "buildid": "18370870",
-                "timeupdated": "1746605729"
+                "buildid": "18488034",
+                "timeupdated": "1747455038"
             }
         },
         "privatebranches": "1",
