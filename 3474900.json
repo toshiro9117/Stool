@@ -4,16 +4,16 @@
     "name": "AnimaEngine",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28477301",
-    "update_time": "2025-04-15 08:48:11",
+    "change_number": "29035264",
+    "update_time": "2025-05-17 09:21:26",
     "depot": {
         "workshopdepot": "3474900",
         "3474901": {
             "manifests": {
                 "public": {
-                    "gid": "6217757760363249104",
-                    "size": "6827284088",
-                    "download": "2041933904"
+                    "gid": "6606557446806509128",
+                    "size": "6828706402",
+                    "download": "2042483056"
                 }
             },
             "decryptionkey": "fbc9891a1c20a2a57931cc7ac38cec562cf9fb996f284e99863b13fb98f140d8"
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18106720",
-                "timeupdated": "1744678085"
+                "buildid": "18499074",
+                "timeupdated": "1747444879"
             }
         },
         "workshopdepotdecryptionkey": "6962e235f2435a469ecb60cd81380e00dc587a5d3bcb7d7090db101661c4990b"
