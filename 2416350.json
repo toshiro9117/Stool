@@ -4,8 +4,8 @@
     "name": "Yard Sale Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920378",
-    "update_time": "2025-05-11 04:48:44",
+    "change_number": "29011717",
+    "update_time": "2025-05-16 05:18:49",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2416351": {
             "manifests": {
                 "public": {
-                    "gid": "586014290777614501",
-                    "size": "1276868021",
-                    "download": "1121036880"
+                    "gid": "1598179669177014004",
+                    "size": "1276878265",
+                    "download": "1121137136"
                 }
             },
             "decryptionkey": "b8d7213d8e8911e8aade4c08851047c07ca5b9c1b99bba29555f5ea241c29a1f"
         },
         "branches": {
             "public": {
-                "buildid": "18257868",
-                "timeupdated": "1745794192"
+                "buildid": "18479863",
+                "timeupdated": "1747330637"
             }
         },
         "privatebranches": "1"
