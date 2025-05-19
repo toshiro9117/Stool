@@ -4,8 +4,8 @@
     "name": "恐惧之影",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28876834",
-    "update_time": "2025-05-08 15:25:30",
+    "change_number": "28935772",
+    "update_time": "2025-05-12 17:32:29",
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "0",
@@ -26,9 +26,9 @@
         "2644261": {
             "manifests": {
                 "public": {
-                    "gid": "4942052296156929498",
-                    "size": "11865889306",
-                    "download": "11791778272"
+                    "gid": "3264661138819780370",
+                    "size": "11865879066",
+                    "download": "11791816064"
                 }
             },
             "decryptionkey": "d1e7856b96b6963dca7a42328c056d632fa504324234e6d6d7b856005423a10a"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18385241",
-                "timeupdated": "1746689126"
+                "buildid": "18426976",
+                "timeupdated": "1747042341"
             }
         }
     }
