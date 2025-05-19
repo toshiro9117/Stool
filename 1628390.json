@@ -4,8 +4,8 @@
     "name": "Starship Simulator Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26757844",
-    "update_time": "2024-12-23 09:53:18",
+    "change_number": "29034824",
+    "update_time": "2025-05-17 08:24:03",
     "depot": {
         "228989": {
             "config": {
@@ -32,6 +32,11 @@
                     "gid": "4156768283155614365",
                     "size": "2619199193",
                     "download": "2387447120"
+                },
+                "pre-release-bug-testing": {
+                    "gid": "7288421621673797686",
+                    "size": "7072471148",
+                    "download": "4627036256"
                 }
             },
             "decryptionkey": "01a73eb64ef7cdc3f54724b95ed24edc8bb92e6745106e2ef44c82760283a3a4"
@@ -61,6 +66,11 @@
                 "buildid": "11526203",
                 "description": "The final DX11 build before the DX12 upgrade.",
                 "timeupdated": "1700599103"
+            },
+            "pre-release-bug-testing": {
+                "buildid": "18498381",
+                "description": "Public test build for pre-release testing.",
+                "timeupdated": "1747441440"
             }
         }
     }
