@@ -4,8 +4,8 @@
     "name": "Surviving Ceres",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28894138",
-    "update_time": "2025-05-09 11:00:26",
+    "change_number": "29000750",
+    "update_time": "2025-05-15 19:14:29",
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2810071": {
             "manifests": {
                 "public": {
-                    "gid": "2275749223468791127",
+                    "gid": "163993898520468513",
                     "size": "2984333985",
-                    "download": "2760985952"
+                    "download": "2760941856"
                 }
             },
             "decryptionkey": "d2039db98e9110ca1556fba909d73487a36f913fe0c41b6573ca84ce03004d73"
         },
         "branches": {
             "public": {
-                "buildid": "18385242",
-                "timeupdated": "1746699711"
+                "buildid": "18471365",
+                "timeupdated": "1747295973"
             }
         }
     }
