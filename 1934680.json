@@ -4,8 +4,8 @@
     "name": "Age of Mythology: Retold",
     "schinese_name": "神话时代：重述版",
     "isfreeapp": "0",
-    "change_number": "28920375",
-    "update_time": "2025-05-11 04:48:13",
+    "change_number": "29045872",
+    "update_time": "2025-05-18 11:59:31",
     "depot": {
         "228989": {
             "config": {
@@ -25,11 +25,6 @@
                     "gid": "8846941419111391381",
                     "size": "25279540730",
                     "download": "11905195808"
-                },
-                "update-preview": {
-                    "gid": "1035388895816671066",
-                    "size": "25292511405",
-                    "download": "11892592304"
                 }
             },
             "decryptionkey": "802af330b3164b4c3b78d2f3b015e1017979ec6738f5d952aeb72eb14a138f19"
@@ -61,11 +56,6 @@
                     "gid": "243872525657590614",
                     "size": "79628476",
                     "download": "79631584"
-                },
-                "update-preview": {
-                    "gid": "243872525657590614",
-                    "size": "79628476",
-                    "download": "79631584"
                 }
             },
             "decryptionkey": "fae9ece6176586c7ad4c1d4d07e75e8a242d36d65d0402f3d20b5e86a58a6235"
@@ -76,11 +66,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8937274205828819348",
-                    "size": "77929302",
-                    "download": "77753680"
-                },
-                "update-preview": {
                     "gid": "8937274205828819348",
                     "size": "77929302",
                     "download": "77753680"
@@ -97,11 +82,6 @@
                     "gid": "4890646683006172667",
                     "size": "72927547",
                     "download": "72607680"
-                },
-                "update-preview": {
-                    "gid": "4890646683006172667",
-                    "size": "72927547",
-                    "download": "72607680"
                 }
             },
             "decryptionkey": "c47645f8442a72793113ab28d3206eb7841e9eed83e1817307859ac900a973f3"
@@ -112,11 +92,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2067299666817638908",
-                    "size": "73555910",
-                    "download": "73451264"
-                },
-                "update-preview": {
                     "gid": "2067299666817638908",
                     "size": "73555910",
                     "download": "73451264"
@@ -133,11 +108,6 @@
                     "gid": "8172540833074249758",
                     "size": "75785054",
                     "download": "75612992"
-                },
-                "update-preview": {
-                    "gid": "8172540833074249758",
-                    "size": "75785054",
-                    "download": "75612992"
                 }
             },
             "decryptionkey": "27aacd4bd5627dd1a4743bba1773d24b4a05993f10bff71faeb3f492d619366f"
@@ -148,11 +118,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1213126562157880037",
-                    "size": "72090992",
-                    "download": "71650048"
-                },
-                "update-preview": {
                     "gid": "1213126562157880037",
                     "size": "72090992",
                     "download": "71650048"
@@ -169,11 +134,6 @@
                     "gid": "4004189126327157504",
                     "size": "79143377",
                     "download": "79037440"
-                },
-                "update-preview": {
-                    "gid": "4004189126327157504",
-                    "size": "79143377",
-                    "download": "79037440"
                 }
             },
             "decryptionkey": "cbac32577b886bb30bfeb6c606edb883e882c3fc1105f56f3a3fc0d4c8e2ed90"
@@ -184,11 +144,6 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3932335314118361645",
-                    "size": "74722267",
-                    "download": "74393408"
-                },
-                "update-preview": {
                     "gid": "3932335314118361645",
                     "size": "74722267",
                     "download": "74393408"
@@ -205,11 +160,6 @@
                     "gid": "1526544428011054877",
                     "size": "70919911",
                     "download": "70712416"
-                },
-                "update-preview": {
-                    "gid": "1526544428011054877",
-                    "size": "70919911",
-                    "download": "70712416"
                 }
             },
             "decryptionkey": "c2504a8202da8fed8ef95c22f3528335c285257173876e4ff0ad1f351f4dd1a9"
@@ -223,11 +173,6 @@
                     "gid": "9133650950376263706",
                     "size": "73787592",
                     "download": "73523024"
-                },
-                "update-preview": {
-                    "gid": "9133650950376263706",
-                    "size": "73787592",
-                    "download": "73523024"
                 }
             },
             "decryptionkey": "495e93c32f00d9f9ca59ada943e22fd8a423448c4e512b0903b92ae40730f01b"
@@ -236,11 +181,6 @@
             "public": {
                 "buildid": "18188751",
                 "timeupdated": "1745514543"
-            },
-            "update-preview": {
-                "buildid": "18342976",
-                "description": "Preview an upcoming update for Age of Mythology: Retold",
-                "timeupdated": "1746470854"
             }
         },
         "privatebranches": "1"
