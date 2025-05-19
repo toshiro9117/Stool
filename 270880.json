@@ -4,8 +4,8 @@
     "name": "American Truck Simulator",
     "schinese_name": "美国卡车模拟",
     "isfreeapp": "0",
-    "change_number": "28865437",
-    "update_time": "2025-05-08 00:08:44",
+    "change_number": "29023194",
+    "update_time": "2025-05-16 19:37:32",
     "depot": {
         "externaldlc": "0",
         "workshopdepot": "270880",
@@ -7034,6 +7034,9 @@
         },
         "3677470": {
             "dlcappid": "3677470"
+        },
+        "3749870": {
+            "dlcappid": "3749870"
         },
         "branches": {
             "public": {
