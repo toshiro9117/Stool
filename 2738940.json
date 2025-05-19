@@ -4,23 +4,23 @@
     "name": "Voids Vigil",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28704749",
-    "update_time": "2025-04-28 19:14:57",
+    "change_number": "29038250",
+    "update_time": "2025-05-17 16:37:08",
     "depot": {
         "2738941": {
             "manifests": {
                 "public": {
-                    "gid": "4463118215901877962",
-                    "size": "116015855",
-                    "download": "105497856"
+                    "gid": "8253302282601181524",
+                    "size": "116017135",
+                    "download": "105499632"
                 }
             },
             "decryptionkey": "3603dc361c00e237e30a3d9360b13727d8aba5d8957ba2918f5ecc79a2b233f7"
         },
         "branches": {
             "public": {
-                "buildid": "18264259",
-                "timeupdated": "1745838891"
+                "buildid": "18419372",
+                "timeupdated": "1746960232"
             }
         }
     }
