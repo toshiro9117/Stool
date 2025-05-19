@@ -4,23 +4,23 @@
     "name": "Scrapping Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "25301813",
-    "update_time": "2024-09-20 00:27:02",
+    "change_number": "28998209",
+    "update_time": "2025-05-15 16:51:41",
     "depot": {
         "1496641": {
             "manifests": {
                 "public": {
-                    "gid": "8043272692926967522",
-                    "size": "1349114491",
-                    "download": "447112432"
+                    "gid": "7943044619055674195",
+                    "size": "1376081711",
+                    "download": "448752224"
                 }
             },
             "decryptionkey": "fd70df7440f2d8449df486b1648c5f7becf3bbadc5de426cfdfbd2ba6296a852"
         },
         "branches": {
             "public": {
-                "buildid": "14065874",
-                "timeupdated": "1713245939"
+                "buildid": "18472848",
+                "timeupdated": "1747299094"
             }
         },
         "privatebranches": "1"
