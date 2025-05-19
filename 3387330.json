@@ -4,8 +4,8 @@
     "name": "见诡录：阴魂街 Haunting Record: Phantom Street",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28888291",
-    "update_time": "2025-05-09 02:33:34",
+    "change_number": "28976122",
+    "update_time": "2025-05-14 22:40:38",
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -25,9 +25,9 @@
         "3387331": {
             "manifests": {
                 "public": {
-                    "gid": "3953382510630181938",
-                    "size": "2917044142",
-                    "download": "2711036912"
+                    "gid": "2195652047002459950",
+                    "size": "2918341322",
+                    "download": "2713939792"
                 }
             },
             "decryptionkey": "a65e36e4acf591a021a0bfcd7b3c3c6b9ced4d958abdf3bf0c5d2a36c2df5432"
@@ -35,8 +35,8 @@
         "3387332": {},
         "branches": {
             "public": {
-                "buildid": "18342193",
-                "timeupdated": "1746416872"
+                "buildid": "18425830",
+                "timeupdated": "1747101538"
             }
         }
     }
