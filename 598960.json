@@ -4,8 +4,8 @@
     "name": "Mashinky",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28878927",
-    "update_time": "2025-05-08 17:34:28",
+    "change_number": "28989343",
+    "update_time": "2025-05-15 04:47:02",
     "depot": {
         "228984": {
             "config": {
@@ -55,14 +55,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4413717207827145003",
-                    "size": "13540416",
-                    "download": "4417456"
+                    "gid": "3418912219880480944",
+                    "size": "13514816",
+                    "download": "4413712"
                 },
                 "experimental": {
-                    "gid": "4413717207827145003",
-                    "size": "13540416",
-                    "download": "4417456"
+                    "gid": "3418912219880480944",
+                    "size": "13514816",
+                    "download": "4413712"
                 }
             },
             "decryptionkey": "58a08fd3b80707e9aca19c25a82c68596c32077137f451f8ab0bd4dae5729bb8"
@@ -74,27 +74,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2063546541424913247",
-                    "size": "16141888",
-                    "download": "5132016"
+                    "gid": "1729281069020012312",
+                    "size": "16115776",
+                    "download": "5123808"
                 },
                 "experimental": {
-                    "gid": "2063546541424913247",
-                    "size": "16141888",
-                    "download": "5132016"
+                    "gid": "1729281069020012312",
+                    "size": "16115776",
+                    "download": "5123808"
                 }
             },
             "decryptionkey": "1105caa0d783a873e19369cec68a8effd8b323ad04931bcbff23d71b6ce67077"
         },
         "branches": {
             "public": {
-                "buildid": "18386600",
-                "timeupdated": "1746696862"
+                "buildid": "18450344",
+                "timeupdated": "1747241505"
             },
             "experimental": {
-                "buildid": "18386600",
+                "buildid": "18450344",
                 "description": "Public experimental branch",
-                "timeupdated": "1746696631"
+                "timeupdated": "1747168949"
             }
         },
         "privatebranches": "1",
