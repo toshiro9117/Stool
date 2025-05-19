@@ -4,8 +4,8 @@
     "name": "BrokenLore: DON'T WATCH",
     "schinese_name": "破碎怪谈：切勿直视",
     "isfreeapp": "0",
-    "change_number": "28914298",
-    "update_time": "2025-05-10 13:32:33",
+    "change_number": "29041526",
+    "update_time": "2025-05-18 00:07:56",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2351331": {
             "manifests": {
                 "public": {
-                    "gid": "224270652003646552",
-                    "size": "2657124074",
-                    "download": "2334351072"
+                    "gid": "6099629273101076869",
+                    "size": "2657107474",
+                    "download": "2334295104"
                 }
             },
             "decryptionkey": "63e0be979e19e309eb7ef366a4ac02a404ce3972054b256a8de46bee9824ee1a"
         },
         "branches": {
             "public": {
-                "buildid": "18169098",
-                "timeupdated": "1745316172"
+                "buildid": "18503607",
+                "timeupdated": "1747498072"
             }
         }
     }
