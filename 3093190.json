@@ -4,8 +4,8 @@
     "name": "Exfil Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28913383",
-    "update_time": "2025-05-10 11:09:40",
+    "change_number": "29034403",
+    "update_time": "2025-05-17 07:44:09",
     "depot": {
         "1004": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "462399555288525931",
-                    "size": "1771146823",
-                    "download": "1516463232"
+                    "gid": "471612296640024371",
+                    "size": "1810808062",
+                    "download": "1554543056"
                 },
                 "demo": {
                     "gid": "689329253447378115",
@@ -65,9 +65,9 @@
                     "download": "1568974880"
                 },
                 "public-testing": {
-                    "gid": "1424819379221867198",
-                    "size": "1788552359",
-                    "download": "1533023872"
+                    "gid": "471612296640024371",
+                    "size": "1810808062",
+                    "download": "1554543056"
                 }
             }
         },
@@ -78,9 +78,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6283403550038118590",
-                    "size": "1836665790",
-                    "download": "1576524304"
+                    "gid": "3313707428640642075",
+                    "size": "1878171834",
+                    "download": "1612672384"
                 },
                 "demo": {
                     "gid": "5587662279550271625",
@@ -88,17 +88,17 @@
                     "download": "1630107280"
                 },
                 "public-testing": {
-                    "gid": "506624123879103708",
-                    "size": "1853782557",
-                    "download": "1593011424"
+                    "gid": "3313707428640642075",
+                    "size": "1878171834",
+                    "download": "1612672384"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18164966",
-                "timeupdated": "1745042597"
+                "buildid": "18485066",
+                "timeupdated": "1747439044"
             },
             "demo": {
                 "buildid": "17770759",
@@ -106,9 +106,9 @@
                 "timeupdated": "1742328143"
             },
             "public-testing": {
-                "buildid": "18351935",
+                "buildid": "18485066",
                 "description": "Public access to the latest changes for dedicated servers",
-                "timeupdated": "1746744682"
+                "timeupdated": "1747431234"
             }
         },
         "privatebranches": "1"
