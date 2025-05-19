@@ -4,8 +4,8 @@
     "name": "Shapelab 2025 Upgrade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28840723",
-    "update_time": "2025-05-06 19:53:26",
+    "change_number": "28998921",
+    "update_time": "2025-05-15 17:31:22",
     "depot": {
         "3381021": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8659829714748340783",
-                    "size": "843604643",
-                    "download": "254145744"
+                    "gid": "6165571121162382726",
+                    "size": "846641964",
+                    "download": "266017392"
                 }
             },
             "dlcappid": "3381020",
@@ -25,8 +25,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18112600",
-                "timeupdated": "1744717738"
+                "buildid": "18473298",
+                "timeupdated": "1747301036"
             }
         },
         "privatebranches": "1"
