@@ -4,23 +4,23 @@
     "name": "SpellRogue",
     "schinese_name": "咒运魔骰",
     "isfreeapp": "0",
-    "change_number": "28858610",
-    "update_time": "2025-05-07 17:35:37",
+    "change_number": "29026023",
+    "update_time": "2025-05-16 22:16:53",
     "depot": {
         "1990111": {
             "manifests": {
                 "public": {
-                    "gid": "1994613306708580346",
-                    "size": "2694212516",
-                    "download": "993193152"
+                    "gid": "2568700046380149004",
+                    "size": "2694764245",
+                    "download": "993052032"
                 }
             },
             "decryptionkey": "f723416114aee3b707f497bfa2a6c20fc931920e4ad4d7d1526b8b9b8b3cdde6"
         },
         "branches": {
             "public": {
-                "buildid": "18322111",
-                "timeupdated": "1746194405"
+                "buildid": "18488227",
+                "timeupdated": "1747386143"
             }
         },
         "privatebranches": "1"
