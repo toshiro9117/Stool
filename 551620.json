@@ -4,8 +4,8 @@
     "name": "Approaching Infinity",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917370",
-    "update_time": "2025-05-10 21:32:33",
+    "change_number": "29009511",
+    "update_time": "2025-05-16 02:45:23",
     "depot": {
         "551621": {
             "config": {
@@ -28,9 +28,9 @@
                     "download": "142291776"
                 },
                 "betafromnowon": {
-                    "gid": "2071915763880107155",
-                    "size": "194689442",
-                    "download": "157462688"
+                    "gid": "2961228802967597487",
+                    "size": "194784461",
+                    "download": "157484688"
                 },
                 "legacy18": {
                     "gid": "6144293929719760100",
@@ -57,9 +57,9 @@
                 "timeupdated": "1606098480"
             },
             "betafromnowon": {
-                "buildid": "18408583",
+                "buildid": "18480664",
                 "description": "beta branch",
-                "timeupdated": "1746823148"
+                "timeupdated": "1747334718"
             },
             "legacy18": {
                 "buildid": "12583598",
