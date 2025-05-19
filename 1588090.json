@@ -4,15 +4,15 @@
     "name": "Rally Mechanic Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28749484",
-    "update_time": "2025-04-30 21:00:46",
+    "change_number": "28982255",
+    "update_time": "2025-05-14 22:51:19",
     "depot": {
         "1588091": {
             "manifests": {
                 "public": {
-                    "gid": "3245005529155996473",
-                    "size": "9830775553",
-                    "download": "3277148576"
+                    "gid": "1724153436107044754",
+                    "size": "9830775697",
+                    "download": "3277148960"
                 },
                 "experimental": {
                     "gid": "4455190206579006089",
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18293357",
-                "timeupdated": "1746018038"
+                "buildid": "18445334",
+                "timeupdated": "1747142768"
             },
             "experimental": {
                 "buildid": "17809801",
