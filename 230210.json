@@ -4,8 +4,8 @@
     "name": "ASYLUM",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28904807",
-    "update_time": "2025-05-09 23:38:46",
+    "change_number": "29036482",
+    "update_time": "2025-05-17 12:06:34",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4873252129717135063",
-                    "size": "34038428785",
-                    "download": "18743850624"
+                    "gid": "4122804755192225054",
+                    "size": "33434833197",
+                    "download": "18327133648"
                 }
             },
             "decryptionkey": "102a74c883b382d61e2c238283343ed3d24a800d5a80b16f9ccc21384d15610d"
@@ -45,16 +45,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5905132699162094534",
-                    "size": "33617750782",
-                    "download": "18253215088"
+                    "gid": "8895434432070171941",
+                    "size": "33655039410",
+                    "download": "18260196352"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18328185",
-                "timeupdated": "1746232690"
+                "buildid": "18500030",
+                "timeupdated": "1747454790"
             }
         },
         "privatebranches": "1"
