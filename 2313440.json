@@ -4,23 +4,23 @@
     "name": "Demonslayer AKA Me",
     "schinese_name": "我御剑降魔",
     "isfreeapp": "0",
-    "change_number": "28904679",
-    "update_time": "2025-05-09 23:32:36",
+    "change_number": "29044062",
+    "update_time": "2025-05-18 06:15:23",
     "depot": {
         "2313441": {
             "manifests": {
                 "public": {
-                    "gid": "5271342339409863618",
-                    "size": "2900969503",
-                    "download": "885822656"
+                    "gid": "6851491462769857991",
+                    "size": "2902234219",
+                    "download": "886334080"
                 }
             },
             "decryptionkey": "0436067eb75cff1b710d9358a927c5423770b9485c078d2585083e64cc91759e"
         },
         "branches": {
             "public": {
-                "buildid": "18401401",
-                "timeupdated": "1746798359"
+                "buildid": "18442867",
+                "timeupdated": "1747131880"
             }
         },
         "privatebranches": "1"
