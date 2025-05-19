@@ -4,8 +4,8 @@
     "name": "Windowkill",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27410248",
-    "update_time": "2025-02-11 07:08:17",
+    "change_number": "29018464",
+    "update_time": "2025-05-16 15:16:26",
     "depot": {
         "2726451": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6317288699505223904",
-                    "size": "115985995",
-                    "download": "62703792"
+                    "gid": "1015350276943111137",
+                    "size": "116005035",
+                    "download": "62711600"
                 },
                 "modding": {
-                    "gid": "416002082151957718",
-                    "size": "465257565",
-                    "download": "234644336"
+                    "gid": "8693042290469414023",
+                    "size": "465773883",
+                    "download": "235149504"
                 }
             },
             "decryptionkey": "395c4804d47282f4081571ceed4fb5c59a21704398b49eb59455ccbbe92d0384"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5722370202250667692",
-                    "size": "138540204",
-                    "download": "67537504"
+                    "gid": "9149817624923830965",
+                    "size": "138559228",
+                    "download": "67544976"
                 },
                 "modding": {
-                    "gid": "5273277151316825049",
-                    "size": "506875334",
-                    "download": "223256160"
+                    "gid": "6396727810453963592",
+                    "size": "507391636",
+                    "download": "223760992"
                 }
             },
             "decryptionkey": ""
@@ -46,13 +46,13 @@
         "workshopdepot": "2726450",
         "branches": {
             "public": {
-                "buildid": "17480230",
-                "timeupdated": "1740384295"
+                "buildid": "17525697",
+                "timeupdated": "1740634785"
             },
             "modding": {
-                "buildid": "17477208",
+                "buildid": "17525865",
                 "description": "modding",
-                "timeupdated": "1740357620"
+                "timeupdated": "1740634762"
             }
         },
         "privatebranches": "1",
