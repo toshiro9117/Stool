@@ -4,8 +4,8 @@
     "name": "Her New Memory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28156104",
-    "update_time": "2025-03-27 03:16:16",
+    "change_number": "29036918",
+    "update_time": "2025-05-17 13:13:48",
     "depot": {
         "228989": {
             "config": {
@@ -42,6 +42,6 @@
                 "timeupdated": "1659517264"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "bdbb944091d7595164d19ca800b87705f950df6284187c012d93b969b61a2f2b"
     }
 }
