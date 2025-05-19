@@ -4,8 +4,8 @@
     "name": "nanos world™ Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28622114",
-    "update_time": "2025-04-23 20:50:11",
+    "change_number": "29038375",
+    "update_time": "2025-05-17 17:00:12",
     "depot": {
         "1004": {
             "config": {
@@ -67,9 +67,9 @@
                     "download": "7127632"
                 },
                 "bleeding-edge": {
-                    "gid": "6147496902706342491",
-                    "size": "30467061",
-                    "download": "7122352"
+                    "gid": "1552291774079809346",
+                    "size": "30953973",
+                    "download": "7168912"
                 }
             },
             "decryptionkey": ""
@@ -85,9 +85,9 @@
                     "download": "8539552"
                 },
                 "bleeding-edge": {
-                    "gid": "7195865418640359210",
-                    "size": "35542876",
-                    "download": "8521056"
+                    "gid": "242648479863280049",
+                    "size": "36335164",
+                    "download": "8617664"
                 }
             }
         },
@@ -98,9 +98,9 @@
                 "timeupdated": "1744204584"
             },
             "bleeding-edge": {
-                "buildid": "18207998",
+                "buildid": "18508670",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1745412605"
+                "timeupdated": "1747573540"
             }
         },
         "workshopdepotdecryptionkey": ""
