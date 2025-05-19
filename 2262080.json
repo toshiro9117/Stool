@@ -4,8 +4,8 @@
     "name": "Omega Crafter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28859246",
-    "update_time": "2025-05-07 18:14:23",
+    "change_number": "29017038",
+    "update_time": "2025-05-16 13:20:34",
     "depot": {
         "2262083": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4393543561918282944",
-                    "size": "2040439755",
-                    "download": "1289365984"
+                    "gid": "2362963396011671598",
+                    "size": "3183966289",
+                    "download": "2301930688"
                 }
             },
             "decryptionkey": "31daa42b8a98cf4b7dc0d1704fad5f2434fbed33a67a2b4f1fb73c7234b1428f"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4064246802223093880",
-                    "size": "2180677332",
-                    "download": "1317748768"
+                    "gid": "2571361124076103442",
+                    "size": "3333347335",
+                    "download": "2335329120"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "16534992",
-                "timeupdated": "1732684445"
+                "buildid": "18475513",
+                "timeupdated": "1747360276"
             },
             "local": {
                 "buildid": "10773117",
