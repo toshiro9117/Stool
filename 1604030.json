@@ -4,8 +4,8 @@
     "name": "V Rising",
     "schinese_name": "夜族崛起",
     "isfreeapp": "0",
-    "change_number": "28902191",
-    "update_time": "2025-05-09 21:04:00",
+    "change_number": "29045933",
+    "update_time": "2025-05-18 12:15:45",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese",
@@ -19,9 +19,9 @@
         "1604031": {
             "manifests": {
                 "public": {
-                    "gid": "7177910637554478135",
-                    "size": "9878641206",
-                    "download": "4719367136"
+                    "gid": "1076633557271444122",
+                    "size": "9879052871",
+                    "download": "4717803344"
                 },
                 "0.5.43954_hotfix13": {
                     "gid": "6194439063265605533",
@@ -63,8 +63,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18396469",
-                "timeupdated": "1746795836"
+                "buildid": "18492291",
+                "timeupdated": "1747404606"
             },
             "0.5.43954_hotfix13": {
                 "buildid": "9606444",
