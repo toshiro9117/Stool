@@ -4,8 +4,8 @@
     "name": "MILF's Plaza",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28845539",
-    "update_time": "2025-05-07 00:29:03",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:52",
     "depot": {
         "hasdepotsindlc": "1",
         "2706301": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2476139486869263779",
-                    "size": "2404797766",
-                    "download": "1898158256"
+                    "gid": "5543108895743794131",
+                    "size": "2404811900",
+                    "download": "1898156976"
                 }
             },
             "decryptionkey": "410cae000a800de807a1b1972880f3c6810577b02984996ce4624afba5707233"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5822578744088138125",
-                    "size": "2074043109",
-                    "download": "1803365776"
+                    "gid": "859492769230981848",
+                    "size": "2073998062",
+                    "download": "1803314320"
                 }
             },
             "decryptionkey": "8749578373b02a7f5195daec25f5b847e7c375188fb42522e134134bac12cff3"
         },
         "branches": {
             "public": {
-                "buildid": "18344024",
-                "timeupdated": "1746434739"
+                "buildid": "18448330",
+                "timeupdated": "1747156391"
             }
         },
         "privatebranches": "1"
