@@ -4,8 +4,8 @@
     "name": "Deceit 2",
     "schinese_name": "黑暗逃生2",
     "isfreeapp": "1",
-    "change_number": "28905133",
-    "update_time": "2025-05-09 23:58:39",
+    "change_number": "29021604",
+    "update_time": "2025-05-16 18:06:45",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2064871": {
             "manifests": {
                 "public": {
-                    "gid": "3122542336323277244",
-                    "size": "25073494600",
-                    "download": "21069820160"
+                    "gid": "3163386588104583099",
+                    "size": "25112424220",
+                    "download": "21106292144"
                 },
                 "external-public": {
                     "gid": "7518170521442742635",
@@ -39,8 +39,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "18320015",
-                "timeupdated": "1746538245"
+                "buildid": "18477804",
+                "timeupdated": "1747390001"
             },
             "external-public": {
                 "buildid": "17643079",
