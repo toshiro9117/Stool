@@ -4,8 +4,8 @@
     "name": "Survivalist: Invisible Strain",
     "schinese_name": "生存主义：隐形异变",
     "isfreeapp": "0",
-    "change_number": "28829155",
-    "update_time": "2025-05-06 04:13:52",
+    "change_number": "29010125",
+    "update_time": "2025-05-16 03:25:38",
     "depot": {
         "229003": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5141414711991638826",
-                    "size": "2747793346",
-                    "download": "1115784512"
-                },
-                "publicbeta": {
                     "gid": "2307263858214343404",
                     "size": "2745871429",
                     "download": "1115707760"
+                },
+                "publicbeta": {
+                    "gid": "8394735177908266721",
+                    "size": "2723953900",
+                    "download": "1112155744"
                 }
             },
             "decryptionkey": "4bb6f2708dc837f78156fadb98d5d7e0c06e598c26f6a4dac7a3711064372e7c"
@@ -37,12 +37,12 @@
         "baselanguages": "english,french,italian,koreana,spanish,schinese,russian,japanese,hungarian,turkish,latam",
         "branches": {
             "public": {
-                "buildid": "18231892",
-                "timeupdated": "1746196338"
+                "buildid": "18350604",
+                "timeupdated": "1747090348"
             },
             "publicbeta": {
-                "buildid": "18350604",
-                "timeupdated": "1746476026"
+                "buildid": "18480773",
+                "timeupdated": "1747337133"
             }
         },
         "privatebranches": "1",
