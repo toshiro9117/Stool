@@ -4,8 +4,8 @@
     "name": "A Dance of Fire and Ice",
     "schinese_name": "冰与火之舞 A Dance of Fire and Ice",
     "isfreeapp": "0",
-    "change_number": "28835148",
-    "update_time": "2025-05-06 13:45:19",
+    "change_number": "29030323",
+    "update_time": "2025-05-17 02:13:53",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "977950",
@@ -87,14 +87,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "333303673751824611",
-                    "size": "2007075185",
-                    "download": "445272240"
+                    "gid": "5882061177828084855",
+                    "size": "1979046435",
+                    "download": "436171952"
                 },
                 "beta": {
-                    "gid": "1302757723630146773",
-                    "size": "2007078721",
-                    "download": "445274256"
+                    "gid": "1679719754566130215",
+                    "size": "1979048355",
+                    "download": "436173936"
                 },
                 "older": {
                     "gid": "5361295792305082488",
@@ -106,13 +106,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17960361",
-                "timeupdated": "1743627047"
+                "buildid": "18495148",
+                "timeupdated": "1747417804"
             },
             "beta": {
-                "buildid": "18059638",
+                "buildid": "18495336",
                 "description": "Public beta",
-                "timeupdated": "1744305404"
+                "timeupdated": "1747418915"
             },
             "older": {
                 "buildid": "17372902",
