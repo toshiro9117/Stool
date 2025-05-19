@@ -4,8 +4,8 @@
     "name": "TEKKEN 8",
     "schinese_name": "铁拳8",
     "isfreeapp": "0",
-    "change_number": "28921523",
-    "update_time": "2025-05-11 07:59:49",
+    "change_number": "29034667",
+    "update_time": "2025-05-17 08:13:15",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -25,9 +25,9 @@
         "1778821": {
             "manifests": {
                 "public": {
-                    "gid": "7280129614765527785",
-                    "size": "123915994970",
-                    "download": "107949293360"
+                    "gid": "4969127257753045106",
+                    "size": "124775302706",
+                    "download": "108739196848"
                 }
             },
             "decryptionkey": "c7c87be587ce9a828a290d82a8650ff9edd77f53919f2f8d2f686f1e586417b7"
@@ -35,9 +35,9 @@
         "1778822": {
             "manifests": {
                 "public": {
-                    "gid": "6203640909802477533",
-                    "size": "1683237927",
-                    "download": "301794912"
+                    "gid": "2737826626619222971",
+                    "size": "1685968772",
+                    "download": "302248912"
                 }
             },
             "decryptionkey": ""
@@ -88,8 +88,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18186873",
-                "timeupdated": "1745287209"
+                "buildid": "18437705",
+                "timeupdated": "1747101600"
             }
         },
         "privatebranches": "1"
