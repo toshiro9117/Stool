@@ -4,8 +4,8 @@
     "name": "Wolfpack",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28258470",
-    "update_time": "2025-04-02 08:10:02",
+    "change_number": "28973933",
+    "update_time": "2025-05-14 13:27:52",
     "depot": {
         "workshopdepot": "490920",
         "490921": {
@@ -47,6 +47,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "1c795b402516a159e2d2e7e36ed745ff9c3e03beccc9909f43d053235231856b"
     }
 }
