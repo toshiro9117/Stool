@@ -4,8 +4,8 @@
     "name": "Yusha Prototype -原型勇者-",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28816382",
-    "update_time": "2025-05-05 12:30:48",
+    "change_number": "29015195",
+    "update_time": "2025-05-16 10:21:22",
     "depot": {
         "2253971": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3781592724716884456",
-                    "size": "146421213",
-                    "download": "87585648"
+                    "gid": "2702441733820387530",
+                    "size": "146421549",
+                    "download": "87593184"
                 }
             },
             "decryptionkey": "9f942330205627b5337c1edcd364f2b5fa55676802cf2f14cfbb3febcd2120a8"
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18310417",
-                "timeupdated": "1746197151"
+                "buildid": "18439703",
+                "timeupdated": "1747210074"
             }
         },
         "privatebranches": "1"
