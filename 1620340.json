@@ -4,8 +4,8 @@
     "name": "Wrestling Empire",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28195705",
-    "update_time": "2025-03-29 01:14:17",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:14",
     "depot": {
         "1620341": {
             "config": {
@@ -27,6 +27,6 @@
                 "timeupdated": "1743182050"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "93250f8039b99a00ca3e15fdcf42a6fbcc9862965db9b2b5e92429a97b87165a"
     }
 }
