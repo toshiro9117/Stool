@@ -4,23 +4,23 @@
     "name": "Over Heroes",
     "schinese_name": "守望联盟",
     "isfreeapp": "0",
-    "change_number": "28799475",
-    "update_time": "2025-05-03 18:52:29",
+    "change_number": "29046575",
+    "update_time": "2025-05-18 14:38:27",
     "depot": {
         "3147551": {
             "manifests": {
                 "public": {
-                    "gid": "7103558653619774004",
-                    "size": "2570942801",
-                    "download": "948889776"
+                    "gid": "7451075390450444565",
+                    "size": "2574133941",
+                    "download": "958187936"
                 }
             },
             "decryptionkey": "dadbd0f5a301439ee8f566f4a8bfbc3c0a72006e3133e57acb9af3d8ec28136f"
         },
         "branches": {
             "public": {
-                "buildid": "18331397",
-                "timeupdated": "1746269546"
+                "buildid": "18507156",
+                "timeupdated": "1747550303"
             }
         }
     }
