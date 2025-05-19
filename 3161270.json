@@ -4,33 +4,33 @@
     "name": "Tlatoani: Aztec Cities",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28912746",
-    "update_time": "2025-05-10 09:32:38",
+    "change_number": "29044824",
+    "update_time": "2025-05-18 08:23:47",
     "depot": {
         "3161271": {
             "manifests": {
                 "public": {
-                    "gid": "5227125570959315197",
-                    "size": "505401870",
-                    "download": "361941584"
+                    "gid": "6724534838580152521",
+                    "size": "505410005",
+                    "download": "361947280"
                 },
                 "public_testing_branch": {
-                    "gid": "4712312577672310267",
-                    "size": "505371687",
-                    "download": "361944304"
+                    "gid": "6724534838580152521",
+                    "size": "505410005",
+                    "download": "361947280"
                 }
             },
             "decryptionkey": "99113437a694b959b1cd3c6664992d2bf4b3adf01d6c43962757a00ba09e3ab6"
         },
         "branches": {
             "public": {
-                "buildid": "18409600",
-                "timeupdated": "1746830748"
+                "buildid": "18505818",
+                "timeupdated": "1747527492"
             },
             "public_testing_branch": {
-                "buildid": "18408119",
+                "buildid": "18505840",
                 "description": "Branch for public playtesting",
-                "timeupdated": "1746820468"
+                "timeupdated": "1747527823"
             }
         }
     }
