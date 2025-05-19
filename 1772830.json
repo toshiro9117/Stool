@@ -4,8 +4,8 @@
     "name": "Rusted Moss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27941801",
-    "update_time": "2025-03-14 03:53:08",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:47",
     "depot": {
         "workshopdepot": "1772830",
         "baselanguages": "english,koreana,schinese,japanese,brazilian,latam",
@@ -27,6 +27,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "6d333dbe767d3fac3e8f0d3cefba0e90b18bdedda3073d8cb6f59aa435cb3897"
     }
 }
