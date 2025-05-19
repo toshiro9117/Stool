@@ -4,8 +4,8 @@
     "name": "VideoPad",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28875091",
-    "update_time": "2025-05-08 12:56:06",
+    "change_number": "29020920",
+    "update_time": "2025-05-16 17:29:02",
     "depot": {
         "baselanguages": "english",
         "554821": {
@@ -271,14 +271,14 @@
                     "download": "6193792"
                 },
                 "all_test_debug": {
-                    "gid": "5767719103662788354",
-                    "size": "50948853",
-                    "download": "11522848"
+                    "gid": "1291902560917793721",
+                    "size": "50968303",
+                    "download": "11530464"
                 },
                 "all_test_release": {
-                    "gid": "3809404106023518173",
-                    "size": "16165621",
-                    "download": "7438656"
+                    "gid": "3736476296005663581",
+                    "size": "16176367",
+                    "download": "7442832"
                 }
             },
             "decryptionkey": ""
@@ -361,14 +361,14 @@
                     "download": "5911696"
                 },
                 "all_test_debug": {
-                    "gid": "3285297982935246644",
-                    "size": "52215144",
-                    "download": "11533728"
+                    "gid": "5530536148872715275",
+                    "size": "51470182",
+                    "download": "11507008"
                 },
                 "all_test_release": {
-                    "gid": "7698667708263633162",
-                    "size": "16578408",
-                    "download": "7423216"
+                    "gid": "6274689891563593546",
+                    "size": "16576870",
+                    "download": "7423424"
                 }
             },
             "decryptionkey": ""
@@ -529,9 +529,9 @@
                     "download": "5864240"
                 },
                 "all_test_debug": {
-                    "gid": "4281492854909813478",
-                    "size": "51444091",
-                    "download": "11486144"
+                    "gid": "8856344239479151179",
+                    "size": "51466107",
+                    "download": "11489920"
                 },
                 "all_test_release": {
                     "gid": "5169992170690428425",
@@ -583,9 +583,9 @@
                     "download": "5896112"
                 },
                 "all_test_debug": {
-                    "gid": "7510004814673682354",
-                    "size": "51411751",
-                    "download": "11480176"
+                    "gid": "1313009538487445157",
+                    "size": "51433762",
+                    "download": "11489056"
                 },
                 "all_test_release": {
                     "gid": "2935397687493702268",
@@ -661,12 +661,12 @@
                 "timeupdated": "1581405688"
             },
             "all_test_debug": {
-                "buildid": "18384035",
-                "timeupdated": "1746680161"
+                "buildid": "18488872",
+                "timeupdated": "1747387733"
             },
             "all_test_release": {
-                "buildid": "18383993",
-                "timeupdated": "1746679951"
+                "buildid": "18488833",
+                "timeupdated": "1747387580"
             }
         }
     }
