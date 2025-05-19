@@ -4,8 +4,8 @@
     "name": "Terraformers",
     "schinese_name": "焕然异星 Terraformers",
     "isfreeapp": "0",
-    "change_number": "28901686",
-    "update_time": "2025-05-09 20:38:52",
+    "change_number": "29024894",
+    "update_time": "2025-05-16 21:19:48",
     "depot": {
         "1244801": {
             "config": {
@@ -56,9 +56,9 @@
             "dlcappid": "1783650",
             "manifests": {
                 "public": {
-                    "gid": "3417918163188004309",
-                    "size": "1142565671",
-                    "download": "1007520480"
+                    "gid": "1158856776405195381",
+                    "size": "1313687659",
+                    "download": "1156022976"
                 }
             },
             "decryptionkey": "0474504e1c09e61912b386782d3e567401170d2a93feb96f49fadd18746ec18f"
@@ -66,8 +66,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17515512",
-                "timeupdated": "1740576627"
+                "buildid": "18491550",
+                "timeupdated": "1747400302"
             }
         },
         "privatebranches": "1"
