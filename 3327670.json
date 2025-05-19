@@ -4,8 +4,8 @@
     "name": "Grand MALL Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915792",
-    "update_time": "2025-05-10 17:13:04",
+    "change_number": "28987916",
+    "update_time": "2025-05-15 03:07:25",
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8935304018499119673",
-                    "size": "6090484021",
-                    "download": "5791005312"
+                    "gid": "3565688751209319448",
+                    "size": "6370345236",
+                    "download": "6112130976"
                 }
             },
             "decryptionkey": "a6bff198ac577bef90b1b618254c7ca72707445512d3fb30c6e965a1d337152d"
         },
         "branches": {
             "public": {
-                "buildid": "18073656",
-                "timeupdated": "1744383166"
+                "buildid": "18465331",
+                "timeupdated": "1747249641"
             }
         },
         "privatebranches": "1"
