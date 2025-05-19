@@ -4,8 +4,8 @@
     "name": "Astral Ascent",
     "schinese_name": "星界战士",
     "isfreeapp": "0",
-    "change_number": "28919399",
-    "update_time": "2025-05-11 02:23:05",
+    "change_number": "28985793",
+    "update_time": "2025-05-15 01:00:00",
     "depot": {
         "hasdepotsindlc": "1",
         "1280931": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "418871336474546912",
-                    "size": "1753365730",
-                    "download": "1324170864"
+                    "gid": "5372123512351061141",
+                    "size": "1753578474",
+                    "download": "1324185840"
                 },
                 "public.beta": {
-                    "gid": "418871336474546912",
-                    "size": "1753365730",
-                    "download": "1324170864"
+                    "gid": "5372123512351061141",
+                    "size": "1753578474",
+                    "download": "1324185840"
                 }
             },
             "decryptionkey": "0aa72dc03cc9e6cecbfcf3960175fd079072d7169ab5c6451a1406591f23d24c"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3696507276062554186",
-                    "size": "1730889989",
-                    "download": "1354410368"
+                    "gid": "3604883573050530406",
+                    "size": "1731013037",
+                    "download": "1354438944"
                 },
                 "public.beta": {
-                    "gid": "3696507276062554186",
-                    "size": "1730889989",
-                    "download": "1354410368"
+                    "gid": "3604883573050530406",
+                    "size": "1731013037",
+                    "download": "1354438944"
                 }
             },
             "decryptionkey": "a2d693f28c2dae8bc67d76840efed8704f6205daf32bb1e2fe2eca5c9d13b3ec"
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8514972484639913291",
-                    "size": "1749227640",
-                    "download": "1359217344"
+                    "gid": "3824075698509192044",
+                    "size": "1749356384",
+                    "download": "1359225648"
                 },
                 "public.beta": {
-                    "gid": "8514972484639913291",
-                    "size": "1749227640",
-                    "download": "1359217344"
+                    "gid": "3824075698509192044",
+                    "size": "1749356384",
+                    "download": "1359225648"
                 }
             },
             "decryptionkey": "99a1e96f1d5e11449ef94d8adc5b09e30cd548380df16c356f25867c957ad1e6"
         },
         "branches": {
             "public": {
-                "buildid": "18406122",
-                "timeupdated": "1746901380"
+                "buildid": "18418706",
+                "timeupdated": "1746959387"
             },
             "public.beta": {
-                "buildid": "18406122",
+                "buildid": "18418706",
                 "description": "unstable versions",
-                "timeupdated": "1746901361"
+                "timeupdated": "1746955802"
             }
         },
         "privatebranches": "1"
