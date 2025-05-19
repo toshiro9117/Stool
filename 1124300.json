@@ -4,8 +4,8 @@
     "name": "HUMANKIND™",
     "schinese_name": "人类",
     "isfreeapp": "0",
-    "change_number": "28003232",
-    "update_time": "2025-03-18 06:55:19",
+    "change_number": "29024513",
+    "update_time": "2025-05-16 20:58:30",
     "depot": {
         "228984": {
             "config": {
@@ -67,9 +67,9 @@
                     "download": "14830395040"
                 },
                 "update_preview": {
-                    "gid": "4047577098521019287",
-                    "size": "37017647208",
-                    "download": "14885965824"
+                    "gid": "5911833468410073759",
+                    "size": "37053149028",
+                    "download": "14894047056"
                 }
             },
             "decryptionkey": "31824a528b21cc0a39767df59e54f348eea747f224c7df02c059dceeb02d744a"
@@ -91,9 +91,9 @@
                     "download": "14847318032"
                 },
                 "update_preview": {
-                    "gid": "4744833801444402146",
-                    "size": "37060455221",
-                    "download": "14896842624"
+                    "gid": "1422004937408954799",
+                    "size": "36826784907",
+                    "download": "14847318032"
                 }
             },
             "decryptionkey": "a69d865390db19a0c3c7a5a141b33fbbb1b732aff23e1b9cc0f5b7bc706aa623"
@@ -131,12 +131,12 @@
                 "timeupdated": "1739474815"
             },
             "update_preview": {
-                "buildid": "17352694",
+                "buildid": "18479307",
                 "description": "Preview branch for the next udpate. Please be aware that it may be unstable and not compatible with vanilla multiplayer.",
-                "timeupdated": "1739454974"
+                "timeupdated": "1747400305"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "4d092aea0cdc3bc272cb80eb0511617bc474b5cdafcebae2408b700eadf9ce84"
     }
 }
