@@ -4,8 +4,8 @@
     "name": "Orgynizer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28847482",
-    "update_time": "2025-05-07 02:27:59",
+    "change_number": "28984162",
+    "update_time": "2025-05-14 23:33:20",
     "depot": {
         "228987": {
             "config": {
@@ -20,14 +20,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4563068856715424292",
-                    "size": "531329419",
-                    "download": "182622608"
+                    "gid": "7021723738068991130",
+                    "size": "531345307",
+                    "download": "182623664"
                 },
                 "playtesting": {
-                    "gid": "4563068856715424292",
-                    "size": "531329419",
-                    "download": "182622608"
+                    "gid": "7021723738068991130",
+                    "size": "531345307",
+                    "download": "182623664"
                 }
             },
             "decryptionkey": "90eeac32af2b7ae17121fc960d0d98659832a46cc6ed53b079897bb0829039ba"
@@ -52,13 +52,13 @@
         "workshopdepot": "1114380",
         "branches": {
             "public": {
-                "buildid": "18363490",
-                "timeupdated": "1746556073"
+                "buildid": "18460276",
+                "timeupdated": "1747226783"
             },
             "playtesting": {
-                "buildid": "18363490",
+                "buildid": "18460276",
                 "description": "The latest playable test",
-                "timeupdated": "1746556013"
+                "timeupdated": "1747226728"
             }
         },
         "privatebranches": "1",
