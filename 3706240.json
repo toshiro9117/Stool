@@ -4,15 +4,15 @@
     "name": "Veloria: The Knot of Candle - First Contact",
     "schinese_name": "薇拉里娅的烛花 高清数字与配音集",
     "isfreeapp": "0",
-    "change_number": "28761176",
-    "update_time": "2025-05-01 09:08:51",
+    "change_number": "29005604",
+    "update_time": "2025-05-15 23:19:43",
     "depot": {
         "3706240": {
             "manifests": {
                 "public": {
-                    "gid": "3404476764731207818",
-                    "size": "210603665",
-                    "download": "162118272"
+                    "gid": "5040843399263009461",
+                    "size": "212894793",
+                    "download": "164382640"
                 }
             },
             "dlcappid": "3706240",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18303246",
-                "timeupdated": "1746056799"
+                "buildid": "18478247",
+                "timeupdated": "1747322378"
             }
         }
     }
