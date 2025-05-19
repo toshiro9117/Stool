@@ -4,8 +4,8 @@
     "name": "Thrive",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28799368",
-    "update_time": "2025-05-03 18:37:23",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:53",
     "depot": {
         "1779202": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2409041317402246526",
-                    "size": "1801854865",
-                    "download": "603738944"
+                    "gid": "2982786206530856979",
+                    "size": "1813023578",
+                    "download": "607021696"
                 },
                 "0.6.5-last-version-with-godot-3": {
                     "gid": "257976494422021828",
@@ -23,9 +23,9 @@
                     "download": "486286720"
                 },
                 "beta": {
-                    "gid": "2409041317402246526",
-                    "size": "1801854865",
-                    "download": "603738944"
+                    "gid": "2982786206530856979",
+                    "size": "1813023578",
+                    "download": "607021696"
                 }
             }
         },
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4181594098171475762",
-                    "size": "1833315087",
-                    "download": "610029968"
+                    "gid": "3426641039508247084",
+                    "size": "1842467427",
+                    "download": "612248176"
                 },
                 "0.6.5-last-version-with-godot-3": {
                     "gid": "5125749421719998037",
@@ -45,9 +45,9 @@
                     "download": "483293792"
                 },
                 "beta": {
-                    "gid": "4181594098171475762",
-                    "size": "1833315087",
-                    "download": "610029968"
+                    "gid": "3426641039508247084",
+                    "size": "1842467427",
+                    "download": "612248176"
                 }
             },
             "decryptionkey": "dfb49b0b5ca0f978bbc8b8660a2caf5557a9428728152c454982f0f2367fe141"
@@ -55,8 +55,8 @@
         "workshopdepot": "1779200",
         "branches": {
             "public": {
-                "buildid": "18331348",
-                "timeupdated": "1746268638"
+                "buildid": "18460588",
+                "timeupdated": "1747228092"
             },
             "0.6.5-last-version-with-godot-3": {
                 "buildid": "13551762",
@@ -64,9 +64,9 @@
                 "timeupdated": "1712829661"
             },
             "beta": {
-                "buildid": "18331348",
+                "buildid": "18460588",
                 "description": "non-stable version",
-                "timeupdated": "1746268585"
+                "timeupdated": "1747228038"
             }
         },
         "workshopdepotdecryptionkey": "0bc26f1cfaaf503dd0da91dda91013588bbf228610145f4260c21f479f57210a"
