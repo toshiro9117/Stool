@@ -4,8 +4,8 @@
     "name": "Final Factory",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28914587",
-    "update_time": "2025-05-10 14:07:08",
+    "change_number": "28965904",
+    "update_time": "2025-05-14 01:52:33",
     "depot": {
         "1383152": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4415797108554053252",
-                    "size": "2455738571",
-                    "download": "920518208"
+                    "gid": "5853795155980455796",
+                    "size": "2455830985",
+                    "download": "920525920"
                 },
                 "debug": {
                     "gid": "2242770017808571762",
@@ -25,9 +25,9 @@
                     "download": "924782160"
                 },
                 "development": {
-                    "gid": "4415797108554053252",
-                    "size": "2455738571",
-                    "download": "920518208"
+                    "gid": "5853795155980455796",
+                    "size": "2455830985",
+                    "download": "920525920"
                 },
                 "development-previous": {
                     "gid": "2957853027534508094",
@@ -78,8 +78,8 @@
         "workshopdepot": "1383150",
         "branches": {
             "public": {
-                "buildid": "18412351",
-                "timeupdated": "1746857222"
+                "buildid": "18448760",
+                "timeupdated": "1747158603"
             },
             "debug": {
                 "buildid": "18074155",
@@ -87,9 +87,9 @@
                 "timeupdated": "1744385076"
             },
             "development": {
-                "buildid": "18412351",
+                "buildid": "18448760",
                 "description": "For playtesting the latest changes",
-                "timeupdated": "1746857056"
+                "timeupdated": "1747158748"
             },
             "development-previous": {
                 "buildid": "18210975",
