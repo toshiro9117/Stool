@@ -4,8 +4,8 @@
     "name": "Backrooms: Extractions",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921082",
-    "update_time": "2025-05-11 06:36:12",
+    "change_number": "29048782",
+    "update_time": "2025-05-18 20:48:34",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8376719844133966067",
-                    "size": "5651741112",
-                    "download": "5304202336"
+                    "gid": "7668604002921495489",
+                    "size": "5817951614",
+                    "download": "5413692320"
                 }
             },
             "decryptionkey": "60ff950675278d2d9588f534359afce7b62e02cb4db091bba6083d617cb7f5af"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,polish,danish,dutch,finnish,norwegian,swedish,brazilian,bulgarian,latam",
         "branches": {
             "public": {
-                "buildid": "18413852",
-                "timeupdated": "1746876593"
+                "buildid": "18508598",
+                "timeupdated": "1747573725"
             }
         },
         "privatebranches": "1"
