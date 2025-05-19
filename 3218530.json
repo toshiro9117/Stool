@@ -4,8 +4,8 @@
     "name": "Best Served Cold",
     "schinese_name": "十年不晚",
     "isfreeapp": "0",
-    "change_number": "28918671",
-    "update_time": "2025-05-11 00:33:10",
+    "change_number": "29048543",
+    "update_time": "2025-05-18 20:15:58",
     "depot": {
         "3218531": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4081517761230885627",
-                    "size": "2398773086",
-                    "download": "1674011024"
+                    "gid": "7691048408371304784",
+                    "size": "2399018594",
+                    "download": "1688870000"
                 }
             },
             "decryptionkey": "50ece9f8ddbf60ec708059b18a272a27ce8789161e30aaa57626720f4496c173"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5617520276641257618",
-                    "size": "2423792739",
-                    "download": "1682568896"
+                    "gid": "4393949306491575196",
+                    "size": "2424036783",
+                    "download": "1697418960"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18401046",
-                "timeupdated": "1746785180"
+                "buildid": "18445446",
+                "timeupdated": "1747145300"
             }
         },
         "privatebranches": "1"
