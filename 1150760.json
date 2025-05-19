@@ -4,23 +4,23 @@
     "name": "Gloomwood",
     "schinese_name": "幽暗森林",
     "isfreeapp": "0",
-    "change_number": "28912816",
-    "update_time": "2025-05-10 09:42:27",
+    "change_number": "29043604",
+    "update_time": "2025-05-18 05:02:01",
     "depot": {
         "1150761": {
             "manifests": {
                 "public": {
-                    "gid": "8385520096851122879",
-                    "size": "2226006683",
-                    "download": "2045939024"
+                    "gid": "1602114542582206893",
+                    "size": "2180010246",
+                    "download": "2014933728"
                 }
             },
             "decryptionkey": "4fe756af50289f72bf1ed9a6a53ab9720376691d264abce579523e8f39bbe662"
         },
         "branches": {
             "public": {
-                "buildid": "18137877",
-                "timeupdated": "1744857294"
+                "buildid": "18454626",
+                "timeupdated": "1747199476"
             }
         },
         "privatebranches": "1"
