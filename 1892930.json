@@ -4,8 +4,8 @@
     "name": "s&box server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922153",
-    "update_time": "2025-05-11 10:01:15",
+    "change_number": "29045340",
+    "update_time": "2025-05-18 10:02:06",
     "depot": {
         "1004": {
             "config": {
@@ -68,9 +68,9 @@
                     "download": "1726559824"
                 },
                 "staging": {
-                    "gid": "3326407503239551410",
-                    "size": "2516646911",
-                    "download": "1727261200"
+                    "gid": "4385062767842916384",
+                    "size": "2347882144",
+                    "download": "1606178112"
                 }
             },
             "decryptionkey": ""
@@ -81,9 +81,9 @@
                 "timeupdated": "1746432253"
             },
             "staging": {
-                "buildid": "18417584",
+                "buildid": "18506215",
                 "description": "Builds before live",
-                "timeupdated": "1746928870"
+                "timeupdated": "1747533721"
             }
         },
         "privatebranches": "1"
