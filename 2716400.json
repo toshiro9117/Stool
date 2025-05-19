@@ -4,8 +4,8 @@
     "name": "The Rise of the Golden Idol",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905151",
-    "update_time": "2025-05-09 23:59:48",
+    "change_number": "29025878",
+    "update_time": "2025-05-16 22:09:21",
     "depot": {
         "baselanguages": "english",
         "2716401": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5592167571167991222",
-                    "size": "2751152150",
-                    "download": "2623124656"
+                    "gid": "6217062659511703250",
+                    "size": "2938334725",
+                    "download": "2807816608"
                 }
             },
             "decryptionkey": "369c88aa7a34e596ee6cf0e3eb93af0259fe3ef7de70e1e285e73557f365188f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5646308007288136889",
-                    "size": "2791725879",
-                    "download": "2603293456"
+                    "gid": "8052053210838536759",
+                    "size": "3017429255",
+                    "download": "2826237456"
                 }
             }
         },
@@ -52,9 +52,9 @@
             "dlcappid": "3333860",
             "manifests": {
                 "public": {
-                    "gid": "1667851229082974430",
-                    "size": "500572304",
-                    "download": "485511072"
+                    "gid": "5324208831798358648",
+                    "size": "891159632",
+                    "download": "864151712"
                 }
             },
             "decryptionkey": "2adfc1b7518f90239656a9f29587c851f9b8f206381b83d6f0efef44af1bb663"
@@ -64,7 +64,14 @@
             "config": {
                 "oslist": "windows,macos"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "386529205146985280",
+                    "size": "390587328",
+                    "download": "380267696"
+                }
+            },
+            "decryptionkey": "1a7ba8ee1daadc056b3316e58463f01679a4266c1cdc4f6d6598072e65ce0443"
         },
         "3335341": {
             "dlcappid": "3335340",
@@ -80,8 +87,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17750151",
-                "timeupdated": "1742207343"
+                "buildid": "18492492",
+                "timeupdated": "1747404555"
             }
         },
         "privatebranches": "1"
