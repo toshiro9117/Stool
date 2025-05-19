@@ -4,8 +4,8 @@
     "name": "Deep Desktop",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918671",
-    "update_time": "2025-05-11 00:33:11",
+    "change_number": "29045922",
+    "update_time": "2025-05-18 12:12:49",
     "depot": {
         "228988": {
             "config": {
@@ -15,6 +15,10 @@
             "sharedinstall": "1"
         },
         "2947591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
             "manifests": {
                 "public": {
                     "gid": "81018297786596669",
@@ -22,57 +26,41 @@
                     "download": "200823536"
                 },
                 "beta": {
-                    "gid": "8013936100565134587",
-                    "size": "353997487",
-                    "download": "200755616"
+                    "gid": "4701495484353459561",
+                    "size": "356845571",
+                    "download": "203195488"
+                },
+                "beta-install-cache": {
+                    "gid": "4701495484353459561",
+                    "size": "356845571",
+                    "download": "203195488"
                 },
                 "1.1.0": {
                     "gid": "8071513948133557547",
                     "size": "351574309",
                     "download": "200055232"
                 },
-                "1.0.4c": {
-                    "gid": "8279105675537461453",
-                    "size": "267057578",
-                    "download": "125775968"
-                },
                 "1.0.4-lookingglass": {
                     "gid": "8812027921855759767",
                     "size": "268001707",
                     "download": "126095440"
-                },
-                "1.0.4": {
-                    "gid": "9214075009400137200",
-                    "size": "266913070",
-                    "download": "125664144"
-                },
-                "1.0.3b": {
-                    "gid": "4813782040676785318",
-                    "size": "256067319",
-                    "download": "122961120"
-                },
-                "1.0.3": {
-                    "gid": "8594058999325444478",
-                    "size": "256013890",
-                    "download": "122946272"
-                },
-                "1.0.2": {
-                    "gid": "3325741530424180206",
-                    "size": "255975847",
-                    "download": "122938048"
-                },
-                "1.0.1": {
-                    "gid": "1472153541107454371",
-                    "size": "255950643",
-                    "download": "122931856"
-                },
-                "1.0.0": {
-                    "gid": "2894223352685215789",
-                    "size": "255950131",
-                    "download": "122931808"
                 }
             },
             "decryptionkey": "4cc8708a9b2e69c89afe0002913a8057aab15f719417a4e9b48b423eb77cb873"
+        },
+        "2947592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "beta-install-cache": {
+                    "gid": "6389515152693854141",
+                    "size": "12900507380",
+                    "download": "6472641232"
+                }
+            },
+            "decryptionkey": "995893f9afd36fd7c26b8da3ae5de68b1b0cb88c2b850eb3ba6f994444187a6c"
         },
         "branches": {
             "public": {
@@ -80,54 +68,24 @@
                 "timeupdated": "1746793209"
             },
             "beta": {
-                "buildid": "18413994",
+                "buildid": "18480309",
                 "description": "Beta branch",
-                "timeupdated": "1746878507"
+                "timeupdated": "1747332660"
+            },
+            "beta-install-cache": {
+                "buildid": "18480310",
+                "description": "Beta branch with install cache",
+                "timeupdated": "1747332673"
             },
             "1.1.0": {
                 "buildid": "15880915",
                 "description": "Version 1.1.0",
                 "timeupdated": "1737972869"
             },
-            "1.0.4c": {
-                "buildid": "15174317",
-                "description": "Version 1.0.4c",
-                "timeupdated": "1727081687"
-            },
             "1.0.4-lookingglass": {
                 "buildid": "15465849",
                 "description": "Version 1.0.4 for Looking Glass",
                 "timeupdated": "1724371206"
-            },
-            "1.0.4": {
-                "buildid": "14981137",
-                "description": "Version 1.0.4",
-                "timeupdated": "1721036005"
-            },
-            "1.0.3b": {
-                "buildid": "14881376",
-                "description": "Version 1.0.3b",
-                "timeupdated": "1720816282"
-            },
-            "1.0.3": {
-                "buildid": "14851761",
-                "description": "Version 1.0.3",
-                "timeupdated": "1719707549"
-            },
-            "1.0.2": {
-                "buildid": "14832839",
-                "description": "Version 1.0.2",
-                "timeupdated": "1719707784"
-            },
-            "1.0.1": {
-                "buildid": "14787696",
-                "description": "Version 1.0.1",
-                "timeupdated": "1719707671"
-            },
-            "1.0.0": {
-                "buildid": "14787388",
-                "description": "Version 1.0.0",
-                "timeupdated": "1719707645"
             }
         },
         "privatebranches": "1"
