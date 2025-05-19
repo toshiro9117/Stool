@@ -4,8 +4,8 @@
     "name": "World of Football",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28900172",
-    "update_time": "2025-05-09 19:02:25",
+    "change_number": "28949369",
+    "update_time": "2025-05-13 07:13:02",
     "depot": {
         "baselanguages": "english,italian,spanish,polish,turkish,brazilian",
         "hasdepotsindlc": "0",
@@ -21,9 +21,9 @@
                     "download": "1253481792"
                 },
                 "beta": {
-                    "gid": "2971608485550341573",
-                    "size": "4313548279",
-                    "download": "1266829600"
+                    "gid": "8114748105132518578",
+                    "size": "4315183354",
+                    "download": "1267028736"
                 }
             },
             "decryptionkey": "57b03399bb7821a7195790673debd6d024c66c3466d4a245e7f3932b5499bbf1"
@@ -34,9 +34,9 @@
                 "timeupdated": "1740632233"
             },
             "beta": {
-                "buildid": "18175630",
+                "buildid": "18436321",
                 "description": "Beta branch for public testing",
-                "timeupdated": "1745192189"
+                "timeupdated": "1747091575"
             }
         },
         "privatebranches": "1"
