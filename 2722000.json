@@ -4,14 +4,13 @@
     "name": "我说什么她们都答应（OKeverything）",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28058668",
-    "update_time": "2025-03-21 03:57:47",
+    "change_number": "29037628",
+    "update_time": "2025-05-17 15:13:36",
     "depot": {
-        "baselanguages": "english",
+        "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
         "2722001": {
             "config": {
-                "language": "schinese",
                 "oslist": "windows"
             },
             "manifests": {
