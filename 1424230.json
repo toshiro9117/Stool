@@ -4,8 +4,8 @@
     "name": "Holdfast: Nations At War - Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28903505",
-    "update_time": "2025-05-09 22:21:41",
+    "change_number": "29029192",
+    "update_time": "2025-05-17 01:01:55",
     "depot": {
         "1004": {
             "config": {
@@ -62,9 +62,9 @@
                     "download": "1700921808"
                 },
                 "beta": {
-                    "gid": "5239621897012483612",
-                    "size": "11384544070",
-                    "download": "1700911664"
+                    "gid": "8450000916632885272",
+                    "size": "8528731876",
+                    "download": "1634316512"
                 }
             },
             "decryptionkey": "eb4909032cd917aaaf94448da374ca711a01f784817bb93dcfb84af7be77e87d"
@@ -82,9 +82,9 @@
                     "download": "1824005472"
                 },
                 "beta": {
-                    "gid": "3454845284963631411",
-                    "size": "11541336396",
-                    "download": "1823987728"
+                    "gid": "1116822728411233825",
+                    "size": "8685520882",
+                    "download": "1757380224"
                 }
             },
             "decryptionkey": "51fb0a69919307daf391d19b53617a43f8a7fb773356486b503a3e06c3f93346"
@@ -95,9 +95,9 @@
                 "timeupdated": "1744208413"
             },
             "beta": {
-                "buildid": "18145464",
+                "buildid": "18462712",
                 "description": "Open beta branch (compatible with live game)",
-                "timeupdated": "1744902467"
+                "timeupdated": "1747299962"
             }
         },
         "privatebranches": "1"
