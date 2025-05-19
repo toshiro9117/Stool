@@ -4,24 +4,25 @@
     "name": "閃攻機人アスラ - ASURA THE STRIKER -",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28757549",
-    "update_time": "2025-05-01 04:15:15",
+    "change_number": "28965698",
+    "update_time": "2025-05-14 01:37:05",
     "depot": {
         "2389831": {
             "manifests": {
                 "public": {
-                    "gid": "7915447833298040759",
-                    "size": "1799588819",
-                    "download": "553932848"
+                    "gid": "2007349314809040097",
+                    "size": "1805199159",
+                    "download": "554805920"
                 }
             },
             "decryptionkey": "87d35476e1ed17a5daca4f08275c3201f5899a67f078687df4939c4179238acd"
         },
         "branches": {
             "public": {
-                "buildid": "18218912",
-                "timeupdated": "1745473342"
+                "buildid": "18448192",
+                "timeupdated": "1747157819"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
