@@ -4,8 +4,8 @@
     "name": "Urge",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28912227",
-    "update_time": "2025-05-10 08:33:05",
+    "change_number": "29044915",
+    "update_time": "2025-05-18 08:38:23",
     "depot": {
         "baselanguages": "english",
         "1304351": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1385631834358314409",
-                    "size": "2245323732",
-                    "download": "742790352"
+                    "gid": "4204847005617660039",
+                    "size": "2277024127",
+                    "download": "751030416"
                 }
             },
             "decryptionkey": "d0c4453f1e03ca29896de018385f95b7d38da667befb06611bcc306e6a289a6f"
         },
         "branches": {
             "public": {
-                "buildid": "18327954",
-                "timeupdated": "1746230628"
+                "buildid": "18505897",
+                "timeupdated": "1747528700"
             }
         }
     }
