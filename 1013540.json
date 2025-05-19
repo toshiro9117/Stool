@@ -4,8 +4,8 @@
     "name": "Evospace",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921085",
-    "update_time": "2025-05-11 06:37:14",
+    "change_number": "28961647",
+    "update_time": "2025-05-13 21:52:12",
     "depot": {
         "228989": {
             "config": {
@@ -55,9 +55,9 @@
                     "download": "905827568"
                 },
                 "indev": {
-                    "gid": "5350840751951133345",
-                    "size": "1814650521",
-                    "download": "1388425888"
+                    "gid": "6259928781710644949",
+                    "size": "1815538384",
+                    "download": "1389197296"
                 },
                 "stable_indev": {
                     "gid": "9061584698171056261",
@@ -125,9 +125,9 @@
                 "timeupdated": "1744479641"
             },
             "indev": {
-                "buildid": "18416719",
+                "buildid": "18445707",
                 "description": "latest indev version",
-                "timeupdated": "1746916630"
+                "timeupdated": "1747144323"
             },
             "stable_indev": {
                 "buildid": "18340409",
