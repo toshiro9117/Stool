@@ -4,8 +4,8 @@
     "name": "World of Goo 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919721",
-    "update_time": "2025-05-11 03:11:52",
+    "change_number": "29038073",
+    "update_time": "2025-05-17 16:12:06",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "888855186337566534",
+                    "gid": "189516051354566888",
                     "size": "936809256",
-                    "download": "871081328"
+                    "download": "872290528"
                 },
                 "beta": {
                     "gid": "189516051354566888",
@@ -76,8 +76,8 @@
         "workshopdepot": "3385670",
         "branches": {
             "public": {
-                "buildid": "18371468",
-                "timeupdated": "1746640382"
+                "buildid": "18418262",
+                "timeupdated": "1746942216"
             },
             "beta": {
                 "buildid": "18415901",
