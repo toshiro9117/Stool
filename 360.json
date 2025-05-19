@@ -4,8 +4,8 @@
     "name": "Half-Life Deathmatch: Source",
     "schinese_name": "半条命死亡竞技：起源",
     "isfreeapp": "0",
-    "change_number": "28611853",
-    "update_time": "2025-04-23 08:35:53",
+    "change_number": "28969289",
+    "update_time": "2025-05-14 06:22:28",
     "depot": {
         "361": {
             "systemdefined": "1",
@@ -16,9 +16,9 @@
                     "download": "1951635728"
                 },
                 "prerelease": {
-                    "gid": "5641999994013633907",
-                    "size": "3277786930",
-                    "download": "1951635728"
+                    "gid": "4146906925667661160",
+                    "size": "3261154349",
+                    "download": "1950040800"
                 },
                 "previous_build": {
                     "gid": "907475119214389274",
@@ -61,9 +61,9 @@
                     "download": "116550608"
                 },
                 "prerelease": {
-                    "gid": "8354687245849837720",
-                    "size": "318588285",
-                    "download": "116550608"
+                    "gid": "1529885541808735301",
+                    "size": "318790493",
+                    "download": "116515344"
                 },
                 "previous_build": {
                     "gid": "3497422539598343026",
@@ -109,9 +109,9 @@
                     "download": "59862496"
                 },
                 "prerelease": {
-                    "gid": "7008898136767195478",
-                    "size": "201407774",
-                    "download": "59862496"
+                    "gid": "8440352053228888247",
+                    "size": "201534750",
+                    "download": "59878640"
                 },
                 "previous_build": {
                     "gid": "3077438660969886798",
@@ -128,8 +128,8 @@
                 "timeupdated": "1739908733"
             },
             "prerelease": {
-                "buildid": "17399405",
-                "timeupdated": "1739908724"
+                "buildid": "18450815",
+                "timeupdated": "1747174942"
             },
             "previous_build": {
                 "buildid": "6935425",
