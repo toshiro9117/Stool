@@ -4,8 +4,8 @@
     "name": "Whirligig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28860720",
-    "update_time": "2025-05-07 19:47:26",
+    "change_number": "28988662",
+    "update_time": "2025-05-15 03:58:19",
     "depot": {
         "451651": {
             "config": {
@@ -54,9 +54,9 @@
                     "download": "619062992"
                 },
                 "whirligig_early_access_latest_beta": {
-                    "gid": "3488633486856222537",
-                    "size": "1664091387",
-                    "download": "485122320"
+                    "gid": "4711470706251407278",
+                    "size": "1664097371",
+                    "download": "485102608"
                 },
                 "whirligig_v.5.051": {
                     "gid": "2752739825461690683",
@@ -119,9 +119,9 @@
                     "download": "486267056"
                 },
                 "whirligig_v5.572": {
-                    "gid": "3488633486856222537",
-                    "size": "1664091387",
-                    "download": "485122320"
+                    "gid": "4711470706251407278",
+                    "size": "1664097371",
+                    "download": "485102608"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
@@ -167,8 +167,8 @@
                 "timeupdated": "1704572176"
             },
             "whirligig_early_access_latest_beta": {
-                "buildid": "18373441",
-                "timeupdated": "1746618439"
+                "buildid": "18465855",
+                "timeupdated": "1747252695"
             },
             "whirligig_v.5.051": {
                 "buildid": "13166104",
@@ -231,9 +231,9 @@
                 "timeupdated": "1745173431"
             },
             "whirligig_v5.572": {
-                "buildid": "18373441",
+                "buildid": "18465855",
                 "description": "Vive and menu update",
-                "timeupdated": "1746618427"
+                "timeupdated": "1747252684"
             }
         }
     }
