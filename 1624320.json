@@ -4,8 +4,8 @@
     "name": "Eigengrau",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28618169",
-    "update_time": "2025-04-23 17:04:14",
+    "change_number": "29047488",
+    "update_time": "2025-05-18 17:23:55",
     "depot": {
         "baselanguages": "",
         "1624321": {
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4248841575538993430",
-                    "size": "9614360",
-                    "download": "3328960"
+                    "gid": "7411122247903650291",
+                    "size": "9577904",
+                    "download": "3340704"
                 }
             },
             "decryptionkey": ""
@@ -75,8 +75,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17914820",
-                "timeupdated": "1743328609"
+                "buildid": "18507698",
+                "timeupdated": "1747560233"
             }
         },
         "privatebranches": "1"
