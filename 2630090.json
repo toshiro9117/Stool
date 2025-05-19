@@ -4,8 +4,8 @@
     "name": "Settlements Rising Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28735727",
-    "update_time": "2025-04-30 04:52:57",
+    "change_number": "29047773",
+    "update_time": "2025-05-18 18:08:15",
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "2630091": {
             "manifests": {
                 "public": {
-                    "gid": "6251110326392831597",
-                    "size": "953243455",
-                    "download": "772052256"
+                    "gid": "5533953350906413957",
+                    "size": "954871528",
+                    "download": "784043312"
                 }
             },
             "decryptionkey": "84bed86929db488f2840dede18d47af9a0f6b6cad2a6871e1b40303d791194e8"
@@ -41,8 +41,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17338913",
-                "timeupdated": "1739435812"
+                "buildid": "18507793",
+                "timeupdated": "1747562893"
             }
         },
         "privatebranches": "1"
