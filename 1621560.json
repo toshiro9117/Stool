@@ -4,8 +4,8 @@
     "name": "Black One Blood Brothers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28825563",
-    "update_time": "2025-05-06 00:02:18",
+    "change_number": "29001806",
+    "update_time": "2025-05-15 20:14:47",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "1621560",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5391643981172111253",
-                    "size": "45268961559",
-                    "download": "17697006976"
+                    "gid": "870486688024555641",
+                    "size": "45265107291",
+                    "download": "17699111824"
                 }
             },
             "decryptionkey": "28de5a653d01514649d6e16ec7b28d6ee5ac2897abc4609b507964835bfab62d"
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18348307",
-                "timeupdated": "1746460935"
+                "buildid": "18475550",
+                "timeupdated": "1747311281"
             }
         },
         "privatebranches": "1",
