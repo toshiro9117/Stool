@@ -4,8 +4,8 @@
     "name": "Koira",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28341379",
-    "update_time": "2025-04-07 15:58:39",
+    "change_number": "29042520",
+    "update_time": "2025-05-18 02:15:20",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,arabic,brazilian",
         "1626622": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7012492737167956820",
-                    "size": "859272684",
-                    "download": "679807392"
+                    "gid": "3135328503161550055",
+                    "size": "859274860",
+                    "download": "679808496"
                 }
             },
             "decryptionkey": "2dde08ba13fea4295ac7843ea72319b9aee0c322b50e94f82a7104ef7d242dea"
@@ -29,12 +29,11 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3860705195955023848",
-                    "size": "939228907",
-                    "download": "698076944"
+                    "gid": "7758130818454397796",
+                    "size": "939231083",
+                    "download": "698077808"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1626624": {
             "config": {
@@ -43,18 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6686487450856554730",
-                    "size": "875194292",
-                    "download": "687439920"
+                    "gid": "1025538239077715490",
+                    "size": "875196468",
+                    "download": "687441024"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17927379",
-                "timeupdated": "1743494185"
+                "buildid": "18043847",
+                "timeupdated": "1744881899"
             }
         },
         "privatebranches": "1"
