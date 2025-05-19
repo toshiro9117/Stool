@@ -4,8 +4,8 @@
     "name": "月白",
     "schinese_name": "月白",
     "isfreeapp": "0",
-    "change_number": "27061550",
-    "update_time": "2025-01-19 13:56:18",
+    "change_number": "28980734",
+    "update_time": "2025-05-14 22:41:07",
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "2812481": {
@@ -53,7 +53,7 @@
         "branches": {
             "public": {
                 "buildid": "16758527",
-                "timeupdated": "1734350164"
+                "timeupdated": "1747226627"
             }
         }
     }
