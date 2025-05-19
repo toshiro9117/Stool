@@ -4,8 +4,8 @@
     "name": "From Glory To Goo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28914780",
-    "update_time": "2025-05-10 14:41:58",
+    "change_number": "29046203",
+    "update_time": "2025-05-18 13:14:18",
     "depot": {
         "2607061": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "217005792"
                 },
                 "testing": {
-                    "gid": "2910764028112503054",
-                    "size": "468046846",
-                    "download": "218136192"
+                    "gid": "6451945097185269889",
+                    "size": "472002117",
+                    "download": "224880336"
                 }
             },
             "decryptionkey": "f09a280e523e347727fa9c86b9770537f822f21b8ecb8a949923c00c9fd6db83"
@@ -29,9 +29,9 @@
                 "timeupdated": "1744958767"
             },
             "testing": {
-                "buildid": "18412510",
+                "buildid": "18506858",
                 "description": "Beta Branch",
-                "timeupdated": "1746859311"
+                "timeupdated": "1747545235"
             }
         },
         "privatebranches": "1",
