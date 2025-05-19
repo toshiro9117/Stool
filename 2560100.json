@@ -4,8 +4,8 @@
     "name": "Midnight Special",
     "schinese_name": "夜不能魅",
     "isfreeapp": "0",
-    "change_number": "28918212",
-    "update_time": "2025-05-10 23:33:31",
+    "change_number": "29037289",
+    "update_time": "2025-05-17 14:15:16",
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7716294250432169141",
-                    "size": "786782544",
-                    "download": "161489152"
+                    "gid": "7403732509494373609",
+                    "size": "786771456",
+                    "download": "161482688"
                 }
             },
             "decryptionkey": "add18006dc15b2920eff7541b312c553c75a1c728546c857829e1a172d9e6f3f"
@@ -57,8 +57,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18387813",
-                "timeupdated": "1746802512"
+                "buildid": "18404533",
+                "timeupdated": "1747044370"
             }
         }
     }
