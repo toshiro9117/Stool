@@ -4,8 +4,8 @@
     "name": "Wildkeepers Rising",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920330",
-    "update_time": "2025-05-11 04:42:53",
+    "change_number": "29048543",
+    "update_time": "2025-05-18 20:15:56",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8033433063839932629",
-                    "size": "1678190122",
-                    "download": "1476811840"
+                    "gid": "7336430927814994494",
+                    "size": "1664061858",
+                    "download": "1462922976"
                 }
             },
             "decryptionkey": "82e700a5f0601b7e7330daa61fa8dabf30452670a844774860ceae85d6f1fce3"
         },
         "branches": {
             "public": {
-                "buildid": "18059701",
-                "timeupdated": "1744304650"
+                "buildid": "18423018",
+                "timeupdated": "1747008209"
             }
         },
         "privatebranches": "1"
