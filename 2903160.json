@@ -4,15 +4,15 @@
     "name": "Midori no Kaori",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28745947",
-    "update_time": "2025-04-30 17:55:00",
+    "change_number": "29015231",
+    "update_time": "2025-05-16 10:24:49",
     "depot": {
         "2903161": {
             "manifests": {
                 "public": {
-                    "gid": "8115065707505521173",
-                    "size": "1321824864",
-                    "download": "785998656"
+                    "gid": "3377935992487449243",
+                    "size": "1331778904",
+                    "download": "790628880"
                 }
             },
             "decryptionkey": "6c3d015357b1037838a051aa9686cd45df27b8d754feda56fe9f6775b3fb3d4c"
@@ -20,8 +20,8 @@
         "workshopdepot": "2903160",
         "branches": {
             "public": {
-                "buildid": "18293591",
-                "timeupdated": "1746006896"
+                "buildid": "18461442",
+                "timeupdated": "1747231680"
             }
         },
         "workshopdepotdecryptionkey": ""
