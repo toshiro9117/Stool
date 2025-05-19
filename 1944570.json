@@ -4,8 +4,8 @@
     "name": "Boneraiser Minions",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28201127",
-    "update_time": "2025-03-29 08:14:48",
+    "change_number": "29038244",
+    "update_time": "2025-05-17 16:36:34",
     "depot": {
         "1944571": {
             "manifests": {
@@ -13,11 +13,6 @@
                     "gid": "7846858657771989862",
                     "size": "164765267",
                     "download": "141229520"
-                },
-                "test_altsave": {
-                    "gid": "7601601750092371510",
-                    "size": "164762963",
-                    "download": "141232368"
                 }
             },
             "decryptionkey": "8e83ec363bd416c4467b4d7565a27c94c044a55cd601b8f3b584078f7333a863"
@@ -27,13 +22,8 @@
             "public": {
                 "buildid": "15662623",
                 "timeupdated": "1726050128"
-            },
-            "test_altsave": {
-                "buildid": "15674686",
-                "description": "alt save location test",
-                "timeupdated": "1726130829"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "31af7026899b31eeaa405334f1f4f72aa03b36b8cb31116edc6175cb3849f77d"
     }
 }
