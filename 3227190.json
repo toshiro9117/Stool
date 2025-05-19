@@ -4,8 +4,8 @@
     "name": "Overtime Anomaly",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28713660",
-    "update_time": "2025-04-29 03:54:18",
+    "change_number": "28934449",
+    "update_time": "2025-05-12 16:07:55",
     "depot": {
         "3227192": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5795179001630329390",
-                    "size": "1972552680",
-                    "download": "673683728"
+                    "gid": "7556763190289038865",
+                    "size": "1972552664",
+                    "download": "674009184"
                 }
             },
             "decryptionkey": "6fc6c03f75dd6446e88407a12968fa118eb31ea5b12ff64647357f9503fcb38a"
@@ -28,16 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2846485027667667723",
+                    "gid": "4212559614764707199",
                     "size": "2026382682",
-                    "download": "693434624"
+                    "download": "693979792"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18222263",
-                "timeupdated": "1745518645"
+                "buildid": "18419623",
+                "timeupdated": "1746966029"
             }
         },
         "privatebranches": "1"
