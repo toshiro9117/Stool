@@ -4,8 +4,8 @@
     "name": "Prehistoric Kingdom",
     "schinese_name": "史前王国",
     "isfreeapp": "0",
-    "change_number": "28878080",
-    "update_time": "2025-05-08 16:41:57",
+    "change_number": "28976607",
+    "update_time": "2025-05-14 22:41:37",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,portuguese",
         "workshopdepot": "666150",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "775745709424590449",
-                    "size": "14732315248",
-                    "download": "8535939536"
+                    "gid": "987341744948744605",
+                    "size": "14798201868",
+                    "download": "8594030144"
                 },
                 "ptb_public_testing": {
                     "gid": "7533860719628575582",
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18250030",
-                "timeupdated": "1745770929"
+                "buildid": "18426605",
+                "timeupdated": "1747043260"
             },
             "ptb_public_testing": {
                 "buildid": "18136043",
