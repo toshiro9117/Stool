@@ -4,23 +4,23 @@
     "name": "The Dream Within",
     "schinese_name": "梦中梦",
     "isfreeapp": "0",
-    "change_number": "28852648",
-    "update_time": "2025-05-07 09:41:57",
+    "change_number": "28973688",
+    "update_time": "2025-05-14 13:03:01",
     "depot": {
         "2850111": {
             "manifests": {
                 "public": {
-                    "gid": "1466740999965579621",
-                    "size": "7074298491",
-                    "download": "340519408"
+                    "gid": "5491349311823404883",
+                    "size": "7075057382",
+                    "download": "340593488"
                 }
             },
             "decryptionkey": "1c062219520d0d92965406225d3c5bbd8802914f1f003da8865e91c098d44a91"
         },
         "branches": {
             "public": {
-                "buildid": "18332535",
-                "timeupdated": "1746284022"
+                "buildid": "18454750",
+                "timeupdated": "1747198977"
             }
         }
     }
