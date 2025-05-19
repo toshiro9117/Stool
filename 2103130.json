@@ -4,8 +4,8 @@
     "name": "Matchmaking Inc.",
     "schinese_name": "中国式相亲",
     "isfreeapp": "0",
-    "change_number": "28896929",
-    "update_time": "2025-05-09 15:41:06",
+    "change_number": "29008735",
+    "update_time": "2025-05-16 02:00:47",
     "depot": {
         "baselanguages": "english,schinese",
         "2103131": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3847250937096954310",
-                    "size": "15144394256",
-                    "download": "1898030688"
+                    "gid": "5788472203083716717",
+                    "size": "7927529268",
+                    "download": "1936171568"
                 }
             },
             "decryptionkey": "dc5fff8db171d37fd68a34ac05d9d32f8f64ebe21a86fb659f3e09ccb09bd2d0"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8016791384367703045",
-                    "size": "7594536409",
-                    "download": "1904576960"
+                    "gid": "7743875726470855609",
+                    "size": "7949887487",
+                    "download": "1942903120"
                 }
             },
             "decryptionkey": "3745abbe0bcf561e1e90782a74196a11b4c2280fe3b5b8441ca3b14efcf0fedd"
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5326923346712795206",
-                    "size": "7570166246",
-                    "download": "1895845296"
+                    "gid": "298128899343016373",
+                    "size": "7925516569",
+                    "download": "1934038704"
                 }
             },
             "decryptionkey": "0c3fd9dbe825f5a3e35f2c0db940708e6daa569d1896609efa11617518a13f87"
         },
         "branches": {
             "public": {
-                "buildid": "18082064",
-                "timeupdated": "1744444733"
+                "buildid": "18456376",
+                "timeupdated": "1747214227"
             }
         },
         "privatebranches": "1"
