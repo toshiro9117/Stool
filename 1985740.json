@@ -4,8 +4,8 @@
     "name": "Bugaboo Pocket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28870597",
-    "update_time": "2025-05-08 05:54:56",
+    "change_number": "29019569",
+    "update_time": "2025-05-16 16:12:37",
     "depot": {
         "1985741": {
             "config": {
@@ -21,6 +21,11 @@
                     "gid": "9117000067338425736",
                     "size": "628489684",
                     "download": "207747216"
+                },
+                "save-data-hotfix": {
+                    "gid": "8771831548739418138",
+                    "size": "628591389",
+                    "download": "207761200"
                 }
             },
             "decryptionkey": "a3252f3aa3682f681667989ab6df551e3683e9cc90488b7083056835f2694317"
@@ -39,6 +44,11 @@
                     "gid": "268676125069177101",
                     "size": "651717746",
                     "download": "214644736"
+                },
+                "save-data-hotfix": {
+                    "gid": "1009025726003455940",
+                    "size": "651950165",
+                    "download": "214708144"
                 }
             }
         },
@@ -51,6 +61,11 @@
                 "buildid": "18316482",
                 "description": "Public branch for testing new updates",
                 "timeupdated": "1746237962"
+            },
+            "save-data-hotfix": {
+                "buildid": "18461236",
+                "description": "Branch for players experiencing save file corruption issues",
+                "timeupdated": "1747230988"
             }
         },
         "privatebranches": "1"
