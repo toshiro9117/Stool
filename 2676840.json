@@ -4,8 +4,8 @@
     "name": "No Case Should Remain Unsolved",
     "schinese_name": "尘埃终须落定",
     "isfreeapp": "0",
-    "change_number": "28809870",
-    "update_time": "2025-05-04 21:08:22",
+    "change_number": "29040619",
+    "update_time": "2025-05-17 22:09:44",
     "depot": {
         "2676841": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8841113999105723638",
-                    "size": "216061281",
-                    "download": "82107792"
+                    "gid": "8524715090336127951",
+                    "size": "313859193",
+                    "download": "180594176"
                 }
             },
             "decryptionkey": "97b84c5f82b494285118250502a354bcd1e8f0cad335066633ba9519c54a9986"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1815694459949968887",
-                    "size": "208170647",
-                    "download": "79492144"
+                    "gid": "4132834040455246869",
+                    "size": "305968559",
+                    "download": "177941696"
                 }
             },
             "decryptionkey": "8b38d8a9fa03d190e955322514956946efe6d5d0e09e4952abec6585304bd9cb"
         },
         "branches": {
             "public": {
-                "buildid": "16546083",
-                "timeupdated": "1732671126"
+                "buildid": "18503047",
+                "timeupdated": "1747490980"
             }
         }
     }
