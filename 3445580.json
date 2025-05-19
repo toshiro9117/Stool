@@ -4,8 +4,8 @@
     "name": "Ambidextro",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28887817",
-    "update_time": "2025-05-09 02:02:07",
+    "change_number": "29016664",
+    "update_time": "2025-05-16 12:42:49",
     "depot": {
         "baselanguages": "english",
         "3445581": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4669909965820828964",
-                    "size": "205338788",
-                    "download": "123583264"
+                    "gid": "7331921354625384265",
+                    "size": "205337460",
+                    "download": "123978768"
                 }
             },
             "decryptionkey": ""
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3418981930454711008",
-                    "size": "195552836",
-                    "download": "122476992"
+                    "gid": "7944088689449878451",
+                    "size": "195551444",
+                    "download": "122871984"
                 }
             },
             "decryptionkey": "86dc6cbfea22e6552e75979de093cfb92aeb610555d73ec461c55569975187e4"
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1714463787366088987",
-                    "size": "182675712",
-                    "download": "118698640"
+                    "gid": "6436681876932359764",
+                    "size": "182674464",
+                    "download": "119090384"
                 }
             }
         },
@@ -54,16 +54,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5333046764217940613",
-                    "size": "268645324",
-                    "download": "137936544"
+                    "gid": "5439200524127916832",
+                    "size": "268644012",
+                    "download": "138119984"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18392673",
-                "timeupdated": "1746727324"
+                "buildid": "18449589",
+                "timeupdated": "1747163505"
             }
         }
     }
