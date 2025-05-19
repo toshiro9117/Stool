@@ -4,8 +4,8 @@
     "name": "Dedicated Server Creatures",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28848679",
-    "update_time": "2025-05-07 03:44:23",
+    "change_number": "29035215",
+    "update_time": "2025-05-17 09:14:54",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -116,28 +116,31 @@
         },
         "2792891": {
             "config": {
-                "language": "english",
-                "oslist": "windows"
+                "language": "english"
             },
             "manifests": {
                 "public": {
-                    "gid": "2353162749436065028",
-                    "size": "690564745",
-                    "download": "526279024"
+                    "gid": "1103736317235906523",
+                    "size": "678559975",
+                    "download": "526150656"
+                },
+                "betalinux": {
+                    "gid": "3902265945660796574",
+                    "size": "3988984285",
+                    "download": "1149503936"
                 }
             },
             "decryptionkey": ""
         },
-        "2792892": {
-            "config": {
-                "language": "english",
-                "oslist": "linux"
-            }
-        },
         "branches": {
             "public": {
-                "buildid": "18364335",
-                "timeupdated": "1746560659"
+                "buildid": "18499069",
+                "timeupdated": "1747444490"
+            },
+            "betalinux": {
+                "buildid": "18498812",
+                "description": "betalinux",
+                "timeupdated": "1747441955"
             }
         }
     }
