@@ -4,8 +4,8 @@
     "name": "Deadzone Rogue",
     "schinese_name": "死域Rogue",
     "isfreeapp": "0",
-    "change_number": "28920656",
-    "update_time": "2025-05-11 05:30:02",
+    "change_number": "29047117",
+    "update_time": "2025-05-18 16:15:48",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3228591": {
             "manifests": {
                 "public": {
-                    "gid": "5295022108040833692",
-                    "size": "7032911052",
-                    "download": "6637118048"
+                    "gid": "8646751150282375150",
+                    "size": "6928361614",
+                    "download": "6537845584"
                 }
             },
             "decryptionkey": "ff50f696309f1bdaedc819a0dfc5ad20497d9884179b19683f5ceba047094567"
         },
         "branches": {
             "public": {
-                "buildid": "18363428",
-                "timeupdated": "1746559415"
+                "buildid": "18496234",
+                "timeupdated": "1747428538"
             }
         },
         "privatebranches": "1"
