@@ -4,8 +4,8 @@
     "name": "Avorion",
     "schinese_name": "猎户座",
     "isfreeapp": "0",
-    "change_number": "27962576",
-    "update_time": "2025-03-15 02:11:39",
+    "change_number": "28973544",
+    "update_time": "2025-05-14 12:47:49",
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese,portuguese,brazilian,latam",
         "workshopdepot": "445220",
@@ -496,6 +496,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "6f7b5f4f1c183d4dfb68d82a44e141e59a7a55e3245a1ff55caaea2fe3c81153"
     }
 }
