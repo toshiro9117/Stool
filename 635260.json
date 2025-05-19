@@ -4,8 +4,8 @@
     "name": "CarX Drift Racing Online",
     "schinese_name": "CarX漂移赛车",
     "isfreeapp": "0",
-    "change_number": "28864511",
-    "update_time": "2025-05-07 23:21:59",
+    "change_number": "28976041",
+    "update_time": "2025-05-14 22:40:24",
     "depot": {
         "228985": {
             "config": {
@@ -14,7 +14,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "228986": {
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
