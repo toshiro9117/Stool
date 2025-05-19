@@ -4,8 +4,8 @@
     "name": "EON Fighter",
     "schinese_name": "深空幸存者",
     "isfreeapp": "0",
-    "change_number": "28918208",
-    "update_time": "2025-05-10 23:33:13",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:43",
     "depot": {
         "baselanguages": "english,spanish",
         "2146721": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3741568200979545391",
+                    "gid": "5288023493730816412",
                     "size": "615776086",
-                    "download": "413422256"
+                    "download": "413423120"
                 },
                 "windows7": {
                     "gid": "3824388349724976955",
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18389910",
-                "timeupdated": "1746714056"
+                "buildid": "18432599",
+                "timeupdated": "1747070365"
             },
             "windows7": {
                 "buildid": "16751316",
