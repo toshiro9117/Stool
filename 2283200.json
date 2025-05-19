@@ -4,23 +4,23 @@
     "name": "Eleanor in Miami",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27493420",
-    "update_time": "2025-02-15 19:14:24",
+    "change_number": "28952301",
+    "update_time": "2025-05-13 11:33:14",
     "depot": {
         "2283201": {
             "manifests": {
                 "public": {
-                    "gid": "501164013074605062",
-                    "size": "2562605468",
-                    "download": "2434172112"
+                    "gid": "7332523374104980695",
+                    "size": "3168087669",
+                    "download": "3029613184"
                 }
             },
             "decryptionkey": "01d47319ef387c7173fad4e8ff335ea79daac432ab2a0715e9d7fbab4d6f2316"
         },
         "branches": {
             "public": {
-                "buildid": "16708518",
-                "timeupdated": "1733926527"
+                "buildid": "18158404",
+                "timeupdated": "1744984696"
             }
         }
     }
