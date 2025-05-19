@@ -4,8 +4,8 @@
     "name": "Sweet Transit",
     "schinese_name": "铁路先驱",
     "isfreeapp": "0",
-    "change_number": "28183888",
-    "update_time": "2025-03-28 12:31:22",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:12",
     "depot": {
         "workshopdepot": "1612770",
         "228988": {
@@ -114,6 +114,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "2df07c2d30daf11866a16251150cbf56be2b4a4aa9a73e332ee5c4ef6f0680f9"
     }
 }
