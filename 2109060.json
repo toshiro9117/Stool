@@ -4,8 +4,8 @@
     "name": "Magenta Horizon - Neverending Harvest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28087734",
-    "update_time": "2025-03-22 22:16:13",
+    "change_number": "29031245",
+    "update_time": "2025-05-17 03:13:45",
     "depot": {
         "2109061": {
             "config": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "991463910537706252",
-                    "size": "4569169519",
-                    "download": "1417668848"
+                    "gid": "6825633432981658147",
+                    "size": "4569183999",
+                    "download": "1417708512"
                 }
             },
             "decryptionkey": "17fcaa86b0ec780c27db8f8c036f000a5d5f1177c063e6fb0dd6d81d9795a0a8"
         },
         "branches": {
             "public": {
-                "buildid": "17820760",
-                "timeupdated": "1742652968"
+                "buildid": "18160211",
+                "timeupdated": "1744996577"
             }
         }
     }
