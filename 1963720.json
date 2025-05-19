@@ -4,8 +4,8 @@
     "name": "Core Keeper Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28727278",
-    "update_time": "2025-04-29 20:40:05",
+    "change_number": "29027053",
+    "update_time": "2025-05-16 23:08:28",
     "depot": {
         "1004": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1999881380470524370",
-                    "size": "408058520",
-                    "download": "118888144"
+                    "gid": "6762983114464430577",
+                    "size": "407918480",
+                    "download": "119218592"
                 }
             },
             "decryptionkey": "7f6ad0c6574df3d507c724104075628cdb6aa8e193d3c3b4883d1a21be28c0ac"
@@ -68,17 +68,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4739201304371647072",
-                    "size": "474918718",
-                    "download": "119455344"
+                    "gid": "484563392618520719",
+                    "size": "475623657",
+                    "download": "119772832"
                 }
             },
             "decryptionkey": "1c94c34bbd421f024df34315ddf63f5360957fe6d48b699199e6a27325c41f63"
         },
         "branches": {
             "public": {
-                "buildid": "18115260",
-                "timeupdated": "1745930398"
+                "buildid": "18344542",
+                "timeupdated": "1747214388"
             }
         },
         "privatebranches": "1"
