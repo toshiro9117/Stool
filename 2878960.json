@@ -4,8 +4,8 @@
     "name": "WWE 2K25",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28911412",
-    "update_time": "2025-05-10 07:18:44",
+    "change_number": "29034196",
+    "update_time": "2025-05-17 07:24:49",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2878961": {
             "manifests": {
                 "public": {
-                    "gid": "4427840433934679703",
-                    "size": "104481530290",
-                    "download": "101384847872"
+                    "gid": "1938834547018379263",
+                    "size": "105485883157",
+                    "download": "102311426080"
                 }
             },
             "decryptionkey": "06400ef21bacfd625a917c8964e13740059333d2173dc2496357ef23db97f483"
@@ -27,8 +27,8 @@
         "baselanguages": "english,german,french,italian,spanish,arabic",
         "branches": {
             "public": {
-                "buildid": "18229821",
-                "timeupdated": "1745942427"
+                "buildid": "18409445",
+                "timeupdated": "1747234708"
             }
         },
         "privatebranches": "1"
