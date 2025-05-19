@@ -4,8 +4,8 @@
     "name": "MEMORIA POLIS",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905194",
-    "update_time": "2025-05-10 00:01:30",
+    "change_number": "29041115",
+    "update_time": "2025-05-17 23:13:38",
     "depot": {
         "2228281": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4349093034206251189",
-                    "size": "3689135143",
-                    "download": "1267347888"
+                    "gid": "8315098694719213779",
+                    "size": "3696991390",
+                    "download": "1270113648"
                 }
             },
             "decryptionkey": "43ae0c2c71df2d5cfb0d270b8568580b99b626f5ebaa5d6115aefe84f3cd901a"
         },
         "branches": {
             "public": {
-                "buildid": "18376533",
-                "timeupdated": "1746633379"
+                "buildid": "18487339",
+                "timeupdated": "1747380620"
             }
         },
         "privatebranches": "1"
