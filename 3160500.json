@@ -4,23 +4,23 @@
     "name": "Kingdom of Cards",
     "schinese_name": "王牌卡国",
     "isfreeapp": "0",
-    "change_number": "28911945",
-    "update_time": "2025-05-10 08:06:26",
+    "change_number": "29027190",
+    "update_time": "2025-05-16 23:15:39",
     "depot": {
         "3160501": {
             "manifests": {
                 "public": {
-                    "gid": "7853628349575734484",
-                    "size": "863360720",
-                    "download": "150852704"
+                    "gid": "3849921486288494100",
+                    "size": "863384432",
+                    "download": "151097088"
                 }
             },
             "decryptionkey": "d38985ce515aca8fc52fac0ace682a9ff7fe646d423661b251c2578bb1e3a461"
         },
         "branches": {
             "public": {
-                "buildid": "18408259",
-                "timeupdated": "1746821965"
+                "buildid": "18464269",
+                "timeupdated": "1747245268"
             }
         },
         "privatebranches": "1"
