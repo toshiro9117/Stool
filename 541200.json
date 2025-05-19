@@ -4,8 +4,8 @@
     "name": "Get To The Orange Door",
     "schinese_name": "GTTOD：冲向橙门",
     "isfreeapp": "0",
-    "change_number": "28193799",
-    "update_time": "2025-03-28 23:42:16",
+    "change_number": "28974597",
+    "update_time": "2025-05-14 14:27:53",
     "depot": {
         "workshopdepot": "541200",
         "541201": {
@@ -154,6 +154,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "5a2a2e6d190893997700b15fa2d0304d07d2c45c19636f40adbf702e55e639f3"
     }
 }
