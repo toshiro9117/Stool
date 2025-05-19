@@ -4,15 +4,15 @@
     "name": "Path of Exile 2",
     "schinese_name": "流放之路2",
     "isfreeapp": "0",
-    "change_number": "28852722",
-    "update_time": "2025-05-07 09:48:22",
+    "change_number": "29014012",
+    "update_time": "2025-05-16 08:30:46",
     "depot": {
         "2694491": {
             "manifests": {
                 "public": {
-                    "gid": "6753637116585901147",
-                    "size": "96759052382",
-                    "download": "89626546528"
+                    "gid": "3487516605581472530",
+                    "size": "96769090756",
+                    "download": "89635250720"
                 }
             },
             "decryptionkey": "e30d071e5cd89c91b6675ce95a63377021dd70852367d073a9fc76ec88fff843"
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8627013938153286692",
-                    "size": "235308312",
-                    "download": "107862000"
+                    "gid": "308520112264590585",
+                    "size": "235633944",
+                    "download": "107995776"
                 }
             },
             "decryptionkey": "605258f87a1f07cfe2baaf34fedebb1b064859274a3191cdb43fcd5876336221"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18365575",
-                "timeupdated": "1746582496"
+                "buildid": "18470235",
+                "timeupdated": "1747282679"
             }
         }
     }
