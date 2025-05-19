@@ -4,8 +4,8 @@
     "name": "NOROI KAGO: the Grudged Domain",
     "schinese_name": "咒笼: 诅咒领域",
     "isfreeapp": "0",
-    "change_number": "28915553",
-    "update_time": "2025-05-10 16:32:58",
+    "change_number": "29013268",
+    "update_time": "2025-05-16 07:30:20",
     "depot": {
         "baselanguages": "english,japanese",
         "228989": {
@@ -25,9 +25,9 @@
         "1299061": {
             "manifests": {
                 "public": {
-                    "gid": "1446172543020571887",
-                    "size": "7225019623",
-                    "download": "3153977024"
+                    "gid": "7201532307808181521",
+                    "size": "7226007904",
+                    "download": "3154503936"
                 }
             },
             "decryptionkey": "f7877468295d8af69a753371182cc0971a7e9da31a3caadd34add951d94439c0"
@@ -35,8 +35,8 @@
         "1299062": {},
         "branches": {
             "public": {
-                "buildid": "18294919",
-                "timeupdated": "1746068498"
+                "buildid": "18437822",
+                "timeupdated": "1747192088"
             }
         },
         "privatebranches": "1"
