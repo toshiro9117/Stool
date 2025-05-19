@@ -4,23 +4,23 @@
     "name": "VR Naughty",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921199",
-    "update_time": "2025-05-11 07:02:21",
+    "change_number": "29048192",
+    "update_time": "2025-05-18 19:14:29",
     "depot": {
         "3642861": {
             "manifests": {
                 "public": {
-                    "gid": "4299639471918077769",
-                    "size": "7061311086",
-                    "download": "2596937584"
+                    "gid": "9109565045838351406",
+                    "size": "7205571672",
+                    "download": "2669937568"
                 }
             },
             "decryptionkey": "77c673916b4b93dcb00202eaf45d48c6ae7a265789cde0e2f8f02c8e300a3d34"
         },
         "branches": {
             "public": {
-                "buildid": "18320578",
-                "timeupdated": "1746203441"
+                "buildid": "18405455",
+                "timeupdated": "1747058340"
             }
         },
         "privatebranches": "1"
