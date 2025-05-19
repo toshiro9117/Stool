@@ -4,8 +4,8 @@
     "name": "Helicopter Gunship DEX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917946",
-    "update_time": "2025-05-10 22:59:34",
+    "change_number": "29048477",
+    "update_time": "2025-05-18 20:01:54",
     "depot": {
         "2012141": {
             "config": {
@@ -24,9 +24,9 @@
                     "download": "9201862848"
                 },
                 "sectorsystem": {
-                    "gid": "8204381058063634082",
-                    "size": "19745788484",
-                    "download": "9331528048"
+                    "gid": "1964086133531852682",
+                    "size": "18347232577",
+                    "download": "8195689216"
                 },
                 "stresstest": {
                     "gid": "973238741826827310",
@@ -53,9 +53,9 @@
                 "timeupdated": "1742399564"
             },
             "sectorsystem": {
-                "buildid": "18414783",
+                "buildid": "18508433",
                 "description": "Sector System Beta",
-                "timeupdated": "1746889168"
+                "timeupdated": "1747569712"
             },
             "stresstest": {
                 "buildid": "18180273",
