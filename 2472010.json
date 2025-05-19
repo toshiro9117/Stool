@@ -4,32 +4,25 @@
     "name": "Eydigard",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916968",
-    "update_time": "2025-05-10 20:25:05",
+    "change_number": "29048318",
+    "update_time": "2025-05-18 19:34:05",
     "depot": {
         "baselanguages": "english,german,french,schinese,tchinese,russian,japanese,polish,norwegian,turkish,brazilian,latam",
+        "hasdepotsindlc": "1",
         "2472011": {
             "manifests": {
                 "public": {
-                    "gid": "3070341148294080626",
-                    "size": "9684926582",
-                    "download": "3132966992"
+                    "gid": "471769023751914528",
+                    "size": "8074797656",
+                    "download": "3013216000"
                 }
             },
             "decryptionkey": "a0dcab69ac198aadce7faab91f01cbe87c43fee439ee3a060cd60fbac11b2547"
         },
-        "3702340": {
-            "dlcappid": "3702340"
-        },
-        "2472012": {
-            "config": {
-                "oslist": "windows"
-            }
-        },
         "branches": {
             "public": {
-                "buildid": "18414121",
-                "timeupdated": "1746879900"
+                "buildid": "18508262",
+                "timeupdated": "1747568041"
             }
         },
         "privatebranches": "1"
