@@ -4,8 +4,8 @@
     "name": "Ghosts Of Tabor",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918130",
-    "update_time": "2025-05-10 23:23:34",
+    "change_number": "29043681",
+    "update_time": "2025-05-18 05:12:57",
     "depot": {
         "228988": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7958619120436392138",
-                    "size": "22447598828",
-                    "download": "10276250176"
+                    "gid": "5913469996902069123",
+                    "size": "22493458296",
+                    "download": "10302716048"
                 }
             },
             "decryptionkey": "80f7fd489853661f0fa88a271db140773c0766a9b9d8cd99f16fea9b00aa8898"
@@ -38,8 +38,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18391877",
-                "timeupdated": "1746732707"
+                "buildid": "18484728",
+                "timeupdated": "1747402978"
             }
         },
         "privatebranches": "1"
