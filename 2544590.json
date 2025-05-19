@@ -4,8 +4,8 @@
     "name": "리프 인 부트스트랩 - LEAP IN BOOTSTRAP",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28861079",
-    "update_time": "2025-05-07 20:11:11",
+    "change_number": "28942155",
+    "update_time": "2025-05-12 23:34:02",
     "depot": {
         "hasdepotsindlc": "0",
         "2544591": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3164733564155911287",
-                    "size": "2260659138",
-                    "download": "624294624"
+                    "gid": "7573480800414573847",
+                    "size": "2260570472",
+                    "download": "624014288"
                 }
             },
             "decryptionkey": "a2a6282e724ebb6e35e21f6c300123192b0faec6d0d2118fdbe6239bceb47431"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4979318640178883040",
-                    "size": "3961101027",
-                    "download": "660370672"
+                    "gid": "9011979438113037238",
+                    "size": "3961101611",
+                    "download": "659447776"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "17780824",
-                "timeupdated": "1742391220"
+                "buildid": "18431289",
+                "timeupdated": "1747064014"
             }
         }
     }
