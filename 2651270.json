@@ -4,8 +4,8 @@
     "name": "Enginefall Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28904402",
-    "update_time": "2025-05-09 23:16:17",
+    "change_number": "29042526",
+    "update_time": "2025-05-18 02:15:47",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7666816720006186874",
-                    "size": "26976659245",
-                    "download": "23450688160"
+                    "gid": "7680550034907414981",
+                    "size": "27232665739",
+                    "download": "23670579808"
                 }
             },
             "decryptionkey": "951695f3b44fca54c5bb5c845349d92d9fa6e5d1091d1d4e953ef4b771bcc0ab"
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18324194",
-                "timeupdated": "1746206694"
+                "buildid": "18493682",
+                "timeupdated": "1747410278"
             }
         },
         "privatebranches": "1"
