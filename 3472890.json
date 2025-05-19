@@ -4,23 +4,23 @@
     "name": "Joyquarium",
     "schinese_name": "欢乐水族馆",
     "isfreeapp": "0",
-    "change_number": "28919853",
-    "update_time": "2025-05-11 03:32:58",
+    "change_number": "29029440",
+    "update_time": "2025-05-17 01:15:44",
     "depot": {
         "3472891": {
             "manifests": {
                 "public": {
-                    "gid": "8608392079071076351",
-                    "size": "1396574211",
-                    "download": "222176208"
+                    "gid": "8409140818610408440",
+                    "size": "1396574523",
+                    "download": "227737952"
                 }
             },
             "decryptionkey": "4e0c91b4bfcb2e79472b04e7e9d10aa9524c6db2981cc2befbc7bed7b5ed5d2d"
         },
         "branches": {
             "public": {
-                "buildid": "18356435",
-                "timeupdated": "1746518994"
+                "buildid": "18490163",
+                "timeupdated": "1747393810"
             }
         }
     }
