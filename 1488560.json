@@ -4,8 +4,8 @@
     "name": "Football Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28789003",
-    "update_time": "2025-05-03 00:29:14",
+    "change_number": "29044759",
+    "update_time": "2025-05-18 08:13:45",
     "depot": {
         "1488561": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "4010198960"
                 },
                 "beta": {
-                    "gid": "8118405922050651108",
-                    "size": "15707183371",
-                    "download": "4510726352"
+                    "gid": "7004545917587941768",
+                    "size": "13011603671",
+                    "download": "3982849024"
                 }
             },
             "decryptionkey": "f95f16186d655c77c7291f449147c6c688be6c189ab6fa5a166c0b56c75c184b"
@@ -36,9 +36,9 @@
                 "timeupdated": "1746084969"
             },
             "beta": {
-                "buildid": "18200144",
+                "buildid": "18499730",
                 "description": "For beta testing",
-                "timeupdated": "1745364891"
+                "timeupdated": "1747451579"
             }
         },
         "privatebranches": "1"
