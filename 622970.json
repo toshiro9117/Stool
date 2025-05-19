@@ -4,8 +4,8 @@
     "name": "Pavlov VR Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915766",
-    "update_time": "2025-05-10 17:07:32",
+    "change_number": "29047333",
+    "update_time": "2025-05-18 16:56:37",
     "depot": {
         "1004": {
             "config": {
@@ -66,9 +66,9 @@
                     "download": "769319520"
                 },
                 "shack": {
-                    "gid": "955141064887647172",
-                    "size": "3394838133",
-                    "download": "907109648"
+                    "gid": "8292508078840224683",
+                    "size": "3570690733",
+                    "download": "977417888"
                 }
             }
         },
@@ -84,8 +84,8 @@
                 "timeupdated": "1686261512"
             },
             "shack": {
-                "buildid": "17977495",
-                "timeupdated": "1743729479"
+                "buildid": "18482201",
+                "timeupdated": "1747353890"
             }
         },
         "privatebranches": "1",
