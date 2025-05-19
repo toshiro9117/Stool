@@ -4,15 +4,15 @@
     "name": "Chronicon: Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28898747",
-    "update_time": "2025-05-09 17:35:06",
+    "change_number": "29045403",
+    "update_time": "2025-05-18 10:13:36",
     "depot": {
         "2815611": {
             "manifests": {
                 "public": {
-                    "gid": "5661190913106229946",
-                    "size": "522756058",
-                    "download": "501625760"
+                    "gid": "8593844866807253740",
+                    "size": "522772287",
+                    "download": "501623408"
                 },
                 "test_builds": {
                     "gid": "1457494309915693464",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18388318",
-                "timeupdated": "1746705343"
+                "buildid": "18441500",
+                "timeupdated": "1747125948"
             },
             "test_builds": {
                 "buildid": "18220402",
