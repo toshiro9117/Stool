@@ -4,16 +4,16 @@
     "name": "下一站江湖Ⅱ",
     "schinese_name": "下一站江湖Ⅱ",
     "isfreeapp": "0",
-    "change_number": "28920459",
-    "update_time": "2025-05-11 05:00:12",
+    "change_number": "29041601",
+    "update_time": "2025-05-18 00:15:56",
     "depot": {
         "hasdepotsindlc": "1",
         "1606181": {
             "manifests": {
                 "public": {
-                    "gid": "2753011111575803688",
-                    "size": "15792772573",
-                    "download": "13167891760"
+                    "gid": "3892178980917493891",
+                    "size": "15848080869",
+                    "download": "13212755568"
                 }
             },
             "decryptionkey": "78085baa1a1489cac9f2593fc792421a3c773edf3317721f5b02ccb7b9c07898"
@@ -32,8 +32,8 @@
         "workshopdepot": "1606180",
         "branches": {
             "public": {
-                "buildid": "18295653",
-                "timeupdated": "1746018125"
+                "buildid": "18455457",
+                "timeupdated": "1747212966"
             }
         },
         "privatebranches": "1",
