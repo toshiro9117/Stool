@@ -4,14 +4,13 @@
     "name": "Carp Fishing Simulator",
     "schinese_name": "模拟钓鲤鱼",
     "isfreeapp": "0",
-    "change_number": "22605930",
-    "update_time": "2024-05-31 04:23:47",
+    "change_number": "29043351",
+    "update_time": "2025-05-18 04:21:21",
     "depot": {
         "workshopdepot": "366290",
         "366291": {
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
@@ -26,13 +25,6 @@
                 }
             },
             "decryptionkey": "78800c2075d6f66ac76cc9599dd39023a39982ba59bbcebd7702dd4f5cbd0cb0"
-        },
-        "366292": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64",
-                "language": ""
-            }
         },
         "branches": {
             "public": {
