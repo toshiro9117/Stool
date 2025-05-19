@@ -4,8 +4,8 @@
     "name": "Scarlet City of Devils",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28912060",
-    "update_time": "2025-05-10 08:16:15",
+    "change_number": "28950285",
+    "update_time": "2025-05-13 08:26:38",
     "depot": {
         "baselanguages": "english,spanish,schinese,tchinese,japanese",
         "1449731": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7860012275880362433",
-                    "size": "991775821",
-                    "download": "759455680"
+                    "gid": "6790571122685455347",
+                    "size": "991816050",
+                    "download": "759490592"
                 }
             },
             "decryptionkey": "73e7da8f32f6556bdf0a00f35242328b927787b28ef80d4b8aa30fa8f32f22fd"
@@ -30,16 +30,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8399769599507257757",
-                    "size": "1083662150",
-                    "download": "769880944"
+                    "gid": "5521005612623270392",
+                    "size": "1083645056",
+                    "download": "769741520"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18410273",
-                "timeupdated": "1746836171"
+                "buildid": "18436985",
+                "timeupdated": "1747095990"
             }
         }
     }
