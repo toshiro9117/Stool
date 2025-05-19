@@ -4,8 +4,8 @@
     "name": "Kingdom Come: Deliverance II Modding tools",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28901002",
-    "update_time": "2025-05-09 19:58:11",
+    "change_number": "29005523",
+    "update_time": "2025-05-15 23:16:14",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2429021": {
             "manifests": {
                 "public": {
-                    "gid": "7804852027953875582",
-                    "size": "14347574032",
-                    "download": "7484227504"
+                    "gid": "283386199551752563",
+                    "size": "14661822265",
+                    "download": "7911939392"
                 },
                 "1_3_preview": {
                     "gid": "3627335911804500129",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17694202",
-                "timeupdated": "1741882349"
+                "buildid": "18474134",
+                "timeupdated": "1747322171"
             },
             "1_3_preview": {
                 "buildid": "18376289",
