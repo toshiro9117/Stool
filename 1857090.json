@@ -4,8 +4,8 @@
     "name": "Norland",
     "schinese_name": "诺兰德 Norland",
     "isfreeapp": "0",
-    "change_number": "28864197",
-    "update_time": "2025-05-07 23:05:46",
+    "change_number": "29026202",
+    "update_time": "2025-05-16 22:24:30",
     "depot": {
         "228989": {
             "config": {
@@ -25,27 +25,27 @@
         "1857091": {
             "manifests": {
                 "public": {
-                    "gid": "2950648068049011114",
-                    "size": "987694559",
-                    "download": "777226432"
+                    "gid": "7990043982347393228",
+                    "size": "987833070",
+                    "download": "777213968"
                 },
                 "unstable": {
-                    "gid": "1329315413093865016",
-                    "size": "987716085",
-                    "download": "777147008"
+                    "gid": "6260950620570506779",
+                    "size": "987605669",
+                    "download": "777203488"
                 }
             },
             "decryptionkey": "370d177702e1721868b4db49904b523b83825e329df24930490ba7b3a7da7131"
         },
         "branches": {
             "public": {
-                "buildid": "18265066",
-                "timeupdated": "1745843903"
+                "buildid": "18492451",
+                "timeupdated": "1747405463"
             },
             "unstable": {
-                "buildid": "18375904",
+                "buildid": "18445531",
                 "description": "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!",
-                "timeupdated": "1746630340"
+                "timeupdated": "1747144096"
             }
         },
         "privatebranches": "1"
