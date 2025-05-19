@@ -4,8 +4,8 @@
     "name": "Last Epoch",
     "schinese_name": "最后纪元",
     "isfreeapp": "0",
-    "change_number": "28908424",
-    "update_time": "2025-05-10 03:18:23",
+    "change_number": "29019615",
+    "update_time": "2025-05-16 16:15:42",
     "depot": {
         "hasdepotsindlc": "1",
         "899771": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2487685722527240239",
-                    "size": "25507022589",
-                    "download": "12110830304"
+                    "gid": "6951479503882101497",
+                    "size": "25613262067",
+                    "download": "12191113616"
                 }
             },
             "decryptionkey": "c2e2078a202c652383c595f86a2661e2c0bf747e070ab942890d958aaecb06d9"
         },
         "branches": {
             "public": {
-                "buildid": "18406857",
-                "timeupdated": "1746818299"
+                "buildid": "18481621",
+                "timeupdated": "1747345470"
             }
         },
         "privatebranches": "1"
