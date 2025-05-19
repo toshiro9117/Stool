@@ -4,8 +4,8 @@
     "name": "Serious Sam 3 VR: BFE",
     "schinese_name": "英雄萨姆3 VR：BFE",
     "isfreeapp": "0",
-    "change_number": "27007721",
-    "update_time": "2025-01-15 21:14:36",
+    "change_number": "29020403",
+    "update_time": "2025-05-16 17:01:47",
     "depot": {
         "567671": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5744489826114865821",
-                    "size": "32756216",
-                    "download": "10012352"
+                    "gid": "869643129102223266",
+                    "size": "31862680",
+                    "download": "9745648"
                 },
                 "previousversion": {
                     "gid": "6791619738992553060",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1157274530774649871",
-                    "size": "53800200",
-                    "download": "14233312"
+                    "gid": "9012765567957586080",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "8257478238247127722",
@@ -86,9 +86,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4337567246530119358",
-                    "size": "2399222",
-                    "download": "547264"
+                    "gid": "1921752258944267569",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "4337567246530119358",
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2113683400784924230",
+                    "gid": "1344713156709293510",
                     "size": "33548240",
-                    "download": "9758208"
+                    "download": "9758224"
                 },
                 "previousversion": {
                     "gid": "3812066542260377365",
@@ -134,9 +134,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5445686721261405943",
-                    "size": "197498",
-                    "download": "41776"
+                    "gid": "3568670965378212599",
+                    "size": "0",
+                    "download": "0"
                 },
                 "previousversion": {
                     "gid": "5445686721261405943",
@@ -154,9 +154,9 @@
         "567675": {
             "manifests": {
                 "public": {
-                    "gid": "2601121881437286943",
-                    "size": "622227093",
-                    "download": "612663008"
+                    "gid": "2089037446789999213",
+                    "size": "525921632",
+                    "download": "523066832"
                 },
                 "previousversion": {
                     "gid": "1595974438303674698",
@@ -174,9 +174,9 @@
         "567678": {
             "manifests": {
                 "public": {
-                    "gid": "991568095801580190",
-                    "size": "3141907154",
-                    "download": "3140062768"
+                    "gid": "6917305706627037421",
+                    "size": "3102196151",
+                    "download": "3102032608"
                 },
                 "previousversion": {
                     "gid": "5839604714608204508",
@@ -194,9 +194,9 @@
         "574290": {
             "manifests": {
                 "public": {
-                    "gid": "7641405737932187165",
-                    "size": "410478755",
-                    "download": "411951728"
+                    "gid": "5223294131946507417",
+                    "size": "404307408",
+                    "download": "406011616"
                 },
                 "previousversion": {
                     "gid": "4112259204411471684",
@@ -214,8 +214,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "3369089",
-                "timeupdated": "1544087964"
+                "buildid": "18487573",
+                "timeupdated": "1747386103"
             },
             "previousversion": {
                 "buildid": "2505220",
