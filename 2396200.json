@@ -4,8 +4,8 @@
     "name": "Letalis",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28180026",
-    "update_time": "2025-03-28 06:46:38",
+    "change_number": "29043098",
+    "update_time": "2025-05-18 03:42:38",
     "depot": {
         "2396201": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4424867188111621915",
-                    "size": "223992156",
-                    "download": "69115648"
+                    "gid": "706027203463269022",
+                    "size": "225359617",
+                    "download": "69170464"
                 },
                 "prerelease": {
-                    "gid": "4424867188111621915",
-                    "size": "223992156",
-                    "download": "69115648"
+                    "gid": "706027203463269022",
+                    "size": "225359617",
+                    "download": "69170464"
                 }
             },
             "decryptionkey": "beba73e36516cb2de9e0c321901799324947c782949f6af6d23c7055a6ad605e"
@@ -32,27 +32,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8342919496786718497",
-                    "size": "247759635",
-                    "download": "76144272"
+                    "gid": "5265403890308223613",
+                    "size": "249123156",
+                    "download": "76197744"
                 },
                 "prerelease": {
-                    "gid": "8342919496786718497",
-                    "size": "247759635",
-                    "download": "76144272"
+                    "gid": "5265403890308223613",
+                    "size": "249123156",
+                    "download": "76197744"
                 }
             },
             "decryptionkey": "42781f28494fa47a38d6f415253a8a8c531058df00f7603762f54835bddf131c"
         },
         "branches": {
             "public": {
-                "buildid": "17889781",
-                "timeupdated": "1743115593"
+                "buildid": "18504608",
+                "timeupdated": "1747510955"
             },
             "prerelease": {
-                "buildid": "17889781",
+                "buildid": "18504608",
                 "description": "Builds uploaded as prerelease before sending them to live",
-                "timeupdated": "1743114594"
+                "timeupdated": "1747510705"
             }
         }
     }
