@@ -4,8 +4,8 @@
     "name": "Exoprimal",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28864310",
-    "update_time": "2025-05-07 23:11:34",
+    "change_number": "29044406",
+    "update_time": "2025-05-18 07:10:58",
     "depot": {
         "228988": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "220630509215043901",
-                    "size": "67634580255",
-                    "download": "56548691360"
+                    "gid": "6369213504333631066",
+                    "size": "67636766414",
+                    "download": "56549633472"
                 }
             },
             "decryptionkey": "7dca2ec4a3b1293b6a3230145715e7624d9462d28ca25665190baa0cc05ba160"
         },
         "branches": {
             "public": {
-                "buildid": "13749222",
-                "timeupdated": "1713337202"
+                "buildid": "18093182",
+                "timeupdated": "1747202368"
             }
         },
         "privatebranches": "1"
