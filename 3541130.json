@@ -4,8 +4,8 @@
     "name": "Many Nights a Whisper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28867685",
-    "update_time": "2025-05-08 02:21:46",
+    "change_number": "28939964",
+    "update_time": "2025-05-12 21:50:33",
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3153791538453899100",
-                    "size": "874422036",
-                    "download": "464818720"
+                    "gid": "7014161559008702166",
+                    "size": "919121321",
+                    "download": "484575104"
                 }
             },
             "decryptionkey": "08361b0af3c1eb3a14bcb693a1070ef443aa4566cbc0eb1df8f571b34a2426bd"
         },
         "branches": {
             "public": {
-                "buildid": "18276456",
-                "timeupdated": "1745918743"
+                "buildid": "18378251",
+                "timeupdated": "1747056896"
             }
         },
         "privatebranches": "1"
