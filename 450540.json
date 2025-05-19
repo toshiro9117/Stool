@@ -4,8 +4,8 @@
     "name": "Hot Dogs, Horseshoes & Hand Grenades",
     "schinese_name": "热狗，马蹄和手榴弹",
     "isfreeapp": "0",
-    "change_number": "28912919",
-    "update_time": "2025-05-10 09:57:40",
+    "change_number": "29035405",
+    "update_time": "2025-05-17 09:40:09",
     "depot": {
         "228986": {
             "config": {
@@ -47,9 +47,9 @@
                     "download": "16241176944"
                 },
                 "experimental": {
-                    "gid": "1436426120963502447",
-                    "size": "24418338286",
-                    "download": "16246621040"
+                    "gid": "7128273154421677570",
+                    "size": "24427105852",
+                    "download": "16253817584"
                 },
                 "update112": {
                     "gid": "554683791114262660",
@@ -96,9 +96,9 @@
                 "timeupdated": "1745021816"
             },
             "experimental": {
-                "buildid": "18410781",
+                "buildid": "18498544",
                 "description": "NOT MOD SAFE!!!",
-                "timeupdated": "1746842254"
+                "timeupdated": "1747446006"
             },
             "update112": {
                 "buildid": "13549672",
