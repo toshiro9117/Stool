@@ -4,8 +4,8 @@
     "name": "Puffin Planes",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28895016",
-    "update_time": "2025-05-09 12:37:53",
+    "change_number": "29042552",
+    "update_time": "2025-05-18 02:22:03",
     "depot": {
         "2897241": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "195404880"
                 },
                 "preview": {
-                    "gid": "2118480807166360113",
-                    "size": "630544997",
-                    "download": "195973856"
+                    "gid": "1116547586441340570",
+                    "size": "630539197",
+                    "download": "196049664"
                 },
                 "legacy": {
                     "gid": "4888001769942715505",
@@ -41,9 +41,9 @@
                 "timeupdated": "1732690760"
             },
             "preview": {
-                "buildid": "18398228",
+                "buildid": "18504292",
                 "description": "For previewing the next update and giving feedback",
-                "timeupdated": "1746765469"
+                "timeupdated": "1747506120"
             },
             "legacy": {
                 "buildid": "15623083",
