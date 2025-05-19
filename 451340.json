@@ -4,16 +4,16 @@
     "name": "Gold Mining Simulator",
     "schinese_name": "淘金热",
     "isfreeapp": "0",
-    "change_number": "28916904",
-    "update_time": "2025-05-10 20:17:49",
+    "change_number": "29023034",
+    "update_time": "2025-05-16 19:29:41",
     "depot": {
         "hasdepotsindlc": "1",
         "451341": {
             "manifests": {
                 "public": {
-                    "gid": "4232734914566318204",
-                    "size": "11260160559",
-                    "download": "6961846528"
+                    "gid": "670045377969141671",
+                    "size": "11252519374",
+                    "download": "6974502624"
                 }
             },
             "decryptionkey": "b066f0d640f9c9fbf1bc5f75f7299e5f826fa03a7c67c1f83a2779884af57c16"
@@ -21,8 +21,8 @@
         "workshopdepot": "451340",
         "branches": {
             "public": {
-                "buildid": "18413237",
-                "timeupdated": "1746879462"
+                "buildid": "18476013",
+                "timeupdated": "1747342266"
             }
         },
         "privatebranches": "1",
