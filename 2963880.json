@@ -4,8 +4,8 @@
     "name": "Murky Divers",
     "schinese_name": "暗黑潜水员",
     "isfreeapp": "0",
-    "change_number": "28836358",
-    "update_time": "2025-05-06 15:32:46",
+    "change_number": "29018673",
+    "update_time": "2025-05-16 15:27:27",
     "depot": {
         "228989": {
             "config": {
@@ -38,9 +38,9 @@
         "2963881": {
             "manifests": {
                 "public": {
-                    "gid": "3095958895935525468",
-                    "size": "2275430012",
-                    "download": "1446945760"
+                    "gid": "8219725841185594425",
+                    "size": "2247073869",
+                    "download": "1450184960"
                 },
                 "mod-dev": {
                     "gid": "45668207403793315",
@@ -48,9 +48,9 @@
                     "download": "1621756768"
                 },
                 "preview": {
-                    "gid": "3095958895935525468",
-                    "size": "2275430012",
-                    "download": "1446945760"
+                    "gid": "8219725841185594425",
+                    "size": "2247073869",
+                    "download": "1450184960"
                 }
             },
             "decryptionkey": "c3a31b0c3db48e0ad7f0245194d068209eb66d50106821e8b64ab67d3c29a2fa"
@@ -58,8 +58,8 @@
         "workshopdepot": "2963880",
         "branches": {
             "public": {
-                "buildid": "17452594",
-                "timeupdated": "1740132021"
+                "buildid": "18478319",
+                "timeupdated": "1747380442"
             },
             "mod-dev": {
                 "buildid": "17369329",
@@ -67,9 +67,9 @@
                 "timeupdated": "1739550350"
             },
             "preview": {
-                "buildid": "17452594",
+                "buildid": "18478319",
                 "description": "A beta branch to access the latest features before they're pushed to the official default one.",
-                "timeupdated": "1740131994"
+                "timeupdated": "1747380422"
             }
         },
         "privatebranches": "1",
