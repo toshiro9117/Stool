@@ -4,8 +4,8 @@
     "name": "Space Sprouts",
     "schinese_name": "星空之芽",
     "isfreeapp": "0",
-    "change_number": "28882908",
-    "update_time": "2025-05-08 21:46:50",
+    "change_number": "28984450",
+    "update_time": "2025-05-14 23:48:57",
     "depot": {
         "2790021": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6893076907582748717",
-                    "size": "5847761963",
-                    "download": "272267760"
+                    "gid": "6936117229479741315",
+                    "size": "5847761523",
+                    "download": "272266432"
                 }
             },
             "decryptionkey": "897c2315879c6a2c24078f0d16095777c0b5504495a8d3167f4c755b3a6a0ba2"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "159055698902787286",
-                    "size": "5874691178",
-                    "download": "279830448"
+                    "gid": "9025212429160496446",
+                    "size": "5874691216",
+                    "download": "279834016"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18262481",
-                "timeupdated": "1745829494"
+                "buildid": "18462888",
+                "timeupdated": "1747237733"
             }
         },
         "privatebranches": "1"
