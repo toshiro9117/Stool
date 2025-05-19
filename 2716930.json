@@ -4,8 +4,8 @@
     "name": "The Emperor and State",
     "schinese_name": "皇帝与社稷",
     "isfreeapp": "0",
-    "change_number": "28881605",
-    "update_time": "2025-05-08 20:26:30",
+    "change_number": "29039325",
+    "update_time": "2025-05-17 19:13:12",
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6293621267077374884",
-                    "size": "1483291312",
-                    "download": "475804336"
+                    "gid": "3718483813007895656",
+                    "size": "1480191812",
+                    "download": "474019072"
                 }
             },
             "decryptionkey": "0c32344f8dbf49426e7b6da2cb1ddd972e3e2883a1ffbcac7dbdb9a9eb2d53eb"
@@ -26,8 +26,8 @@
         "workshopdepot": "2716930",
         "branches": {
             "public": {
-                "buildid": "18388615",
-                "timeupdated": "1746707186"
+                "buildid": "18445144",
+                "timeupdated": "1747141712"
             }
         },
         "privatebranches": "1",
