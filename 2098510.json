@@ -4,14 +4,14 @@
     "name": "Zenkcraft",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28709137",
-    "update_time": "2025-04-28 23:24:55",
+    "change_number": "29044250",
+    "update_time": "2025-05-18 06:46:46",
     "depot": {
         "2098511": {
             "manifests": {
                 "public": {
-                    "gid": "2039615147991921149",
-                    "size": "255829415",
+                    "gid": "1413418164528915462",
+                    "size": "255834647",
                     "download": "58168528"
                 },
                 "lastatlasbuild": {
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18267257",
-                "timeupdated": "1745853888"
+                "buildid": "18505456",
+                "timeupdated": "1747522000"
             },
             "lastatlasbuild": {
                 "buildid": "10196130",
