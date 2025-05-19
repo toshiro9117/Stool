@@ -4,8 +4,8 @@
     "name": "Soulash 2",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28901754",
-    "update_time": "2025-05-09 20:42:16",
+    "change_number": "29039699",
+    "update_time": "2025-05-17 20:01:21",
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "2399161": {
             "manifests": {
                 "public": {
-                    "gid": "732541064801171400",
-                    "size": "385546898",
-                    "download": "363503920"
+                    "gid": "1124333553202462037",
+                    "size": "392579106",
+                    "download": "367107840"
                 }
             },
             "decryptionkey": "6d0b2f3c7b505241661c6baa80d5a35e2bd2b6fc975df6cad7c4fb581ab6ed1e"
@@ -27,8 +27,8 @@
         "workshopdepot": "2399160",
         "branches": {
             "public": {
-                "buildid": "17269786",
-                "timeupdated": "1738863420"
+                "buildid": "18502394",
+                "timeupdated": "1747483275"
             }
         },
         "privatebranches": "1",
