@@ -4,8 +4,8 @@
     "name": "Alien Swarm: Reactive Drop - SDK",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28567551",
-    "update_time": "2025-04-20 07:19:22",
+    "change_number": "29042647",
+    "update_time": "2025-05-18 02:37:39",
     "depot": {
         "228989": {
             "config": {
@@ -42,9 +42,9 @@
                 "timeupdated": "1745104759"
             },
             "beta": {
-                "buildid": "17959699",
+                "buildid": "18504356",
                 "description": "More frequent updates to test new features before they're ready. May require the beta branch of the game to be installed as well.",
-                "timeupdated": "1743622543"
+                "timeupdated": "1747507056"
             }
         }
     }
