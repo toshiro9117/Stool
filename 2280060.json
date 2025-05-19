@@ -4,23 +4,23 @@
     "name": "Tenebris: Terra Incognita",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28794714",
-    "update_time": "2025-05-03 08:19:50",
+    "change_number": "29037016",
+    "update_time": "2025-05-17 13:30:24",
     "depot": {
         "2280061": {
             "manifests": {
                 "public": {
-                    "gid": "5553704376503862213",
-                    "size": "1441304924",
-                    "download": "1231935872"
+                    "gid": "5886795745459973666",
+                    "size": "1716943071",
+                    "download": "1470344608"
                 }
             },
             "decryptionkey": "a8928c3e35f1b486b7e6601779a46aba034470b87b29c84e6035c53ef8da4597"
         },
         "branches": {
             "public": {
-                "buildid": "16587964",
-                "timeupdated": "1733059048"
+                "buildid": "18500445",
+                "timeupdated": "1747459821"
             }
         }
     }
