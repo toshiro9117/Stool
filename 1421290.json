@@ -4,8 +4,8 @@
     "name": "Battle Shapers",
     "schinese_name": "塑战核心",
     "isfreeapp": "0",
-    "change_number": "28914012",
-    "update_time": "2025-05-10 12:42:22",
+    "change_number": "29035676",
+    "update_time": "2025-05-17 10:12:47",
     "depot": {
         "1421291": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7226840612342705204",
-                    "size": "13042508751",
-                    "download": "10645059488"
+                    "gid": "4722091335345253185",
+                    "size": "13120392095",
+                    "download": "10697131200"
                 }
             },
             "decryptionkey": "d6fd93b33b555a19ed595dd17d6870d3d9766384a03610931c27b6c85609a6e4"
         },
         "branches": {
             "public": {
-                "buildid": "18119805",
-                "timeupdated": "1744831880"
+                "buildid": "18447075",
+                "timeupdated": "1747237540"
             }
         },
         "privatebranches": "1"
