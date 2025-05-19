@@ -4,8 +4,8 @@
     "name": "Slimekeep",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28909496",
-    "update_time": "2025-05-10 04:36:01",
+    "change_number": "29025627",
+    "update_time": "2025-05-16 21:57:49",
     "depot": {
         "1552501": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "902239833614887013",
-                    "size": "238882405",
-                    "download": "179759072"
+                    "gid": "6777373986927927405",
+                    "size": "232814336",
+                    "download": "173595792"
                 }
             },
             "decryptionkey": "9d1c88ef91353694a828586c10eed62a45d53eeac01a5b25b67fde49e32c72e6"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6186891930031810876",
-                    "size": "239702247",
-                    "download": "180218544"
+                    "gid": "3418047503716956061",
+                    "size": "233624389",
+                    "download": "174051312"
                 }
             }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18240193",
-                "timeupdated": "1745593833"
+                "buildid": "18484900",
+                "timeupdated": "1747403862"
             }
         },
         "privatebranches": "1"
