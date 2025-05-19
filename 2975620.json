@@ -4,8 +4,8 @@
     "name": "MILF's Plaza - Bonus Content",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915560",
-    "update_time": "2025-05-10 16:33:31",
+    "change_number": "28965311",
+    "update_time": "2025-05-14 01:15:10",
     "depot": {
         "2975620": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "683035385831604352",
-                    "size": "2074043423",
-                    "download": "1803289552"
+                    "gid": "4518657139967449197",
+                    "size": "2073995559",
+                    "download": "1803243168"
                 }
             },
             "dlcappid": "2975620",
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18344052",
-                "timeupdated": "1746434895"
+                "buildid": "18448350",
+                "timeupdated": "1747156505"
             }
         }
     }
