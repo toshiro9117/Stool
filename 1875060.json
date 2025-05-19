@@ -4,8 +4,8 @@
     "name": "Reus 2",
     "schinese_name": "造物主 2",
     "isfreeapp": "0",
-    "change_number": "28789636",
-    "update_time": "2025-05-03 01:08:37",
+    "change_number": "29008433",
+    "update_time": "2025-05-16 01:45:15",
     "depot": {
         "baselanguages": "english",
         "1875061": {
@@ -18,6 +18,11 @@
                     "gid": "6538332986719873821",
                     "size": "3143810169",
                     "download": "666205072"
+                },
+                "experimental": {
+                    "gid": "7761147006241470881",
+                    "size": "3290265844",
+                    "download": "684503920"
                 },
                 "v1.5": {
                     "gid": "5595917679743044397",
@@ -38,6 +43,11 @@
                     "size": "3170415840",
                     "download": "674398432"
                 },
+                "experimental": {
+                    "gid": "5473008796187222016",
+                    "size": "3170415840",
+                    "download": "674398432"
+                },
                 "v1.5": {
                     "gid": "8131679422765366420",
                     "size": "6379695471",
@@ -54,6 +64,11 @@
                     "size": "1736868590",
                     "download": "1554107456"
                 },
+                "experimental": {
+                    "gid": "3896516526556556967",
+                    "size": "1736868590",
+                    "download": "1554107456"
+                },
                 "v1.5": {
                     "gid": "3896516526556556967",
                     "size": "1736868590",
@@ -66,6 +81,11 @@
             "public": {
                 "buildid": "17794622",
                 "timeupdated": "1742477062"
+            },
+            "experimental": {
+                "buildid": "18480032",
+                "description": "Unstable preview build for testing out upcoming updates.",
+                "timeupdated": "1747331111"
             },
             "v1.5": {
                 "buildid": "17094140",
