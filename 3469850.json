@@ -4,16 +4,16 @@
     "name": "噩梦摇篮：献花于你",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917782",
-    "update_time": "2025-05-10 22:33:43",
+    "change_number": "29022797",
+    "update_time": "2025-05-16 19:15:44",
     "depot": {
         "baselanguages": "english",
         "3469851": {
             "manifests": {
                 "public": {
-                    "gid": "7802999756338896419",
-                    "size": "1866771137",
-                    "download": "1499261104"
+                    "gid": "8492390234527267183",
+                    "size": "1866771364",
+                    "download": "1499302944"
                 },
                 "default2": {
                     "gid": "480346151390778903",
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18200200",
-                "timeupdated": "1745365357"
+                "buildid": "18467069",
+                "timeupdated": "1747259599"
             },
             "default2": {
                 "buildid": "17507551",
