@@ -4,8 +4,8 @@
     "name": "Heavy Cargo - The Truck Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28839982",
-    "update_time": "2025-05-06 19:05:00",
+    "change_number": "29002044",
+    "update_time": "2025-05-15 20:26:19",
     "depot": {
         "workshopdepot": "1474930",
         "228985": {
@@ -25,9 +25,9 @@
         "1474931": {
             "manifests": {
                 "public": {
-                    "gid": "2308976120822895286",
-                    "size": "19312357099",
-                    "download": "5618336160"
+                    "gid": "3945061257070616144",
+                    "size": "19308681406",
+                    "download": "5615680608"
                 },
                 "open_beta": {
                     "gid": "7259673600105334040",
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17676595",
-                "timeupdated": "1741870062"
+                "buildid": "18440933",
+                "timeupdated": "1747303431"
             },
             "open_beta": {
                 "buildid": "16177261",
