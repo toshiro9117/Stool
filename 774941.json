@@ -4,8 +4,8 @@
     "name": "Squad - Public Testing",
     "schinese_name": "Squad - 公开测试服",
     "isfreeapp": "0",
-    "change_number": "28917122",
-    "update_time": "2025-05-10 20:49:50",
+    "change_number": "29047926",
+    "update_time": "2025-05-18 18:29:40",
     "depot": {
         "228984": {
             "config": {
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "178430853345416336",
-                    "size": "64659691337",
-                    "download": "57979811808"
+                    "gid": "9136323177149051675",
+                    "size": "64041587784",
+                    "download": "57195265392"
                 }
             },
             "decryptionkey": "7c69672d957f5dda9278c02191a08367c13783bb2951d4c10d74ead51b0271cb"
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18323014",
-                "timeupdated": "1746208791"
+                "buildid": "18481289",
+                "timeupdated": "1747346107"
             }
         },
         "privatebranches": "1"
