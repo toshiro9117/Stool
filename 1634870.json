@@ -4,8 +4,8 @@
     "name": "Open Brush",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28774448",
-    "update_time": "2025-05-02 03:43:31",
+    "change_number": "28959112",
+    "update_time": "2025-05-13 19:22:20",
     "depot": {
         "228985": {
             "config": {
@@ -44,9 +44,9 @@
                     "download": "127620272"
                 },
                 "beta": {
-                    "gid": "7563667313293509293",
-                    "size": "844653469",
-                    "download": "234019152"
+                    "gid": "7627950645779031676",
+                    "size": "844658545",
+                    "download": "234020656"
                 }
             },
             "decryptionkey": "95056ac1f7768c1b835f3df160a994e48263a083e2cfb07453f2937b6f015b0f"
@@ -62,9 +62,9 @@
                     "download": "242426848"
                 },
                 "beta": {
-                    "gid": "6256664228963756510",
-                    "size": "878361265",
-                    "download": "243504864"
+                    "gid": "8297059909877139993",
+                    "size": "878361233",
+                    "download": "243503312"
                 }
             }
         },
@@ -79,9 +79,9 @@
                     "download": "231288912"
                 },
                 "beta": {
-                    "gid": "7879171510989657822",
-                    "size": "885423540",
-                    "download": "244875312"
+                    "gid": "270806882123782749",
+                    "size": "885428616",
+                    "download": "244875168"
                 }
             }
         },
@@ -96,9 +96,9 @@
                 "timeupdated": "1675978906"
             },
             "beta": {
-                "buildid": "18313184",
+                "buildid": "18443787",
                 "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
-                "timeupdated": "1746128607"
+                "timeupdated": "1747135334"
             }
         }
     }
