@@ -4,8 +4,8 @@
     "name": "Armoured Commander II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919649",
-    "update_time": "2025-05-11 03:01:39",
+    "change_number": "29031785",
+    "update_time": "2025-05-17 03:53:11",
     "depot": {
         "228988": {
             "config": {
@@ -23,14 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1184200144659916924",
-                    "size": "96430990",
-                    "download": "33102784"
-                },
-                "preview": {
-                    "gid": "4303004037472134133",
-                    "size": "96438773",
-                    "download": "33106960"
+                    "gid": "4857266825156514751",
+                    "size": "96437158",
+                    "download": "33106608"
                 }
             },
             "decryptionkey": "cf2ef861e600d5792765e63e9aa54305f6478b59f10acaf7087bd4d191e026f5"
@@ -38,13 +33,8 @@
         "workshopdepot": "1292020",
         "branches": {
             "public": {
-                "buildid": "18363576",
-                "timeupdated": "1746556484"
-            },
-            "preview": {
-                "buildid": "18415857",
-                "description": "Preview branch for future updates",
-                "timeupdated": "1746903694"
+                "buildid": "18496408",
+                "timeupdated": "1747425188"
             }
         },
         "workshopdepotdecryptionkey": ""
