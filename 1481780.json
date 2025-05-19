@@ -4,8 +4,8 @@
     "name": "Dragon Fist: VR Kung Fu",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28621696",
-    "update_time": "2025-04-23 20:25:57",
+    "change_number": "29041330",
+    "update_time": "2025-05-17 23:42:39",
     "depot": {
         "1481781": {
             "manifests": {
@@ -25,9 +25,9 @@
                     "download": "3423443248"
                 },
                 "beta": {
-                    "gid": "7018934950307340333",
-                    "size": "7807266680",
-                    "download": "3423443248"
+                    "gid": "1387842462819743997",
+                    "size": "7915604724",
+                    "download": "3459573392"
                 },
                 "previousversion": {
                     "gid": "1423163157530609879",
@@ -53,9 +53,9 @@
                 "timeupdated": "1745411115"
             },
             "beta": {
-                "buildid": "18197303",
+                "buildid": "18503149",
                 "description": "Beta Testing",
-                "timeupdated": "1745346634"
+                "timeupdated": "1747496545"
             },
             "previousversion": {
                 "buildid": "17855634",
