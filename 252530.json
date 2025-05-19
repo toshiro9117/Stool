@@ -4,8 +4,8 @@
     "name": "OMSI 2",
     "schinese_name": "巴士模拟2",
     "isfreeapp": "0",
-    "change_number": "28747840",
-    "update_time": "2025-04-30 19:33:43",
+    "change_number": "28970832",
+    "update_time": "2025-05-14 08:37:54",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -1546,9 +1546,9 @@
             "dlcappid": "3046770",
             "manifests": {
                 "public": {
-                    "gid": "2970923241218805577",
-                    "size": "4501136259",
-                    "download": "768262064"
+                    "gid": "4716758504657543831",
+                    "size": "4503196230",
+                    "download": "770542448"
                 }
             },
             "decryptionkey": "495ab4b44c071ed09e269da17f6af83f3c6f28798eea7fccd9ec6f94aebc20c0"
@@ -1630,10 +1630,21 @@
             },
             "decryptionkey": "9df1952769bfbb34b6b95793c237e5853679d2a9d44942a13708536b9f92c5f8"
         },
+        "3743640": {
+            "dlcappid": "3743640",
+            "manifests": {
+                "public": {
+                    "gid": "2005338360013403421",
+                    "size": "2332881769",
+                    "download": "543919424"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18294936",
-                "timeupdated": "1746012818"
+                "buildid": "18445178",
+                "timeupdated": "1747141815"
             }
         },
         "appmanagesdlc": "1"
