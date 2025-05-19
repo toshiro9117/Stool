@@ -4,8 +4,8 @@
     "name": "Milord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28839241",
-    "update_time": "2025-05-06 18:27:30",
+    "change_number": "29040805",
+    "update_time": "2025-05-17 22:33:10",
     "depot": {
         "hasdepotsindlc": "1",
         "2455461": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1420078396754892610",
-                    "size": "369904416",
-                    "download": "67099696"
+                    "gid": "7960919083123076504",
+                    "size": "369889476",
+                    "download": "67099328"
                 }
             },
             "decryptionkey": "d5502d535c2fcbf54d6e1bdf427c9806526115632afedbbd46bd2674247a5bee"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1285767363853782082",
-                    "size": "365244405",
-                    "download": "65796000"
+                    "gid": "3476483863939156567",
+                    "size": "365138932",
+                    "download": "65724192"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18179111",
-                "timeupdated": "1745227453"
+                "buildid": "18503164",
+                "timeupdated": "1747492388"
             }
         }
     }
