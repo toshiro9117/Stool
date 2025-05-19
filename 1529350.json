@@ -4,8 +4,8 @@
     "name": "Astral Ascension",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919239",
-    "update_time": "2025-05-11 01:54:17",
+    "change_number": "29046467",
+    "update_time": "2025-05-18 14:11:03",
     "depot": {
         "1529351": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4223386605507457069",
-                    "size": "3129687257",
-                    "download": "2656143360"
+                    "gid": "6835494790114697262",
+                    "size": "3129976903",
+                    "download": "2655761216"
                 }
             },
             "decryptionkey": "e66d404366cfdb5ecd9cf2dd2b9d678830641139c8f060e8854a7449e0037f4b"
         },
         "branches": {
             "public": {
-                "buildid": "18351292",
-                "timeupdated": "1746479528"
+                "buildid": "18507074",
+                "timeupdated": "1747548660"
             }
         }
     }
