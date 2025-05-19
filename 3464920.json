@@ -4,8 +4,8 @@
     "name": "Flesh and Fury",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919853",
-    "update_time": "2025-05-11 03:32:59",
+    "change_number": "28973040",
+    "update_time": "2025-05-14 12:02:07",
     "depot": {
         "3464921": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6390198808953445700",
-                    "size": "371601591",
-                    "download": "282770272"
+                    "gid": "9015195441799923605",
+                    "size": "372289650",
+                    "download": "283647888"
                 }
             },
             "decryptionkey": "eddc06a60019af16c61c8c7a8ab2980d012770a68a9a7b6bb9a70f2b096922f2"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7456614233131045494",
-                    "size": "359922732",
-                    "download": "279273120"
+                    "gid": "8649917140397584084",
+                    "size": "359934007",
+                    "download": "279426560"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17763943",
-                "timeupdated": "1742293702"
+                "buildid": "18446458",
+                "timeupdated": "1747147827"
             }
         }
     }
