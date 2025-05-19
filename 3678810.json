@@ -4,8 +4,8 @@
     "name": "Reflection Of Sin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920091",
-    "update_time": "2025-05-11 04:08:58",
+    "change_number": "29004676",
+    "update_time": "2025-05-15 22:36:17",
     "depot": {
         "228989": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8183406943741401776",
-                    "size": "1041010079",
-                    "download": "881356928"
+                    "gid": "232297650051277359",
+                    "size": "2032226095",
+                    "download": "1864277424"
                 }
             },
             "decryptionkey": "357019e82cc3d09dc5828a0b50884e115a5285751228b2032f55abc31466d250"
         },
         "branches": {
             "public": {
-                "buildid": "18155202",
-                "timeupdated": "1744963773"
+                "buildid": "18477566",
+                "timeupdated": "1747319773"
             }
         }
     }
