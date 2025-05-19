@@ -4,8 +4,8 @@
     "name": "Rally Arcade Classics",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28756779",
-    "update_time": "2025-05-01 03:15:54",
+    "change_number": "29014838",
+    "update_time": "2025-05-16 09:48:44",
     "depot": {
         "hasdepotsindlc": "0",
         "228985": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2121686927810468304",
-                    "size": "2553422653",
-                    "download": "1884772288"
+                    "gid": "4485363602355796971",
+                    "size": "6680895057",
+                    "download": "1965028208"
                 }
             },
             "decryptionkey": "4f37dcd252adb9a3243c0605ec189c34b2988ea39176039d9eb76e8a9da4209c"
@@ -34,16 +34,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4428504075099039176",
-                    "size": "1647148980",
-                    "download": "1183854576"
+                    "gid": "3798582441732116003",
+                    "size": "3579884314",
+                    "download": "1311443536"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17349337",
-                "timeupdated": "1739439276"
+                "buildid": "18461882",
+                "timeupdated": "1747233589"
             }
         }
     }
