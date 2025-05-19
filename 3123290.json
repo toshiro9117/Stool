@@ -4,23 +4,23 @@
     "name": "SAVE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28863571",
-    "update_time": "2025-05-07 22:32:32",
+    "change_number": "29021362",
+    "update_time": "2025-05-16 17:54:21",
     "depot": {
         "3123291": {
             "manifests": {
                 "public": {
-                    "gid": "6697490927773754275",
-                    "size": "8862589026",
-                    "download": "3876861888"
+                    "gid": "8617672937561956250",
+                    "size": "8862593806",
+                    "download": "3896860080"
                 }
             },
             "decryptionkey": "8b9407097f449af2699306a838f2412ba2c897736787a641f8a5f8cd44cbe00d"
         },
         "branches": {
             "public": {
-                "buildid": "18375430",
-                "timeupdated": "1746628343"
+                "buildid": "18488132",
+                "timeupdated": "1747389257"
             }
         },
         "privatebranches": "1"
