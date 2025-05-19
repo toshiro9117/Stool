@@ -4,8 +4,8 @@
     "name": "Rust",
     "schinese_name": "腐蚀",
     "isfreeapp": "0",
-    "change_number": "28896991",
-    "update_time": "2025-05-09 15:46:25",
+    "change_number": "29021524",
+    "update_time": "2025-05-16 18:02:38",
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1549424205335016410",
-                    "size": "41334776060",
-                    "download": "22940559344"
+                    "gid": "2262178639666845864",
+                    "size": "41334027996",
+                    "download": "22940327840"
                 },
                 "last-last-month": {
                     "gid": "8731850155050174114",
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3227146517540025386",
-                    "size": "6511394412",
-                    "download": "2356202224"
+                    "gid": "5236132261718456147",
+                    "size": "6510646480",
+                    "download": "2355976704"
                 },
                 "last-last-month": {
                     "gid": "9057316328144875299",
@@ -91,9 +91,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6823707886316128431",
-                    "size": "879719471",
-                    "download": "478197296"
+                    "gid": "2352653614412092350",
+                    "size": "880434021",
+                    "download": "478452656"
                 },
                 "last-last-month": {
                     "gid": "4762302534028068430",
@@ -115,8 +115,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18338309",
-                "timeupdated": "1746371961"
+                "buildid": "18446051",
+                "timeupdated": "1747151050"
             },
             "last-last-month": {
                 "buildid": "17901495",
