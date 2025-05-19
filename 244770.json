@@ -4,8 +4,8 @@
     "name": "StarMade",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28740819",
-    "update_time": "2025-04-30 12:10:02",
+    "change_number": "28988132",
+    "update_time": "2025-05-15 03:22:50",
     "depot": {
         "overridescddb": "1",
         "244771": {
@@ -138,9 +138,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1303309059978942729",
-                    "size": "293271702",
-                    "download": "99562656"
+                    "gid": "46559096482849760",
+                    "size": "313653944",
+                    "download": "102885856"
                 },
                 "launcherbeta": {
                     "gid": "9102901634983342693",
@@ -156,9 +156,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6620159047888456676",
-                    "size": "313632611",
-                    "download": "102821120"
+                    "gid": "9098654447034378813",
+                    "size": "313653944",
+                    "download": "102839552"
                 },
                 "launcherbeta": {
                     "gid": "5018712332539170498",
@@ -174,9 +174,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7264151155857213181",
-                    "size": "294362594",
-                    "download": "95896352"
+                    "gid": "1426250050973721451",
+                    "size": "294384031",
+                    "download": "95914784"
                 },
                 "launcherbeta": {
                     "gid": "1331759125743264447",
@@ -188,8 +188,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18289920",
-                "timeupdated": "1745985674"
+                "buildid": "18464618",
+                "timeupdated": "1747250563"
             },
             "launcherbeta": {
                 "buildid": "15524513",
