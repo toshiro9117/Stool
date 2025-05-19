@@ -4,8 +4,8 @@
     "name": "Backrooms: Exploration",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915898",
-    "update_time": "2025-05-10 17:33:20",
+    "change_number": "28996605",
+    "update_time": "2025-05-15 15:12:21",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3423661": {
             "manifests": {
                 "public": {
-                    "gid": "7829114751791298218",
-                    "size": "5058109228",
-                    "download": "4869756032"
+                    "gid": "9072857443692169442",
+                    "size": "5285900715",
+                    "download": "4962139904"
                 }
             },
             "decryptionkey": "8da956d075b2876ae788d40f7ae3d006aa22d46252759ada79533fd023c7680b"
         },
         "branches": {
             "public": {
-                "buildid": "18406239",
-                "timeupdated": "1746809845"
+                "buildid": "18429725",
+                "timeupdated": "1747056124"
             }
         }
     }
