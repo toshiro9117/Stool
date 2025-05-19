@@ -4,8 +4,8 @@
     "name": "Zoochosis",
     "schinese_name": "癫狂动物园 Zoochosis",
     "isfreeapp": "0",
-    "change_number": "28898937",
-    "update_time": "2025-05-09 17:47:32",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:47",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2458561": {
             "manifests": {
                 "public": {
-                    "gid": "3543275933673975694",
-                    "size": "6643521196",
-                    "download": "6333678912"
+                    "gid": "4840631542554093933",
+                    "size": "6777220630",
+                    "download": "6279266624"
                 }
             },
             "decryptionkey": "d0ea71d310e5aea1e7a51ffc602de7221b630660cdcf955af6d5558221804634"
         },
         "branches": {
             "public": {
-                "buildid": "18266413",
-                "timeupdated": "1745852894"
+                "buildid": "18419145",
+                "timeupdated": "1746957272"
             }
         },
         "privatebranches": "1"
