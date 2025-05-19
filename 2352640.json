@@ -4,8 +4,8 @@
     "name": "You are Peter Shorts",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28913605",
-    "update_time": "2025-05-10 11:38:33",
+    "change_number": "29034117",
+    "update_time": "2025-05-17 07:18:50",
     "depot": {
         "2352641": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "50610176"
                 },
                 "public_beta": {
-                    "gid": "4038033281120682678",
-                    "size": "68769407",
-                    "download": "52708240"
+                    "gid": "5570663734942880030",
+                    "size": "68794191",
+                    "download": "52715360"
                 },
                 "previous_version": {
                     "gid": "6011214648942567685",
@@ -34,9 +34,9 @@
                 "timeupdated": "1718245020"
             },
             "public_beta": {
-                "buildid": "18411480",
+                "buildid": "18498296",
                 "description": "newer version",
-                "timeupdated": "1746848309"
+                "timeupdated": "1747437518"
             },
             "previous_version": {
                 "buildid": "14699690",
