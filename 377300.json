@@ -3,9 +3,9 @@
     "type": "Game",
     "name": "Thunder Tier One",
     "schinese_name": "雷霆一号",
-    "isfreeapp": "0",
-    "change_number": "28705303",
-    "update_time": "2025-04-28 19:53:48",
+    "isfreeapp": "1",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:42",
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "377300",
