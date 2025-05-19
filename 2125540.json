@@ -4,8 +4,8 @@
     "name": "Kādomon: Hyper Auto Battlers",
     "schinese_name": "卡多梦:超能自走棋",
     "isfreeapp": "0",
-    "change_number": "28907804",
-    "update_time": "2025-05-10 02:32:45",
+    "change_number": "29044776",
+    "update_time": "2025-05-18 08:15:39",
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "2125542": {
             "manifests": {
                 "public": {
-                    "gid": "5888280181048673815",
-                    "size": "3375072147",
-                    "download": "611845440"
+                    "gid": "6636704953712462229",
+                    "size": "3470758017",
+                    "download": "615498960"
                 },
                 "experimental": {
                     "gid": "1205086195454566862",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18403377",
-                "timeupdated": "1746804504"
+                "buildid": "18491708",
+                "timeupdated": "1747402412"
             },
             "experimental": {
                 "buildid": "18109224",
