@@ -4,8 +4,8 @@
     "name": "Toziuha Night: Order of the Alchemists",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28775594",
-    "update_time": "2025-05-02 05:14:03",
+    "change_number": "29008846",
+    "update_time": "2025-05-16 02:06:45",
     "depot": {
         "2112751": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4784547633738787989",
-                    "size": "730159528",
-                    "download": "588002512"
+                    "gid": "2102137235352064490",
+                    "size": "732484440",
+                    "download": "589849744"
                 }
             },
             "decryptionkey": "9ab9fffa387495d243d8ac15d3dc7664b164be36523fed876163a507b19177a0"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6212711341412357510",
-                    "size": "823534808",
-                    "download": "618135776"
+                    "gid": "5079249722531494277",
+                    "size": "825859688",
+                    "download": "619998576"
                 }
             },
             "decryptionkey": "6ceda81b70720e4185a7e8b7c8c1103055b45cd04d080a517c82e2fcbfbb0792"
@@ -38,8 +38,8 @@
         "workshopdepot": "2112750",
         "branches": {
             "public": {
-                "buildid": "18314006",
-                "timeupdated": "1746133876"
+                "buildid": "18465730",
+                "timeupdated": "1747251749"
             }
         },
         "workshopdepotdecryptionkey": "15bd8cd4aff2b74ce9877686bc7c3efa0184f7b51d42d081b2f94d8933e799f9"
