@@ -4,8 +4,8 @@
     "name": "Fraymakers",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28588705",
-    "update_time": "2025-04-22 03:59:05",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:38",
     "depot": {
         "228989": {
             "config": {
@@ -93,9 +93,9 @@
                     "download": "254348736"
                 },
                 "0.7.9-experimental-preview": {
-                    "gid": "9028789698278216540",
-                    "size": "324410699",
-                    "download": "255812256"
+                    "gid": "2081583047015084363",
+                    "size": "324488950",
+                    "download": "255830272"
                 }
             },
             "decryptionkey": "0c2d0021a596f771ab6bbd2e32b93e69fdd6d1800facd004dd585661a6ca7fca"
@@ -161,9 +161,9 @@
                 "timeupdated": "1737003414"
             },
             "0.7.9-experimental-preview": {
-                "buildid": "18034239",
+                "buildid": "18424585",
                 "description": "Experimental Gameplay Branch",
-                "timeupdated": "1744162638"
+                "timeupdated": "1747024915"
             }
         },
         "workshopdepotdecryptionkey": "4bd243451e5f8856a0b35fc6c8cb5a56a6f587f8ffc7c52fae985cf6b590dcf5"
