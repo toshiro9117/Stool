@@ -4,8 +4,8 @@
     "name": "Werewolf: The Apocalypse — The Book of Hungry Names",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28886167",
-    "update_time": "2025-05-09 00:30:51",
+    "change_number": "29011645",
+    "update_time": "2025-05-16 05:13:02",
     "depot": {
         "2402281": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8917350356457496872",
-                    "size": "279057384",
-                    "download": "100736896"
+                    "gid": "1049198981161093487",
+                    "size": "279500259",
+                    "download": "101177632"
                 }
             },
             "decryptionkey": "b90f12907cbc9568250aeb7ed1edc521a45ae3b33b6899dbc1a1fb928057e1d5"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8611467907461034735",
-                    "size": "53213892",
-                    "download": "27916960"
+                    "gid": "1628740595152094200",
+                    "size": "53656671",
+                    "download": "28357856"
                 }
             }
         },
@@ -38,16 +38,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4929697997148965595",
-                    "size": "281606385",
-                    "download": "95323744"
+                    "gid": "6922234887519213583",
+                    "size": "282049264",
+                    "download": "95764688"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18391541",
-                "timeupdated": "1746721820"
+                "buildid": "18461990",
+                "timeupdated": "1747233801"
             }
         },
         "privatebranches": "1"
