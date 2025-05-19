@@ -4,8 +4,8 @@
     "name": "Headquarters: World War II",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28788966",
-    "update_time": "2025-05-03 00:27:13",
+    "change_number": "28997054",
+    "update_time": "2025-05-15 15:43:54",
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "1840801": {
             "manifests": {
                 "public": {
-                    "gid": "8110284017399856368",
-                    "size": "26882051845",
-                    "download": "12390777728"
+                    "gid": "4696528885751839551",
+                    "size": "27020351381",
+                    "download": "12443584704"
                 }
             },
             "decryptionkey": "ff2d8c45c35e81391fda349955290d9ec6bb2125325841f63df17a59d559fcd1"
@@ -41,9 +41,9 @@
         "1840802": {
             "manifests": {
                 "public": {
-                    "gid": "2882472322639535649",
-                    "size": "42588663",
-                    "download": "35476592"
+                    "gid": "665396272411347263",
+                    "size": "42591223",
+                    "download": "35478896"
                 }
             },
             "decryptionkey": "02d4624618c1b7a31579dc43a230a772f6573474738baadaec47e45debe14e0c"
@@ -72,8 +72,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18044212",
-                "timeupdated": "1744376507"
+                "buildid": "18323905",
+                "timeupdated": "1747228217"
             }
         },
         "privatebranches": "1"
