@@ -4,15 +4,15 @@
     "name": "ISEKAI FRONTLINE",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28314460",
-    "update_time": "2025-04-05 02:08:44",
+    "change_number": "28990979",
+    "update_time": "2025-05-15 06:46:32",
     "depot": {
         "1924141": {
             "manifests": {
                 "public": {
-                    "gid": "1811577692464987416",
-                    "size": "9414082496",
-                    "download": "924251264"
+                    "gid": "1075761009601347497",
+                    "size": "2048767259",
+                    "download": "224725680"
                 },
                 "2022may": {
                     "gid": "1075761009601347497",
@@ -20,9 +20,9 @@
                     "download": "224725680"
                 },
                 "beta": {
-                    "gid": "1811577692464987416",
-                    "size": "9414082496",
-                    "download": "924251264"
+                    "gid": "1075761009601347497",
+                    "size": "2048767259",
+                    "download": "224725680"
                 }
             },
             "decryptionkey": "bf3ae84c04ed171cde0d22d2539d383938e3dcf0350a52a8b7b111283ad1e563"
@@ -30,8 +30,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "17886241",
-                "timeupdated": "1743790119"
+                "buildid": "8780515",
+                "timeupdated": "1747054548"
             },
             "2022may": {
                 "buildid": "8780515",
@@ -39,9 +39,9 @@
                 "timeupdated": "1743431051"
             },
             "beta": {
-                "buildid": "17886241",
+                "buildid": "8780515",
                 "description": "open beta",
-                "timeupdated": "1743430932"
+                "timeupdated": "1747054582"
             }
         },
         "privatebranches": "1"
