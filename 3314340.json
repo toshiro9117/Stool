@@ -4,8 +4,8 @@
     "name": "Burgie's cozy kitchen",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918517",
-    "update_time": "2025-05-11 00:12:18",
+    "change_number": "29044412",
+    "update_time": "2025-05-18 07:11:31",
     "depot": {
         "hasdepotsindlc": "0",
         "3314342": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6147431331838261393",
-                    "size": "259064240",
-                    "download": "71638640"
+                    "gid": "9007307384104168310",
+                    "size": "263369872",
+                    "download": "73876272"
                 }
             },
             "decryptionkey": "4a553b925ea338f09b056513e1f0feeb7aea85a2ae975aa82cbc38b5019bf985"
         },
         "branches": {
             "public": {
-                "buildid": "18415180",
-                "timeupdated": "1746893530"
+                "buildid": "18505313",
+                "timeupdated": "1747520430"
             }
         }
     }
