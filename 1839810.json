@@ -4,8 +4,8 @@
     "name": "Out Of Hands",
     "schinese_name": "万手一体",
     "isfreeapp": "0",
-    "change_number": "28898019",
-    "update_time": "2025-05-09 16:50:59",
+    "change_number": "29022549",
+    "update_time": "2025-05-16 19:04:52",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6536710053900399600",
-                    "size": "2532165269",
-                    "download": "1089406592"
+                    "gid": "2587335045165687597",
+                    "size": "2549618027",
+                    "download": "1092171552"
                 }
             },
             "decryptionkey": "b86d28be2ce99299dbc3db1499c914ce7f15674cf0e72b57198e772c2f1d72d7"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18277310",
-                "timeupdated": "1745917578"
+                "buildid": "18490135",
+                "timeupdated": "1747393489"
             }
         },
         "privatebranches": "1"
