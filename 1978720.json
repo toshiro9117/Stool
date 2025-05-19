@@ -4,8 +4,8 @@
     "name": "Ultimate Ragdoll Game",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27853619",
-    "update_time": "2025-03-09 04:27:19",
+    "change_number": "28981289",
+    "update_time": "2025-05-14 22:49:58",
     "depot": {
         "workshopdepot": "1978720",
         "hasdepotsindlc": "1",
@@ -81,6 +81,6 @@
                 "timeupdated": "1741465633"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "ac2f9b6844c8a54a5c7cf85d7bba5b5f4cdaa49b314ae15e79abd5f399901954"
     }
 }
