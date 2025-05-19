@@ -4,8 +4,8 @@
     "name": "Dunjungle",
     "schinese_name": "护林猿神",
     "isfreeapp": "0",
-    "change_number": "28911653",
-    "update_time": "2025-05-10 07:39:52",
+    "change_number": "28988396",
+    "update_time": "2025-05-15 03:39:59",
     "depot": {
         "1589571": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5329356334639425585",
-                    "size": "818143468",
-                    "download": "148782800"
+                    "gid": "5867151086285028620",
+                    "size": "818118287",
+                    "download": "148793424"
                 }
             },
             "decryptionkey": "b279480a59b8ae5c32073d58db964ea027458c94f59bcf7c7d72ed1b45b974eb"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1511720057579013914",
-                    "size": "820332633",
-                    "download": "149001296"
+                    "gid": "1383396896161484725",
+                    "size": "820382285",
+                    "download": "149072272"
                 }
             },
             "decryptionkey": "9232ac1d3c2ec661d0ce7000269f63647ed2ffa401639e8745b29fb461ea0eb0"
         },
         "branches": {
             "public": {
-                "buildid": "18391653",
-                "timeupdated": "1746833987"
+                "buildid": "18422710",
+                "timeupdated": "1747024857"
             }
         },
         "privatebranches": "1"
