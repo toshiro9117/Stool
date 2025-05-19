@@ -4,8 +4,8 @@
     "name": "The Ship Tutorial",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27450156",
-    "update_time": "2025-02-13 09:28:29",
+    "change_number": "29043665",
+    "update_time": "2025-05-18 05:11:59",
     "depot": {
         "overridescddb": "1",
         "2402": {
@@ -18,7 +18,7 @@
                 }
             },
             "depotfromapp": "2400",
-            "decryptionkey": ""
+            "decryptionkey": "fa1c2ff566f4ea5244afe781ad841f82a8ce01915dd9eb789d72ecde9ef0efc4"
         },
         "2406": {
             "systemdefined": "1",
