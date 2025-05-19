@@ -4,15 +4,15 @@
     "name": "Plunder Panic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27846521",
-    "update_time": "2025-03-08 10:03:40",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:49:58",
     "depot": {
         "1455901": {
             "manifests": {
                 "public": {
-                    "gid": "2763068397291309645",
-                    "size": "367931851",
-                    "download": "255944608"
+                    "gid": "7364118361866218853",
+                    "size": "378122724",
+                    "download": "259432208"
                 },
                 "publicbeta": {
                     "gid": "776331037511897259",
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9158254445977747778",
-                    "size": "2515928002",
-                    "download": "238574592"
+                    "gid": "6466484910462298429",
+                    "size": "2590077259",
+                    "download": "255070656"
                 },
                 "publicbeta": {
                     "gid": "4714712309431755052",
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12452365",
-                "timeupdated": "1697471977"
+                "buildid": "18453779",
+                "timeupdated": "1747222415"
             },
             "publicbeta": {
                 "buildid": "10499707",
