@@ -4,8 +4,8 @@
     "name": "Houdini Indie",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918552",
-    "update_time": "2025-05-11 00:15:46",
+    "change_number": "29047883",
+    "update_time": "2025-05-18 18:24:32",
     "depot": {
         "workshopdepot": "502570",
         "228986": {
@@ -79,9 +79,9 @@
                     "download": "1705999776"
                 },
                 "daily_20.0": {
-                    "gid": "6609784972842835430",
-                    "size": "5083427555",
-                    "download": "2128708032"
+                    "gid": "5004328931924851349",
+                    "size": "5083436265",
+                    "download": "2129565552"
                 },
                 "daily_20.0_apple_arm64": {
                     "gid": "7760424911256607842",
@@ -89,9 +89,9 @@
                     "download": "1715384624"
                 },
                 "daily_20.5": {
-                    "gid": "4507232779613111178",
-                    "size": "5769713517",
-                    "download": "2302396752"
+                    "gid": "1300950282970110681",
+                    "size": "5769622431",
+                    "download": "2302309456"
                 },
                 "daily_20.5_apple_arm64": {
                     "gid": "9221398206300116295",
@@ -198,24 +198,24 @@
                     "download": "1463608240"
                 },
                 "daily_20.0": {
-                    "gid": "7693767896755878342",
-                    "size": "4539420633",
-                    "download": "1863911536"
+                    "gid": "7923302565581848606",
+                    "size": "4539425574",
+                    "download": "1863918848"
                 },
                 "daily_20.0_apple_arm64": {
-                    "gid": "4942727405970790370",
-                    "size": "4216836370",
-                    "download": "1793616336"
+                    "gid": "2213997379504519438",
+                    "size": "4216840471",
+                    "download": "1793613280"
                 },
                 "daily_20.5": {
-                    "gid": "4024761249028955894",
-                    "size": "4967936292",
-                    "download": "2022455744"
+                    "gid": "4865669344325318625",
+                    "size": "4967836859",
+                    "download": "2022377488"
                 },
                 "daily_20.5_apple_arm64": {
-                    "gid": "6290332276525748075",
-                    "size": "4659371418",
-                    "download": "1946753616"
+                    "gid": "2910936208318576201",
+                    "size": "4659292076",
+                    "download": "1946674368"
                 },
                 "houdini_20.0_apple_arm64": {
                     "gid": "3482375658363735912",
@@ -310,24 +310,24 @@
                 "timeupdated": "1737548867"
             },
             "daily_20.0": {
-                "buildid": "18358229",
+                "buildid": "18443336",
                 "description": "Daily Houdini 20.0 build",
-                "timeupdated": "1746529011"
+                "timeupdated": "1747133146"
             },
             "daily_20.0_apple_arm64": {
-                "buildid": "18355286",
+                "buildid": "18439780",
                 "description": "Daily Houdini 20.0 build (Apple Silicon)",
-                "timeupdated": "1746510958"
+                "timeupdated": "1747115912"
             },
             "daily_20.5": {
-                "buildid": "18412331",
+                "buildid": "18507034",
                 "description": "Daily Houdini 20.5 builds",
-                "timeupdated": "1746856727"
+                "timeupdated": "1747547915"
             },
             "daily_20.5_apple_arm64": {
-                "buildid": "18412029",
+                "buildid": "18506851",
                 "description": "Daily Houdini 20.5 build (Apple Silicon)",
-                "timeupdated": "1746853730"
+                "timeupdated": "1747544852"
             },
             "houdini_20.0_apple_arm64": {
                 "buildid": "14855303",
