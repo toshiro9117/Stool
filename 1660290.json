@@ -4,15 +4,15 @@
     "name": "Monmusu Gladiator",
     "schinese_name": "魔物娘竞技场",
     "isfreeapp": "0",
-    "change_number": "28080173",
-    "update_time": "2025-03-22 05:03:12",
+    "change_number": "29042451",
+    "update_time": "2025-05-18 02:06:21",
     "depot": {
         "1660291": {
             "manifests": {
                 "public": {
-                    "gid": "2518743002004035187",
-                    "size": "883289646",
-                    "download": "159091280"
+                    "gid": "5426049404628991296",
+                    "size": "891811012",
+                    "download": "161159600"
                 },
                 "open_beta": {
                     "gid": "8951639879123140466",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17388845",
-                "timeupdated": "1739770387"
+                "buildid": "18504176",
+                "timeupdated": "1747505177"
             },
             "open_beta": {
                 "buildid": "12185671",
