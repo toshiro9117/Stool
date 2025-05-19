@@ -4,8 +4,8 @@
     "name": "Beasts of Bermuda Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28867106",
-    "update_time": "2025-05-08 01:43:17",
+    "change_number": "29017262",
+    "update_time": "2025-05-16 13:42:07",
     "depot": {
         "1004": {
             "config": {
@@ -72,9 +72,9 @@
                     "download": "8437070304"
                 },
                 "tester": {
-                    "gid": "8555870589085184494",
-                    "size": "9279350791",
-                    "download": "8677593040"
+                    "gid": "8720675654783868656",
+                    "size": "9320351070",
+                    "download": "8716777856"
                 }
             },
             "decryptionkey": ""
@@ -90,9 +90,9 @@
                     "download": "81119904"
                 },
                 "tester": {
-                    "gid": "6140975634740634618",
-                    "size": "499410976",
-                    "download": "145924592"
+                    "gid": "7765817958033945543",
+                    "size": "500146208",
+                    "download": "146065504"
                 }
             },
             "decryptionkey": ""
@@ -120,9 +120,9 @@
                 "timeupdated": "1743436377"
             },
             "tester": {
-                "buildid": "18377843",
+                "buildid": "18486417",
                 "description": "Tester branch",
-                "timeupdated": "1746639793"
+                "timeupdated": "1747374123"
             }
         },
         "privatebranches": "1"
