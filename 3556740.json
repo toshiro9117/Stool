@@ -4,8 +4,8 @@
     "name": "A Night Filled With the Sound of Rain",
     "schinese_name": "雨夜迷醉时～A night filled with the sound of rain～",
     "isfreeapp": "0",
-    "change_number": "28917959",
-    "update_time": "2025-05-10 23:02:53",
+    "change_number": "29021718",
+    "update_time": "2025-05-16 18:13:08",
     "depot": {
         "3556741": {
             "manifests": {
@@ -36,18 +36,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6798155321835302362",
-                    "size": "192694138",
-                    "download": "175073568"
+                    "gid": "7335526133976738971",
+                    "size": "192290313",
+                    "download": "175050560"
                 }
             },
             "decryptionkey": "fc15c9fc7b7403f426fd8c582d6ea3b88502276690d986d55374c14236332a6b"
         },
         "branches": {
             "public": {
-                "buildid": "18305715",
-                "timeupdated": "1746076011"
+                "buildid": "18466054",
+                "timeupdated": "1747254134"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
