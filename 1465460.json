@@ -4,8 +4,8 @@
     "name": "Infection Free Zone",
     "schinese_name": "Infection Free Zone (无感染区)",
     "isfreeapp": "0",
-    "change_number": "28922409",
-    "update_time": "2025-05-11 10:57:32",
+    "change_number": "29036002",
+    "update_time": "2025-05-17 10:58:20",
     "depot": {
         "1465461": {
             "config": {
@@ -18,14 +18,14 @@
                     "download": "4332150928"
                 },
                 "experimental": {
-                    "gid": "1991362182568646601",
-                    "size": "6813794216",
-                    "download": "4411830000"
+                    "gid": "628552550061988938",
+                    "size": "6777163240",
+                    "download": "4388007440"
                 },
                 "open_beta": {
-                    "gid": "1991362182568646601",
-                    "size": "6813794216",
-                    "download": "4411830000"
+                    "gid": "628552550061988938",
+                    "size": "6777163240",
+                    "download": "4388007440"
                 },
                 "previous": {
                     "gid": "7274917212609041006",
@@ -42,14 +42,14 @@
                 "timeupdated": "1745334433"
             },
             "experimental": {
-                "buildid": "18397526",
+                "buildid": "18490737",
                 "description": "For experimental builds - highly unstable",
-                "timeupdated": "1746801877"
+                "timeupdated": "1747406165"
             },
             "open_beta": {
-                "buildid": "18397526",
+                "buildid": "18490737",
                 "description": "New builds still in testing",
-                "timeupdated": "1746801887"
+                "timeupdated": "1747406157"
             },
             "previous": {
                 "buildid": "17968692",
