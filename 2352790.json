@@ -4,8 +4,8 @@
     "name": "Goblin Lord wants me to become a Virgin Wizard by Managing The Brothel!?",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27364672",
-    "update_time": "2025-02-07 22:30:10",
+    "change_number": "29011111",
+    "update_time": "2025-05-16 04:36:46",
     "depot": {
         "2352791": {
             "config": {
@@ -13,37 +13,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5093331344187358495",
-                    "size": "1565578575",
-                    "download": "533416912"
+                    "gid": "8476868262393673394",
+                    "size": "1593377547",
+                    "download": "547862320"
                 },
                 "previousversion": {
-                    "gid": "6646642526491991157",
-                    "size": "1512065917",
-                    "download": "516222400"
-                },
-                "public_beta": {
                     "gid": "5093331344187358495",
                     "size": "1565578575",
                     "download": "533416912"
+                },
+                "public_beta": {
+                    "gid": "3658277878720419066",
+                    "size": "1593377547",
+                    "download": "547861152"
                 }
             },
             "decryptionkey": "c595d21810f6e0670e83a7b8411c4df90a312e4ed3694bc1d0dd17c72dcf0d1f"
         },
         "branches": {
             "public": {
-                "buildid": "16877855",
-                "timeupdated": "1736084824"
+                "buildid": "17916145",
+                "timeupdated": "1743367625"
             },
             "previousversion": {
-                "buildid": "15868955",
+                "buildid": "16877855",
                 "description": "previous version of the game",
-                "timeupdated": "1734194824"
+                "timeupdated": "1743367604"
             },
             "public_beta": {
-                "buildid": "16877855",
+                "buildid": "17917684",
                 "description": "Beta build",
-                "timeupdated": "1735598740"
+                "timeupdated": "1743366512"
             }
         },
         "privatebranches": "1"
