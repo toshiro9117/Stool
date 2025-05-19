@@ -4,8 +4,8 @@
     "name": "From The Depths",
     "schinese_name": "深海远航",
     "isfreeapp": "0",
-    "change_number": "28236755",
-    "update_time": "2025-04-01 05:49:20",
+    "change_number": "29006535",
+    "update_time": "2025-05-16 00:07:30",
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "268650",
@@ -88,9 +88,9 @@
                     "download": "685492752"
                 },
                 "alpha_test": {
-                    "gid": "5012308578766381730",
-                    "size": "4594626256",
-                    "download": "2296145968"
+                    "gid": "9086235613138223576",
+                    "size": "4601144267",
+                    "download": "2297737840"
                 },
                 "beta_test": {
                     "gid": "5012308578766381730",
@@ -186,9 +186,9 @@
                     "download": "700159200"
                 },
                 "alpha_test": {
-                    "gid": "529114634620591549",
-                    "size": "4611560669",
-                    "download": "2302975520"
+                    "gid": "4181814045231614147",
+                    "size": "4618186284",
+                    "download": "2304589760"
                 },
                 "beta_test": {
                     "gid": "529114634620591549",
@@ -285,9 +285,9 @@
                     "download": "688158800"
                 },
                 "alpha_test": {
-                    "gid": "7632086186557306449",
-                    "size": "4607283531",
-                    "download": "2300373952"
+                    "gid": "6062686242650694966",
+                    "size": "4613801542",
+                    "download": "2301965232"
                 },
                 "beta_test": {
                     "gid": "7632086186557306449",
@@ -383,9 +383,9 @@
                     "download": "712266112"
                 },
                 "alpha_test": {
-                    "gid": "5444330238793335855",
-                    "size": "4664299443",
-                    "download": "2307384864"
+                    "gid": "7210815571834476807",
+                    "size": "4670817454",
+                    "download": "2308974496"
                 },
                 "beta_test": {
                     "gid": "5444330238793335855",
@@ -468,9 +468,9 @@
                 "timeupdated": "1596884041"
             },
             "alpha_test": {
-                "buildid": "17172888",
+                "buildid": "18478215",
                 "description": "alpha_test",
-                "timeupdated": "1738179849"
+                "timeupdated": "1747325245"
             },
             "beta_test": {
                 "buildid": "17172888",
