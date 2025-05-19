@@ -4,8 +4,8 @@
     "name": "Field of Glory: Kingdoms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28846073",
-    "update_time": "2025-05-07 00:59:23",
+    "change_number": "29034036",
+    "update_time": "2025-05-17 07:12:53",
     "depot": {
         "228990": {
             "config": {
@@ -24,9 +24,9 @@
         "1985051": {
             "manifests": {
                 "public": {
-                    "gid": "8462172887268330829",
-                    "size": "9372837594",
-                    "download": "2581459312"
+                    "gid": "618981024672414482",
+                    "size": "9644745715",
+                    "download": "2659510736"
                 },
                 "publicbeta": {
                     "gid": "8569387096574120844",
@@ -39,9 +39,9 @@
         "1985052": {
             "manifests": {
                 "public": {
-                    "gid": "8342713450737302009",
-                    "size": "105003250",
-                    "download": "94376752"
+                    "gid": "3104007927236095314",
+                    "size": "105482999",
+                    "download": "94850416"
                 },
                 "publicbeta": {
                     "gid": "1241575219357654204",
@@ -53,8 +53,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16395688",
-                "timeupdated": "1731693484"
+                "buildid": "18445703",
+                "timeupdated": "1747317762"
             },
             "publicbeta": {
                 "buildid": "16498868",
