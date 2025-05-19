@@ -4,8 +4,8 @@
     "name": "JOY OF PROGRAMMING - Software Engineering Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28330166",
-    "update_time": "2025-04-06 15:17:14",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:42",
     "depot": {
         "228989": {
             "config": {
@@ -53,6 +53,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "0b8ce71d90ad6b7047857687787f198ca27cab2b8b63dbcbbb2ec1e78fd044df"
     }
 }
