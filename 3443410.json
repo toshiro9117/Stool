@@ -4,8 +4,8 @@
     "name": "The Brothers Hotel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915178",
-    "update_time": "2025-05-10 15:40:53",
+    "change_number": "29046209",
+    "update_time": "2025-05-18 13:15:06",
     "depot": {
         "hasdepotsindlc": "0",
         "228989": {
@@ -25,31 +25,27 @@
         "3443411": {
             "manifests": {
                 "public": {
-                    "gid": "5730775579085969753",
-                    "size": "9216589800",
-                    "download": "8878488064"
+                    "gid": "3527073632792764980",
+                    "size": "9217178617",
+                    "download": "8879016800"
                 }
             },
             "decryptionkey": "d988ad6faa06a48a6e0bda2191a324b04f213255c17b3d8d870475fb7b25321d"
         },
         "3443412": {
-            "dlcappid": "3735600",
             "manifests": {
                 "public": {
-                    "gid": "2528292928893439940",
-                    "size": "9216589800",
-                    "download": "8870315632"
+                    "gid": "8131783440312644575",
+                    "size": "9217172461",
+                    "download": "8871048144"
                 }
             },
             "decryptionkey": ""
         },
-        "3735600": {
-            "dlcappid": "3735600"
-        },
         "branches": {
             "public": {
-                "buildid": "18407975",
-                "timeupdated": "1746820056"
+                "buildid": "18436949",
+                "timeupdated": "1747095763"
             }
         },
         "privatebranches": "1"
