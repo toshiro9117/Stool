@@ -4,8 +4,8 @@
     "name": "Skelethrone: The Chronicles of Ericona",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28902503",
-    "update_time": "2025-05-09 21:22:34",
+    "change_number": "29047063",
+    "update_time": "2025-05-18 16:07:49",
     "depot": {
         "hasdepotsindlc": "1",
         "228988": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5781339404253830213",
-                    "size": "2196170561",
-                    "download": "1087516688"
+                    "gid": "4168862962924392470",
+                    "size": "2196170817",
+                    "download": "1087515120"
                 },
                 "old_1330": {
                     "gid": "5979056646231679553",
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3190042995051583535",
-                    "size": "2196087104",
-                    "download": "1087093088"
+                    "gid": "6740946476894241145",
+                    "size": "2196087232",
+                    "download": "1087093360"
                 },
                 "old_1330": {
                     "gid": "7398163600824821559",
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18402417",
-                "timeupdated": "1746796948"
+                "buildid": "18433110",
+                "timeupdated": "1747326094"
             },
             "old_1330": {
                 "buildid": "15524169",
