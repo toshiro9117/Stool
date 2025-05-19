@@ -4,8 +4,8 @@
     "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
     "schinese_name": "植物大战僵尸：花园战争2：豪华版",
     "isfreeapp": "0",
-    "change_number": "28830893",
-    "update_time": "2025-05-06 06:34:18",
+    "change_number": "28990979",
+    "update_time": "2025-05-15 06:46:32",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,polish,brazilian",
         "228984": {
@@ -32,9 +32,9 @@
         "1922561": {
             "manifests": {
                 "public": {
-                    "gid": "7070488967713694847",
-                    "size": "29373517255",
-                    "download": "20406761024"
+                    "gid": "6635172845499948619",
+                    "size": "29373019519",
+                    "download": "20405743328"
                 }
             },
             "decryptionkey": "1e43c639ac6e795304b48885b326acfcd86d6f53c39fd803abd36e6770742457"
@@ -156,8 +156,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13534077",
-                "timeupdated": "1709836711"
+                "buildid": "18148967",
+                "timeupdated": "1747155621"
             }
         },
         "privatebranches": "1"
