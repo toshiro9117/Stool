@@ -4,8 +4,8 @@
     "name": "Mortal Sin",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28907226",
-    "update_time": "2025-05-10 01:54:31",
+    "change_number": "29047541",
+    "update_time": "2025-05-18 17:32:43",
     "depot": {
         "1494811": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "1014399888"
                 },
                 "beta": {
-                    "gid": "418377360569194419",
-                    "size": "2341604121",
-                    "download": "1014434528"
+                    "gid": "7485947877695999520",
+                    "size": "2458108477",
+                    "download": "1079027488"
                 }
             },
             "decryptionkey": "0a511e83da83f4164929f78b0220da9474d343cbf334e814f37b5731de7196be"
@@ -28,9 +28,9 @@
                 "timeupdated": "1746813267"
             },
             "beta": {
-                "buildid": "18259558",
+                "buildid": "18507847",
                 "description": "Experimental beta branch",
-                "timeupdated": "1746811970"
+                "timeupdated": "1747560760"
             }
         }
     }
