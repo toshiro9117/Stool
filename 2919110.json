@@ -4,8 +4,8 @@
     "name": "Shallow Sea Roaming",
     "schinese_name": "浅海漫游",
     "isfreeapp": "0",
-    "change_number": "28851054",
-    "update_time": "2025-05-07 07:12:40",
+    "change_number": "29040133",
+    "update_time": "2025-05-17 21:06:28",
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,18 @@
         "2919111": {
             "manifests": {
                 "public": {
-                    "gid": "7199559687922404053",
-                    "size": "9240658178",
-                    "download": "8572311328"
+                    "gid": "1607195703785773229",
+                    "size": "10093521697",
+                    "download": "9698311760"
                 }
             },
             "decryptionkey": "0a84b23baf8bc149458f59b63900e7709e308159a117a354f051c3a6ec041b3a"
         },
-        "baselanguages": "english,german,french,schinese,russian,japanese",
+        "baselanguages": "english,german,french,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "16961915",
-                "timeupdated": "1736520020"
+                "buildid": "18502671",
+                "timeupdated": "1747487184"
             }
         }
     }
