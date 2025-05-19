@@ -4,8 +4,8 @@
     "name": "Fast Royal",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28703490",
-    "update_time": "2025-04-28 17:54:44",
+    "change_number": "29001442",
+    "update_time": "2025-05-15 19:53:50",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3705236844487240526",
-                    "size": "5334376347",
-                    "download": "3460054096"
+                    "gid": "4309472906732295793",
+                    "size": "5365099975",
+                    "download": "3490795408"
                 }
             },
             "decryptionkey": "755750c6f420813d62d6ce3b4035eb1643c235c70c4e386f1cbb0f7941bee39b"
         },
         "branches": {
             "public": {
-                "buildid": "18226960",
-                "timeupdated": "1745565690"
+                "buildid": "18474745",
+                "timeupdated": "1747310027"
             }
         }
     }
