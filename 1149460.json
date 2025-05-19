@@ -4,8 +4,8 @@
     "name": "Icarus",
     "schinese_name": "翼星求生 ICARUS",
     "isfreeapp": "0",
-    "change_number": "28894378",
-    "update_time": "2025-05-09 11:26:14",
+    "change_number": "29015680",
+    "update_time": "2025-05-16 11:02:22",
     "depot": {
         "228988": {
             "config": {
@@ -24,27 +24,27 @@
         "1149461": {
             "manifests": {
                 "public": {
-                    "gid": "3092140693489230354",
-                    "size": "44034427464",
-                    "download": "35098816944"
+                    "gid": "7319475224950298252",
+                    "size": "44194112551",
+                    "download": "35202196416"
                 },
                 "experimental": {
-                    "gid": "3092140693489230354",
-                    "size": "44034427464",
-                    "download": "35098816944"
+                    "gid": "7319475224950298252",
+                    "size": "44194112551",
+                    "download": "35202196416"
                 }
             },
             "decryptionkey": "c71fc47ef9e1e718df06677c0d6cf06fc0f01145d8481e0db444a26eed261296"
         },
         "branches": {
             "public": {
-                "buildid": "18355252",
-                "timeupdated": "1746761170"
+                "buildid": "18457210",
+                "timeupdated": "1747364539"
             },
             "experimental": {
-                "buildid": "18355252",
+                "buildid": "18457210",
                 "description": "Predeployment Testing",
-                "timeupdated": "1746548334"
+                "timeupdated": "1747219514"
             }
         },
         "privatebranches": "1"
