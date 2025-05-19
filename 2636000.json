@@ -4,8 +4,8 @@
     "name": "House of Lost Souls",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916854",
-    "update_time": "2025-05-10 20:09:22",
+    "change_number": "29040005",
+    "update_time": "2025-05-17 20:47:53",
     "depot": {
         "228989": {
             "config": {
@@ -45,17 +45,17 @@
         "2636001": {
             "manifests": {
                 "public": {
-                    "gid": "1974924992633691318",
-                    "size": "6023059624",
-                    "download": "5772160448"
+                    "gid": "1019055324861212828",
+                    "size": "6023040700",
+                    "download": "5784852896"
                 }
             },
             "decryptionkey": "175d3f32c7592f8b6863123ce1eee8703a1496a7496ee758d41e28cc0e891ad0"
         },
         "branches": {
             "public": {
-                "buildid": "18414039",
-                "timeupdated": "1746878957"
+                "buildid": "18502627",
+                "timeupdated": "1747486068"
             }
         },
         "privatebranches": "1"
