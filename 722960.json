@@ -4,8 +4,8 @@
     "name": "CASE 2: Animatronics Survival",
     "schinese_name": "悬案2：动物生存 ",
     "isfreeapp": "0",
-    "change_number": "28917677",
-    "update_time": "2025-05-10 22:16:44",
+    "change_number": "29045319",
+    "update_time": "2025-05-18 09:58:23",
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -66,8 +66,7 @@
             "config": {
                 "oslist": "windows",
                 "osarch": "64"
-            },
-            "manifests": {}
+            }
         },
         "branches": {
             "public": {
