@@ -4,24 +4,25 @@
     "name": "Piranha Feeding",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28823123",
-    "update_time": "2025-05-05 21:39:49",
+    "change_number": "29037708",
+    "update_time": "2025-05-17 15:25:17",
     "depot": {
         "2762611": {
             "manifests": {
                 "public": {
-                    "gid": "7079168566285531419",
-                    "size": "204576525",
-                    "download": "70622480"
+                    "gid": "3546806894508823474",
+                    "size": "205188454",
+                    "download": "71720320"
                 }
             },
             "decryptionkey": "ad491f571b39b81615e5ad6d73e0b0cb415168f0e542b8222df27a189b23557d"
         },
         "branches": {
             "public": {
-                "buildid": "18346799",
-                "timeupdated": "1746452383"
+                "buildid": "18501022",
+                "timeupdated": "1747466713"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
