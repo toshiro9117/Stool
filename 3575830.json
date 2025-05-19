@@ -4,15 +4,15 @@
     "name": "三国志汉末霸业-英雄的黎明",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28524078",
-    "update_time": "2025-04-17 15:48:56",
+    "change_number": "28951082",
+    "update_time": "2025-05-13 09:40:44",
     "depot": {
         "3575831": {
             "manifests": {
                 "public": {
-                    "gid": "7371224586513664263",
-                    "size": "79962918",
-                    "download": "36730688"
+                    "gid": "2400786689983187884",
+                    "size": "80024316",
+                    "download": "36740464"
                 }
             },
             "dlcappid": "3575830",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18140521",
-                "timeupdated": "1744876132"
+                "buildid": "18437536",
+                "timeupdated": "1747100440"
             }
         }
     }
