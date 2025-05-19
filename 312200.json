@@ -4,8 +4,8 @@
     "name": "Chasm",
     "schinese_name": "深渊矿坑",
     "isfreeapp": "0",
-    "change_number": "28771969",
-    "update_time": "2025-05-02 00:57:48",
+    "change_number": "29025684",
+    "update_time": "2025-05-16 22:00:15",
     "depot": {
         "228990": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6179024252824745188",
-                    "size": "911018005",
-                    "download": "523747568"
+                    "gid": "8749412130000578926",
+                    "size": "912501063",
+                    "download": "524182688"
                 },
                 "alpha2015": {
                     "gid": "7279030483084572549",
@@ -38,14 +38,14 @@
                     "download": "88184800"
                 },
                 "default_previous": {
-                    "gid": "5880299922618280414",
-                    "size": "909848791",
-                    "download": "523500720"
+                    "gid": "6179024252824745188",
+                    "size": "911018005",
+                    "download": "523747568"
                 },
                 "test_branch": {
-                    "gid": "1650996821370361896",
-                    "size": "912487433",
-                    "download": "524180048"
+                    "gid": "8749412130000578926",
+                    "size": "912501063",
+                    "download": "524182688"
                 }
             },
             "decryptionkey": "c140804a963f7b0a7211923ea963c92f2c0ae36957f00588c90c067b58ed146c"
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6524806414975889296",
-                    "size": "937875847",
-                    "download": "531592080"
+                    "gid": "8488092534200519881",
+                    "size": "940159409",
+                    "download": "532263552"
                 },
                 "alpha2015": {
                     "gid": "7136429931710833455",
@@ -66,14 +66,14 @@
                     "download": "104414752"
                 },
                 "default_previous": {
-                    "gid": "9056769599886759682",
-                    "size": "936776381",
-                    "download": "531346464"
+                    "gid": "6524806414975889296",
+                    "size": "937875847",
+                    "download": "531592080"
                 },
                 "test_branch": {
-                    "gid": "7552243092168689668",
-                    "size": "940132955",
-                    "download": "532254560"
+                    "gid": "8488092534200519881",
+                    "size": "940159409",
+                    "download": "532263552"
                 }
             },
             "decryptionkey": "86b7d6c78eef2a3622d4a46cf34dcb40140484ad6f81865e33c017ed1edf83c8"
@@ -84,9 +84,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2948632868348873918",
-                    "size": "951946068",
-                    "download": "534564800"
+                    "gid": "1954423603609555634",
+                    "size": "943235870",
+                    "download": "532882256"
                 },
                 "alpha2015": {
                     "gid": "8773668514636853196",
@@ -94,14 +94,14 @@
                     "download": "96093552"
                 },
                 "default_previous": {
-                    "gid": "4439705472343695376",
-                    "size": "950796046",
-                    "download": "534301584"
+                    "gid": "2948632868348873918",
+                    "size": "951946068",
+                    "download": "534564800"
                 },
                 "test_branch": {
-                    "gid": "2745224997019521924",
-                    "size": "943221520",
-                    "download": "532881232"
+                    "gid": "1954423603609555634",
+                    "size": "943235870",
+                    "download": "532882256"
                 }
             },
             "decryptionkey": "4e0908b76debb249c97043810474e0e2145ee9276ce8ff9f0b9bff7bf808f230"
@@ -109,8 +109,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "16446729",
-                "timeupdated": "1731948099"
+                "buildid": "18492298",
+                "timeupdated": "1747403897"
             },
             "alpha2015": {
                 "buildid": "521285",
@@ -118,14 +118,14 @@
                 "timeupdated": "1532196570"
             },
             "default_previous": {
-                "buildid": "13101691",
+                "buildid": "16446729",
                 "description": "Last build before current",
-                "timeupdated": "1727283376"
+                "timeupdated": "1747084817"
             },
             "test_branch": {
-                "buildid": "18311587",
+                "buildid": "18492298",
                 "description": "Public testing for upcoming releases",
-                "timeupdated": "1746118660"
+                "timeupdated": "1747404009"
             }
         },
         "privatebranches": "1"
