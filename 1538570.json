@@ -4,8 +4,8 @@
     "name": "Patron",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27117605",
-    "update_time": "2025-01-23 03:00:02",
+    "change_number": "29010842",
+    "update_time": "2025-05-16 04:16:00",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian",
         "hasdepotsindlc": "1",
@@ -26,9 +26,9 @@
         "1538571": {
             "manifests": {
                 "public": {
-                    "gid": "112819328019118055",
-                    "size": "4738162872",
-                    "download": "1894891648"
+                    "gid": "3024176441059391320",
+                    "size": "4797324410",
+                    "download": "1911311536"
                 },
                 "win7": {
                     "gid": "5108804697179468294",
@@ -36,9 +36,9 @@
                     "download": "1769523552"
                 },
                 "open_beta": {
-                    "gid": "112819328019118055",
-                    "size": "4738162872",
-                    "download": "1894891648"
+                    "gid": "3024176441059391320",
+                    "size": "4797324410",
+                    "download": "1911311536"
                 }
             },
             "decryptionkey": "0ae219a61f9fab330d2a42b1b7fb8475dca66ce9948d297861b4dd5125c6c6ee"
@@ -89,12 +89,12 @@
             "dlcappid": "2473520",
             "manifests": {
                 "public": {
-                    "gid": "1337595862085084242",
+                    "gid": "5401941456935809675",
                     "size": "0",
                     "download": "0"
                 },
                 "open_beta": {
-                    "gid": "1337595862085084242",
+                    "gid": "5401941456935809675",
                     "size": "0",
                     "download": "0"
                 }
@@ -103,8 +103,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15110823",
-                "timeupdated": "1721725078"
+                "buildid": "18465110",
+                "timeupdated": "1747248564"
             },
             "win7": {
                 "buildid": "10629915",
@@ -112,9 +112,9 @@
                 "timeupdated": "1682425857"
             },
             "open_beta": {
-                "buildid": "15110823",
+                "buildid": "18465110",
                 "description": "Public beta branch that receives updates before they are released in general",
-                "timeupdated": "1721725048"
+                "timeupdated": "1747248593"
             }
         },
         "privatebranches": "1"
