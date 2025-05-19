@@ -4,8 +4,8 @@
     "name": "V Rising Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28902340",
-    "update_time": "2025-05-09 21:12:29",
+    "change_number": "29040224",
+    "update_time": "2025-05-17 21:20:20",
     "depot": {
         "1004": {
             "config": {
@@ -52,14 +52,14 @@
         "1829351": {
             "manifests": {
                 "public": {
-                    "gid": "9068068474146241333",
-                    "size": "1949523767",
-                    "download": "225700864"
+                    "gid": "237583526919786927",
+                    "size": "1949592838",
+                    "download": "225901952"
                 },
                 "ce-1": {
-                    "gid": "3644169525533981207",
-                    "size": "1949471587",
-                    "download": "225750816"
+                    "gid": "4164197182598560859",
+                    "size": "1949212940",
+                    "download": "225213072"
                 },
                 "legacy-0.5.x": {
                     "gid": "6425872806400860839",
@@ -86,13 +86,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18398847",
-                "timeupdated": "1746796312"
+                "buildid": "18492224",
+                "timeupdated": "1747406430"
             },
             "ce-1": {
-                "buildid": "18398869",
+                "buildid": "18492313",
                 "description": "...",
-                "timeupdated": "1746796342"
+                "timeupdated": "1747406495"
             },
             "legacy-0.5.x": {
                 "buildid": "10409337",
