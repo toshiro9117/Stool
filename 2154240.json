@@ -4,8 +4,8 @@
     "name": "Odinfall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28783530",
-    "update_time": "2025-05-02 18:15:13",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:46",
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6806710014668449548",
-                    "size": "771719891",
-                    "download": "639121488"
+                    "gid": "3850790122005314644",
+                    "size": "795983857",
+                    "download": "656738224"
                 },
                 "experimental": {
                     "gid": "5789766559071656991",
@@ -39,8 +39,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18193462",
-                "timeupdated": "1745500974"
+                "buildid": "18476008",
+                "timeupdated": "1747323945"
             },
             "experimental": {
                 "buildid": "18293753",
