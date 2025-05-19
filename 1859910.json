@@ -4,8 +4,8 @@
     "name": "活俠傳",
     "schinese_name": "活侠传",
     "isfreeapp": "0",
-    "change_number": "28904202",
-    "update_time": "2025-05-09 23:04:09",
+    "change_number": "29008684",
+    "update_time": "2025-05-16 01:57:16",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "tchinese",
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6105506971929124660",
-                    "size": "1855477404",
-                    "download": "768955312"
+                    "gid": "6577374781954490164",
+                    "size": "1855696020",
+                    "download": "769052448"
                 }
             },
             "decryptionkey": "015b5360486d0725e48b73d3393cd31c90b11b916f093b088bd1e64b6b59d262"
         },
         "branches": {
             "public": {
-                "buildid": "18404963",
-                "timeupdated": "1746803044"
+                "buildid": "18480148",
+                "timeupdated": "1747331831"
             }
         },
         "privatebranches": "1"
