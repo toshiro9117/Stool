@@ -4,8 +4,8 @@
     "name": "Tourist Bus Simulator",
     "schinese_name": "旅游巴士模拟",
     "isfreeapp": "0",
-    "change_number": "28922458",
-    "update_time": "2025-05-11 11:09:50",
+    "change_number": "29045623",
+    "update_time": "2025-05-18 10:56:22",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,brazilian",
         "workshopdepot": "953580",
@@ -34,9 +34,9 @@
                     "download": "22656814112"
                 },
                 "local": {
-                    "gid": "2343425689405591003",
-                    "size": "27063467117",
-                    "download": "22340644576"
+                    "gid": "3755588153936927180",
+                    "size": "26955225945",
+                    "download": "22228139152"
                 },
                 "previousversion": {
                     "gid": "8317958934215622199",
@@ -370,9 +370,9 @@
                     "download": "153372336"
                 },
                 "local": {
-                    "gid": "1212474756500739759",
-                    "size": "180808462",
-                    "download": "153370944"
+                    "gid": "1256808154885703266",
+                    "size": "180808454",
+                    "download": "153367312"
                 }
             },
             "decryptionkey": "ada5ac12a67ebd1ad59fb2d2268ab7020c53aebf5107c91829620c5f9f329a2a"
@@ -391,9 +391,9 @@
                     "download": "149496768"
                 },
                 "local": {
-                    "gid": "3429763601063891311",
-                    "size": "175547082",
-                    "download": "149504656"
+                    "gid": "5313542092323267040",
+                    "size": "175547074",
+                    "download": "149501024"
                 }
             },
             "decryptionkey": "235ff4e195531d1614867902d5825e994f13fa9b67e82626e67686b4d20c330c"
@@ -412,9 +412,9 @@
                     "download": "148999712"
                 },
                 "local": {
-                    "gid": "8265234035536084335",
-                    "size": "175546978",
-                    "download": "149007376"
+                    "gid": "8357566733031105767",
+                    "size": "175546970",
+                    "download": "149003776"
                 }
             },
             "decryptionkey": "196247529527339b4a0f5d6675369fb72408e1f26bc8049ed6809ffb25b12c2a"
@@ -433,7 +433,7 @@
                     "download": "83252064"
                 },
                 "local": {
-                    "gid": "7991918610876393126",
+                    "gid": "7206421746825251763",
                     "size": "97221594",
                     "download": "83267632"
                 }
@@ -453,7 +453,7 @@
                     "download": "89534160"
                 },
                 "local": {
-                    "gid": "3305966738365699442",
+                    "gid": "6227766873484857977",
                     "size": "102433593",
                     "download": "89546224"
                 }
@@ -473,9 +473,9 @@
                     "download": "87817104"
                 },
                 "local": {
-                    "gid": "5841399563038887046",
+                    "gid": "6614442559067236977",
                     "size": "105476945",
-                    "download": "88055824"
+                    "download": "88055920"
                 }
             },
             "decryptionkey": "169c6ec413903a9efe4b281b6c17e80ce076d8f1b6e19053351649aa8560380e"
@@ -494,10 +494,10 @@
                 "timeupdated": "1742311209"
             },
             "local": {
-                "buildid": "18417745",
+                "buildid": "18506382",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1746932159"
+                "timeupdated": "1747536166"
             },
             "previousversion": {
                 "buildid": "7519665",
