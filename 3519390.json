@@ -4,23 +4,23 @@
     "name": "Wreckfest 2 Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28430144",
-    "update_time": "2025-04-11 21:46:51",
+    "change_number": "29026419",
+    "update_time": "2025-05-16 22:35:49",
     "depot": {
         "3519391": {
             "manifests": {
                 "public": {
-                    "gid": "19622275608905852",
-                    "size": "917032043",
-                    "download": "531403664"
+                    "gid": "1372421919045833045",
+                    "size": "1167897392",
+                    "download": "694115696"
                 }
             },
             "decryptionkey": "20022fdb59f665dbfc5e7de9b00bf36130ea6398a8b3b2d13e6dbf55b3f562cb"
         },
         "branches": {
             "public": {
-                "buildid": "18057682",
-                "timeupdated": "1744379203"
+                "buildid": "18491108",
+                "timeupdated": "1747406145"
             }
         },
         "privatebranches": "1"
