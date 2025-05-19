@@ -4,8 +4,8 @@
     "name": "REAL WEB LEGENDS: Carter's Quest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28359616",
-    "update_time": "2025-04-08 14:17:14",
+    "change_number": "28986387",
+    "update_time": "2025-05-15 01:29:52",
     "depot": {
         "2409111": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4416829703605863473",
-                    "size": "1174375306",
-                    "download": "427926048"
+                    "gid": "2682009598350069007",
+                    "size": "1196946349",
+                    "download": "436207072"
                 },
                 "previous-version": {
                     "gid": "6196098177294031288",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17955271",
-                "timeupdated": "1743600112"
+                "buildid": "18464187",
+                "timeupdated": "1747243788"
             },
             "previous-version": {
                 "buildid": "16912636",
