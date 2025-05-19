@@ -4,8 +4,8 @@
     "name": "The Last Spell",
     "schinese_name": "最后的咒语",
     "isfreeapp": "0",
-    "change_number": "28863074",
-    "update_time": "2025-05-07 22:06:45",
+    "change_number": "28984162",
+    "update_time": "2025-05-14 23:33:16",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8788217798741504861",
-                    "size": "6369927708",
-                    "download": "1241957968"
+                    "gid": "6527898615043168026",
+                    "size": "6369930780",
+                    "download": "1241960240"
                 },
                 "previous_version": {
                     "gid": "1730752164786694685",
@@ -65,8 +65,8 @@
         "workshopdepot": "1105670",
         "branches": {
             "public": {
-                "buildid": "18372658",
-                "timeupdated": "1746626800"
+                "buildid": "18457830",
+                "timeupdated": "1747230721"
             },
             "previous_version": {
                 "buildid": "9968252",
