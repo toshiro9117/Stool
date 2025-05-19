@@ -4,8 +4,8 @@
     "name": "DanceXR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28748110",
-    "update_time": "2025-04-30 19:49:16",
+    "change_number": "29005049",
+    "update_time": "2025-05-15 22:54:51",
     "depot": {
         "1905511": {
             "config": {
@@ -118,9 +118,9 @@
                     "download": "454767696"
                 },
                 "beta": {
-                    "gid": "4121377297625129891",
-                    "size": "741507256",
-                    "download": "451631984"
+                    "gid": "9086892738183314648",
+                    "size": "743070952",
+                    "download": "452240160"
                 }
             },
             "decryptionkey": "079f4d3fd40c87f7df89090998e68b65ec12423b05c6a306bbf87428f4c54463"
@@ -237,9 +237,9 @@
                     "download": "555697552"
                 },
                 "beta": {
-                    "gid": "5612856738876850364",
-                    "size": "1055361755",
-                    "download": "565801616"
+                    "gid": "1979395895368883949",
+                    "size": "1071967164",
+                    "download": "567416944"
                 }
             },
             "decryptionkey": ""
@@ -316,9 +316,9 @@
                     "download": "285308720"
                 },
                 "beta": {
-                    "gid": "151643088690645681",
-                    "size": "509436275",
-                    "download": "285375856"
+                    "gid": "8860289919290524294",
+                    "size": "520246931",
+                    "download": "290395456"
                 }
             },
             "decryptionkey": ""
@@ -430,9 +430,9 @@
                 "timeupdated": "1743289249"
             },
             "beta": {
-                "buildid": "18165393",
+                "buildid": "18477897",
                 "description": "Public beta release",
-                "timeupdated": "1745045293"
+                "timeupdated": "1747320885"
             }
         },
         "privatebranches": "1"
