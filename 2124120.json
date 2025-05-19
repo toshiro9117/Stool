@@ -4,8 +4,8 @@
     "name": "SULFUR",
     "schinese_name": "火湖",
     "isfreeapp": "0",
-    "change_number": "28906611",
-    "update_time": "2025-05-10 01:15:04",
+    "change_number": "29041725",
+    "update_time": "2025-05-18 00:32:16",
     "depot": {
         "2124121": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6450013624638993882",
-                    "size": "954014384",
-                    "download": "564407680"
+                    "gid": "5602674521060169022",
+                    "size": "1133750841",
+                    "download": "696512416"
                 }
             },
             "decryptionkey": "5a0438ea06459ea27a8da1e417a22ffeee9793b472712d0a2a86179b4554bf36"
         },
         "branches": {
             "public": {
-                "buildid": "17929083",
-                "timeupdated": "1743447568"
+                "buildid": "18503698",
+                "timeupdated": "1747499533"
             }
         },
         "privatebranches": "1"
