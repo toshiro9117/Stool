@@ -4,8 +4,8 @@
     "name": "Assetto Corsa EVO",
     "schinese_name": "《神力科莎EVO》  Assetto Corsa EVO",
     "isfreeapp": "0",
-    "change_number": "28902654",
-    "update_time": "2025-05-09 21:32:18",
+    "change_number": "29027045",
+    "update_time": "2025-05-16 23:08:13",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3058631": {
             "manifests": {
                 "public": {
-                    "gid": "1519439666820590584",
-                    "size": "48872096702",
-                    "download": "17065753328"
+                    "gid": "8620465260000561913",
+                    "size": "48871398846",
+                    "download": "17077337344"
                 }
             },
             "decryptionkey": "a1cad1917f05e96692b066b5817fe026027823640d231576885a1f0dfe554a6e"
         },
         "branches": {
             "public": {
-                "buildid": "18359872",
-                "timeupdated": "1746626094"
+                "buildid": "18472395",
+                "timeupdated": "1747317507"
             }
         },
         "privatebranches": "1"
