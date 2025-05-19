@@ -4,8 +4,8 @@
     "name": "Real Shoot",
     "schinese_name": "真实射击",
     "isfreeapp": "0",
-    "change_number": "28842376",
-    "update_time": "2025-05-06 21:31:48",
+    "change_number": "29019948",
+    "update_time": "2025-05-16 16:36:33",
     "depot": {
         "228989": {
             "config": {
@@ -32,17 +32,17 @@
         "2668911": {
             "manifests": {
                 "public": {
-                    "gid": "487171608538898677",
-                    "size": "48168868729",
-                    "download": "44882428096"
+                    "gid": "62310250297681566",
+                    "size": "41685766041",
+                    "download": "40656962736"
                 }
             },
             "decryptionkey": "7af8795092286b0e0325fdb4eb350b82637fac1049a3ca19ba2080364c75f4ce"
         },
         "branches": {
             "public": {
-                "buildid": "18292957",
-                "timeupdated": "1746004256"
+                "buildid": "18487446",
+                "timeupdated": "1747381138"
             }
         }
     }
