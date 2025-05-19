@@ -4,8 +4,8 @@
     "name": "Little Sim World",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922665",
-    "update_time": "2025-05-11 12:02:20",
+    "change_number": "29035192",
+    "update_time": "2025-05-17 09:12:50",
     "depot": {
         "baselanguages": "english",
         "1429881": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4579997729989198387",
-                    "size": "3874595701",
-                    "download": "948376768"
+                    "gid": "655872888942804820",
+                    "size": "1213908630",
+                    "download": "803758928"
                 },
                 "beta": {
-                    "gid": "4579997729989198387",
-                    "size": "3874595701",
-                    "download": "948376768"
+                    "gid": "655872888942804820",
+                    "size": "1213908630",
+                    "download": "803758928"
                 }
             },
             "decryptionkey": "3faa97d2844a3dbe09fc697d4a781583446c83202f4ef4129091ba7c261426ff"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8871089002589149225",
-                    "size": "1173558622",
-                    "download": "794151152"
+                    "gid": "5352853896510948538",
+                    "size": "1183095181",
+                    "download": "799409440"
                 },
                 "beta": {
-                    "gid": "8871089002589149225",
-                    "size": "1173558622",
-                    "download": "794151152"
+                    "gid": "5352853896510948538",
+                    "size": "1183095181",
+                    "download": "799409440"
                 }
             }
         },
@@ -49,27 +49,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6275537466045153704",
-                    "size": "3742547563",
-                    "download": "745195984"
+                    "gid": "3078931039687746601",
+                    "size": "3855701044",
+                    "download": "749641792"
                 },
                 "beta": {
-                    "gid": "6275537466045153704",
-                    "size": "3742547563",
-                    "download": "745195984"
+                    "gid": "3078931039687746601",
+                    "size": "3855701044",
+                    "download": "749641792"
                 }
             }
         },
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18414593",
-                "timeupdated": "1746886855"
+                "buildid": "18498320",
+                "timeupdated": "1747437859"
             },
             "beta": {
-                "buildid": "18414593",
+                "buildid": "18498320",
                 "description": "Public beta branch",
-                "timeupdated": "1746886843"
+                "timeupdated": "1747437839"
             }
         },
         "privatebranches": "1"
