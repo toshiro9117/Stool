@@ -4,8 +4,8 @@
     "name": "Xenonauts 2 Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28863439",
-    "update_time": "2025-05-07 22:24:51",
+    "change_number": "29032144",
+    "update_time": "2025-05-17 04:18:20",
     "depot": {
         "1326031": {
             "manifests": {
@@ -20,9 +20,9 @@
         "538031": {
             "manifests": {
                 "public": {
-                    "gid": "6840229592416754352",
-                    "size": "6136635871",
-                    "download": "4558241792"
+                    "gid": "8851209392358043941",
+                    "size": "6138860106",
+                    "download": "4558804672"
                 }
             },
             "depotfromapp": "538030",
