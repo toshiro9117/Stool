@@ -4,8 +4,8 @@
     "name": "We Who Are About To Die",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27158991",
-    "update_time": "2025-01-25 09:21:23",
+    "change_number": "28987364",
+    "update_time": "2025-05-15 02:27:37",
     "depot": {
         "228985": {
             "config": {
@@ -61,6 +61,7 @@
             },
             "decryptionkey": "271e9950bea175b078726d4129a7070f696d4984c6a51f54a427bf86fc24cd75"
         },
+        "workshopdepot": "973230",
         "branches": {
             "public": {
                 "buildid": "16830001",
@@ -72,6 +73,7 @@
                 "timeupdated": "1734894455"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
     }
 }
