@@ -4,8 +4,8 @@
     "name": "PAYDAY 2",
     "schinese_name": "收获日2",
     "isfreeapp": "0",
-    "change_number": "27807365",
-    "update_time": "2025-03-06 11:47:03",
+    "change_number": "28981114",
+    "update_time": "2025-05-14 22:47:44",
     "depot": {
         "depotdeltapatches": "1",
         "preloadonly": "1",
@@ -402,6 +402,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b005cdff158b60e65c0c26498b91d145f8e68cfc09c793ba62716d87c1a4369e"
     }
 }
