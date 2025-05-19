@@ -4,8 +4,8 @@
     "name": "Nova Drift",
     "schinese_name": "新星漂移 Nova Drift",
     "isfreeapp": "0",
-    "change_number": "28863771",
-    "update_time": "2025-05-07 22:44:04",
+    "change_number": "29032116",
+    "update_time": "2025-05-17 04:16:01",
     "depot": {
         "858211": {
             "config": {
@@ -28,9 +28,9 @@
                     "download": "165879664"
                 },
                 "beta": {
-                    "gid": "1798409630902175656",
-                    "size": "826746430",
-                    "download": "362039952"
+                    "gid": "3966073486591605774",
+                    "size": "826779987",
+                    "download": "362051680"
                 }
             },
             "decryptionkey": "58e0679d07528daeb35c94909da808aae291b0fe82ed12acb7a36e5184996211"
@@ -78,9 +78,9 @@
                 "timeupdated": "1644493857"
             },
             "beta": {
-                "buildid": "18375591",
+                "buildid": "18465554",
                 "description": "Open beta testing",
-                "timeupdated": "1746629038"
+                "timeupdated": "1747250799"
             }
         },
         "privatebranches": "1"
