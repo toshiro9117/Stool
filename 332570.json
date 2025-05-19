@@ -4,8 +4,8 @@
     "name": "Amazing Frog?",
     "schinese_name": "神奇青蛙",
     "isfreeapp": "0",
-    "change_number": "28802562",
-    "update_time": "2025-05-04 02:12:07",
+    "change_number": "29027231",
+    "update_time": "2025-05-16 23:17:54",
     "depot": {
         "332571": {
             "manifests": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6709452440694106353",
-                    "size": "3791534656",
-                    "download": "1191091360"
+                    "gid": "4939773282211970225",
+                    "size": "3794751290",
+                    "download": "1192593536"
                 },
                 "legacy": {
                     "gid": "7732378143671168643",
@@ -104,8 +104,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18175996",
-                "timeupdated": "1745198186"
+                "buildid": "18333375",
+                "timeupdated": "1747408670"
             },
             "legacy": {
                 "buildid": "12516172",
