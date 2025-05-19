@@ -4,8 +4,8 @@
     "name": "Motor Town: Behind The Wheel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28880323",
-    "update_time": "2025-05-08 19:02:21",
+    "change_number": "29040826",
+    "update_time": "2025-05-17 22:35:39",
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3574271450206024881",
-                    "size": "3359979345",
-                    "download": "2999025152"
+                    "gid": "2387756181552268087",
+                    "size": "3360001361",
+                    "download": "2999038336"
                 },
                 "temp-ue4-0.6.20": {
                     "gid": "8505833231573759861",
@@ -39,17 +39,17 @@
                     "download": "1358268288"
                 },
                 "test": {
-                    "gid": "3574271450206024881",
-                    "size": "3359979345",
-                    "download": "2999025152"
+                    "gid": "2387756181552268087",
+                    "size": "3360001361",
+                    "download": "2999038336"
                 }
             },
             "decryptionkey": "2997d5be0b53d13cde83335f41136a55c7198a843f319a2e9e3667ef228a1aed"
         },
         "branches": {
             "public": {
-                "buildid": "18280529",
-                "timeupdated": "1745944259"
+                "buildid": "18502709",
+                "timeupdated": "1747492536"
             },
             "temp-ue4-0.6.20": {
                 "buildid": "11900954",
@@ -57,9 +57,9 @@
                 "timeupdated": "1699583548"
             },
             "test": {
-                "buildid": "18280529",
+                "buildid": "18502709",
                 "description": "For tester who want to play next update before others\t",
-                "timeupdated": "1745932690"
+                "timeupdated": "1747487874"
             }
         },
         "privatebranches": "1"
