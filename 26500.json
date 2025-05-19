@@ -4,8 +4,8 @@
     "name": "Cogs",
     "schinese_name": "奇想齿轮",
     "isfreeapp": "0",
-    "change_number": "24483107",
-    "update_time": "2024-09-02 09:04:06",
+    "change_number": "29031249",
+    "update_time": "2025-05-17 03:14:06",
     "depot": {
         "26512": {
             "config": {
@@ -14,9 +14,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "202099360660011029",
-                    "size": "319885386",
-                    "download": "80738192"
+                    "gid": "8870579729926960244",
+                    "size": "164591066",
+                    "download": "60969312"
                 }
             },
             "decryptionkey": "5cc915db93740c53af693a9d28eba074ca7564a348d0a6a9f257e740feac58fd"
@@ -28,9 +28,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "4044806180746346251",
-                    "size": "81802216",
-                    "download": "0"
+                    "gid": "5984033106865790069",
+                    "size": "147616665",
+                    "download": "53788272"
                 }
             },
             "decryptionkey": "a44e54cd53463e7f88a8cba6786f05174f2b940d2df3daa031f838f91642ead6"
@@ -192,7 +192,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "520455"
+                "buildid": "18482307",
+                "timeupdated": "1747343684"
             }
         },
         "privatebranches": "1"
