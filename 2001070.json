@@ -4,20 +4,20 @@
     "name": "Heart of the Machine",
     "schinese_name": "人工智能的选择 Heart of the Machine",
     "isfreeapp": "0",
-    "change_number": "28908758",
-    "update_time": "2025-05-10 03:42:11",
+    "change_number": "29043431",
+    "update_time": "2025-05-18 04:34:33",
     "depot": {
         "2001071": {
             "manifests": {
                 "public": {
-                    "gid": "3813764039248568534",
-                    "size": "146524437",
-                    "download": "79809888"
+                    "gid": "3939511410636571594",
+                    "size": "146674479",
+                    "download": "79829520"
                 },
                 "older_but_stable": {
-                    "gid": "386856967162268376",
-                    "size": "145413427",
-                    "download": "79225008"
+                    "gid": "3958192158275862030",
+                    "size": "146573746",
+                    "download": "79818192"
                 }
             },
             "decryptionkey": "1a1bb30e75dac9319e59c05cd2cf671bd58d69622641a320a63a2bd9665ce7a4"
@@ -25,14 +25,14 @@
         "2001072": {
             "manifests": {
                 "public": {
+                    "gid": "8360663165675667579",
+                    "size": "315548640",
+                    "download": "81761056"
+                },
+                "older_but_stable": {
                     "gid": "5671723295650176079",
                     "size": "315547104",
                     "download": "81761104"
-                },
-                "older_but_stable": {
-                    "gid": "6814715204784163009",
-                    "size": "315542496",
-                    "download": "81759600"
                 }
             },
             "decryptionkey": "d99c074ccbebc30d9fd3c7e65ee1025c781f28985577c017a291b232cd65f927"
@@ -43,14 +43,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5097541098423699203",
-                    "size": "3557822983",
-                    "download": "1716349312"
+                    "gid": "2184886233357678837",
+                    "size": "3557532679",
+                    "download": "1716355376"
                 },
                 "older_but_stable": {
-                    "gid": "6751484518849162882",
-                    "size": "3557791267",
-                    "download": "1715997088"
+                    "gid": "863838001777744789",
+                    "size": "3557514247",
+                    "download": "1716353968"
                 }
             },
             "decryptionkey": "dfdd7b00971120c31672747d712438f1195956496423bc46bf525178e8924d34"
@@ -61,26 +61,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8647310544186813526",
-                    "size": "3753081823",
-                    "download": "1743794672"
+                    "gid": "5946871204557024416",
+                    "size": "3752791519",
+                    "download": "1743798624"
                 },
                 "older_but_stable": {
-                    "gid": "4907296056156136717",
-                    "size": "3753050107",
-                    "download": "1743440032"
+                    "gid": "2386934399067300749",
+                    "size": "3752773087",
+                    "download": "1743797216"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18407921",
-                "timeupdated": "1746819727"
+                "buildid": "18504858",
+                "timeupdated": "1747514057"
             },
             "older_but_stable": {
-                "buildid": "18078631",
+                "buildid": "18463467",
                 "description": "The most recent known-good build prior to the actual build",
-                "timeupdated": "1746819703"
+                "timeupdated": "1747437491"
             }
         },
         "privatebranches": "1"
