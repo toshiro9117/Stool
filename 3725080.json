@@ -4,8 +4,8 @@
     "name": "Codename CURE II Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920034",
-    "update_time": "2025-05-11 04:03:03",
+    "change_number": "29044089",
+    "update_time": "2025-05-18 06:19:29",
     "depot": {
         "1004": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8213261986768384778",
-                    "size": "522856346",
-                    "download": "177539728"
+                    "gid": "5841359356439418135",
+                    "size": "523171790",
+                    "download": "177629056"
                 }
             },
             "decryptionkey": ""
@@ -70,16 +70,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8661919468405549980",
-                    "size": "661269615",
-                    "download": "154831952"
+                    "gid": "4949717967290699448",
+                    "size": "661548649",
+                    "download": "154884608"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18416109",
-                "timeupdated": "1746907377"
+                "buildid": "18505330",
+                "timeupdated": "1747520366"
             }
         }
     }
