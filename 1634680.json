@@ -4,8 +4,8 @@
     "name": "Ficket",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916174",
-    "update_time": "2025-05-10 18:17:07",
+    "change_number": "29020937",
+    "update_time": "2025-05-16 17:30:00",
     "depot": {
         "228981": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4132686449118291",
-                    "size": "779454041",
-                    "download": "227178336"
+                    "gid": "3391423989927514438",
+                    "size": "752695799",
+                    "download": "221718800"
                 },
                 "10.7": {
                     "gid": "5983590189243163797",
@@ -71,9 +71,9 @@
                     "download": "228252880"
                 },
                 "test": {
-                    "gid": "4132686449118291",
-                    "size": "779454041",
-                    "download": "227178336"
+                    "gid": "3391423989927514438",
+                    "size": "752695799",
+                    "download": "221718800"
                 }
             },
             "decryptionkey": "28c2d6ab2577fc32273cf08dbf89f2804c40e98e7aed1e07cda7d652aca3b083"
@@ -81,8 +81,8 @@
         "workshopdepot": "1634680",
         "branches": {
             "public": {
-                "buildid": "18413525",
-                "timeupdated": "1746872221"
+                "buildid": "18442174",
+                "timeupdated": "1747387797"
             },
             "10.7": {
                 "buildid": "15963147",
@@ -95,9 +95,9 @@
                 "timeupdated": "1746851430"
             },
             "test": {
-                "buildid": "18413525",
+                "buildid": "18442174",
                 "description": "test",
-                "timeupdated": "1746871953"
+                "timeupdated": "1747128538"
             }
         },
         "workshopdepotdecryptionkey": "09a1a4431c876878148af1586a20801ada03150bdcc3de8aa72309b24f8d9eda"
