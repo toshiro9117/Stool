@@ -4,8 +4,8 @@
     "name": "Bot Maker For Discord",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28827415",
-    "update_time": "2025-05-06 02:04:12",
+    "change_number": "29031290",
+    "update_time": "2025-05-17 03:16:56",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
                     "download": "110292016"
                 },
                 "experimental": {
-                    "gid": "2591398837036133728",
-                    "size": "2261447057",
-                    "download": "420573984"
+                    "gid": "5041493599634941009",
+                    "size": "2257724229",
+                    "download": "420813072"
                 }
             },
             "decryptionkey": "502ac6f41102a44486a938565251b4cfec23c49c691a0a6a34d25d1b38af47ca"
@@ -38,7 +38,7 @@
         "branches": {
             "public": {
                 "buildid": "18167361",
-                "timeupdated": "1745070258"
+                "timeupdated": "1747422978"
             },
             "legacy": {
                 "buildid": "12473211",
@@ -46,9 +46,9 @@
                 "timeupdated": "1708605409"
             },
             "experimental": {
-                "buildid": "18349591",
+                "buildid": "18495693",
                 "description": "Features that are not-quite-ready for release",
-                "timeupdated": "1746468248"
+                "timeupdated": "1747423011"
             }
         },
         "privatebranches": "1",
