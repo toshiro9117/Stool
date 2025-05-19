@@ -4,8 +4,8 @@
     "name": "Trench Tales",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921390",
-    "update_time": "2025-05-11 07:31:20",
+    "change_number": "29047595",
+    "update_time": "2025-05-18 17:41:39",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2214221": {
             "manifests": {
                 "public": {
-                    "gid": "177823378821840701",
-                    "size": "4922038736",
-                    "download": "4291738384"
+                    "gid": "991816343862502196",
+                    "size": "4942410876",
+                    "download": "4311354864"
                 }
             },
             "decryptionkey": "5c2bae682f9e8fb9f957c4683cf802f2eb4ef95c7c17d867ebf91525695051cb"
         },
         "branches": {
             "public": {
-                "buildid": "18414599",
-                "timeupdated": "1746886506"
+                "buildid": "18507891",
+                "timeupdated": "1747561296"
             }
         }
     }
