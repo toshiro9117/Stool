@@ -4,8 +4,8 @@
     "name": "Peglin",
     "schinese_name": "哥布林弹球 Peglin",
     "isfreeapp": "0",
-    "change_number": "28475390",
-    "update_time": "2025-04-15 05:56:14",
+    "change_number": "29035177",
+    "update_time": "2025-05-17 09:10:15",
     "depot": {
         "1296611": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5358382804250771787",
-                    "size": "275595161",
-                    "download": "117247936"
+                    "gid": "4285972795618718886",
+                    "size": "276447865",
+                    "download": "118096288"
                 },
                 "experimental": {
-                    "gid": "5358382804250771787",
-                    "size": "275595161",
-                    "download": "117247936"
+                    "gid": "4285972795618718886",
+                    "size": "276447865",
+                    "download": "118096288"
                 }
             }
         },
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5278263793029209057",
-                    "size": "365587452",
-                    "download": "150254112"
+                    "gid": "7370266571747196347",
+                    "size": "366421421",
+                    "download": "151087056"
                 },
                 "experimental": {
-                    "gid": "5278263793029209057",
-                    "size": "365587452",
-                    "download": "150254112"
+                    "gid": "7370266571747196347",
+                    "size": "366421421",
+                    "download": "151087056"
                 }
             },
             "decryptionkey": "c49de821f253df8466134db36c94c7808fd1ecb08b35b78580339be9e89663c5"
@@ -51,14 +51,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1450035502594243425",
-                    "size": "365587452",
-                    "download": "150254112"
+                    "gid": "8459840282900217234",
+                    "size": "366421421",
+                    "download": "151087056"
                 },
                 "experimental": {
-                    "gid": "1450035502594243425",
-                    "size": "365587452",
-                    "download": "150254112"
+                    "gid": "8459840282900217234",
+                    "size": "366421421",
+                    "download": "151087056"
                 }
             },
             "decryptionkey": "fb761a5ae924f7b0b79fd004dd2f05cda227b78400202d0c24b03197beb72263"
@@ -70,14 +70,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4387574692032342765",
-                    "size": "275595161",
-                    "download": "117247936"
+                    "gid": "2956634322774449988",
+                    "size": "276447865",
+                    "download": "118096288"
                 },
                 "experimental": {
-                    "gid": "4387574692032342765",
-                    "size": "275595161",
-                    "download": "117247936"
+                    "gid": "2956634322774449988",
+                    "size": "276447865",
+                    "download": "118096288"
                 }
             },
             "decryptionkey": "8a12d17a3edba3d6cf982ceea529e1dfb0d92750fc88897ad0f553ab7664ba2c"
@@ -103,13 +103,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18105317",
-                "timeupdated": "1744667770"
+                "buildid": "18499046",
+                "timeupdated": "1747444211"
             },
             "experimental": {
-                "buildid": "18105317",
+                "buildid": "18499046",
                 "description": "Least stable experimental content. Bugs & Balance issues lurk inside",
-                "timeupdated": "1744667659"
+                "timeupdated": "1747444183"
             }
         },
         "privatebranches": "1"
