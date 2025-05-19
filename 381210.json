@@ -4,8 +4,8 @@
     "name": "Dead by Daylight",
     "schinese_name": "黎明杀机",
     "isfreeapp": "0",
-    "change_number": "28910826",
-    "update_time": "2025-05-10 06:25:43",
+    "change_number": "29033709",
+    "update_time": "2025-05-17 06:37:50",
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9168790925663856655",
-                    "size": "52362925424",
-                    "download": "52245794032"
+                    "gid": "885564402447255278",
+                    "size": "52441491666",
+                    "download": "52325518272"
                 }
             },
             "decryptionkey": "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca"
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18302989",
-                "timeupdated": "1746543525"
+                "buildid": "18409455",
+                "timeupdated": "1747321113"
             }
         },
         "privatebranches": "1"
