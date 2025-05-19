@@ -4,8 +4,8 @@
     "name": "Pyramid Game",
     "schinese_name": "金字塔游戏",
     "isfreeapp": "0",
-    "change_number": "27492477",
-    "update_time": "2025-02-15 16:40:28",
+    "change_number": "29018464",
+    "update_time": "2025-05-16 15:16:27",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7242227988513796848",
-                    "size": "399257981",
-                    "download": "115708144"
+                    "gid": "2435024959074069811",
+                    "size": "397768650",
+                    "download": "116390544"
                 }
             },
             "decryptionkey": "8b889a7c03a33061e0c644f3f73bd39eca4f02fe20b1986fd50f366423d7e820"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1978500840054942950",
-                    "size": "387974933",
-                    "download": "112567792"
+                    "gid": "569232649505755128",
+                    "size": "386481594",
+                    "download": "113251088"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6168520130334652051",
-                    "size": "422776503",
-                    "download": "122689024"
+                    "gid": "972792017790191743",
+                    "size": "420242135",
+                    "download": "123423760"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
-                "buildid": "17476815",
-                "timeupdated": "1740351867"
+                "buildid": "18309882",
+                "timeupdated": "1746107443"
             }
         }
     }
