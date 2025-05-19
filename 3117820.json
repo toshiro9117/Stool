@@ -4,8 +4,8 @@
     "name": "Sultan's Game",
     "schinese_name": "苏丹的游戏",
     "isfreeapp": "0",
-    "change_number": "28919662",
-    "update_time": "2025-05-11 03:02:55",
+    "change_number": "29023738",
+    "update_time": "2025-05-16 20:09:35",
     "depot": {
         "3117821": {
             "config": {
@@ -56,6 +56,8 @@
             },
             "decryptionkey": "4041c78dfa1b7b56de279bbaf92f1bd964a745fd067e476ed3302d0a40b90042"
         },
+        "hasdepotsindlc": "1",
+        "workshopdepot": "3117820",
         "branches": {
             "public": {
                 "buildid": "18385788",
@@ -72,6 +74,7 @@
                 "timeupdated": "1725016346"
             }
         },
-        "privatebranches": "1"
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "5b953b3aff2ae34d4eee90a135eaee5a3e1377be9a5c4c6af9c218072aff7589"
     }
 }
