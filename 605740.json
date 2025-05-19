@@ -4,8 +4,8 @@
     "name": "Flashing Lights",
     "schinese_name": "Flashing Lights - 警情，消防，急救",
     "isfreeapp": "0",
-    "change_number": "28710510",
-    "update_time": "2025-04-29 00:42:48",
+    "change_number": "29022486",
+    "update_time": "2025-05-16 19:01:21",
     "depot": {
         "605741": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "2276267856"
                 },
                 "unstable_test_branch": {
-                    "gid": "5214400357242048212",
-                    "size": "3433892712",
-                    "download": "1745117136"
+                    "gid": "1894472893689874204",
+                    "size": "4009639961",
+                    "download": "1999697088"
                 }
             },
             "decryptionkey": "95d3d0ace153500ff96a04353c87950fc4420523d33bd980470ba1bcc5513ec2"
@@ -46,9 +46,9 @@
                     "download": "2281591728"
                 },
                 "unstable_test_branch": {
-                    "gid": "6771666833600227190",
-                    "size": "3437427097",
-                    "download": "1744904128"
+                    "gid": "4198483337758559190",
+                    "size": "4015205035",
+                    "download": "2000268080"
                 }
             },
             "decryptionkey": "a8211cb137d2735d7ff465f3f245198f857855a1e31a0ed5d1cbd54f4e795989"
@@ -64,9 +64,9 @@
                 "timeupdated": "1637672687"
             },
             "unstable_test_branch": {
-                "buildid": "17796437",
+                "buildid": "18489805",
                 "description": "for unstable test builds",
-                "timeupdated": "1742489212"
+                "timeupdated": "1747393276"
             }
         },
         "privatebranches": "1"
