@@ -4,8 +4,8 @@
     "name": "ZERO Sievert",
     "schinese_name": "零希沃特",
     "isfreeapp": "0",
-    "change_number": "28900707",
-    "update_time": "2025-05-09 19:39:37",
+    "change_number": "29021056",
+    "update_time": "2025-05-16 17:37:49",
     "depot": {
         "1782121": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2389158356685866005",
-                    "size": "523308339",
-                    "download": "273435248"
+                    "gid": "6168800683760520878",
+                    "size": "528182565",
+                    "download": "273913920"
                 },
                 "legacy": {
                     "gid": "2620672129137811620",
@@ -28,8 +28,8 @@
         "workshopdepot": "1782120",
         "branches": {
             "public": {
-                "buildid": "18292865",
-                "timeupdated": "1746543467"
+                "buildid": "18488616",
+                "timeupdated": "1747388264"
             },
             "legacy": {
                 "buildid": "15528948",
