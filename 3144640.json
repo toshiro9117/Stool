@@ -4,8 +4,8 @@
     "name": "Skoof Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28916659",
-    "update_time": "2025-05-10 19:32:25",
+    "change_number": "28976259",
+    "update_time": "2025-05-14 22:40:59",
     "depot": {
         "228989": {
             "config": {
@@ -49,17 +49,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4975611898890795973",
-                    "size": "6449166659",
-                    "download": "5813852816"
+                    "gid": "3062086315687882402",
+                    "size": "6487256118",
+                    "download": "5869913552"
                 }
             },
             "decryptionkey": "4df401c4ad2c3c5cf2d770112a2f8716ef5541f2d3acdb7e6878622ed1c997a0"
         },
         "branches": {
             "public": {
-                "buildid": "15613816",
-                "timeupdated": "1725631523"
+                "buildid": "18456725",
+                "timeupdated": "1747210682"
             }
         }
     }
