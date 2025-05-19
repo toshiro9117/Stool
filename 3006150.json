@@ -4,8 +4,8 @@
     "name": "Wet Slits",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28479938",
-    "update_time": "2025-04-15 13:09:29",
+    "change_number": "29026697",
+    "update_time": "2025-05-16 22:50:43",
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7465754819062957450",
-                    "size": "807521276",
-                    "download": "679894928"
+                    "gid": "2603506794526207191",
+                    "size": "808502769",
+                    "download": "680357584"
                 }
             },
             "decryptionkey": "926be047332178d275b307ee2a95395972f1cc828c36a90fd24d1a04999229a6"
         },
         "branches": {
             "public": {
-                "buildid": "18088858",
-                "timeupdated": "1744537688"
+                "buildid": "18493045",
+                "timeupdated": "1747407039"
             }
         },
         "privatebranches": "1"
