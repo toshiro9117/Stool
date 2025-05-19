@@ -4,8 +4,8 @@
     "name": "Tales And Tactics",
     "schinese_name": "传说与战术自走棋",
     "isfreeapp": "0",
-    "change_number": "28921861",
-    "update_time": "2025-05-11 08:58:07",
+    "change_number": "29032700",
+    "update_time": "2025-05-17 05:02:51",
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
@@ -26,9 +26,9 @@
         "1652251": {
             "manifests": {
                 "public": {
-                    "gid": "5458629993745614583",
-                    "size": "3853759329",
-                    "download": "3208110592"
+                    "gid": "6719999115797065165",
+                    "size": "3962339635",
+                    "download": "3231876928"
                 },
                 "fixmysave": {
                     "gid": "423375095195285731",
@@ -41,9 +41,9 @@
                     "download": "2440391232"
                 },
                 "experimental": {
-                    "gid": "2256830307328908805",
-                    "size": "3964000363",
-                    "download": "3230345632"
+                    "gid": "2295651247037984269",
+                    "size": "3962348177",
+                    "download": "3230594960"
                 }
             },
             "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
@@ -51,8 +51,8 @@
         "1652252": {},
         "branches": {
             "public": {
-                "buildid": "15973096",
-                "timeupdated": "1728512002"
+                "buildid": "18497041",
+                "timeupdated": "1747429367"
             },
             "fixmysave": {
                 "buildid": "12213875",
@@ -65,9 +65,9 @@
                 "timeupdated": "1698421659"
             },
             "experimental": {
-                "buildid": "18404796",
+                "buildid": "18471278",
                 "description": "Pre-Release Stability Testing",
-                "timeupdated": "1746802154"
+                "timeupdated": "1747335066"
             }
         },
         "privatebranches": "1"
