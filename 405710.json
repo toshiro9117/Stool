@@ -4,8 +4,8 @@
     "name": "Staxel",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27979277",
-    "update_time": "2025-03-16 16:20:29",
+    "change_number": "28972977",
+    "update_time": "2025-05-14 11:57:54",
     "depot": {
         "workshopdepot": "405710",
         "228983": {
@@ -122,6 +122,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "160828acc7ca7371c72a4146521cab0b197b806f137b765ad68bc1415be5a72c"
     }
 }
