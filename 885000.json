@@ -4,8 +4,8 @@
     "name": "Synth Riders",
     "schinese_name": "综合骑手",
     "isfreeapp": "0",
-    "change_number": "28910962",
-    "update_time": "2025-05-10 06:38:22",
+    "change_number": "29036555",
+    "update_time": "2025-05-17 12:14:56",
     "depot": {
         "885001": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2567034338934812275",
-                    "size": "10236235012",
-                    "download": "3583721920"
+                    "gid": "6173285906570038305",
+                    "size": "10282670636",
+                    "download": "3628948576"
                 },
                 "open-beta": {
-                    "gid": "2567034338934812275",
-                    "size": "10236235012",
-                    "download": "3583721920"
+                    "gid": "6173285906570038305",
+                    "size": "10282670636",
+                    "download": "3628948576"
                 },
                 "previous": {
                     "gid": "2241211775523479467",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18280456",
-                "timeupdated": "1746234304"
+                "buildid": "18328499",
+                "timeupdated": "1747321148"
             },
             "open-beta": {
-                "buildid": "18280456",
+                "buildid": "18328499",
                 "description": "OPEN BETA (Opt-in for early access to patches!)",
-                "timeupdated": "1745973264"
+                "timeupdated": "1747321014"
             },
             "previous": {
                 "buildid": "14144154",
