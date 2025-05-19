@@ -4,8 +4,8 @@
     "name": "Hydroneer",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27870105",
-    "update_time": "2025-03-10 19:29:50",
+    "change_number": "28984162",
+    "update_time": "2025-05-14 23:33:17",
     "depot": {
         "workshopdepot": "1106840",
         "228988": {
@@ -79,6 +79,6 @@
                 "timeupdated": "1650911194"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e0dfbcb5b6a7c5b5b9a6da8c2263f5dc1d35d2ea0aeabab7b6965788e2a57e47"
     }
 }
