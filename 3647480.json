@@ -4,8 +4,8 @@
     "name": "Unknown Host",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919479",
-    "update_time": "2025-05-11 02:34:30",
+    "change_number": "29013895",
+    "update_time": "2025-05-16 08:21:38",
     "depot": {
         "228989": {
             "config": {
@@ -25,17 +25,17 @@
         "3647481": {
             "manifests": {
                 "public": {
-                    "gid": "6265087301325972049",
-                    "size": "3164844186",
-                    "download": "2813952272"
+                    "gid": "9092403728465547111",
+                    "size": "3141631060",
+                    "download": "2793106720"
                 }
             },
             "decryptionkey": "2491cc94dbb31679962e4190538d8ed21496a1773bd0d2c8aacf70df3d79ff60"
         },
         "branches": {
             "public": {
-                "buildid": "18415544",
-                "timeupdated": "1746898778"
+                "buildid": "18464355",
+                "timeupdated": "1747244621"
             }
         }
     }
