@@ -4,8 +4,8 @@
     "name": "Heartless & Dreadful : Return By 72 Hours",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921740",
-    "update_time": "2025-05-11 08:39:18",
+    "change_number": "28953125",
+    "update_time": "2025-05-13 12:57:59",
     "depot": {
         "baselanguages": "english,russian",
         "228988": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3834020844320383087",
-                    "size": "6436367515",
-                    "download": "1720354720"
+                    "gid": "2711055476401951210",
+                    "size": "6439484013",
+                    "download": "1719306448"
                 },
                 "legacy": {
                     "gid": "8516916032072315886",
@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2174586549106468418",
-                    "size": "6353056981",
-                    "download": "1697494288"
+                    "gid": "3770214494286796651",
+                    "size": "6356183210",
+                    "download": "1696335008"
                 },
                 "legacy": {
                     "gid": "3427058679163301814",
@@ -80,8 +80,8 @@
         "workshopdepot": "1701890",
         "branches": {
             "public": {
-                "buildid": "18393764",
-                "timeupdated": "1746748907"
+                "buildid": "18438672",
+                "timeupdated": "1747112273"
             },
             "legacy": {
                 "buildid": "11985443",
