@@ -4,20 +4,20 @@
     "name": "小小侠客模拟器",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28851653",
-    "update_time": "2025-05-07 08:09:31",
+    "change_number": "29016820",
+    "update_time": "2025-05-16 12:59:31",
     "depot": {
         "3395141": {
             "manifests": {
                 "public": {
-                    "gid": "8661441749921228459",
-                    "size": "973781877",
-                    "download": "676372592"
+                    "gid": "2918500133004718776",
+                    "size": "988343638",
+                    "download": "791325136"
                 },
                 "test": {
-                    "gid": "8661441749921228459",
-                    "size": "973781877",
-                    "download": "676372592"
+                    "gid": "2918500133004718776",
+                    "size": "988343638",
+                    "download": "791325136"
                 }
             },
             "decryptionkey": "f790bdf4b2a593f8aa9ba91d22825cb001b52156935252c18e6b0445da8b0cd9"
@@ -25,13 +25,13 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18366663",
-                "timeupdated": "1746576473"
+                "buildid": "18485119",
+                "timeupdated": "1747369797"
             },
             "test": {
-                "buildid": "18366663",
+                "buildid": "18485119",
                 "description": "Game testing",
-                "timeupdated": "1746576562"
+                "timeupdated": "1747363608"
             }
         },
         "privatebranches": "1"
