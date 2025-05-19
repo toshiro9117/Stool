@@ -4,23 +4,23 @@
     "name": "MYRIAD DEATH",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28899046",
-    "update_time": "2025-05-09 17:52:48",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:46",
     "depot": {
         "3324321": {
             "manifests": {
                 "public": {
-                    "gid": "7965091757844574052",
-                    "size": "332535417",
-                    "download": "162320160"
+                    "gid": "234845043046852562",
+                    "size": "339008095",
+                    "download": "172766944"
                 }
             },
             "decryptionkey": "cfbdf185084ae680275be4d0cd9564c374e24ffd24702d9cfad44063f18a5705"
         },
         "branches": {
             "public": {
-                "buildid": "18307969",
-                "timeupdated": "1746095259"
+                "buildid": "18468963",
+                "timeupdated": "1747275782"
             }
         },
         "privatebranches": "1"
