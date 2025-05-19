@@ -4,8 +4,8 @@
     "name": "Nordic Ashes",
     "schinese_name": "北欧的灰烬：诸神黄昏幸存者",
     "isfreeapp": "0",
-    "change_number": "28920141",
-    "update_time": "2025-05-11 04:15:38",
+    "change_number": "29030199",
+    "update_time": "2025-05-17 02:05:48",
     "depot": {
         "hasdepotsindlc": "0",
         "2068281": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4640887585217712933",
-                    "size": "638078754",
-                    "download": "517712432"
+                    "gid": "1146568312212318255",
+                    "size": "638368656",
+                    "download": "518036112"
                 }
             },
             "decryptionkey": "ee7ffd7c9029c2c860eab9bb927eba2a68583d2327418c1fa50e13a0aa0e3534"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5133038922504259",
-                    "size": "739828735",
-                    "download": "538424048"
+                    "gid": "1790709912984650886",
+                    "size": "740147144",
+                    "download": "538542816"
                 }
             },
             "decryptionkey": "01210614ee8eafe7be521b727beab3aefa41b46c6a42ba8299ee4478f6c890df"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "539949946624027729",
-                    "size": "676580795",
-                    "download": "520358944"
+                    "gid": "1819969691988550512",
+                    "size": "676857887",
+                    "download": "520519824"
                 }
             },
             "decryptionkey": "df31c8266051f43e78990b5d97bd3b9eb293126391b671e1b14a051d460bf91b"
@@ -140,8 +140,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18416139",
-                "timeupdated": "1746908134"
+                "buildid": "18495217",
+                "timeupdated": "1747418744"
             }
         },
         "privatebranches": "1"
