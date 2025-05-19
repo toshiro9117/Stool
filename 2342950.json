@@ -4,23 +4,23 @@
     "name": "God Of Weapons",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919372",
-    "update_time": "2025-05-11 02:19:29",
+    "change_number": "29016190",
+    "update_time": "2025-05-16 11:52:06",
     "depot": {
         "2342951": {
             "manifests": {
                 "public": {
-                    "gid": "1036410355516912068",
-                    "size": "1747489121",
-                    "download": "527736016"
+                    "gid": "2824382173979559697",
+                    "size": "2203866074",
+                    "download": "905232720"
                 }
             },
             "decryptionkey": "f18007f05de526f58cd0f02db0d25b1d6513980aecc85e94ed7c67b75a300266"
         },
         "branches": {
             "public": {
-                "buildid": "17511550",
-                "timeupdated": "1740566040"
+                "buildid": "18469520",
+                "timeupdated": "1747291616"
             }
         },
         "privatebranches": "1"
