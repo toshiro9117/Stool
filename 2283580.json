@@ -4,8 +4,8 @@
     "name": "Voxile",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28912470",
-    "update_time": "2025-05-10 08:58:45",
+    "change_number": "29013667",
+    "update_time": "2025-05-16 08:03:45",
     "depot": {
         "2283581": {
             "config": {
@@ -13,19 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1873494728966303645",
-                    "size": "726732386",
-                    "download": "263195792"
+                    "gid": "8870622509882972288",
+                    "size": "762156945",
+                    "download": "278607456"
                 },
                 "devtest": {
-                    "gid": "1149072956686928129",
-                    "size": "728504187",
-                    "download": "265317200"
+                    "gid": "8870622509882972288",
+                    "size": "762156945",
+                    "download": "278607456"
                 },
                 "earlytest": {
-                    "gid": "1149072956686928129",
-                    "size": "728504187",
-                    "download": "265317200"
+                    "gid": "8870622509882972288",
+                    "size": "762156945",
+                    "download": "278607456"
                 },
                 "last_old_worlds": {
                     "gid": "5705626228557329003",
@@ -37,18 +37,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18378068",
-                "timeupdated": "1746641151"
+                "buildid": "18464130",
+                "timeupdated": "1747243716"
             },
             "devtest": {
-                "buildid": "18410582",
+                "buildid": "18464130",
                 "description": "for devs only, no testers",
-                "timeupdated": "1746838675"
+                "timeupdated": "1747243517"
             },
             "earlytest": {
-                "buildid": "18410582",
+                "buildid": "18464130",
                 "description": "EarlyTest",
-                "timeupdated": "1746838719"
+                "timeupdated": "1747243619"
             },
             "last_old_worlds": {
                 "buildid": "14227051",
