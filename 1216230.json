@@ -4,8 +4,8 @@
     "name": "Project Heartbeat",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28810818",
-    "update_time": "2025-05-04 23:28:56",
+    "change_number": "29041376",
+    "update_time": "2025-05-17 23:49:10",
     "depot": {
         "228983": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "419649136"
                 },
                 "beta": {
-                    "gid": "4740745189537992586",
-                    "size": "582852792",
-                    "download": "419649200"
+                    "gid": "6859933819387784379",
+                    "size": "592468600",
+                    "download": "424337280"
                 },
                 "prev": {
                     "gid": "2756028975040733009",
@@ -47,9 +47,9 @@
                 "timeupdated": "1745766956"
             },
             "beta": {
-                "buildid": "18338550",
+                "buildid": "18503546",
                 "description": "Beta branch",
-                "timeupdated": "1746372505"
+                "timeupdated": "1747496946"
             },
             "prev": {
                 "buildid": "14188164",
