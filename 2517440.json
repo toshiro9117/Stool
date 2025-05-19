@@ -4,8 +4,8 @@
     "name": "Mini City: Mayhem",
     "schinese_name": "迷你城市",
     "isfreeapp": "0",
-    "change_number": "28848483",
-    "update_time": "2025-05-07 03:32:59",
+    "change_number": "28933374",
+    "update_time": "2025-05-12 14:48:48",
     "depot": {
         "2517441": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9101872118139558210",
-                    "size": "1214656044",
-                    "download": "420225168"
+                    "gid": "5257082168358035575",
+                    "size": "1214741512",
+                    "download": "420243984"
                 }
             },
             "decryptionkey": "0fdbb7cb1b20b55c4f89dddba41583da1ff5c4b126c525bd1bd450a951a52fc9"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "21716276014115099",
-                    "size": "1240009811",
-                    "download": "428334976"
+                    "gid": "1276340025236826064",
+                    "size": "1240089139",
+                    "download": "428353632"
                 }
             }
         },
@@ -38,16 +38,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "619402717775159175",
-                    "size": "1216214083",
-                    "download": "420288544"
+                    "gid": "5591449114862486921",
+                    "size": "1216299551",
+                    "download": "420308512"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17479514",
-                "timeupdated": "1740377780"
+                "buildid": "18425357",
+                "timeupdated": "1747032523"
             }
         }
     }
