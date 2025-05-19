@@ -4,8 +4,8 @@
     "name": "Total Conflict: Resistance",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28864763",
-    "update_time": "2025-05-07 23:34:30",
+    "change_number": "29045253",
+    "update_time": "2025-05-18 09:44:08",
     "depot": {
         "228988": {
             "config": {
@@ -36,9 +36,9 @@
                     "download": "32610129024"
                 },
                 "beta_test": {
-                    "gid": "3471930459519169652",
-                    "size": "33751749854",
-                    "download": "32580605232"
+                    "gid": "375451825961287567",
+                    "size": "34038639150",
+                    "download": "32865679088"
                 }
             },
             "decryptionkey": "6da400d94115d37c6474b287e5f8e41e78ec2083d54ff7dffd6d1b3b2dc8dc0d"
@@ -50,9 +50,9 @@
                 "timeupdated": "1745694629"
             },
             "beta_test": {
-                "buildid": "18376264",
+                "buildid": "18506135",
                 "description": "Dev. beta brach",
-                "timeupdated": "1746632067"
+                "timeupdated": "1747532645"
             }
         },
         "privatebranches": "1",
