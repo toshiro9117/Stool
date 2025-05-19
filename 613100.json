@@ -4,8 +4,8 @@
     "name": "House Flipper",
     "schinese_name": "房产达人",
     "isfreeapp": "0",
-    "change_number": "28863165",
-    "update_time": "2025-05-07 22:11:34",
+    "change_number": "29032956",
+    "update_time": "2025-05-17 05:27:21",
     "depot": {
         "workshopdepot": "613100",
         "baselanguages": "english",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1825975059478384336",
-                    "size": "11524280011",
-                    "download": "5762904976"
+                    "gid": "4183998282082749547",
+                    "size": "11587680972",
+                    "download": "5826177552"
                 }
             },
             "decryptionkey": "c68056a16ae5ca8876257a724f54b6755de30c92f9ff7bf27cfa901069c4fa8b"
@@ -44,9 +44,9 @@
             "dlcappid": "825570",
             "manifests": {
                 "public": {
-                    "gid": "5061298484234776413",
+                    "gid": "4790622022019179677",
                     "size": "280515891",
-                    "download": "88266560"
+                    "download": "88264816"
                 }
             },
             "decryptionkey": "3b41a775f2f479cc86693b4e2f5a8a36e420e2a438f4940c5e07238791b2c154"
@@ -72,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8243315906368012911",
+                    "gid": "3605593935518770072",
                     "size": "866295919",
-                    "download": "255565856"
+                    "download": "255567040"
                 }
             },
             "decryptionkey": "401f97863991cfb50f79b6832689d86b2224291e0d30a353e1ca3cc746b26243"
@@ -100,9 +100,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6069431390099473534",
+                    "gid": "6907931279717487549",
                     "size": "546728250",
-                    "download": "99586464"
+                    "download": "99584896"
                 }
             },
             "decryptionkey": "22104a38b3e77c38d4f44211979a0bad12ba2ee8984fd3f4611efe5d08c110d5"
@@ -170,9 +170,9 @@
             "dlcappid": "1021110",
             "manifests": {
                 "public": {
-                    "gid": "2556600313533740623",
+                    "gid": "3565015062075572943",
                     "size": "3506623553",
-                    "download": "1031773792"
+                    "download": "1031773504"
                 }
             },
             "decryptionkey": "e7b0623aa8246e08507e68e9da70e75540102ef709252ab00f0ff8b2b9107c5c"
@@ -198,9 +198,9 @@
             "dlcappid": "1569190",
             "manifests": {
                 "public": {
-                    "gid": "4071369220199554049",
+                    "gid": "923641762014648628",
                     "size": "2576658921",
-                    "download": "869599536"
+                    "download": "869601072"
                 }
             },
             "decryptionkey": "0dae29d8fe32367133f989f28b9d0ff41573d0a5ca8c953aa6dcabc93a8237b0"
@@ -331,8 +331,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18159365",
-                "timeupdated": "1745003613"
+                "buildid": "18496968",
+                "timeupdated": "1747430834"
             }
         },
         "privatebranches": "1",
