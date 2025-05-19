@@ -4,15 +4,15 @@
     "name": "Warside",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918212",
-    "update_time": "2025-05-10 23:33:31",
+    "change_number": "29011654",
+    "update_time": "2025-05-16 05:13:27",
     "depot": {
         "2368301": {
             "manifests": {
                 "public": {
-                    "gid": "7903019719489811110",
-                    "size": "196846464",
-                    "download": "112692800"
+                    "gid": "5735337386156621358",
+                    "size": "197778592",
+                    "download": "113252272"
                 }
             },
             "decryptionkey": "40f0f78b50871b3e8d950d42d569d9283ede65b4da0fc2dece4d8e0cfcd5f549"
@@ -36,16 +36,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2892660605667595896",
-                    "size": "255891936",
-                    "download": "131514560"
+                    "gid": "5488164041878869795",
+                    "size": "256823872",
+                    "download": "132070992"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18365731",
-                "timeupdated": "1746569275"
+                "buildid": "18432582",
+                "timeupdated": "1747070200"
             }
         },
         "privatebranches": "1"
