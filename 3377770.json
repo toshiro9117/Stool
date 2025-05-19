@@ -4,15 +4,15 @@
     "name": "Haunting Havens",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922313",
-    "update_time": "2025-05-11 10:33:20",
+    "change_number": "29048543",
+    "update_time": "2025-05-18 20:15:58",
     "depot": {
         "3377771": {
             "manifests": {
                 "public": {
-                    "gid": "4859767720716633778",
-                    "size": "11154547611",
-                    "download": "9750953744"
+                    "gid": "7408528874349965447",
+                    "size": "11236671555",
+                    "download": "9797965648"
                 }
             },
             "decryptionkey": "66d9fcae2691745f33f9d4c65e97e53e6b10a4923be5ec52b6930ae92f65f758"
@@ -20,8 +20,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18411899",
-                "timeupdated": "1746852335"
+                "buildid": "18421754",
+                "timeupdated": "1746994913"
             }
         }
     }
