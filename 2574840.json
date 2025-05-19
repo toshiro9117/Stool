@@ -4,8 +4,8 @@
     "name": "Go For A Punch! Saki Sanobashi",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28822949",
-    "update_time": "2025-05-05 21:30:21",
+    "change_number": "28928068",
+    "update_time": "2025-05-12 02:38:46",
     "depot": {
         "baselanguages": "english,spanish,schinese,japanese,turkish,latam",
         "2574843": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3070210358634430274",
-                    "size": "520109973",
-                    "download": "365809136"
+                    "gid": "8895810265193947881",
+                    "size": "612851752",
+                    "download": "405983088"
                 }
             },
             "decryptionkey": "4405c3ea1ee49605310d77fad526e4077de85c4457ee5abf94585b662a527307"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "458914341901898369",
-                    "size": "520098731",
-                    "download": "365798096"
+                    "gid": "6925612293282550714",
+                    "size": "612862618",
+                    "download": "405994048"
                 }
             },
             "decryptionkey": ""
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4935646099516568485",
-                    "size": "1275222987",
-                    "download": "872286080"
+                    "gid": "5376402227871921710",
+                    "size": "612862617",
+                    "download": "405994048"
                 }
             },
             "decryptionkey": "49eabf6beff033ec3dd62685e241e6a99d44ebd8fc00dc0bd792dbdd126ee1ab"
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7230993375280183662",
-                    "size": "519879453",
-                    "download": "365798048"
+                    "gid": "3440489100995394254",
+                    "size": "612862618",
+                    "download": "405994048"
                 }
             },
             "decryptionkey": "48ca6206022e9c3af9bee3797a2f780922ffec39a7821476e421ac38c7be2b94"
@@ -121,8 +121,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18083123",
-                "timeupdated": "1744456969"
+                "buildid": "18421549",
+                "timeupdated": "1746988720"
             }
         }
     }
