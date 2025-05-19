@@ -4,8 +4,8 @@
     "name": "Wartales",
     "schinese_name": "战争传说",
     "isfreeapp": "0",
-    "change_number": "28862472",
-    "update_time": "2025-05-07 21:34:46",
+    "change_number": "29034776",
+    "update_time": "2025-05-17 08:21:54",
     "depot": {
         "228988": {
             "config": {
@@ -17,9 +17,9 @@
         "1527951": {
             "manifests": {
                 "public": {
-                    "gid": "8317345194747928321",
-                    "size": "47297883205",
-                    "download": "12514458016"
+                    "gid": "687645024161635134",
+                    "size": "47297885079",
+                    "download": "12514627712"
                 }
             },
             "decryptionkey": "95bd24e7b06dd6b363b41cd5735569fe66f9d030ec1b11d30e46c13171a17852"
@@ -27,8 +27,8 @@
         "baselanguages": "english,french",
         "branches": {
             "public": {
-                "buildid": "18374228",
-                "timeupdated": "1746624880"
+                "buildid": "18459778",
+                "timeupdated": "1747294497"
             }
         },
         "privatebranches": "1"
