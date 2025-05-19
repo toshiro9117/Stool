@@ -4,8 +4,8 @@
     "name": "Monster Prom 4: Monster Con",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917959",
-    "update_time": "2025-05-10 23:02:50",
+    "change_number": "29021036",
+    "update_time": "2025-05-16 17:36:39",
     "depot": {
         "2869862": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7873083028185649453",
-                    "size": "1136496029",
-                    "download": "739512480"
+                    "gid": "8073105751024166102",
+                    "size": "1136517394",
+                    "download": "739538528"
                 }
             },
             "decryptionkey": "f59cccd69ee74c5c3964979a6840408373293bccab555df8701bf008a0d258b4"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6917397384609356916",
-                    "size": "1189106158",
-                    "download": "751858384"
+                    "gid": "1343149036904976979",
+                    "size": "1189127735",
+                    "download": "751888928"
                 }
             }
         },
@@ -38,16 +38,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6069289605856032341",
-                    "size": "1165369450",
-                    "download": "737398208"
+                    "gid": "6447794810456765579",
+                    "size": "1165390772",
+                    "download": "737424688"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18406910",
-                "timeupdated": "1746813845"
+                "buildid": "18488838",
+                "timeupdated": "1747388195"
             }
         },
         "privatebranches": "1"
