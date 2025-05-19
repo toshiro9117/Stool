@@ -4,8 +4,8 @@
     "name": "Creature Keeper",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922019",
-    "update_time": "2025-05-11 09:32:37",
+    "change_number": "29043678",
+    "update_time": "2025-05-18 05:12:46",
     "depot": {
         "1826711": {
             "config": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6537677152030716956",
-                    "size": "320380392",
-                    "download": "190317856"
+                    "gid": "6718683425416112968",
+                    "size": "321507583",
+                    "download": "191255024"
                 }
             },
             "decryptionkey": "f0a8402627bd8693316b823a87f2d74e6520745e4a4cb2e32e1bd6db8b23de66"
         },
         "branches": {
             "public": {
-                "buildid": "18409714",
-                "timeupdated": "1746894803"
+                "buildid": "18497910",
+                "timeupdated": "1747513154"
             }
         },
         "privatebranches": "1"
