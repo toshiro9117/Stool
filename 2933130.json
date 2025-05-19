@@ -4,8 +4,8 @@
     "name": "The Lord of the Rings: Return to Moria™",
     "schinese_name": "《指环王：重返墨瑞亚™》Return to Moria",
     "isfreeapp": "0",
-    "change_number": "28912904",
-    "update_time": "2025-05-10 09:55:40",
+    "change_number": "29035986",
+    "update_time": "2025-05-17 10:55:36",
     "depot": {
         "228989": {
             "config": {
@@ -48,6 +48,8 @@
         "2933132": {},
         "2933133": {},
         "2933134": {},
+        "2933135": {},
+        "2933137": {},
         "branches": {
             "public": {
                 "buildid": "18028726",
