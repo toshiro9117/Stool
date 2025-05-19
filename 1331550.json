@@ -4,8 +4,8 @@
     "name": "Big Ambitions",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28879349",
-    "update_time": "2025-05-08 17:59:46",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:20:03",
     "depot": {
         "hasdepotsindlc": "0",
         "1331551": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1495314715999710833",
-                    "size": "4224836452",
-                    "download": "1336920688"
+                    "gid": "3430606514889642303",
+                    "size": "4416325036",
+                    "download": "1785480192"
                 },
                 "ea-01": {
                     "gid": "4129820706453058596",
@@ -49,10 +49,10 @@
                     "size": "4143656173",
                     "download": "1317372080"
                 },
-                "experimental": {
-                    "gid": "3430606514889642303",
-                    "size": "4416325036",
-                    "download": "1785480192"
+                "ea-07": {
+                    "gid": "1495314715999710833",
+                    "size": "4224836452",
+                    "download": "1336920688"
                 }
             },
             "decryptionkey": "f3b44da48f4335a1dad963250d348f21e38cb27fbe8264e2cd0ebf217849a089"
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6740732323549522063",
-                    "size": "4012438271",
-                    "download": "1228989008"
+                    "gid": "2467916349193839131",
+                    "size": "4203451094",
+                    "download": "1646899248"
                 },
                 "ea-01": {
                     "gid": "2041938828473515245",
@@ -98,10 +98,10 @@
                     "size": "3932646438",
                     "download": "1210139472"
                 },
-                "experimental": {
-                    "gid": "2467916349193839131",
-                    "size": "4203451094",
-                    "download": "1646899248"
+                "ea-07": {
+                    "gid": "6740732323549522063",
+                    "size": "4012438271",
+                    "download": "1228989008"
                 }
             },
             "decryptionkey": "1547279019dc793ecffc735c9690f060ed6a8c2fd0145e1e4c605b795cc423d9"
@@ -144,7 +144,7 @@
                     "size": "0",
                     "download": "0"
                 },
-                "experimental": {
+                "ea-07": {
                     "gid": "131293730837976135",
                     "size": "0",
                     "download": "0"
@@ -190,7 +190,7 @@
                     "size": "0",
                     "download": "0"
                 },
-                "experimental": {
+                "ea-07": {
                     "gid": "4858057309773360011",
                     "size": "0",
                     "download": "0"
@@ -201,8 +201,8 @@
         "workshopdepot": "1331550",
         "branches": {
             "public": {
-                "buildid": "16987801",
-                "timeupdated": "1736957139"
+                "buildid": "18372308",
+                "timeupdated": "1747051837"
             },
             "ea-01": {
                 "buildid": "11038881",
@@ -234,10 +234,10 @@
                 "description": "EA 0.6 (Old version)",
                 "timeupdated": "1734431863"
             },
-            "experimental": {
-                "buildid": "18372308",
-                "description": "Use at own risk - Unstable!",
-                "timeupdated": "1746698380"
+            "ea-07": {
+                "buildid": "16987801",
+                "description": "EA 0.7 (Old version)",
+                "timeupdated": "1747046899"
             }
         },
         "privatebranches": "1",
