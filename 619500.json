@@ -4,8 +4,8 @@
     "name": "cyubeVR",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27735018",
-    "update_time": "2025-03-02 01:41:07",
+    "change_number": "28975704",
+    "update_time": "2025-05-14 22:39:40",
     "depot": {
         "228989": {
             "config": {
@@ -66,6 +66,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "7663a4678b5ea7ea428779be7442f51fedd8892aeae7d7b1f8b1ca8fb0595ee5"
     }
 }
