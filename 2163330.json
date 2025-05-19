@@ -4,33 +4,23 @@
     "name": "Yet Another Zombie Survivors",
     "schinese_name": "Yet Another Zombie Survivors - 又一个僵尸幸存者",
     "isfreeapp": "0",
-    "change_number": "28820073",
-    "update_time": "2025-05-05 18:08:17",
+    "change_number": "29038972",
+    "update_time": "2025-05-17 18:28:19",
     "depot": {
         "2163331": {
             "manifests": {
                 "public": {
-                    "gid": "3354485139839807440",
-                    "size": "5069780043",
-                    "download": "2772524848"
-                },
-                "public-beta": {
-                    "gid": "7462090639908209518",
-                    "size": "5089936463",
-                    "download": "2776333392"
+                    "gid": "2210108697628291398",
+                    "size": "5094054899",
+                    "download": "2779145664"
                 }
             },
             "decryptionkey": "f83759c39e0a087b6ee076427f28b6fa19f8e6400ef9e3843bc4ea1d0ba5afff"
         },
         "branches": {
             "public": {
-                "buildid": "17968367",
-                "timeupdated": "1743679957"
-            },
-            "public-beta": {
-                "buildid": "18279609",
-                "description": "Public Beta Branch",
-                "timeupdated": "1745930173"
+                "buildid": "18501874",
+                "timeupdated": "1747477696"
             }
         },
         "privatebranches": "1"
