@@ -4,16 +4,16 @@
     "name": "Fairy Massage",
     "schinese_name": "仙女按摩",
     "isfreeapp": "0",
-    "change_number": "27489022",
-    "update_time": "2025-02-15 08:01:17",
+    "change_number": "28996566",
+    "update_time": "2025-05-15 15:10:07",
     "depot": {
         "hasdepotsindlc": "1",
         "1992591": {
             "manifests": {
                 "public": {
-                    "gid": "6433713723415207737",
-                    "size": "1684911912",
-                    "download": "228294352"
+                    "gid": "1960313291830363043",
+                    "size": "2138205653",
+                    "download": "304927008"
                 }
             },
             "decryptionkey": "8d4b833fe2f6ef95a383475ff3032dd3a615539fe6e63b7ff186d2fed772724c"
@@ -24,18 +24,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6285023901129256453",
-                    "size": "1683657997",
-                    "download": "226478384"
+                    "gid": "6461180629052979903",
+                    "size": "2134790413",
+                    "download": "303306160"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "15916880",
-                "timeupdated": "1727963379"
+                "buildid": "18110645",
+                "timeupdated": "1744705827"
             }
         }
     }
