@@ -4,8 +4,8 @@
     "name": "Cakefoot",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28491101",
-    "update_time": "2025-04-16 00:18:46",
+    "change_number": "29034108",
+    "update_time": "2025-05-17 07:18:25",
     "depot": {
         "2869022": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7908934473287689146",
-                    "size": "65991567",
-                    "download": "30937056"
+                    "gid": "4216070933158816591",
+                    "size": "69804189",
+                    "download": "32827376"
                 }
             }
         },
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5628614836511472326",
-                    "size": "79120356",
-                    "download": "32283168"
+                    "gid": "4598036586654372497",
+                    "size": "82195874",
+                    "download": "33859696"
                 }
             },
             "decryptionkey": "4e941dd6727f36884b68827d8ab150662e3b40210d1b0b85f4a77288dd3224fd"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2248735320311048606",
-                    "size": "77387115",
-                    "download": "32074112"
+                    "gid": "7176196504640654167",
+                    "size": "79829197",
+                    "download": "33637808"
                 }
             },
             "decryptionkey": ""
@@ -54,16 +54,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1061366822659257279",
-                    "size": "41777112",
-                    "download": "25374384"
+                    "gid": "4987765374715689795",
+                    "size": "41009527",
+                    "download": "25759120"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17686647",
-                "timeupdated": "1741747969"
+                "buildid": "18498242",
+                "timeupdated": "1747437501"
             }
         }
     }
