@@ -4,8 +4,8 @@
     "name": "HexWind",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28910660",
-    "update_time": "2025-05-10 06:11:17",
+    "change_number": "29043468",
+    "update_time": "2025-05-18 04:40:53",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2739341": {
             "manifests": {
                 "public": {
-                    "gid": "7376212285241795883",
-                    "size": "3013231422",
-                    "download": "2673682352"
+                    "gid": "5026426410930109569",
+                    "size": "3054379606",
+                    "download": "2734064640"
                 }
             },
             "decryptionkey": "dade24adef44bd3372dcfb9cee1c6b07b2aef1b84c89a504f454fa783b456457"
         },
         "branches": {
             "public": {
-                "buildid": "18396634",
-                "timeupdated": "1746755592"
+                "buildid": "18501690",
+                "timeupdated": "1747514450"
             }
         },
         "privatebranches": "1"
