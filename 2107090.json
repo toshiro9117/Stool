@@ -4,16 +4,16 @@
     "name": "KitHack Model Club",
     "schinese_name": "模型制作世界 / KitHack Model Club",
     "isfreeapp": "0",
-    "change_number": "27817643",
-    "update_time": "2025-03-06 23:40:28",
+    "change_number": "28931676",
+    "update_time": "2025-05-12 11:31:17",
     "depot": {
         "workshopdepot": "2107090",
         "2107091": {
             "manifests": {
                 "public": {
-                    "gid": "5580290085373574007",
-                    "size": "5607186748",
-                    "download": "2058150800"
+                    "gid": "7619497553525910039",
+                    "size": "5628387318",
+                    "download": "2065321712"
                 },
                 "rollback": {
                     "gid": "8385021163006263476",
@@ -21,17 +21,17 @@
                     "download": "2031798416"
                 },
                 "debug": {
-                    "gid": "76440045374390511",
-                    "size": "5647640669",
-                    "download": "2067855792"
+                    "gid": "5852900551504045051",
+                    "size": "5668813119",
+                    "download": "2075031888"
                 }
             },
             "decryptionkey": "f24026503c394aea48563a537be4295a30d6192cc326a3588740fae8f7a2194e"
         },
         "branches": {
             "public": {
-                "buildid": "16683176",
-                "timeupdated": "1733847488"
+                "buildid": "17538649",
+                "timeupdated": "1743789757"
             },
             "rollback": {
                 "buildid": "14862171",
@@ -39,9 +39,9 @@
                 "timeupdated": "1723164448"
             },
             "debug": {
-                "buildid": "16683148",
+                "buildid": "17538642",
                 "description": "Build instrumented for Debugging",
-                "timeupdated": "1733847367"
+                "timeupdated": "1743789719"
             }
         },
         "privatebranches": "1",
