@@ -4,8 +4,8 @@
     "name": "Megaloot",
     "schinese_name": "无尽劫掠",
     "isfreeapp": "0",
-    "change_number": "28917846",
-    "update_time": "2025-05-10 22:44:19",
+    "change_number": "29046457",
+    "update_time": "2025-05-18 14:08:28",
     "depot": {
         "2440381": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "410771616"
                 },
                 "public_testing_branch": {
-                    "gid": "3255797275952939807",
-                    "size": "521306320",
-                    "download": "410791568"
+                    "gid": "7839441738040137143",
+                    "size": "521362896",
+                    "download": "410816560"
                 },
                 "1.00": {
                     "gid": "4397531889582496842",
@@ -49,9 +49,9 @@
                 "timeupdated": "1746510843"
             },
             "public_testing_branch": {
-                "buildid": "18412959",
+                "buildid": "18507068",
                 "description": "Experimental",
-                "timeupdated": "1746863985"
+                "timeupdated": "1747548504"
             },
             "1.00": {
                 "buildid": "15571145",
