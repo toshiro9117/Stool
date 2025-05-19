@@ -4,8 +4,8 @@
     "name": "Space Engineers",
     "schinese_name": "太空工程师",
     "isfreeapp": "0",
-    "change_number": "28904206",
-    "update_time": "2025-05-09 23:04:26",
+    "change_number": "29028272",
+    "update_time": "2025-05-17 00:15:23",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -52,9 +52,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8715761481042166265",
-                    "size": "40082057349",
-                    "download": "15013593728"
+                    "gid": "9098415065786300877",
+                    "size": "40082123285",
+                    "download": "15013582480"
                 },
                 "1.189": {
                     "gid": "2724627794602434305",
@@ -436,8 +436,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18321406",
-                "timeupdated": "1746194608"
+                "buildid": "18373417",
+                "timeupdated": "1747144851"
             },
             "1.189": {
                 "buildid": "3664466",
