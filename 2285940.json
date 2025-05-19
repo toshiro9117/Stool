@@ -4,8 +4,8 @@
     "name": "Hollow Survivors",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917776",
-    "update_time": "2025-05-10 22:33:18",
+    "change_number": "29048604",
+    "update_time": "2025-05-18 20:23:24",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish",
         "2285941": {},
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2021414516263464379",
-                    "size": "1443767094",
-                    "download": "121195840"
+                    "gid": "8500764018916278702",
+                    "size": "1442739135",
+                    "download": "121160928"
                 }
             },
             "decryptionkey": "ac0883ea64c687445fb1b7de9b83d174ed78d2542886907bd59362adba8c033a"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "121865219649343549",
-                    "size": "1469872392",
-                    "download": "128600560"
+                    "gid": "4499989866295678864",
+                    "size": "1468843719",
+                    "download": "128564848"
                 }
             }
         },
@@ -40,16 +40,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "29043437846782014",
-                    "size": "1483362071",
-                    "download": "121151824"
+                    "gid": "5470538090884514564",
+                    "size": "1482335424",
+                    "download": "121120096"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18254784",
-                "timeupdated": "1746384610"
+                "buildid": "18508441",
+                "timeupdated": "1747571000"
             }
         },
         "privatebranches": "1"
