@@ -4,8 +4,8 @@
     "name": "Emissary Zero",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28854663",
-    "update_time": "2025-05-07 13:10:25",
+    "change_number": "29044412",
+    "update_time": "2025-05-18 07:11:32",
     "depot": {
         "228989": {
             "config": {
@@ -24,6 +24,11 @@
         "3176061": {
             "manifests": {
                 "public": {
+                    "gid": "7193368094109870926",
+                    "size": "4670914146",
+                    "download": "4482514432"
+                },
+                "1.0.23": {
                     "gid": "5643150784293406198",
                     "size": "4670822205",
                     "download": "4471243248"
@@ -33,8 +38,13 @@
         },
         "branches": {
             "public": {
+                "buildid": "18449959",
+                "timeupdated": "1747165918"
+            },
+            "1.0.23": {
                 "buildid": "18312262",
-                "timeupdated": "1746123343"
+                "description": "1.0.23, no steam sockets",
+                "timeupdated": "1747028610"
             }
         }
     }
