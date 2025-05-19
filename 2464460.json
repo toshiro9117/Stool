@@ -4,8 +4,8 @@
     "name": "Portal Fantasy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917976",
-    "update_time": "2025-05-10 23:04:35",
+    "change_number": "29044408",
+    "update_time": "2025-05-18 07:11:24",
     "depot": {
         "baselanguages": "english,spanish,japanese,portuguese,brazilian,latam",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1143760052440976816",
-                    "size": "2063894939",
-                    "download": "644377696"
+                    "gid": "798055498100642277",
+                    "size": "2065432748",
+                    "download": "643907712"
                 }
             },
             "decryptionkey": "8178ef97c27d0a52cbe414ab214b384daf80ff66e19bd9609b24ea43f0964af6"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2504755350872361415",
-                    "size": "2093279635",
-                    "download": "607924464"
+                    "gid": "7106730676829208379",
+                    "size": "2094819254",
+                    "download": "608697184"
                 }
             }
         },
@@ -42,16 +42,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6094795138844964125",
-                    "size": "2156450147",
-                    "download": "636433120"
+                    "gid": "5763156307139359871",
+                    "size": "2158014429",
+                    "download": "637217488"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18285220",
-                "timeupdated": "1746000173"
+                "buildid": "18501859",
+                "timeupdated": "1747485605"
             }
         },
         "privatebranches": "1"
