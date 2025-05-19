@@ -4,8 +4,8 @@
     "name": "Garry's Mod Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28907907",
-    "update_time": "2025-05-10 02:39:27",
+    "change_number": "29028978",
+    "update_time": "2025-05-17 00:47:10",
     "depot": {
         "1004": {
             "config": {
@@ -60,9 +60,9 @@
                     "download": "2173090576"
                 },
                 "dev": {
-                    "gid": "1699966026719302906",
-                    "size": "3795154855",
-                    "download": "2173090896"
+                    "gid": "2803463633932419103",
+                    "size": "3797384803",
+                    "download": "2173044048"
                 },
                 "prerelease": {
                     "gid": "5070358990555268659",
@@ -70,9 +70,9 @@
                     "download": "2173090576"
                 },
                 "x86-64": {
-                    "gid": "5053310619987272411",
-                    "size": "3792962609",
-                    "download": "2172818624"
+                    "gid": "1883026383557267233",
+                    "size": "3795192601",
+                    "download": "2172772144"
                 }
             },
             "decryptionkey": "16d05ffea072743595f0264ffa4debedeae6ff79d199986fdae9c7231aa8fbc3"
@@ -89,9 +89,9 @@
                     "download": "20612560"
                 },
                 "dev": {
-                    "gid": "2886017614615296528",
-                    "size": "79469584",
-                    "download": "26885488"
+                    "gid": "2081559950737306431",
+                    "size": "58953504",
+                    "download": "20616432"
                 },
                 "prerelease": {
                     "gid": "6770919080120548241",
@@ -99,9 +99,9 @@
                     "download": "20612560"
                 },
                 "x86-64": {
-                    "gid": "3861593794725507891",
-                    "size": "426461905",
-                    "download": "152565472"
+                    "gid": "8053793676824097590",
+                    "size": "426133121",
+                    "download": "152444848"
                 }
             },
             "decryptionkey": "c107efebc279afee4ff826ad0696947deab9b98bbf6621645cbdcecace01d9e0"
@@ -118,9 +118,9 @@
                     "download": "33700992"
                 },
                 "dev": {
-                    "gid": "6806181910225120498",
-                    "size": "185313762",
-                    "download": "48831728"
+                    "gid": "7683529821870471067",
+                    "size": "120569790",
+                    "download": "33704432"
                 },
                 "prerelease": {
                     "gid": "4682560487321813702",
@@ -128,9 +128,9 @@
                     "download": "33700992"
                 },
                 "x86-64": {
-                    "gid": "251618410812327167",
-                    "size": "228319418",
-                    "download": "66133776"
+                    "gid": "4306213203644854606",
+                    "size": "228348250",
+                    "download": "66131408"
                 }
             }
         },
@@ -141,9 +141,9 @@
                 "timeupdated": "1746804762"
             },
             "dev": {
-                "buildid": "18404710",
+                "buildid": "18491635",
                 "description": "Development Branch",
-                "timeupdated": "1746801654"
+                "timeupdated": "1747400669"
             },
             "prerelease": {
                 "buildid": "18404484",
@@ -151,9 +151,9 @@
                 "timeupdated": "1746800568"
             },
             "x86-64": {
-                "buildid": "18407344",
+                "buildid": "18494482",
                 "description": "Testing 64-bit builds",
-                "timeupdated": "1746815962"
+                "timeupdated": "1747414024"
             }
         },
         "workshopdepotdecryptionkey": ""
