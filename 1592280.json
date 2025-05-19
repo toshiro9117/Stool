@@ -4,8 +4,8 @@
     "name": "Selaco",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28892015",
-    "update_time": "2025-05-09 07:38:35",
+    "change_number": "29013867",
+    "update_time": "2025-05-16 08:18:57",
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -188,9 +188,9 @@
                     "download": "255039552"
                 },
                 "nightly": {
-                    "gid": "4616701269030847118",
-                    "size": "48988278",
-                    "download": "25786848"
+                    "gid": "7661477312001009111",
+                    "size": "48988166",
+                    "download": "25785264"
                 },
                 "publicbetabranch": {
                     "gid": "657588189975344201",
@@ -242,9 +242,9 @@
                     "download": "52869152"
                 },
                 "nightly": {
-                    "gid": "8664474526036479354",
-                    "size": "39739152",
-                    "download": "15556256"
+                    "gid": "8819389524560470755",
+                    "size": "39739230",
+                    "download": "15557856"
                 },
                 "publicbetabranch": {
                     "gid": "3527766283432462753",
@@ -291,9 +291,9 @@
                     "download": "0"
                 },
                 "nightly": {
-                    "gid": "8016146992495805857",
-                    "size": "1026611244",
-                    "download": "1018446448"
+                    "gid": "482479735827114636",
+                    "size": "1252356522",
+                    "download": "1239595504"
                 },
                 "publicbetabranch": {
                     "gid": "8987430526427337302",
@@ -344,9 +344,9 @@
                 "timeupdated": "1731423086"
             },
             "nightly": {
-                "buildid": "18395923",
+                "buildid": "18483922",
                 "description": "Frequent updates, most unstable",
-                "timeupdated": "1746747511"
+                "timeupdated": "1747354733"
             },
             "publicbetabranch": {
                 "buildid": "18302208",
