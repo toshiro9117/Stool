@@ -4,8 +4,8 @@
     "name": "Vellum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921383",
-    "update_time": "2025-05-11 07:30:47",
+    "change_number": "29045400",
+    "update_time": "2025-05-18 10:13:12",
     "depot": {
         "917951": {
             "config": {
@@ -13,19 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9112325766871114002",
-                    "size": "4175187050",
-                    "download": "1844555984"
+                    "gid": "3400964019571293734",
+                    "size": "4226957323",
+                    "download": "1870394944"
                 },
                 "crashtester": {
-                    "gid": "9112325766871114002",
-                    "size": "4175187050",
-                    "download": "1844555984"
+                    "gid": "3400964019571293734",
+                    "size": "4226957323",
+                    "download": "1870394944"
                 },
                 "testing": {
-                    "gid": "1648628042960401003",
-                    "size": "4178851522",
-                    "download": "1846432192"
+                    "gid": "2788477119513936909",
+                    "size": "4238178563",
+                    "download": "1875585888"
                 }
             },
             "decryptionkey": "782dc04cd840b972d5f38b24f8e6190b7935018e7dfee5516cbe431927c12af0"
@@ -37,18 +37,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18353014",
-                "timeupdated": "1746498784"
+                "buildid": "18468049",
+                "timeupdated": "1747271307"
             },
             "crashtester": {
-                "buildid": "18353014",
+                "buildid": "18468049",
                 "description": "Used for specific debugging",
-                "timeupdated": "1746549450"
+                "timeupdated": "1747273017"
             },
             "testing": {
-                "buildid": "18412362",
+                "buildid": "18506247",
                 "description": "Current testing branch",
-                "timeupdated": "1746857222"
+                "timeupdated": "1747534375"
             }
         },
         "privatebranches": "1"
