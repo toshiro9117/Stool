@@ -4,8 +4,8 @@
     "name": "Haunted House Renovator",
     "schinese_name": " 鬼屋改造家",
     "isfreeapp": "0",
-    "change_number": "28920674",
-    "update_time": "2025-05-11 05:32:03",
+    "change_number": "29038065",
+    "update_time": "2025-05-17 16:11:44",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1917851": {
             "manifests": {
                 "public": {
-                    "gid": "5806586688355666796",
-                    "size": "8841718790",
-                    "download": "8459767776"
+                    "gid": "8675345836481696087",
+                    "size": "8830787239",
+                    "download": "8448864992"
                 },
                 "previouspatch": {
                     "gid": "30727319003609306",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18388851",
-                "timeupdated": "1746714836"
+                "buildid": "18448508",
+                "timeupdated": "1747220266"
             },
             "previouspatch": {
                 "buildid": "18373884",
