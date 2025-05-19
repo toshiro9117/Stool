@@ -4,8 +4,8 @@
     "name": "Revenge of the Savage Planet",
     "schinese_name": "狂野星球复仇记 / Revenge of the Savage Planet",
     "isfreeapp": "0",
-    "change_number": "28922333",
-    "update_time": "2025-05-11 10:38:15",
+    "change_number": "29046675",
+    "update_time": "2025-05-18 15:02:10",
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4885699390082849030",
-                    "size": "13660358188",
-                    "download": "13150325504"
+                    "gid": "8985457528705465843",
+                    "size": "13660381993",
+                    "download": "13169258768"
                 }
             },
             "decryptionkey": "07fdf2268a8c0b6b8d7dd4c5d7978e054ce837759193f7f5cacd2968150199a7"
         },
         "branches": {
             "public": {
-                "buildid": "18417602",
-                "timeupdated": "1746931090"
+                "buildid": "18493249",
+                "timeupdated": "1747416728"
             }
         },
         "privatebranches": "1"
