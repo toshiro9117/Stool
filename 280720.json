@@ -4,8 +4,8 @@
     "name": "Imagine Earth",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28514270",
-    "update_time": "2025-04-17 02:26:59",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:48",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,czech,turkish,brazilian",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4619594835132503236",
-                    "size": "1204729047",
-                    "download": "1023678880"
+                    "gid": "7725700744059327972",
+                    "size": "1204662608",
+                    "download": "1023622800"
                 },
                 "windows7": {
                     "gid": "2600225817670377064",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2809721595693862940",
-                    "size": "1139751925",
-                    "download": "1009768288"
+                    "gid": "2675644104444160967",
+                    "size": "1238433771",
+                    "download": "1029009056"
                 },
                 "windows7": {
                     "gid": "8869179559076508013",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18132558",
-                "timeupdated": "1744828016"
+                "buildid": "18428483",
+                "timeupdated": "1747129838"
             },
             "windows7": {
                 "buildid": "17469031",
