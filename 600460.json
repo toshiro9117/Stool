@@ -4,8 +4,8 @@
     "name": "Dustwind",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905217",
-    "update_time": "2025-05-10 00:02:16",
+    "change_number": "29010695",
+    "update_time": "2025-05-16 04:06:48",
     "depot": {
         "workshopdepot": "600460",
         "600461": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3623194008749759330",
-                    "size": "5773546284",
-                    "download": "2759558288"
+                    "gid": "6404994287989994294",
+                    "size": "5826506853",
+                    "download": "2794417488"
                 }
             },
             "decryptionkey": "a8ab7eaa8a346366a62f98324aa42fc47810de3eddadec629dd8929afc9248f0"
         },
         "branches": {
             "public": {
-                "buildid": "13738466",
-                "timeupdated": "1710420251"
+                "buildid": "18448828",
+                "timeupdated": "1747209155"
             }
         },
         "privatebranches": "1",
