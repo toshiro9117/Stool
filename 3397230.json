@@ -4,8 +4,8 @@
     "name": "Kitten Food Alley",
     "schinese_name": "摸猫美食街",
     "isfreeapp": "0",
-    "change_number": "28918244",
-    "update_time": "2025-05-10 23:36:38",
+    "change_number": "29026013",
+    "update_time": "2025-05-16 22:16:26",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3397231": {
             "manifests": {
                 "public": {
-                    "gid": "4486544895018918690",
-                    "size": "342559464",
-                    "download": "233015616"
+                    "gid": "2931776069994320055",
+                    "size": "343431207",
+                    "download": "243353840"
                 }
             },
             "decryptionkey": "3babcabdd7efcbe4b26cfe0246779f45880930d74680e8fc6872d2818700893c"
         },
         "branches": {
             "public": {
-                "buildid": "17707522",
-                "timeupdated": "1741862927"
+                "buildid": "18441049",
+                "timeupdated": "1747123624"
             }
         }
     }
