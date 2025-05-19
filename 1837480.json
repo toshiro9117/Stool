@@ -4,8 +4,8 @@
     "name": "Vietnam War",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922543",
-    "update_time": "2025-05-11 11:32:59",
+    "change_number": "29045908",
+    "update_time": "2025-05-18 12:10:46",
     "depot": {
         "1837481": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3116393744627197671",
-                    "size": "18324667000",
-                    "download": "3349205696"
+                    "gid": "5218749748051655043",
+                    "size": "18331126253",
+                    "download": "3351305280"
                 }
             },
             "decryptionkey": "e140fb5933b11af9d8299dc0e970924ee6e1fb0095d1a4c8e2569071456fc45b"
         },
         "branches": {
             "public": {
-                "buildid": "18417439",
-                "timeupdated": "1746928356"
+                "buildid": "18493666",
+                "timeupdated": "1747410325"
             }
         },
         "privatebranches": "1"
