@@ -4,10 +4,11 @@
     "name": "Fishing The Abyss",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28273156",
-    "update_time": "2025-04-03 01:19:14",
+    "change_number": "28995107",
+    "update_time": "2025-05-15 13:00:43",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "hasdepotsindlc": "1",
         "3313311": {
             "manifests": {
                 "public": {
