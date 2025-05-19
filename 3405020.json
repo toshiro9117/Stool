@@ -4,8 +4,8 @@
     "name": "That Village",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28831477",
-    "update_time": "2025-05-06 07:33:48",
+    "change_number": "29012704",
+    "update_time": "2025-05-16 06:37:03",
     "depot": {
         "baselanguages": "english,turkish",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9051005666755275582",
-                    "size": "6556480847",
-                    "download": "6112911088"
+                    "gid": "5497261697622909114",
+                    "size": "6584624287",
+                    "download": "6133650752"
                 }
             },
             "decryptionkey": "3a68ac6e036d5356dd24e7487ec4d2d44ed74510136faa3552203bded12d5b3e"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18352394",
-                "timeupdated": "1746487174"
+                "buildid": "18482956",
+                "timeupdated": "1747348062"
             }
         },
         "privatebranches": "1"
