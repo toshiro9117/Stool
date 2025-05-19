@@ -4,8 +4,8 @@
     "name": "YoloMouse",
     "schinese_name": "自定义游戏鼠标指针",
     "isfreeapp": "0",
-    "change_number": "28705613",
-    "update_time": "2025-04-28 20:13:39",
+    "change_number": "29044335",
+    "update_time": "2025-05-18 06:58:59",
     "depot": {
         "1283971": {
             "config": {
@@ -15,14 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5206306721335903823",
-                    "size": "288353593",
-                    "download": "22121040"
+                    "gid": "6988780672029801100",
+                    "size": "289076006",
+                    "download": "23000784"
                 },
                 "1.5.1": {
                     "gid": "606194377728035331",
                     "size": "142052423",
                     "download": "12813584"
+                },
+                "1.11.0": {
+                    "gid": "5206306721335903823",
+                    "size": "288353593",
+                    "download": "22121040"
                 },
                 "1.6.0": {
                     "gid": "3441495621563465349",
@@ -55,13 +60,19 @@
         "workshopdepot": "1283970",
         "branches": {
             "public": {
-                "buildid": "17760484",
-                "timeupdated": "1742272932"
+                "buildid": "18505435",
+                "timeupdated": "1747522364"
             },
             "1.5.1": {
                 "buildid": "10245617",
                 "description": "1.5.1",
                 "timeupdated": "1673844055"
+            },
+            "1.11.0": {
+                "sc_schinese": "以前的版本",
+                "buildid": "17760484",
+                "description": "last version",
+                "timeupdated": "1747509088"
             },
             "1.6.0": {
                 "buildid": "10329037",
@@ -85,7 +96,7 @@
             },
             "1.9.2": {
                 "buildid": "17250170",
-                "description": "last version",
+                "description": "1.9.2",
                 "timeupdated": "1740991060"
             }
         },
