@@ -4,8 +4,8 @@
     "name": "Full Ace Tennis Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28905215",
-    "update_time": "2025-05-10 00:02:12",
+    "change_number": "28956295",
+    "update_time": "2025-05-13 16:38:04",
     "depot": {
         "228983": {
             "config": {
@@ -46,9 +46,9 @@
                     "download": "172359024"
                 },
                 "beta-public": {
-                    "gid": "2189240264299035194",
-                    "size": "330604571",
-                    "download": "172359024"
+                    "gid": "6457690285163194196",
+                    "size": "330655592",
+                    "download": "172397568"
                 }
             },
             "decryptionkey": "240478122ad93c6ca2842dd1dcfa213ae0b0b01b6af713877f33a08dbc68dffa"
@@ -59,9 +59,9 @@
                 "timeupdated": "1732806167"
             },
             "beta-public": {
-                "buildid": "16567844",
+                "buildid": "18399138",
                 "description": "Public beta",
-                "timeupdated": "1746805897"
+                "timeupdated": "1747125478"
             }
         },
         "privatebranches": "1"
