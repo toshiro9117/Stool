@@ -4,8 +4,8 @@
     "name": "Sinister Night 2",
     "schinese_name": "不祥之夜：回魂",
     "isfreeapp": "0",
-    "change_number": "28782376",
-    "update_time": "2025-05-02 16:42:57",
+    "change_number": "29014413",
+    "update_time": "2025-05-16 09:06:48",
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4160648889626039999",
-                    "size": "24467268431",
-                    "download": "9568691120"
+                    "gid": "6977980811303682955",
+                    "size": "24481965096",
+                    "download": "9573073856"
                 }
             },
             "decryptionkey": "dd84f47ac8484212ed8f6d6a1c5372931a0e8b0fac876dcbc5fe2499f90f4282"
@@ -38,8 +38,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18318816",
-                "timeupdated": "1746175373"
+                "buildid": "18452932",
+                "timeupdated": "1747186654"
             }
         },
         "privatebranches": "1"
