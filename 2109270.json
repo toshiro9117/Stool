@@ -4,8 +4,8 @@
     "name": "Preserve",
     "schinese_name": "东篱之下",
     "isfreeapp": "0",
-    "change_number": "28898565",
-    "update_time": "2025-05-09 17:22:57",
+    "change_number": "29047825",
+    "update_time": "2025-05-18 18:15:03",
     "depot": {
         "baselanguages": "english",
         "2109271": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2032116613045069000",
-                    "size": "5478870967",
-                    "download": "3418383712"
+                    "gid": "4662864079117040540",
+                    "size": "1299679017",
+                    "download": "807401488"
                 }
             },
             "decryptionkey": "159b87c9592c3fcd889e37b4bb9ad67aa87361e8e6f1dc80f56e7013ce994bc0"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4864637478966751781",
-                    "size": "985986856",
-                    "download": "786769792"
+                    "gid": "6837951980070365008",
+                    "size": "985995769",
+                    "download": "786757920"
                 }
             }
         },
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5374311602321753437",
-                    "size": "3376091187",
-                    "download": "2199218800"
+                    "gid": "823446027086976139",
+                    "size": "3376093056",
+                    "download": "2194234640"
                 }
             }
         },
@@ -49,17 +49,17 @@
             "dlcappid": "3114870",
             "manifests": {
                 "public": {
-                    "gid": "5978852950305735066",
-                    "size": "72554167",
-                    "download": "68198256"
+                    "gid": "5117146261738859761",
+                    "size": "74822790",
+                    "download": "69024400"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18375565",
-                "timeupdated": "1746628933"
+                "buildid": "18476265",
+                "timeupdated": "1747314135"
             }
         },
         "privatebranches": "1"
