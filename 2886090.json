@@ -4,24 +4,24 @@
     "name": "Novice Dungeon Master",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28770399",
-    "update_time": "2025-05-01 23:10:39",
+    "change_number": "29015158",
+    "update_time": "2025-05-16 10:18:47",
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "2886091": {
             "manifests": {
                 "public": {
-                    "gid": "4872352693303537217",
-                    "size": "1062125323",
-                    "download": "95921456"
+                    "gid": "5578688944720256208",
+                    "size": "1064387094",
+                    "download": "96063376"
                 }
             },
             "decryptionkey": "748c3cf843ff66cdf4f1b2fcb2f16166fbed77f506e0dbac85d33a24fb9c5db9"
         },
         "branches": {
             "public": {
-                "buildid": "18310553",
-                "timeupdated": "1746112233"
+                "buildid": "18470928",
+                "timeupdated": "1747287457"
             }
         }
     }
