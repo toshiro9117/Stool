@@ -4,8 +4,8 @@
     "name": "Eden Crafters",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28911564",
-    "update_time": "2025-05-10 07:32:39",
+    "change_number": "29029933",
+    "update_time": "2025-05-17 01:48:53",
     "depot": {
         "228983": {
             "config": {
@@ -24,17 +24,17 @@
         "2570211": {
             "manifests": {
                 "public": {
-                    "gid": "8909267216388918281",
-                    "size": "3343520732",
-                    "download": "1115932208"
+                    "gid": "4603410182993153664",
+                    "size": "3344445815",
+                    "download": "1116026096"
                 }
             },
             "decryptionkey": "a6d9fd6c7cb73b8737246837d4b5446f3af752492a3a7adec43c60b3c590ca34"
         },
         "branches": {
             "public": {
-                "buildid": "17488700",
-                "timeupdated": "1740423853"
+                "buildid": "18508773",
+                "timeupdated": "1747575316"
             }
         },
         "privatebranches": "1"
