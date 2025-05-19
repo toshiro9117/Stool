@@ -4,15 +4,15 @@
     "name": "Cosmic",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28825040",
-    "update_time": "2025-05-05 23:30:23",
+    "change_number": "28979730",
+    "update_time": "2025-05-14 22:47:25",
     "depot": {
         "1769101": {
             "manifests": {
                 "public": {
-                    "gid": "3400797880512406983",
-                    "size": "4955294337",
-                    "download": "1046502176"
+                    "gid": "1320216093076460644",
+                    "size": "4946909953",
+                    "download": "1044398192"
                 }
             },
             "decryptionkey": "07c3c074f024e19355be017b09180963c177be1c7c94dfef286776386e44dae9"
@@ -20,8 +20,8 @@
         "baselanguages": "english,spanish,schinese,russian,polish,turkish",
         "branches": {
             "public": {
-                "buildid": "18337530",
-                "timeupdated": "1746356820"
+                "buildid": "18459397",
+                "timeupdated": "1747222898"
             }
         }
     }
