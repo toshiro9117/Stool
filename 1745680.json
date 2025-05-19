@@ -4,8 +4,8 @@
     "name": "Odd Remedy",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28921386",
-    "update_time": "2025-05-11 07:31:03",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:29",
     "depot": {
         "1745681": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8343537595062760022",
-                    "size": "785882610",
-                    "download": "352998720"
+                    "gid": "8800890959846126188",
+                    "size": "783127792",
+                    "download": "352227440"
                 },
                 "beta": {
-                    "gid": "8343537595062760022",
-                    "size": "785882610",
-                    "download": "352998720"
+                    "gid": "8800890959846126188",
+                    "size": "783127792",
+                    "download": "352227440"
                 },
                 "convert": {
                     "gid": "2416926728589441391",
@@ -36,14 +36,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2028020603195192658",
-                    "size": "772292943",
-                    "download": "345268224"
+                    "gid": "7199007836188568318",
+                    "size": "772323968",
+                    "download": "345269904"
                 },
                 "beta": {
-                    "gid": "2028020603195192658",
-                    "size": "772292943",
-                    "download": "345268224"
+                    "gid": "7199007836188568318",
+                    "size": "772323968",
+                    "download": "345269904"
                 },
                 "convert": {
                     "gid": "62926792091187509",
@@ -54,13 +54,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18413640",
-                "timeupdated": "1746873854"
+                "buildid": "18443789",
+                "timeupdated": "1747135374"
             },
             "beta": {
-                "buildid": "18413640",
+                "buildid": "18443789",
                 "description": "beta",
-                "timeupdated": "1746873834"
+                "timeupdated": "1747135357"
             },
             "convert": {
                 "buildid": "17269680",
