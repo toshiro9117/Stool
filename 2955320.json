@@ -4,8 +4,8 @@
     "name": "Horse Runner DX",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28878004",
-    "update_time": "2025-05-08 16:37:20",
+    "change_number": "29020121",
+    "update_time": "2025-05-16 16:46:00",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese",
         "2955321": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7524400334217759084",
-                    "size": "62499267",
-                    "download": "35639536"
+                    "gid": "6727336799211728010",
+                    "size": "62513203",
+                    "download": "35657728"
                 },
                 "beta": {
-                    "gid": "7524400334217759084",
-                    "size": "62499267",
-                    "download": "35639536"
+                    "gid": "6727336799211728010",
+                    "size": "62513203",
+                    "download": "35657728"
                 }
             },
             "decryptionkey": "6a38e39f98ceb54cff1b80dd071ccf60cfa130674be90d7068ef3d5f2eeeddf8"
@@ -32,26 +32,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7315736407196819828",
-                    "size": "88908039",
-                    "download": "42422608"
+                    "gid": "1800098581709466085",
+                    "size": "88921975",
+                    "download": "42441024"
                 },
                 "beta": {
-                    "gid": "7315736407196819828",
-                    "size": "88908039",
-                    "download": "42422608"
+                    "gid": "1800098581709466085",
+                    "size": "88921975",
+                    "download": "42441024"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18145128",
-                "timeupdated": "1744908241"
+                "buildid": "18456875",
+                "timeupdated": "1747216197"
             },
             "beta": {
-                "buildid": "18145128",
+                "buildid": "18456875",
                 "description": "Public beta",
-                "timeupdated": "1744898984"
+                "timeupdated": "1747211307"
             }
         }
     }
