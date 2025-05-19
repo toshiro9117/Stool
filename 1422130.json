@@ -4,8 +4,8 @@
     "name": "SimRail - The Railway Simulator",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28917217",
-    "update_time": "2025-05-10 21:05:45",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:40",
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "workshopdepot": "1422130",
@@ -19,14 +19,14 @@
         "1422131": {
             "manifests": {
                 "public": {
-                    "gid": "8742192591527470570",
-                    "size": "1195096817",
-                    "download": "748555792"
+                    "gid": "645317784359968526",
+                    "size": "1195117530",
+                    "download": "748600656"
                 },
                 "next": {
-                    "gid": "6835752219381751851",
-                    "size": "1195107667",
-                    "download": "748602288"
+                    "gid": "645317784359968526",
+                    "size": "1195117530",
+                    "download": "748600656"
                 }
             },
             "decryptionkey": "1619b6c1fac954e2ca5ad8b46b1e5073af05feea9be14ef642832dc14e76a5d1"
@@ -34,14 +34,14 @@
         "1422133": {
             "manifests": {
                 "public": {
-                    "gid": "1552912256819990906",
-                    "size": "20108606751",
-                    "download": "17066322304"
+                    "gid": "9078882144508363902",
+                    "size": "20144100380",
+                    "download": "17093680992"
                 },
                 "next": {
-                    "gid": "1303954894500823282",
-                    "size": "20116991278",
-                    "download": "17072852384"
+                    "gid": "9078882144508363902",
+                    "size": "20144100380",
+                    "download": "17093680992"
                 }
             },
             "decryptionkey": "03e8f3d92041be292986b8d84398fa901e2679f3eb8ebbea2fdef8ef623b3eaa"
@@ -49,14 +49,14 @@
         "1422134": {
             "manifests": {
                 "public": {
-                    "gid": "8236308338998144207",
-                    "size": "372137104",
-                    "download": "286362160"
+                    "gid": "4743157558475308341",
+                    "size": "372538223",
+                    "download": "286573472"
                 },
                 "next": {
-                    "gid": "3366451480392009341",
-                    "size": "372526303",
-                    "download": "286567056"
+                    "gid": "4743157558475308341",
+                    "size": "372538223",
+                    "download": "286573472"
                 }
             },
             "decryptionkey": "94a2e078e11a6ba3a441b41c83704e96dd97b8581f49fa6d0fd5116167e7b5ff"
@@ -64,14 +64,14 @@
         "1422132": {
             "manifests": {
                 "public": {
-                    "gid": "2966124771618680600",
-                    "size": "47909211409",
-                    "download": "32839904448"
+                    "gid": "7971067380264156322",
+                    "size": "47947719842",
+                    "download": "32862321456"
                 },
                 "next": {
-                    "gid": "1268172747945153502",
-                    "size": "47940356313",
-                    "download": "32858217264"
+                    "gid": "7971067380264156322",
+                    "size": "47947719842",
+                    "download": "32862321456"
                 }
             },
             "decryptionkey": "5ba05793cfe06281329404679e35c9916f808892b239e8e11f26360f0a6614af"
@@ -80,14 +80,14 @@
             "dlcappid": "3580250",
             "manifests": {
                 "public": {
-                    "gid": "4558690236009095671",
-                    "size": "17384294630",
-                    "download": "12430756800"
+                    "gid": "7301629744355006888",
+                    "size": "17618214239",
+                    "download": "12532930256"
                 },
                 "next": {
-                    "gid": "3528169605949045255",
-                    "size": "17506100146",
-                    "download": "12493076880"
+                    "gid": "7301629744355006888",
+                    "size": "17618214239",
+                    "download": "12532930256"
                 }
             },
             "decryptionkey": ""
@@ -96,14 +96,14 @@
             "dlcappid": "3583200",
             "manifests": {
                 "public": {
-                    "gid": "3146141348817606762",
-                    "size": "8709734199",
-                    "download": "5948231424"
+                    "gid": "6715500264731107275",
+                    "size": "8856297735",
+                    "download": "6024441904"
                 },
                 "next": {
-                    "gid": "5690627926234957551",
-                    "size": "8825451119",
-                    "download": "6005570928"
+                    "gid": "6715500264731107275",
+                    "size": "8856297735",
+                    "download": "6024441904"
                 }
             },
             "decryptionkey": "35592f2d0dede2624b2620b56c4ee6070629e682ca1de506136164a6bd3260f3"
@@ -111,13 +111,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18351729",
-                "timeupdated": "1746538740"
+                "buildid": "18435444",
+                "timeupdated": "1747175870"
             },
             "next": {
-                "buildid": "18413112",
+                "buildid": "18435444",
                 "description": "Testing of next update",
-                "timeupdated": "1746882338"
+                "timeupdated": "1747086815"
             }
         },
         "privatebranches": "1",
