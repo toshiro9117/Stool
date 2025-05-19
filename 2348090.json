@@ -4,8 +4,8 @@
     "name": "Crop Rotation",
     "schinese_name": "轮作法 Crop Rotation",
     "isfreeapp": "0",
-    "change_number": "28699370",
-    "update_time": "2025-04-28 12:48:30",
+    "change_number": "29037850",
+    "update_time": "2025-05-17 15:48:27",
     "depot": {
         "228989": {
             "config": {
@@ -39,6 +39,11 @@
                     "gid": "6708501836307388606",
                     "size": "102790623",
                     "download": "86940032"
+                },
+                "v1.3": {
+                    "gid": "4948509146114093146",
+                    "size": "105220365",
+                    "download": "87706416"
                 }
             },
             "decryptionkey": "c0e25b81db2853448631a071c5171340fd5ac1dd04516c84176c53853b64342c"
@@ -68,6 +73,11 @@
                     "gid": "6179407042629630968",
                     "size": "96558150",
                     "download": "86584320"
+                },
+                "v1.3": {
+                    "gid": "2855499157084633324",
+                    "size": "97346547",
+                    "download": "86774848"
                 }
             },
             "decryptionkey": ""
@@ -96,6 +106,11 @@
                     "gid": "4221344794560079677",
                     "size": "93902191",
                     "download": "85591264"
+                },
+                "v1.3": {
+                    "gid": "7375988876597769601",
+                    "size": "94493722",
+                    "download": "85736560"
                 }
             },
             "decryptionkey": ""
@@ -119,6 +134,11 @@
                 "buildid": "14251350",
                 "description": "Archived version 1.2.10",
                 "timeupdated": "1718681600"
+            },
+            "v1.3": {
+                "buildid": "15925888",
+                "description": "Archived version 1.3.6",
+                "timeupdated": "1747155419"
             }
         },
         "privatebranches": "1"
