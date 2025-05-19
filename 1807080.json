@@ -4,8 +4,8 @@
     "name": "Ghost Exile",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915732",
-    "update_time": "2025-05-10 17:01:01",
+    "change_number": "28983812",
+    "update_time": "2025-05-14 23:13:58",
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4525958564262274294",
-                    "size": "14363842026",
-                    "download": "7444717968"
+                    "gid": "1049278084864606305",
+                    "size": "14360667378",
+                    "download": "7443406096"
                 }
             },
             "decryptionkey": "589b37c3941d4cbe363fbca9c77b3119c8c942dfb056f92e7cea0f42f30382fd"
         },
         "branches": {
             "public": {
-                "buildid": "18396544",
-                "timeupdated": "1746757210"
+                "buildid": "18462254",
+                "timeupdated": "1747235615"
             }
         },
         "privatebranches": "1"
