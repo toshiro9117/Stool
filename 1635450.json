@@ -4,8 +4,8 @@
     "name": "Longvinter",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28897337",
-    "update_time": "2025-05-09 16:07:49",
+    "change_number": "28988782",
+    "update_time": "2025-05-15 04:06:32",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4762080828509019077",
-                    "size": "7822363925",
-                    "download": "1520212400"
+                    "gid": "624823846557897043",
+                    "size": "7822376213",
+                    "download": "1520272336"
                 },
                 "1.10b": {
                     "gid": "3739550028934972874",
@@ -120,8 +120,8 @@
         "workshopdepot": "1635450",
         "branches": {
             "public": {
-                "buildid": "18399844",
-                "timeupdated": "1746778062"
+                "buildid": "18418474",
+                "timeupdated": "1746946336"
             },
             "1.10b": {
                 "buildid": "11347715",
