@@ -4,8 +4,8 @@
     "name": "Latex & Tentacles",
     "schinese_name": "模拟触手",
     "isfreeapp": "0",
-    "change_number": "28879751",
-    "update_time": "2025-05-08 18:24:41",
+    "change_number": "28991108",
+    "update_time": "2025-05-15 06:59:46",
     "depot": {
         "1938301": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "47396461041995231",
-                    "size": "1132767544",
-                    "download": "729848640"
+                    "gid": "1320563846593213897",
+                    "size": "4342477104",
+                    "download": "634492304"
                 }
             },
             "decryptionkey": "1788feeb0f2ddff968a94fd76e7a3b8c64b57f191c423264c48b7fb22839eb4a"
         },
         "branches": {
             "public": {
-                "buildid": "18387240",
-                "timeupdated": "1746699874"
+                "buildid": "18420389",
+                "timeupdated": "1746973666"
             }
         },
         "privatebranches": "1"
