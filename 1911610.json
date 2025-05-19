@@ -4,8 +4,8 @@
     "name": "Windblown",
     "schinese_name": "风中行者",
     "isfreeapp": "0",
-    "change_number": "28903837",
-    "update_time": "2025-05-09 22:41:57",
+    "change_number": "29006848",
+    "update_time": "2025-05-16 00:24:28",
     "depot": {
         "1911611": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5720101122703848542",
-                    "size": "2976582073",
-                    "download": "2316707424"
+                    "gid": "5288914592934580360",
+                    "size": "3003407209",
+                    "download": "2338984112"
                 },
                 "public_beta": {
-                    "gid": "4096373536190295412",
-                    "size": "2998069531",
-                    "download": "2331524336"
+                    "gid": "5288914592934580360",
+                    "size": "3003407209",
+                    "download": "2338984112"
                 },
                 "v0.1": {
                     "gid": "3269812541249164264",
@@ -36,6 +36,11 @@
                     "gid": "8636626934840864109",
                     "size": "2832252515",
                     "download": "2190292320"
+                },
+                "v0.4": {
+                    "gid": "5720101122703848542",
+                    "size": "2976582073",
+                    "download": "2316707424"
                 }
             },
             "decryptionkey": "b5c4bddd645cf434b93fe6fe8451160b95b68c9237ec33aa6387fedabe06ced9"
@@ -43,13 +48,13 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "18402558",
-                "timeupdated": "1746793951"
+                "buildid": "18477114",
+                "timeupdated": "1747324547"
             },
             "public_beta": {
-                "buildid": "18404655",
+                "buildid": "18477114",
                 "description": "Beta - Your progress will be saved",
-                "timeupdated": "1746801711"
+                "timeupdated": "1747324526"
             },
             "v0.1": {
                 "buildid": "16541666",
@@ -65,6 +70,11 @@
                 "buildid": "17957744",
                 "description": "U2 - Endless Update",
                 "timeupdated": "1743611855"
+            },
+            "v0.4": {
+                "buildid": "18402558",
+                "description": "U3 - Sanctuary Update",
+                "timeupdated": "1747143648"
             }
         },
         "privatebranches": "1"
