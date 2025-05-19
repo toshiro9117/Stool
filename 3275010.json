@@ -4,23 +4,23 @@
     "name": "Rogue Loops",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28872351",
-    "update_time": "2025-05-08 08:33:18",
+    "change_number": "29042906",
+    "update_time": "2025-05-18 03:12:27",
     "depot": {
         "3275011": {
             "manifests": {
                 "public": {
-                    "gid": "5476743301426853505",
-                    "size": "3559707196",
-                    "download": "1360696400"
+                    "gid": "1929408213475511751",
+                    "size": "3559869020",
+                    "download": "1374669392"
                 }
             },
             "decryptionkey": "a65ad5083ef65cb6ed7a3aa2b234ead29b4d0068c22a229791d9ce890801bde7"
         },
         "branches": {
             "public": {
-                "buildid": "18362349",
-                "timeupdated": "1746550153"
+                "buildid": "18503007",
+                "timeupdated": "1747490677"
             }
         },
         "privatebranches": "1"
