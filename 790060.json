@@ -4,15 +4,15 @@
     "name": "The Void Rains Upon Her Heart",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28805969",
-    "update_time": "2025-05-04 10:42:17",
+    "change_number": "29015539",
+    "update_time": "2025-05-16 10:53:27",
     "depot": {
         "790061": {
             "manifests": {
                 "public": {
-                    "gid": "2074135929892569426",
-                    "size": "208610527",
-                    "download": "166524272"
+                    "gid": "4471115175656683644",
+                    "size": "208582734",
+                    "download": "166484288"
                 },
                 "chinese": {
                     "gid": "7300077260140927907",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18335641",
-                "timeupdated": "1746326532"
+                "buildid": "18485161",
+                "timeupdated": "1747364002"
             },
             "chinese": {
                 "buildid": "18290195",
