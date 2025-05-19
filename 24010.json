@@ -4,8 +4,8 @@
     "name": "Train Simulator Classic 2024",
     "schinese_name": "经典模拟列车 2024",
     "isfreeapp": "0",
-    "change_number": "28885424",
-    "update_time": "2025-05-08 23:48:17",
+    "change_number": "28969619",
+    "update_time": "2025-05-14 06:47:43",
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish",
@@ -19181,7 +19181,20 @@
             "decryptionkey": ""
         },
         "3402970": {
-            "dlcappid": "3402970"
+            "dlcappid": "3402970",
+            "manifests": {
+                "public": {
+                    "gid": "5583214659844183413",
+                    "size": "435664672",
+                    "download": "111985456"
+                },
+                "public_beta": {
+                    "gid": "5583214659844183413",
+                    "size": "435664672",
+                    "download": "111985456"
+                }
+            },
+            "decryptionkey": ""
         },
         "3402980": {
             "dlcappid": "3402980"
@@ -19243,13 +19256,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18391139",
-                "timeupdated": "1746719291"
+                "buildid": "18430191",
+                "timeupdated": "1747058473"
             },
             "public_beta": {
-                "buildid": "18391131",
+                "buildid": "18429872",
                 "description": "Public Beta branch",
-                "timeupdated": "1746719246"
+                "timeupdated": "1747056788"
             }
         },
         "privatebranches": "1",
