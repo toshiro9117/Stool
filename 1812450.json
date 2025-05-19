@@ -4,8 +4,8 @@
     "name": "Bellwright",
     "schinese_name": "颂钟长鸣",
     "isfreeapp": "0",
-    "change_number": "28922266",
-    "update_time": "2025-05-11 10:26:04",
+    "change_number": "29048591",
+    "update_time": "2025-05-18 20:21:49",
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8578745424016475067",
-                    "size": "17465309313",
-                    "download": "16553692736"
+                    "gid": "8015424006209963425",
+                    "size": "17465364449",
+                    "download": "16553742320"
                 },
                 "august_update": {
                     "gid": "7447371077549308270",
@@ -55,8 +55,8 @@
         "workshopdepot": "1812450",
         "branches": {
             "public": {
-                "buildid": "18388623",
-                "timeupdated": "1746711053"
+                "buildid": "18475519",
+                "timeupdated": "1747321057"
             },
             "august_update": {
                 "buildid": "16516789",
