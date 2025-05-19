@@ -4,8 +4,8 @@
     "name": "Oppidum",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920500",
-    "update_time": "2025-05-11 05:06:28",
+    "change_number": "29035026",
+    "update_time": "2025-05-17 08:49:29",
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3426144002701933569",
-                    "size": "4712153170",
-                    "download": "2154186128"
+                    "gid": "4488358531069541494",
+                    "size": "4711039286",
+                    "download": "2153889312"
                 }
             },
             "decryptionkey": "694f8e5ac2f0394f8034e08f3f0828e27d157bd485e1f8176c77f95d8088e616"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3385405200520593175",
-                    "size": "4834940141",
-                    "download": "2167163152"
+                    "gid": "4000052128104105855",
+                    "size": "4834011097",
+                    "download": "2166806960"
                 }
             }
         },
@@ -45,16 +45,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "166790233668854629",
-                    "size": "4770429795",
-                    "download": "2156226016"
+                    "gid": "3870529521264721399",
+                    "size": "4769425943",
+                    "download": "2155908400"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18416430",
-                "timeupdated": "1746911183"
+                "buildid": "18498927",
+                "timeupdated": "1747442966"
             }
         }
     }
