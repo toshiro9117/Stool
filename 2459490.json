@@ -2,10 +2,10 @@
     "appid": "2459490",
     "type": "Game",
     "name": "This Grand Life 2",
-    "schinese_name": "",
+    "schinese_name": "This Grand Life 2 (这宏伟的人生2)",
     "isfreeapp": "0",
-    "change_number": "28836920",
-    "update_time": "2025-05-06 16:06:38",
+    "change_number": "29021542",
+    "update_time": "2025-05-16 18:03:31",
     "depot": {
         "228984": {
             "config": {
@@ -31,14 +31,14 @@
         "2459491": {
             "manifests": {
                 "public": {
-                    "gid": "3833383929491920414",
-                    "size": "941951277",
-                    "download": "906738112"
+                    "gid": "1342624728317867891",
+                    "size": "942005760",
+                    "download": "906776944"
                 },
                 "experimental": {
-                    "gid": "3833383929491920414",
-                    "size": "941951277",
-                    "download": "906738112"
+                    "gid": "1342624728317867891",
+                    "size": "942005760",
+                    "download": "906776944"
                 },
                 "v0.59.09": {
                     "gid": "5574560775322840453",
@@ -51,13 +51,13 @@
         "workshopdepot": "2459490",
         "branches": {
             "public": {
-                "buildid": "18356402",
-                "timeupdated": "1746518792"
+                "buildid": "18489286",
+                "timeupdated": "1747389807"
             },
             "experimental": {
-                "buildid": "18356402",
+                "buildid": "18489286",
                 "description": "For early release of major updates",
-                "timeupdated": "1746518766"
+                "timeupdated": "1747389789"
             },
             "v0.59.09": {
                 "buildid": "16763996",
