@@ -4,8 +4,8 @@
     "name": "Firefight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28788036",
-    "update_time": "2025-05-02 23:32:28",
+    "change_number": "29028017",
+    "update_time": "2025-05-17 00:02:32",
     "depot": {
         "500191": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7598205324874267696",
-                    "size": "612728900",
-                    "download": "459171360"
+                    "gid": "5240045042948244007",
+                    "size": "616627645",
+                    "download": "462945616"
                 }
             },
             "decryptionkey": "8b95e697d05fe7d25c1c6b1bbe7e5dc87aa4b4a52da72fc60a4c1cc9f77def49"
         },
         "branches": {
             "public": {
-                "buildid": "18323330",
-                "timeupdated": "1746199914"
+                "buildid": "18493788",
+                "timeupdated": "1747411348"
             }
         }
     }
