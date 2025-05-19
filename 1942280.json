@@ -4,8 +4,8 @@
     "name": "Brotato",
     "schinese_name": "土豆兄弟(Brotato)",
     "isfreeapp": "0",
-    "change_number": "28903342",
-    "update_time": "2025-05-09 22:12:26",
+    "change_number": "29002205",
+    "update_time": "2025-05-15 20:35:19",
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1942280",
@@ -30,9 +30,9 @@
                     "download": "88781184"
                 },
                 "beta": {
-                    "gid": "7215706020726528614",
-                    "size": "207451147",
-                    "download": "136523536"
+                    "gid": "5256550687244423406",
+                    "size": "207451854",
+                    "download": "136522608"
                 },
                 "reset": {
                     "gid": "8348398703013273744",
@@ -64,9 +64,9 @@
                     "download": "52503808"
                 },
                 "beta": {
-                    "gid": "1828673836707152912",
-                    "size": "55315696",
-                    "download": "52502976"
+                    "gid": "2190377461224229087",
+                    "size": "55315888",
+                    "download": "52503104"
                 },
                 "v1.1.0.0-compat": {
                     "gid": "8743804879875762247",
@@ -97,9 +97,9 @@
                 "timeupdated": "1701779214"
             },
             "beta": {
-                "buildid": "18296478",
+                "buildid": "18475648",
                 "description": "Test new updates before they go public, may be unstable",
-                "timeupdated": "1746020770"
+                "timeupdated": "1747312515"
             },
             "reset": {
                 "buildid": "16182449",
