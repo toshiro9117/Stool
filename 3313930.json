@@ -4,8 +4,8 @@
     "name": "Galactic Simulator",
     "schinese_name": "银河模拟器",
     "isfreeapp": "0",
-    "change_number": "28853505",
-    "update_time": "2025-05-07 11:06:29",
+    "change_number": "28936424",
+    "update_time": "2025-05-12 18:12:16",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "3313931": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7039379400663802592",
-                    "size": "8829817514",
-                    "download": "4361532992"
+                    "gid": "3680636607518529465",
+                    "size": "8929681930",
+                    "download": "4373323136"
                 }
             },
             "decryptionkey": "077a42431cae38d8a3183231cc33b6a95e9705edaae950d11928baabb6beb0cd"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3999029945817114275",
-                    "size": "8971990796",
-                    "download": "4390589920"
+                    "gid": "9011809361646434916",
+                    "size": "9071855208",
+                    "download": "4402349856"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18315744",
-                "timeupdated": "1746147173"
+                "buildid": "18427440",
+                "timeupdated": "1747044730"
             }
         }
     }
