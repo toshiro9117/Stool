@@ -4,8 +4,8 @@
     "name": "突破重围",
     "schinese_name": "突破重围",
     "isfreeapp": "0",
-    "change_number": "28921393",
-    "update_time": "2025-05-11 07:31:29",
+    "change_number": "29027444",
+    "update_time": "2025-05-16 23:31:38",
     "depot": {
         "3234701": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4015188770708213061",
-                    "size": "355651875",
-                    "download": "96257824"
+                    "gid": "8786006658529314337",
+                    "size": "355817596",
+                    "download": "96471888"
                 },
                 "old_ver": {
                     "gid": "6034048895571895172",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8944615012355504515",
-                    "size": "356647569",
-                    "download": "95230144"
+                    "gid": "1360122374649767044",
+                    "size": "356797913",
+                    "download": "95426992"
                 },
                 "old_ver": {
                     "gid": "5822234940573707842",
@@ -45,8 +45,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18414371",
-                "timeupdated": "1746885060"
+                "buildid": "18493521",
+                "timeupdated": "1747409495"
             },
             "old_ver": {
                 "buildid": "18391397",
