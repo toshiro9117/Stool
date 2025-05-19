@@ -4,20 +4,20 @@
     "name": "Axon TD: Uprising",
     "schinese_name": "铁壁矩阵：轴突塔防",
     "isfreeapp": "0",
-    "change_number": "28895695",
-    "update_time": "2025-05-09 13:50:59",
+    "change_number": "28972686",
+    "update_time": "2025-05-14 11:30:37",
     "depot": {
         "2296551": {
             "manifests": {
                 "public": {
-                    "gid": "2742831060443544818",
-                    "size": "12814356363",
-                    "download": "4639863616"
+                    "gid": "6119694844060703690",
+                    "size": "12814348755",
+                    "download": "4639888880"
                 },
                 "alpha": {
-                    "gid": "4520792363107539184",
-                    "size": "12792378101",
-                    "download": "4637107696"
+                    "gid": "4461954339165107263",
+                    "size": "12795711911",
+                    "download": "4637365424"
                 }
             },
             "decryptionkey": "994797aef82fe80d6f97c48f11ecd3692850bd111ad65296b834eac1a5ee6391"
@@ -26,13 +26,13 @@
         "baselanguages": "english,german,koreana,schinese,tchinese,japanese,latam",
         "branches": {
             "public": {
-                "buildid": "18031683",
-                "timeupdated": "1744150804"
+                "buildid": "18419085",
+                "timeupdated": "1746955649"
             },
             "alpha": {
-                "buildid": "17106112",
+                "buildid": "18454016",
                 "description": "Public testing",
-                "timeupdated": "1737641203"
+                "timeupdated": "1747193426"
             }
         },
         "privatebranches": "1",
