@@ -4,8 +4,8 @@
     "name": "Kingdoms and Castles",
     "schinese_name": "王国与城堡",
     "isfreeapp": "0",
-    "change_number": "28891870",
-    "update_time": "2025-05-09 07:25:03",
+    "change_number": "28974981",
+    "update_time": "2025-05-14 22:37:35",
     "depot": {
         "228988": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2280881462618114424",
-                    "size": "849286365",
-                    "download": "398652640"
+                    "gid": "2885262434097889604",
+                    "size": "854812107",
+                    "download": "399885168"
                 },
                 "beautification(v112r5)": {
                     "gid": "7357590645624386131",
@@ -66,9 +66,9 @@
                     "download": "324818480"
                 },
                 "next-version-preview": {
-                    "gid": "1731841123377089110",
-                    "size": "931733765",
-                    "download": "413585520"
+                    "gid": "2885262434097889604",
+                    "size": "854812107",
+                    "download": "399885168"
                 }
             },
             "decryptionkey": "812b93c7ade8e5e40c5f29b44c81ebe626c7e4246e4e11a229f50f7f8ffb5f33"
@@ -79,9 +79,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4483225258346151468",
-                    "size": "847225785",
-                    "download": "398920464"
+                    "gid": "6844456875230488863",
+                    "size": "855766963",
+                    "download": "402958192"
                 },
                 "beautification(v112r5)": {
                     "gid": "8071364160419704258",
@@ -124,9 +124,9 @@
                     "download": "332487952"
                 },
                 "next-version-preview": {
-                    "gid": "6892645041509035621",
-                    "size": "914582730",
-                    "download": "411110560"
+                    "gid": "6844456875230488863",
+                    "size": "855766963",
+                    "download": "402958192"
                 }
             },
             "decryptionkey": "131f3c6fa1c393f5b884c0a662bf5c0c197f1fec53b7a56c7fa8940617e0e6be"
@@ -137,9 +137,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7659867263686198522",
-                    "size": "856674741",
-                    "download": "403082672"
+                    "gid": "6101513747695861145",
+                    "size": "860069189",
+                    "download": "404344544"
                 },
                 "beautification(v112r5)": {
                     "gid": "4753409506192294295",
@@ -182,9 +182,9 @@
                     "download": "335257872"
                 },
                 "next-version-preview": {
-                    "gid": "2767015906227959688",
-                    "size": "890981565",
-                    "download": "410907040"
+                    "gid": "6101513747695861145",
+                    "size": "860069189",
+                    "download": "404344544"
                 }
             },
             "decryptionkey": "b6d2e0a8b8c2f0ead721d72c3ad8f46088407bf1807a22dfb4ee57eceb210267"
@@ -196,9 +196,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3485094590771445481",
-                    "size": "870707685",
-                    "download": "402488672"
+                    "gid": "5576239985577167374",
+                    "size": "874160243",
+                    "download": "403742288"
                 },
                 "beautification(v112r5)": {
                     "gid": "2733223439977369976",
@@ -241,9 +241,9 @@
                     "download": "327119776"
                 },
                 "next-version-preview": {
-                    "gid": "9178380592805093654",
-                    "size": "948369841",
-                    "download": "417491408"
+                    "gid": "5576239985577167374",
+                    "size": "874160243",
+                    "download": "403742288"
                 }
             },
             "decryptionkey": "13bb193ffd7e8031b4e453f99a765883b782333ee150988412780b264ed4f248"
@@ -252,9 +252,9 @@
             "dlcappid": "1764300",
             "manifests": {
                 "public": {
-                    "gid": "560996320981635436",
-                    "size": "304942578",
-                    "download": "309103952"
+                    "gid": "4458750912456406560",
+                    "size": "304939482",
+                    "download": "309101872"
                 },
                 "v117r7": {
                     "gid": "1783520281209735128",
@@ -281,8 +281,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12845305",
-                "timeupdated": "1701443734"
+                "buildid": "18450780",
+                "timeupdated": "1747194063"
             },
             "beautification(v112r5)": {
                 "buildid": "3139759",
@@ -321,9 +321,9 @@
                 "timeupdated": "1548281508"
             },
             "next-version-preview": {
-                "buildid": "18395781",
+                "buildid": "18450780",
                 "description": "Beta",
-                "timeupdated": "1746746699"
+                "timeupdated": "1747171221"
             }
         },
         "privatebranches": "1",
