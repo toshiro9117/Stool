@@ -4,8 +4,8 @@
     "name": "Maze Mice",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920030",
-    "update_time": "2025-05-11 04:02:51",
+    "change_number": "29037858",
+    "update_time": "2025-05-17 15:49:27",
     "depot": {
         "3385371": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "680318527773141322",
-                    "size": "100234664",
-                    "download": "51157904"
+                    "gid": "7014007033806310948",
+                    "size": "100248008",
+                    "download": "51165680"
                 }
             },
             "decryptionkey": "2d56e4408892643e0fa5d463e4da28628df9877ddb33e890d8d89d95ad673b39"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3333302494465305452",
-                    "size": "175315212",
-                    "download": "66141664"
+                    "gid": "2323422906156740903",
+                    "size": "175328540",
+                    "download": "66153712"
                 }
             }
         },
@@ -38,17 +38,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4230501107049610576",
-                    "size": "108393224",
-                    "download": "53184320"
+                    "gid": "6256288156002870315",
+                    "size": "108406600",
+                    "download": "53196288"
                 }
             }
         },
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18416089",
-                "timeupdated": "1746907366"
+                "buildid": "18439327",
+                "timeupdated": "1747113712"
             }
         },
         "privatebranches": "1"
