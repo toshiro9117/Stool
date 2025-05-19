@@ -4,8 +4,8 @@
     "name": "Plains of Pain (Dedicated Server)",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918769",
-    "update_time": "2025-05-11 00:52:15",
+    "change_number": "29040107",
+    "update_time": "2025-05-17 21:02:29",
     "depot": {
         "1004": {
             "config": {
@@ -63,14 +63,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5183639391910707336",
-                    "size": "517842529",
-                    "download": "210821104"
+                    "gid": "3699295009074895141",
+                    "size": "517875568",
+                    "download": "210832608"
                 },
                 "experimental": {
-                    "gid": "5183639391910707336",
-                    "size": "517842529",
-                    "download": "210821104"
+                    "gid": "3699295009074895141",
+                    "size": "517875568",
+                    "download": "210832608"
                 },
                 "legacy_v05": {
                     "gid": "2670311480874287994",
@@ -86,14 +86,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3846044601033901720",
-                    "size": "450178738",
-                    "download": "186122704"
+                    "gid": "1061998925985248464",
+                    "size": "450212391",
+                    "download": "186130208"
                 },
                 "experimental": {
-                    "gid": "3846044601033901720",
-                    "size": "450178738",
-                    "download": "186122704"
+                    "gid": "1061998925985248464",
+                    "size": "450212391",
+                    "download": "186130208"
                 },
                 "legacy_v05": {
                     "gid": "4914551524838793718",
@@ -105,13 +105,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18408655",
-                "timeupdated": "1746895930"
+                "buildid": "18502693",
+                "timeupdated": "1747486934"
             },
             "experimental": {
-                "buildid": "18408655",
+                "buildid": "18502693",
                 "description": "Next patch",
-                "timeupdated": "1746823649"
+                "timeupdated": "1747486947"
             },
             "legacy_v05": {
                 "buildid": "16964335",
