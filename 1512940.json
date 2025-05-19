@@ -4,8 +4,8 @@
     "name": "Malody V",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28855562",
-    "update_time": "2025-05-07 14:22:15",
+    "change_number": "29040034",
+    "update_time": "2025-05-17 20:53:11",
     "depot": {
         "1512941": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6671671666474149864",
-                    "size": "212668203",
-                    "download": "125674080"
+                    "gid": "2740449396605858247",
+                    "size": "214501359",
+                    "download": "126663536"
                 },
                 "beta": {
-                    "gid": "6671671666474149864",
-                    "size": "212668203",
-                    "download": "125674080"
+                    "gid": "2740449396605858247",
+                    "size": "214501359",
+                    "download": "126663536"
                 }
             },
             "decryptionkey": "029c48acbc3b14085c811abd6bfb87dd070cfc070378992e738f4aae033c7296"
@@ -29,13 +29,13 @@
         "workshopdepot": "1512940",
         "branches": {
             "public": {
-                "buildid": "18369708",
-                "timeupdated": "1746598932"
+                "buildid": "18502647",
+                "timeupdated": "1747486385"
             },
             "beta": {
-                "buildid": "18369708",
+                "buildid": "18502647",
                 "description": "beta testing version",
-                "timeupdated": "1746598896"
+                "timeupdated": "1747486345"
             }
         },
         "workshopdepotdecryptionkey": "2250bcb640cd7bad589c1e982c9144a685b28c4f57a02390c3481d91ff9bd3e7"
