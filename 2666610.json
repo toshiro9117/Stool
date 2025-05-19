@@ -4,8 +4,8 @@
     "name": "Wings of Endless",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28919476",
-    "update_time": "2025-05-11 02:34:11",
+    "change_number": "29044408",
+    "update_time": "2025-05-18 07:11:23",
     "depot": {
         "baselanguages": "english,spanish",
         "2666611": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3608120541805185728",
+                    "gid": "9150264512448701367",
                     "size": "376597032",
-                    "download": "286133584"
+                    "download": "286129888"
                 }
             },
             "decryptionkey": "ff88a857f98e14ea67a68cb74d3f38ed09ed406165707f636a0228864f0b594f"
         },
         "branches": {
             "public": {
-                "buildid": "18256869",
-                "timeupdated": "1745771393"
+                "buildid": "18443917",
+                "timeupdated": "1747136258"
             }
         }
     }
