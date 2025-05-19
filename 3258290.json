@@ -4,8 +4,8 @@
     "name": "Equinox: Homecoming",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28920255",
-    "update_time": "2025-05-11 04:32:26",
+    "change_number": "29043684",
+    "update_time": "2025-05-18 05:13:10",
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3258291": {
             "manifests": {
                 "public": {
-                    "gid": "7596876209003046872",
-                    "size": "15312073937",
-                    "download": "13077013312"
+                    "gid": "698767765748898905",
+                    "size": "15311296003",
+                    "download": "13076518752"
                 }
             },
             "decryptionkey": "73554f5d53f617bf5a2573e47be58a3afa60bdb3bb74882085c201e5d76ef94b"
         },
         "branches": {
             "public": {
-                "buildid": "18404328",
-                "timeupdated": "1746806192"
+                "buildid": "18440845",
+                "timeupdated": "1747128677"
             }
         },
         "privatebranches": "1"
