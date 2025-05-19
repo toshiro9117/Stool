@@ -4,8 +4,8 @@
     "name": "イル・ドー",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28880893",
-    "update_time": "2025-05-08 19:40:56",
+    "change_number": "28999255",
+    "update_time": "2025-05-15 17:48:06",
     "depot": {
         "baselanguages": "japanese",
         "228989": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3272552676169943488",
-                    "size": "1823535010",
-                    "download": "1390019248"
+                    "gid": "8151415523275686160",
+                    "size": "1827447307",
+                    "download": "1394477888"
                 }
             },
             "decryptionkey": "7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992"
         },
         "branches": {
             "public": {
-                "buildid": "18386891",
-                "timeupdated": "1746704450"
+                "buildid": "18471785",
+                "timeupdated": "1747302482"
             }
         },
         "privatebranches": "1"
