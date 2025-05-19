@@ -4,8 +4,8 @@
     "name": "Arma 3",
     "schinese_name": "武装突袭3",
     "isfreeapp": "0",
-    "change_number": "28902587",
-    "update_time": "2025-05-09 21:28:11",
+    "change_number": "29025184",
+    "update_time": "2025-05-16 21:34:23",
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -724,9 +724,9 @@
             },
             "manifests": {
                 "profiling": {
-                    "gid": "3854719857746557758",
-                    "size": "143543552",
-                    "download": "48089744"
+                    "gid": "7234572957894259788",
+                    "size": "143629688",
+                    "download": "48153376"
                 }
             },
             "decryptionkey": "5957e2f2c177f505edfedc9170b8ca215df87c63267843d424bcda30eaf0beb0"
@@ -1128,9 +1128,9 @@
                 "timeupdated": "1746628882"
             },
             "profiling": {
-                "buildid": "18402203",
+                "buildid": "18441893",
                 "description": "Performance Profiling Build",
-                "timeupdated": "1746789594"
+                "timeupdated": "1747127278"
             }
         },
         "privatebranches": "1",
