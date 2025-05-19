@@ -4,8 +4,8 @@
     "name": "Galactic Getaway",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28910395",
-    "update_time": "2025-05-10 05:49:00",
+    "change_number": "29040895",
+    "update_time": "2025-05-17 22:43:57",
     "depot": {
         "2012391": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1404050710263101078",
-                    "size": "1130666601",
-                    "download": "536653168"
+                    "gid": "2934070228993540125",
+                    "size": "1147133622",
+                    "download": "538011488"
                 },
                 "indev": {
-                    "gid": "4094543407441016312",
-                    "size": "1147773432",
-                    "download": "538003808"
+                    "gid": "2934070228993540125",
+                    "size": "1147133622",
+                    "download": "538011488"
                 }
             },
             "decryptionkey": "40d7b1e51194f9f2f672d0ceb4c32e8eeb75cc17eef0cd813a651afcd04eccdf"
@@ -31,27 +31,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8837153858456475599",
-                    "size": "1249840586",
-                    "download": "601879584"
+                    "gid": "7033217152037302769",
+                    "size": "1266637801",
+                    "download": "603352080"
                 },
                 "indev": {
-                    "gid": "7593146681610584808",
-                    "size": "1267258836",
-                    "download": "603343248"
+                    "gid": "7033217152037302769",
+                    "size": "1266637801",
+                    "download": "603352080"
                 }
             }
         },
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18301810",
-                "timeupdated": "1746054591"
+                "buildid": "18503093",
+                "timeupdated": "1747493032"
             },
             "indev": {
-                "buildid": "18406065",
+                "buildid": "18503093",
                 "description": "dev branch",
-                "timeupdated": "1746808564"
+                "timeupdated": "1747491450"
             }
         }
     }
