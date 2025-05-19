@@ -4,8 +4,8 @@
     "name": "Neighbors: Suburban Warfare",
     "schinese_name": "家有恶邻",
     "isfreeapp": "0",
-    "change_number": "28910076",
-    "update_time": "2025-05-10 05:20:44",
+    "change_number": "29032749",
+    "update_time": "2025-05-17 05:08:50",
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1732431": {
             "manifests": {
                 "public": {
-                    "gid": "1976506552634352973",
-                    "size": "5787725274",
-                    "download": "5308047248"
+                    "gid": "6114078551734914558",
+                    "size": "5787588546",
+                    "download": "5307959344"
                 },
                 "resource_rework": {
                     "gid": "8019474182679947703",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18389156",
-                "timeupdated": "1746781903"
+                "buildid": "18430443",
+                "timeupdated": "1747062035"
             },
             "resource_rework": {
                 "buildid": "18400233",
