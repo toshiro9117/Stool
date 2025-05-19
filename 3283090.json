@@ -4,8 +4,8 @@
     "name": "MILF's Plaza - Beach Episode",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28915898",
-    "update_time": "2025-05-10 17:33:20",
+    "change_number": "29047829",
+    "update_time": "2025-05-18 18:15:19",
     "depot": {
         "3283090": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "3283090",
             "manifests": {
                 "public": {
-                    "gid": "8214784388253170562",
-                    "size": "411849396",
-                    "download": "218547472"
+                    "gid": "1477609026355607465",
+                    "size": "411861692",
+                    "download": "218548400"
                 }
             },
             "decryptionkey": "ff57df5770f283685d2d085d99d75a442a8b8ce5ddd8ca2830cfa6122c6e7e12"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8647641459969854094",
-                    "size": "411880136",
-                    "download": "218549552"
+                    "gid": "5108947559828910283",
+                    "size": "411873988",
+                    "download": "218549296"
                 }
             },
             "dlcappid": "3283090"
         },
         "branches": {
             "public": {
-                "buildid": "18343988",
-                "timeupdated": "1746434404"
+                "buildid": "18447599",
+                "timeupdated": "1747152854"
             }
         }
     }
