@@ -4,8 +4,8 @@
     "name": "Rogue Kingdoms",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28918668",
-    "update_time": "2025-05-11 00:32:52",
+    "change_number": "29047091",
+    "update_time": "2025-05-18 16:12:16",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,brazilian,indonesian",
         "2690871": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "233654496658387927",
-                    "size": "811409167",
-                    "download": "142159520"
+                    "gid": "7479451216351281662",
+                    "size": "826601036",
+                    "download": "142983136"
                 }
             },
             "decryptionkey": "a33f5438bc2d0f283a2de7666cd71ff07f5711f8686f31ded8122e028c224d00"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4908961119774372801",
-                    "size": "798733257",
-                    "download": "137518352"
+                    "gid": "9056821011976212632",
+                    "size": "828680107",
+                    "download": "141903664"
                 }
             }
         },
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18414848",
-                "timeupdated": "1746889573"
+                "buildid": "18461222",
+                "timeupdated": "1747230697"
             }
         }
     }
