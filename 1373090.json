@@ -4,8 +4,8 @@
     "name": "Yes, Your Grace: Snowfall",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28922665",
-    "update_time": "2025-05-11 12:02:16",
+    "change_number": "29044060",
+    "update_time": "2025-05-18 06:15:09",
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7924008616388649321",
-                    "size": "2910535818",
-                    "download": "2369459872"
+                    "gid": "5438325387466028378",
+                    "size": "2933597041",
+                    "download": "2388756128"
                 }
             },
             "decryptionkey": "1e62e9776420e2326bcd8899e8b909fed88378c995abdc1e1d05184d6d87d67c"
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18415659",
-                "timeupdated": "1746901159"
+                "buildid": "18495339",
+                "timeupdated": "1747470679"
             }
         },
         "privatebranches": "1"
