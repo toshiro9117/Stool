@@ -4,8 +4,8 @@
     "name": "Police Stories",
     "schinese_name": "警察故事",
     "isfreeapp": "0",
-    "change_number": "28090392",
-    "update_time": "2025-03-23 04:12:51",
+    "change_number": "28974597",
+    "update_time": "2025-05-14 14:27:56",
     "depot": {
         "baselanguages": "english",
         "228990": {
@@ -98,6 +98,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "60a5b6588d3bb512e55ff3b05710e6a1f312863661f841e542e1711190d5da9f"
     }
 }
