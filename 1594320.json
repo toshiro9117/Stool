@@ -4,8 +4,8 @@
     "name": "Captain of Industry",
     "schinese_name": "工业巨头 (Captain of Industry)",
     "isfreeapp": "0",
-    "change_number": "28920042",
-    "update_time": "2025-05-11 04:03:56",
+    "change_number": "29044299",
+    "update_time": "2025-05-18 06:53:47",
     "depot": {
         "1594321": {
             "config": {
@@ -14,9 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3195232451474689004",
-                    "size": "1561514918",
-                    "download": "1314050912"
+                    "gid": "3297654776034789486",
+                    "size": "2910387006",
+                    "download": "2507802592"
+                },
+                "experimental": {
+                    "gid": "3297654776034789486",
+                    "size": "2910387006",
+                    "download": "2507802592"
                 },
                 "alpha-legacy": {
                     "gid": "4486113827918517499",
@@ -28,30 +33,20 @@
                     "size": "779021317",
                     "download": "661562432"
                 },
-                "ea-legacy": {
-                    "gid": "8808902189245306884",
-                    "size": "1006088607",
-                    "download": "830484240"
-                },
                 "pre-alpha-legacy": {
                     "gid": "51148691094757715",
                     "size": "438934032",
                     "download": "334997888"
                 },
+                "ea-legacy": {
+                    "gid": "8808902189245306884",
+                    "size": "1006088607",
+                    "download": "830484240"
+                },
                 "update1-legacy": {
                     "gid": "2343200866089698002",
                     "size": "1381631972",
                     "download": "1151341040"
-                },
-                "experimental": {
-                    "gid": "3195232451474689004",
-                    "size": "1561514918",
-                    "download": "1314050912"
-                },
-                "legacy-temporary": {
-                    "gid": "8855127029810949887",
-                    "size": "1559770737",
-                    "download": "1312997712"
                 },
                 "update2-legacy": {
                     "gid": "3195232451474689004",
@@ -69,9 +64,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3673242767828715487",
-                    "size": "10426300",
-                    "download": "8601216"
+                    "gid": "5499591597626730228",
+                    "size": "11554729",
+                    "download": "9743136"
+                },
+                "experimental": {
+                    "gid": "5499591597626730228",
+                    "size": "11554729",
+                    "download": "9743136"
                 },
                 "ea-legacy": {
                     "gid": "1505119816856339038",
@@ -83,16 +83,6 @@
                     "size": "8447021",
                     "download": "6864704"
                 },
-                "experimental": {
-                    "gid": "3673242767828715487",
-                    "size": "10426300",
-                    "download": "8601216"
-                },
-                "legacy-temporary": {
-                    "gid": "5431795620429349516",
-                    "size": "10424252",
-                    "download": "8600592"
-                },
                 "update2-legacy": {
                     "gid": "3673242767828715487",
                     "size": "10426300",
@@ -103,8 +93,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16141552",
-                "timeupdated": "1729628115"
+                "buildid": "18504838",
+                "timeupdated": "1747513995"
+            },
+            "experimental": {
+                "buildid": "18504838",
+                "description": "Testing of experimental features, not stable",
+                "timeupdated": "1747513978"
             },
             "alpha-legacy": {
                 "buildid": "7546314",
@@ -116,30 +111,20 @@
                 "description": "Legacy beta build v0.3.11f",
                 "timeupdated": "1652756679"
             },
-            "ea-legacy": {
-                "buildid": "11552291",
-                "description": "Legacy early access v0.4.xx",
-                "timeupdated": "1687643980"
-            },
             "pre-alpha-legacy": {
                 "buildid": "7344310",
                 "description": "Legacy pre-alpha build v0.1.9c",
                 "timeupdated": "1631411171"
             },
+            "ea-legacy": {
+                "buildid": "11552291",
+                "description": "Legacy early access v0.4.xx",
+                "timeupdated": "1687643980"
+            },
             "update1-legacy": {
                 "buildid": "13643163",
                 "description": "Legacy Update 1 build v0.5.5d",
                 "timeupdated": "1711830810"
-            },
-            "experimental": {
-                "buildid": "16141552",
-                "description": "Testing of experimental features, not stable",
-                "timeupdated": "1729628126"
-            },
-            "legacy-temporary": {
-                "buildid": "14310505",
-                "description": "v0.6.3b b334",
-                "timeupdated": "1716070631"
             },
             "update2-legacy": {
                 "buildid": "16141552",
