@@ -4,8 +4,8 @@
     "name": "Shovel Knight Dig",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28847635",
-    "update_time": "2025-05-07 02:38:37",
+    "change_number": "29031448",
+    "update_time": "2025-05-17 03:27:19",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
         "1416052": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1620590406626464340",
-                    "size": "455504543",
-                    "download": "237235088"
+                    "gid": "8648680589570094168",
+                    "size": "507705803",
+                    "download": "280749136"
                 }
             },
             "decryptionkey": "e08c8ef3509406337f1cca1b38b73c68fcadc8f88db5600f4c9e521c3e13fd80"
         },
         "branches": {
             "public": {
-                "buildid": "10916408",
-                "timeupdated": "1680899794"
+                "buildid": "18484457",
+                "timeupdated": "1747423635"
             }
         },
         "privatebranches": "1"
