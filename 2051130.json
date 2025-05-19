@@ -4,15 +4,15 @@
     "name": "Ghostland Yard",
     "schinese_name": "幽灵追踪",
     "isfreeapp": "0",
-    "change_number": "27369345",
-    "update_time": "2025-02-08 02:55:27",
+    "change_number": "29006579",
+    "update_time": "2025-05-16 00:10:04",
     "depot": {
         "2051131": {
             "manifests": {
                 "public": {
-                    "gid": "5918860525710670940",
-                    "size": "634605933",
-                    "download": "481767824"
+                    "gid": "3779162314418356293",
+                    "size": "643944573",
+                    "download": "481044768"
                 }
             },
             "decryptionkey": "d26ab2ba3edceac44a8b15e55a10a144151e65f48029bb05b7d8c0c8da9813d3"
@@ -20,8 +20,8 @@
         "workshopdepot": "2051130",
         "branches": {
             "public": {
-                "buildid": "16651319",
-                "timeupdated": "1733451446"
+                "buildid": "18460764",
+                "timeupdated": "1747229721"
             }
         },
         "privatebranches": "1",
