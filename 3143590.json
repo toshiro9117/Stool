@@ -4,8 +4,8 @@
     "name": "All in Abyss: Judge the Fake Demo",
     "schinese_name": "深渊绝赌：千王处刑 Demo",
     "isfreeapp": "0",
-    "change_number": "27885432",
-    "update_time": "2025-03-11 14:51:15",
+    "change_number": "28749822",
+    "update_time": "2025-04-30 21:16:18",
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "228989": {
@@ -25,7 +25,8 @@
                     "size": "2441361864",
                     "download": "863724272"
                 }
-            }
+            },
+            "decryptionkey": "01ef80c81d01f900a8cb8b00518d88e2b67ab8b754d91f931a11eb6a772c1520"
         },
         "branches": {
             "public": {
