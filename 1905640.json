@@ -4,8 +4,8 @@
     "name": "OBS Studio Beta",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28259127",
-    "update_time": "2025-04-02 09:11:46",
+    "change_number": "28431786",
+    "update_time": "2025-04-11 23:08:39",
     "depot": {
         "228989": {
             "config": {
@@ -25,8 +25,7 @@
                     "size": "915848100",
                     "download": "233742992"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "1905642": {
             "config": {
