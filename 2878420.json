@@ -10,19 +10,20 @@
         "2878421": {
             "manifests": {
                 "public": {
-                    "gid": "1025388699770139824",
-                    "size": "1623989620",
-                    "download": "647442976"
+                    "gid": "5784716990056895669",
+                    "size": "1625882821",
+                    "download": "675281728"
                 }
             },
             "decryptionkey": "4576f91c200141b0609fc6250aec2ddf4604ec5031f650f201d4b8114744ef0b"
         },
         "branches": {
             "public": {
-                "buildid": "18181279",
-                "timeupdated": "1745247145"
+                "buildid": "18588583",
+                "timeupdated": "1748036898"
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 15180986674925960148
 }
