@@ -27,7 +27,7 @@
                     "download": "97886208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2356416e9e903afa1b9ae896fdeec8153d7bd6a38c66b5c48fc60b8f84a7c5e2"
         },
         "588734": {
             "config": {
@@ -54,7 +54,7 @@
                     "download": "112340352"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "68db473e3a3e4fd13bfb2cb28f8b1dbae2449f4f4eddcfb32f1c5f74e6b0680d"
         },
         "588733": {
             "config": {
@@ -67,7 +67,7 @@
                     "download": "98460944"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d0b7c78270c3233444fb9be710895a0c2fd4df48667a7d6069674b13839e9fe2"
         },
         "hasdepotsindlc": "0",
         "branches": {
