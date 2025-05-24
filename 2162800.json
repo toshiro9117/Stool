@@ -33,9 +33,9 @@
                     "download": "887141344"
                 },
                 "dimension-update-experimental": {
-                    "gid": "3505329300307534967",
-                    "size": "1672812462",
-                    "download": "875703152"
+                    "gid": "3563742540774079366",
+                    "size": "1672867130",
+                    "download": "875724032"
                 }
             },
             "decryptionkey": "163ae6ae731b47cb94170aee0ed8a4d4ecc62c6082bc319cc270e20c5eb0f759"
@@ -51,9 +51,9 @@
                     "download": "886951648"
                 },
                 "dimension-update-experimental": {
-                    "gid": "3579711861939649127",
-                    "size": "1712554875",
-                    "download": "875607456"
+                    "gid": "6002112128407347112",
+                    "size": "1712615691",
+                    "download": "875624128"
                 }
             },
             "decryptionkey": "9b7c2e9a0f8d2a28b522233286436b360fffb4830d45a69a5a0bf35573da8647"
@@ -69,9 +69,9 @@
                     "download": "891158512"
                 },
                 "dimension-update-experimental": {
-                    "gid": "606517799244092978",
-                    "size": "1693182265",
-                    "download": "879575456"
+                    "gid": "8009428549877152689",
+                    "size": "1693229693",
+                    "download": "879604128"
                 }
             },
             "decryptionkey": "aba21c81613972e41bf5e0131f382113d13fbdee073a02f7065cfc4256630232"
@@ -83,11 +83,11 @@
                 "timeupdated": "1734433658"
             },
             "dimension-update-experimental": {
-                "buildid": "18442887",
+                "buildid": "18563183",
                 "description": "Experimental branch of the upcoming dimension update - Backup your savegames!",
-                "timeupdated": "1747299946"
+                "timeupdated": "1747929796"
             }
-        },
-        "privatebranches": "1"
-    }
+        }
+    },
+    "access_token": 18007773361721752868
 }
