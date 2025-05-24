@@ -1,0 +1,31 @@
+{
+    "appid": "2060080",
+    "type": "Game",
+    "name": "Fap Goddess",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008256",
+    "update_time": "2025-05-16 01:36:50",
+    "depot": {
+        "2060081": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4782851528688022482",
+                    "size": "250609805",
+                    "download": "65914736"
+                }
+            },
+            "decryptionkey": "17c6ea0ef07f7b2cb7bc6740dd32f3dcbd0c08bca6b5383a919dc00c5ff8d6b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12294015",
+                "timeupdated": "1695803271"
+            }
+        }
+    }
+}
