@@ -1,0 +1,32 @@
+{
+    "appid": "596170",
+    "type": "Game",
+    "name": "Magazine Editor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "24342995",
+    "update_time": "2024-08-14 19:22:32",
+    "depot": {
+        "596171": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "502622538652495131",
+                    "size": "258163788",
+                    "download": "81476320"
+                }
+            },
+            "decryptionkey": "8508c44307a8c11bdbbfd4bc7ea7f858eb69a5096b95cba170679a3d8a305d7b"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "1691732",
+                "timeupdated": "1489567132"
+            }
+        }
+    },
+    "access_token": 2307240757578293467
+}
