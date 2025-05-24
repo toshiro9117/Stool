@@ -61,7 +61,8 @@
                     "download": "271264"
                 }
             },
-            "dlcappid": "2388330"
+            "dlcappid": "2388330",
+            "decryptionkey": "350cec5f4f79810563419b69d07de66127ca946a93f84d8cd76746b343bceeed"
         },
         "branches": {
             "public": {
