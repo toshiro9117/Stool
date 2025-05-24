@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8786006658529314337",
-                    "size": "355817596",
-                    "download": "96471888"
+                    "gid": "2535961805811027441",
+                    "size": "355820587",
+                    "download": "96481584"
                 },
                 "old_ver": {
                     "gid": "6034048895571895172",
@@ -45,8 +45,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18493521",
-                "timeupdated": "1747409495"
+                "buildid": "18545941",
+                "timeupdated": "1747815016"
             },
             "old_ver": {
                 "buildid": "18391397",
@@ -55,5 +55,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 12411220023888252205
 }
