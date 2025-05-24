@@ -30,7 +30,8 @@
                     "size": "536043424",
                     "download": "188749232"
                 }
-            }
+            },
+            "decryptionkey": "ae0e6259d8dcb6b204d425c18874c6a916136698f3b2d8af34521c2bf660c450"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
         "branches": {
