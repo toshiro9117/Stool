@@ -66,7 +66,8 @@
                     "size": "0",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "7015f0d830dba53bb5fae8d93b9b3df9bae4abe4d6f350dcfd22d2b54aac0f44"
         },
         "207753": {
             "config": {
@@ -88,7 +89,8 @@
                     "size": "0",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "4ff107b89b972d7319de7438bea35b85895bd017350d04f9ec30fc486cdcc72a"
         },
         "hasdepotsindlc": "1",
         "branches": {
