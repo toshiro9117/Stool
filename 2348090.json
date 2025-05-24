@@ -80,7 +80,7 @@
                     "download": "86774848"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0c06dc58ded147ad783a93e3f2462fcc8b3b7a7bfa57428d7b83539f2cf6d00b"
         },
         "2348094": {
             "config": {
@@ -113,7 +113,7 @@
                     "download": "85736560"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "de7d4db18942028077edb965c4535115ddfb51f3654bb07ea42baf1c58c0f2f4"
         },
         "branches": {
             "public": {
