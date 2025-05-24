@@ -23,7 +23,8 @@
                     "size": "1526469267",
                     "download": "1185531728"
                 }
-            }
+            },
+            "decryptionkey": "eb022c28824393e9f652ecef9bc85f9a6b06910e96c358475f3185698afc313f"
         },
         "1627842": {
             "config": {
@@ -60,7 +61,8 @@
                     "size": "1579625591",
                     "download": "1188032480"
                 }
-            }
+            },
+            "decryptionkey": "8a232bb2af51327d604a9e378cf5e2da991ec9bdcb464f35de967ab98ba55f5b"
         },
         "hasdepotsindlc": "1",
         "branches": {
