@@ -33,7 +33,7 @@
                     "download": "518344944"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d6a61b30148d61ce04d4feb25f3eb280b732e9ecdeabe9d97f77da1aeda69cf1"
         },
         "1078423": {
             "config": {
@@ -45,7 +45,8 @@
                     "size": "2359157202",
                     "download": "557025968"
                 }
-            }
+            },
+            "decryptionkey": "82729901608663dc572562628a458ae20e625fe950ad70bad6fb132e4ee6fe04"
         },
         "branches": {
             "public": {
