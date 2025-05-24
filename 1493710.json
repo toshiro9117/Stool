@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7122812433345090255",
-                    "size": "1390661267",
-                    "download": "330437904"
+                    "gid": "8513136433937991719",
+                    "size": "1390704882",
+                    "download": "330467312"
                 },
                 "bleeding-edge": {
-                    "gid": "5142488254142430611",
-                    "size": "1390665881",
-                    "download": "330423360"
+                    "gid": "94899595431712738",
+                    "size": "1390710230",
+                    "download": "330458848"
                 },
                 "bleeding-edge-9.0": {
                     "gid": "2808953810619712121",
@@ -30,14 +30,14 @@
                     "download": "322972688"
                 },
                 "bleeding-edge-debug": {
-                    "gid": "7625650756620767928",
-                    "size": "5013214685",
-                    "download": "955897712"
+                    "gid": "8524244139363776828",
+                    "size": "5018354635",
+                    "download": "956604736"
                 },
                 "debug": {
-                    "gid": "7576417959939844584",
-                    "size": "5010996595",
-                    "download": "955620752"
+                    "gid": "8517494352541675967",
+                    "size": "5018316174",
+                    "download": "956573520"
                 },
                 "experimental-9": {
                     "gid": "1437480922647224640",
@@ -54,13 +54,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18474608",
-                "timeupdated": "1747418977"
+                "buildid": "18570753",
+                "timeupdated": "1748036048"
             },
             "bleeding-edge": {
-                "buildid": "18508772",
+                "buildid": "18588735",
                 "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
-                "timeupdated": "1747575141"
+                "timeupdated": "1748035945"
             },
             "bleeding-edge-9.0": {
                 "buildid": "18283073",
@@ -68,14 +68,14 @@
                 "timeupdated": "1745965894"
             },
             "bleeding-edge-debug": {
-                "buildid": "18498753",
+                "buildid": "18588774",
                 "description": "as dangerous as regular bleeding-edge, just with debug symbols",
-                "timeupdated": "1747441446"
+                "timeupdated": "1748036244"
             },
             "debug": {
-                "buildid": "18474640",
+                "buildid": "18570799",
                 "description": "Unstripped",
-                "timeupdated": "1747418928"
+                "timeupdated": "1748036021"
             },
             "experimental-9": {
                 "buildid": "18226380",
@@ -89,5 +89,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 1621135044225273512
 }
