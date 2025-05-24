@@ -101,7 +101,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "da1f76913633e9ce1b2bda5ec464dc507205388fac5c4c614b6a2706cdbd0912"
         },
         "733": {
             "config": {
@@ -179,7 +180,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "23c8e9a91561a5fb08abf22f2ac98929f4aad68a12164268d3b2800c3db4fb03"
         },
         "731": {
             "systemdefined": "1",
@@ -327,7 +329,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "54fd243c5463c16ec7d32b5b4c7b792b3f2d3f75009ac3e81135ff999b56187f"
         },
         "735": {
             "manifests": {
@@ -396,7 +399,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "a0ef69f0cf8abd70aa9ed79755fbe4d98cf7c6723ba9e0c66e0f7102e49541e6"
         },
         "736": {
             "manifests": {
@@ -465,7 +469,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "e81988c241b4ec9fc7fe1ab34697689f131a48c78da95c985ed347fb43bdc6de"
         },
         "737": {
             "manifests": {
@@ -534,7 +539,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "c80f96efa325374c18c6d5d63ccd2687b1680a908c6def5c5c808e695f1ddbf9"
         },
         "738": {
             "manifests": {
@@ -603,7 +609,8 @@
                     "size": "7",
                     "download": "64"
                 }
-            }
+            },
+            "decryptionkey": "fbc1a292c9b75e33512ed82476267efbf34f1ed1b177651ed8b091cf7174d183"
         },
         "2347770": {
             "config": {
@@ -670,7 +677,8 @@
                     "size": "50848020379",
                     "download": "40997941120"
                 }
-            }
+            },
+            "decryptionkey": "b23a737920b6a72f932a5bcdbdf51770d7d4d394a13f95b1cf29db28c1043d88"
         },
         "2347771": {
             "config": {
@@ -737,7 +745,8 @@
                     "size": "7679806985",
                     "download": "4103089632"
                 }
-            }
+            },
+            "decryptionkey": "b80e2b4bd2a244ba996a013850b5d2f46c897f382164181b382c5d672fcb5090"
         },
         "2347772": {
             "config": {
@@ -804,7 +813,8 @@
                     "size": "9276",
                     "download": "1696"
                 }
-            }
+            },
+            "decryptionkey": "7938abf64ef719e6414d5e385f90ccbef9c6a2c21ab42b471a09641d2b2ba32f"
         },
         "2347773": {
             "config": {
@@ -872,7 +882,8 @@
                     "size": "7106680654",
                     "download": "3679959696"
                 }
-            }
+            },
+            "decryptionkey": "d030f2b7078446257db4b4decd86a38b0ae3816b4847a04e609277e20f25d5d7"
         },
         "2347774": {
             "config": {
@@ -939,7 +950,8 @@
                     "size": "1018065131",
                     "download": "833784944"
                 }
-            }
+            },
+            "decryptionkey": "71e79678830ea0234437b03526e2ede2decfed847ce20bae413718b47db44bea"
         },
         "2347775": {},
         "2347776": {},
@@ -1012,7 +1024,8 @@
                     "size": "875132281",
                     "download": "227160272"
                 }
-            }
+            },
+            "decryptionkey": "a3d6504606875447dc6dedcba78bebb3e0a122fb30a504ef805536f216354271"
         },
         "hasdepotsindlc": "1",
         "branches": {
@@ -1087,6 +1100,7 @@
             }
         },
         "privatebranches": "1",
-        "appmanagesdlc": "1"
+        "appmanagesdlc": "1",
+        "workshopdepotdecryptionkey": "2e61570111ad4d1e4abcb711576f96b84907a024f9f9bf4a4d692d7c132ee91b"
     }
 }
