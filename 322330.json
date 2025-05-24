@@ -45,9 +45,9 @@
                     "download": "2375034304"
                 },
                 "updatebeta": {
-                    "gid": "4574996303647114337",
-                    "size": "3995577614",
-                    "download": "2782797840"
+                    "gid": "930235141246244367",
+                    "size": "4085688673",
+                    "download": "2838561744"
                 }
             },
             "decryptionkey": "3ee94d4c47554fc580de37cdeb4bb41020ece2d5ab195d51d8b87f5e438e9f23"
@@ -68,9 +68,9 @@
                     "download": "2261774192"
                 },
                 "updatebeta": {
-                    "gid": "3527902040306931128",
-                    "size": "3875946163",
-                    "download": "2669543264"
+                    "gid": "1893777009106247190",
+                    "size": "3966073270",
+                    "download": "2725297984"
                 }
             },
             "decryptionkey": "8f36286253d1b2e61f2e7bfec57510d6ec34da84a9d126dc4adf19f6cff117be"
@@ -91,9 +91,9 @@
                     "download": "2262919680"
                 },
                 "updatebeta": {
-                    "gid": "2352723026610623411",
-                    "size": "3854488536",
-                    "download": "2664303760"
+                    "gid": "7645321142564524267",
+                    "size": "3944889556",
+                    "download": "2720115984"
                 }
             },
             "decryptionkey": "065e9fc3141e45c895786254045560d2af8860c513d0a6077fceaca5fda4c32f"
@@ -110,12 +110,13 @@
                 "timeupdated": "1698883383"
             },
             "updatebeta": {
-                "buildid": "17523342",
+                "buildid": "18589487",
                 "description": "Public Beta",
-                "timeupdated": "1740620254"
+                "timeupdated": "1748041967"
             }
         },
         "privatebranches": "1",
         "workshopdepotdecryptionkey": "c947e0b06f2977593e083d4a0b02bac9de29ab99d49478d07dabef37265f2bf8"
-    }
+    },
+    "access_token": 4367778632350439069
 }
