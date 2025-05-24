@@ -4,23 +4,23 @@
     "name": "Electrogical",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27506342",
-    "update_time": "2025-02-17 05:13:00",
+    "change_number": "27982458",
+    "update_time": "2025-03-17 00:57:14",
     "depot": {
         "2501651": {
             "manifests": {
                 "public": {
-                    "gid": "6830382742311205913",
-                    "size": "205177082",
-                    "download": "72462496"
+                    "gid": "6721141974770978513",
+                    "size": "205304170",
+                    "download": "72419216"
                 }
             },
             "decryptionkey": "e8a43f819a674267221c71fb92d4c460858b9ee27871ce9718677ef872a44274"
         },
         "branches": {
             "public": {
-                "buildid": "17339671",
-                "timeupdated": "1739382901"
+                "buildid": "17689688",
+                "timeupdated": "1741773686"
             }
         },
         "privatebranches": "1"
