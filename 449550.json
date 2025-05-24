@@ -56,7 +56,8 @@
                     "size": "3351057",
                     "download": "875920"
                 }
-            }
+            },
+            "decryptionkey": "4ed6f206e482c4280e1b915b5020d7f7e5372037500b942b33862b4379e393c7"
         },
         "449554": {
             "config": {
@@ -73,7 +74,8 @@
                     "size": "9326299",
                     "download": "2674960"
                 }
-            }
+            },
+            "decryptionkey": "34f4e4585ce774cba58a40a3755b75dbb5fb4f10d51741ce9a88d4ef66e1982f"
         },
         "450100": {
             "dlcappid": "450100",
