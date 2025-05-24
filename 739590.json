@@ -141,7 +141,7 @@
                     "download": "82329088"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "aa6f9ecc36434fe2207806a4631e33a27ad0c8205de09acef8bdff316098e54d"
         },
         "739593": {
             "config": {
@@ -300,7 +300,8 @@
                     "size": "256728095",
                     "download": "86486064"
                 }
-            }
+            },
+            "decryptionkey": "3b7e35492265652e9bc0da7b1d2b9d67f5dd75250432b1a1d1bde228ac9d941d"
         },
         "739595": {
             "config": {
@@ -379,7 +380,8 @@
                     "size": "293925491",
                     "download": "86523328"
                 }
-            }
+            },
+            "decryptionkey": "478e6d8769bea78f672bf1df0f4cd008bf29f3b069f56b063f0a2808d91a1d86"
         },
         "739591": {
             "config": {
