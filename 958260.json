@@ -1,0 +1,43 @@
+{
+    "appid": "958260",
+    "type": "Game",
+    "name": "DEAD OR ALIVE Xtreme Venus Vacation",
+    "schinese_name": "死或生沙滩排球：维纳斯假期",
+    "isfreeapp": "1",
+    "change_number": "29022099",
+    "update_time": "2025-05-16 18:34:55",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "958261": {
+            "manifests": {
+                "public": {
+                    "gid": "7542625251269942176",
+                    "size": "23309082226",
+                    "download": "16577585536"
+                }
+            },
+            "decryptionkey": "47a7073965d982c132fbec7844f17a3acf0ec4133cd86f8f39ab239ae4942718"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18469572",
+                "timeupdated": "1747288946"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
