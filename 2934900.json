@@ -1,0 +1,27 @@
+{
+    "appid": "2934900",
+    "type": "Tool",
+    "name": "Astro Colony Dedicated Server Linux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28949209",
+    "update_time": "2025-05-13 06:58:48",
+    "depot": {
+        "2934901": {
+            "manifests": {
+                "public": {
+                    "gid": "4655392664581345162",
+                    "size": "337546780",
+                    "download": "162664112"
+                }
+            },
+            "decryptionkey": "279a5ac1d1d61af5cf5e8008a27c37455844b8210ad0f06d9c7bbd5cc2dc29bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18436234",
+                "timeupdated": "1747090723"
+            }
+        }
+    }
+}
