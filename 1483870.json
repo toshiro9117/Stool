@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5978174172791551053",
-                    "size": "835551126",
-                    "download": "556149600"
+                    "gid": "6148926561923078353",
+                    "size": "836341588",
+                    "download": "556902304"
                 }
             },
             "decryptionkey": "3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5495389233244340839",
-                    "size": "860966328",
-                    "download": "553460224"
+                    "gid": "3337614855300082540",
+                    "size": "861649783",
+                    "download": "553847744"
                 }
             },
             "decryptionkey": "6b21827b939f59ad3d9eda1d3059d61b71712e7d456d0d3a97fbb37956ee87c6"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1278642065321237858",
-                    "size": "816921039",
-                    "download": "551490512"
+                    "gid": "7784596727347636969",
+                    "size": "817578421",
+                    "download": "552074096"
                 }
             },
             "decryptionkey": "42b18e61776276b0d3cd1bbb0ddde9c35284f6cdc57a88fd55c8f20cd3d78660"
@@ -50,11 +50,12 @@
         "workshopdepot": "1483870",
         "branches": {
             "public": {
-                "buildid": "18479858",
-                "timeupdated": "1747330714"
+                "buildid": "18573519",
+                "timeupdated": "1747955335"
             }
         },
         "privatebranches": "1",
         "workshopdepotdecryptionkey": "546615c12ff0cd0f8ec72ea33c332f3b2014f3dbd02940fe312ab327934d6258"
-    }
+    },
+    "access_token": 4024649994957616606
 }
