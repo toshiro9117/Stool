@@ -4,8 +4,8 @@
     "name": "Diabotical Rogue",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28013162",
-    "update_time": "2025-03-18 20:44:35",
+    "change_number": "28515242",
+    "update_time": "2025-04-17 03:30:24",
     "depot": {
         "2805061": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1591535154201900213",
-                    "size": "10151935749",
-                    "download": "3717504032"
+                    "gid": "4563758882825089517",
+                    "size": "10882058227",
+                    "download": "4168200816"
                 }
             },
             "decryptionkey": "58a8b7bf5c8f32cddebf3f8b254554051a08dc6b561fdada408f932afaee3ca9"
@@ -23,8 +23,8 @@
         "baselanguages": "english,german,koreana,spanish,schinese,japanese,polish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "15142166",
-                "timeupdated": "1721856682"
+                "buildid": "18160208",
+                "timeupdated": "1744997215"
             }
         },
         "privatebranches": "1"
