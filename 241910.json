@@ -61,7 +61,8 @@
                     "size": "3825589609",
                     "download": "3811596416"
                 }
-            }
+            },
+            "decryptionkey": "e3c14177478e5839f7eeb185d0425223c6e5ee3d77dcc9773435c9e2e411ef08"
         },
         "241914": {
             "config": {
@@ -73,7 +74,8 @@
                     "size": "41458295",
                     "download": "13669600"
                 }
-            }
+            },
+            "decryptionkey": "bc8d6fce09d4a45ac714d298442b43acae92526ff96aa1adaf39012692f2a8a0"
         },
         "257210": {
             "dlcappid": "257210",
@@ -96,7 +98,8 @@
                     "size": "3825589609",
                     "download": "3811576576"
                 }
-            }
+            },
+            "decryptionkey": "dc8eeed86e2ebd429d51b8a2d31cf4a92c0252f407df7f97e92758d43e41e632"
         },
         "241916": {
             "config": {
@@ -108,7 +111,8 @@
                     "size": "38120489",
                     "download": "11212752"
                 }
-            }
+            },
+            "decryptionkey": "52eccc58c1de780a6144e8d92039688dd0938f3b06381d0709f508a7c86e41b6"
         },
         "566470": {
             "dlcappid": "566470",
