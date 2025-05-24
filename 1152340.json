@@ -20,7 +20,7 @@
                     "download": "2050405776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8fc7e899ad351f74aeaaf5fb7995faff59fc5c36525a4d2dd323715066dbc999"
         },
         "1152342": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "2082630352"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a966ff0815caf977fc0bddd5cc8a982d26ac85a8f473f85b4dd2920dfbfd7289"
         },
         "1152344": {
             "config": {
@@ -60,7 +60,7 @@
                     "download": "2092858720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3394cda39c1a76dc3a8f3d3e5378743834a7f5605972a707fe81d5ae72232dd4"
         },
         "branches": {
             "public": {
