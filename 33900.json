@@ -22,7 +22,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d38d4094b44356928935645d092118615ea6bdd2d833474c272cc64cd5a4853e"
         },
         "33904": {
             "manifests": {
@@ -37,7 +37,7 @@
                     "download": "151378352"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ecdc75cdb4173caa93b8847601363c1ff3a2d65392118acce45aeafe4e45aa61"
         },
         "33901": {
             "systemdefined": "1",
