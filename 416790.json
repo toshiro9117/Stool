@@ -45,7 +45,7 @@
                     "download": "761530144"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "917d9a1748c5eca8e49b737cbaa89ad46102ba4c3ef48bfd8fa62f06fc56c2b2"
         },
         "509090": {
             "dlcappid": "509090",
@@ -64,7 +64,7 @@
                     "download": "122336336"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f273a00d48f0c140b3ff78e1393836c14ce102167b06641b0af80591b087f95f"
         },
         "522651": {
             "dlcappid": "522651",
@@ -83,7 +83,7 @@
                     "download": "12799360"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e2a9aea49d0c5e335893b4c0c4b38f72da9b1c48677283d47472e32da5b69aaa"
         },
         "522650": {
             "dlcappid": "522650",
@@ -102,7 +102,7 @@
                     "download": "14336112"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ae47688236dc8b3141537fad12a350462c7f75f574cc8ceab85ac69d5d0e43d1"
         },
         "522652": {
             "dlcappid": "522652",
@@ -121,7 +121,7 @@
                     "download": "13807024"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8bd9747a0b260c02875d21237cdea041f2d7d5a0eff3c8dcc6fea322172e2227"
         },
         "558290": {
             "dlcappid": "558290",
@@ -140,7 +140,7 @@
                     "download": "14840224"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7a94269af5438ad147f7259026575e73aea84b43138d8dbd861386f98b8c5b0e"
         },
         "567900": {
             "dlcappid": "567900",
@@ -178,7 +178,7 @@
                     "download": "13199584"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e3151a3169572d76df5973d6726ebd83e4f43248d915132d47b5dc8e0e258935"
         },
         "branches": {
             "public": {
