@@ -30,7 +30,8 @@
                     "size": "691620052",
                     "download": "158952672"
                 }
-            }
+            },
+            "decryptionkey": "178c54b3d0eae73ad216e565b6901f02813a08934a759db19a4a17e2214bc7c7"
         },
         "baselanguages": "english,german,french,italian,spanish,swedish",
         "hasdepotsindlc": "0",
