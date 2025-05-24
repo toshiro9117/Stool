@@ -4,8 +4,8 @@
     "name": "Momentum Mod Playtest",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28140613",
-    "update_time": "2025-03-26 09:03:52",
+    "change_number": "28832874",
+    "update_time": "2025-05-06 09:56:21",
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
         "228989": {
@@ -23,9 +23,9 @@
                     "download": "2021048736"
                 },
                 "0.10.0-pre": {
-                    "gid": "270430102456644835",
-                    "size": "4244388041",
-                    "download": "2029547008"
+                    "gid": "2932227159754639127",
+                    "size": "4254166258",
+                    "download": "2034187280"
                 }
             },
             "decryptionkey": "efefa2a23c0112e13a7cd3198cd6120833afacadc276fda80874af59c1af0504"
@@ -41,9 +41,9 @@
                     "download": "110663840"
                 },
                 "0.10.0-pre": {
-                    "gid": "6550312960016072951",
-                    "size": "377168675",
-                    "download": "111556144"
+                    "gid": "477803728794380529",
+                    "size": "378476323",
+                    "download": "111951952"
                 }
             },
             "decryptionkey": "08d634f951ebc26371df13ec1e57280541c63f9818fefe7e4f82784d57a2d830"
@@ -59,12 +59,11 @@
                     "download": "220675088"
                 },
                 "0.10.0-pre": {
-                    "gid": "2523526513931294770",
-                    "size": "856030452",
-                    "download": "220944560"
+                    "gid": "7749950985536199447",
+                    "size": "860429700",
+                    "download": "221872368"
                 }
-            },
-            "decryptionkey": ""
+            }
         },
         "branches": {
             "public": {
@@ -72,9 +71,9 @@
                 "timeupdated": "1735606624"
             },
             "0.10.0-pre": {
-                "buildid": "17859471",
+                "buildid": "18353369",
                 "description": "Prerelease 0.10.0 things",
-                "timeupdated": "1742951028"
+                "timeupdated": "1746496575"
             }
         },
         "privatebranches": "1"
