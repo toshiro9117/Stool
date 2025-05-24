@@ -17,9 +17,9 @@
         "1260321": {
             "manifests": {
                 "public": {
-                    "gid": "4704959919100688132",
-                    "size": "10755304899",
-                    "download": "9345339760"
+                    "gid": "4349092882005032282",
+                    "size": "10800447012",
+                    "download": "9389024464"
                 }
             },
             "decryptionkey": "9623dafeee383701a837274d2547c7a5cbae7334393d64e82b4d2cdc01ef679e"
@@ -27,10 +27,11 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18486642",
-                "timeupdated": "1747384903"
+                "buildid": "18577562",
+                "timeupdated": "1747992002"
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 7641392735724118585
 }
