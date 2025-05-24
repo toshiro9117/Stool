@@ -95,7 +95,8 @@
                     "size": "0",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "820f1c7ccd1463eaa7052a7802e9dbb4e02f45b77ae274e2a9d3463982595814"
         },
         "branches": {
             "public": {
