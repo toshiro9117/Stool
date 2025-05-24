@@ -4,8 +4,8 @@
     "name": "Foundation Demo",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "27945492",
-    "update_time": "2025-03-14 07:58:30",
+    "change_number": "28295343",
+    "update_time": "2025-04-04 03:05:26",
     "depot": {
         "228988": {
             "config": {
@@ -21,7 +21,8 @@
                     "size": "5353980343",
                     "download": "2579343424"
                 }
-            }
+            },
+            "decryptionkey": "9c0d0efd5d0f33cecd3a1564d2fd1c5d549e60e078e5d4b231cd6a5c8245e58e"
         },
         "branches": {
             "public": {
