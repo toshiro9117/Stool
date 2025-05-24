@@ -300,7 +300,8 @@
                     "size": "4619137300",
                     "download": "1482414400"
                 }
-            }
+            },
+            "decryptionkey": "8844cb6110a3670f9ede2c0e216145aeaad6cf4149698a975b7cb202b97795c8"
         },
         "825572": {
             "dlcappid": "3363170",
