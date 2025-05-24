@@ -99,7 +99,7 @@
                     "download": "120708832"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "69d4dde7164fff357b48e7935dc14348d966ff0a3bfc2af37f2a888e531fb517"
         },
         "branches": {
             "public": {
@@ -113,5 +113,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 7938392765836329969
 }
