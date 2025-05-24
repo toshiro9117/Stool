@@ -70,7 +70,8 @@
                     "size": "3570690733",
                     "download": "977417888"
                 }
-            }
+            },
+            "decryptionkey": "e3896b042bb1b7baa551da164c4a826df696a184db1919d32ef11f1f41a86375"
         },
         "workshopdepot": "622970",
         "branches": {
