@@ -1,0 +1,68 @@
+{
+    "appid": "578080",
+    "type": "Game",
+    "name": "PUBG: BATTLEGROUNDS",
+    "schinese_name": "绝地求生",
+    "isfreeapp": "1",
+    "change_number": "28975145",
+    "update_time": "2025-05-14 22:38:09",
+    "depot": {
+        "depotdeltapatches": "1",
+        "baselanguages": "english",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "578081": {
+            "manifests": {
+                "public": {
+                    "gid": "5664493878266221655",
+                    "size": "42250650346",
+                    "download": "41067889264"
+                }
+            },
+            "decryptionkey": "74eea6f9f5b0c0deea249bea435370fe734f552a55e1aca5b09ff4f3990ad53e"
+        },
+        "578082": {
+            "manifests": {
+                "public": {
+                    "gid": "6676749150095353069",
+                    "size": "641828778",
+                    "download": "337098144"
+                }
+            },
+            "decryptionkey": "6cbd9e8da0339346aeaafb966fd6a173ee898929b9ba4349550c5489234dbac7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447925",
+                "timeupdated": "1747180913"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
