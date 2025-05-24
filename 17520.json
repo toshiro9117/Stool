@@ -4,8 +4,8 @@
     "name": "Synergy",
     "schinese_name": "",
     "isfreeapp": "1",
-    "change_number": "28101293",
-    "update_time": "2025-03-24 09:57:24",
+    "change_number": "28970643",
+    "update_time": "2025-05-14 08:17:45",
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -54,7 +54,8 @@
                     "size": "736208294",
                     "download": "330144144"
                 }
-            }
+            },
+            "decryptionkey": "79dec28a9ccea607779ffdd986dd6244ef741815c934b5b6d5f9e4e04531e179"
         },
         "17521": {
             "config": {
@@ -101,7 +102,8 @@
                     "size": "148348448",
                     "download": "51202656"
                 }
-            }
+            },
+            "decryptionkey": "1e5c0916e4eaa9a1f394e8dcfdf3dceeb5f8692c14f6004684e055ad835028e2"
         },
         "17523": {
             "config": {
@@ -148,7 +150,8 @@
                     "size": "110489458",
                     "download": "29625520"
                 }
-            }
+            },
+            "decryptionkey": "e59ef6c6c547cd7bc480a3d02e88953d7133ba1d509ce684908f6ce36dd68f69"
         },
         "17524": {
             "config": {
@@ -195,7 +198,8 @@
                     "size": "104199370",
                     "download": "21038288"
                 }
-            }
+            },
+            "decryptionkey": "0a4067bfc0fed07ba12717cecb9b9dda88664e9a0696e13491559e7a79982bd6"
         },
         "17525": {
             "config": {
