@@ -32,7 +32,8 @@
                     "size": "602753335",
                     "download": "227331952"
                 }
-            }
+            },
+            "decryptionkey": "5c1802653b1a7b773e0611da0582add68784999ecc329ad20da788fe6825339f"
         },
         "8501": {
             "config": {
@@ -45,7 +46,8 @@
                     "size": "401065950",
                     "download": "164887504"
                 }
-            }
+            },
+            "decryptionkey": "c566ea8e7e68fe163d7758b78b008c027d90bd8d74760589f03048805054cae8"
         },
         "overridescddb": "1",
         "branches": {
