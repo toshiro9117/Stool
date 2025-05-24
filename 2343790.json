@@ -18,7 +18,8 @@
                     "download": "816501856"
                 }
             },
-            "dlcappid": "2343790"
+            "dlcappid": "2343790",
+            "decryptionkey": "bca36b3144693458d85d458757a3b8ca728a9424fe307fd360cd81fa98efa882"
         },
         "2343792": {
             "config": {
