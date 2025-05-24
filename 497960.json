@@ -32,7 +32,8 @@
                     "download": "438209600"
                 }
             },
-            "depotfromapp": "438920"
+            "depotfromapp": "438920",
+            "decryptionkey": "3b0493f812cb8fc7fd1b38425e9cb8f5b814a24b78150c6907e38fac6bb33716"
         },
         "branches": {}
     }
