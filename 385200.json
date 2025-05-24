@@ -1,0 +1,31 @@
+{
+    "appid": "385200",
+    "type": "Game",
+    "name": "Absconding Zatwor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28969892",
+    "update_time": "2025-05-14 07:14:43",
+    "depot": {
+        "385201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4768225965158492479",
+                    "size": "314702954",
+                    "download": "103864192"
+                }
+            },
+            "decryptionkey": "c0317e07497cf1eb372fa93d74342ea8d75431f22dbf34885a7f0e67d0974198"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1533961",
+                "timeupdated": "1482335205"
+            }
+        }
+    },
+    "access_token": 5827118980781764891
+}
