@@ -54,7 +54,8 @@
                     "size": "926735135",
                     "download": "872078864"
                 }
-            }
+            },
+            "decryptionkey": "fceb85f132e44beb22fe28071d5308eae6f0e53855066f439c9e79d503500090"
         },
         "3385675": {
             "config": {
@@ -71,7 +72,8 @@
                     "size": "932745158",
                     "download": "873618096"
                 }
-            }
+            },
+            "decryptionkey": "8f64fb04a7f9ef13fb47698c8e263a5bf3587c5478d90b97155d40c1bc05abcd"
         },
         "workshopdepot": "3385670",
         "branches": {
