@@ -53,7 +53,7 @@
                     "download": "366773728"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "03294d6d4822793d8861192a2c92f2b437444438c920fd31955b9a7eb12f807c"
         },
         "2082354": {
             "config": {
@@ -76,7 +76,7 @@
                     "download": "358424288"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c9d9f27f61e743c377eab40eb861c5c94f17085965f777071fcb6b5bb463a314"
         },
         "hasdepotsindlc": "1",
         "branches": {
