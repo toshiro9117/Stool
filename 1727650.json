@@ -1,0 +1,61 @@
+{
+    "appid": "1727650",
+    "type": "Game",
+    "name": "死寂（DeathlyStillness）",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29001829",
+    "update_time": "2025-05-15 20:15:57",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1727652": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7505478743002999039",
+                    "size": "5184564577",
+                    "download": "2782175728"
+                }
+            },
+            "decryptionkey": "7046700ac4e3a03b7f952c87265edb4d1b887e582dfb633c4f75f76fb7608470"
+        },
+        "1727651": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2785341234004331431",
+                    "size": "15458117475",
+                    "download": "14436932560"
+                }
+            },
+            "decryptionkey": "bc8ab7b5b3063d5620446c75d05611a8c3a92584d35351293a7dbca3d8608c63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15631332",
+                "timeupdated": "1725814064"
+            }
+        }
+    }
+}
