@@ -32,7 +32,8 @@
                     "size": "1943341509",
                     "download": "810605312"
                 }
-            }
+            },
+            "decryptionkey": "dbccbd4eb010d236287b4d0aa7339f1eab1c3f0a6c2b75750f90927f9e7c7122"
         },
         "2848870": {
             "manifests": {
