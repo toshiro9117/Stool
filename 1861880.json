@@ -4,15 +4,15 @@
     "name": "Air Traffic: Greenlight",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "24981165",
-    "update_time": "2024-09-18 00:25:46",
+    "change_number": "28368151",
+    "update_time": "2025-04-08 23:10:15",
     "depot": {
         "1861881": {
             "manifests": {
                 "public": {
-                    "gid": "4792011385891949700",
-                    "size": "714040435",
-                    "download": "329405712"
+                    "gid": "7178992099543461478",
+                    "size": "447925515",
+                    "download": "317414480"
                 },
                 "2.00": {
                     "gid": "919305107147284631",
@@ -98,6 +98,11 @@
                     "gid": "4792011385891949700",
                     "size": "714040435",
                     "download": "329405712"
+                },
+                "2.14.6.patch4": {
+                    "gid": "659177683861470354",
+                    "size": "447921451",
+                    "download": "317411712"
                 }
             },
             "decryptionkey": "dcd1681a7b335a37d70b6776e85874328a6f793ddd3f30c8c9850082922231c0"
@@ -105,8 +110,8 @@
         "workshopdepot": "1861880",
         "branches": {
             "public": {
-                "buildid": "14205992",
-                "timeupdated": "1714382891"
+                "buildid": "18027788",
+                "timeupdated": "1744125011"
             },
             "2.00": {
                 "buildid": "8911825",
@@ -192,6 +197,11 @@
                 "buildid": "14205992",
                 "description": "v2.14.6.patch3",
                 "timeupdated": "1714383006"
+            },
+            "2.14.6.patch4": {
+                "buildid": "17993171",
+                "description": "v2.14.6.patch4",
+                "timeupdated": "1743823311"
             }
         },
         "privatebranches": "1",
