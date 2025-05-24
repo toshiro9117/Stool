@@ -79,9 +79,9 @@
                     "download": "2380486432"
                 },
                 "updatebeta": {
-                    "gid": "8209280916116020246",
-                    "size": "4026745477",
-                    "download": "2789155616"
+                    "gid": "3502974187785367208",
+                    "size": "4116791512",
+                    "download": "2844899664"
                 }
             },
             "decryptionkey": "2c52e5002a767247ff7bb75add632763dc0afe52acc5769f5d5eb6209544b7f8"
@@ -102,9 +102,9 @@
                     "download": "2274945136"
                 },
                 "updatebeta": {
-                    "gid": "8024403350440060055",
-                    "size": "3941906293",
-                    "download": "2686629200"
+                    "gid": "6203932567821665492",
+                    "size": "4031958904",
+                    "download": "2742366064"
                 }
             },
             "decryptionkey": "fcec5bd16dfbc7de765d0a1a7af7e175878d153d572012b3381b9b9cfcff3476"
@@ -125,9 +125,9 @@
                     "download": "2257541728"
                 },
                 "updatebeta": {
-                    "gid": "7788586192910354087",
-                    "size": "3847214291",
-                    "download": "2661870688"
+                    "gid": "6433138528802180444",
+                    "size": "3937575087",
+                    "download": "2717667440"
                 }
             },
             "decryptionkey": "4af842c155c770e5b6ac26a64aa4869f7515d7c6ffa0b812e3798290d3b17c0e"
@@ -143,11 +143,12 @@
                 "timeupdated": "1698883395"
             },
             "updatebeta": {
-                "buildid": "17523436",
+                "buildid": "18589540",
                 "description": "Public Beta",
-                "timeupdated": "1740620277"
+                "timeupdated": "1748041971"
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 13278582365864288439
 }
