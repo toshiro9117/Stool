@@ -54,7 +54,7 @@
                     "download": "423265360"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "67fcaad425150dc24360bcbdb0135efdd34a5c96e5896ccaba19b5d67b7e6bb1"
         },
         "95003": {
             "config": {
@@ -67,7 +67,7 @@
                     "download": "473863952"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "85d5b3b39249386fdf8d0fc9870bdbd4b0e23de53f8106bf865b06c8dc2b9b75"
         },
         "branches": {
             "public": {
