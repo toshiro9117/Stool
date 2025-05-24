@@ -4,8 +4,8 @@
     "name": "NNNNNIGHT",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "26864827",
-    "update_time": "2025-01-05 09:15:12",
+    "change_number": "28532215",
+    "update_time": "2025-04-17 23:24:08",
     "depot": {
         "3236461": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3853361426464497868",
-                    "size": "512704862",
-                    "download": "437948272"
+                    "gid": "8783982746004743306",
+                    "size": "339235239",
+                    "download": "274136128"
                 }
             },
             "decryptionkey": "5d747ccf8a941851727b9f05f7b9b5b336f76351bf7de4ea6190a6ff77735031"
@@ -23,8 +23,8 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "15947123",
-                "timeupdated": "1728247617"
+                "buildid": "18146034",
+                "timeupdated": "1744903443"
             }
         }
     }
