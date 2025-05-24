@@ -1047,7 +1047,8 @@
                     "size": "0",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "a12495cd586e59583c2119e0944627d1eaec9ba0383ad9d1a0080eb57967a5b9"
         },
         "534337": {
             "dlcappid": "534331",
