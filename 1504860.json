@@ -1,0 +1,44 @@
+{
+    "appid": "1504860",
+    "type": "Game",
+    "name": "Hell Let Loose (Public Testing)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27816794",
+    "update_time": "2025-03-06 22:56:36",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1504861": {
+            "manifests": {
+                "public": {
+                    "gid": "272911989781315635",
+                    "size": "54942152677",
+                    "download": "25180646976"
+                }
+            },
+            "decryptionkey": "7ee72a319b695503ce98c5906a2d3904476bd5984c71c65eb2c569a2c5316466"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17365028",
+                "timeupdated": "1739532562"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 4178540305305316935
+}
