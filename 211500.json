@@ -1,0 +1,53 @@
+{
+    "appid": "211500",
+    "type": "Game",
+    "name": "RaceRoom Racing Experience ",
+    "schinese_name": "竞速空间：赛车体验",
+    "isfreeapp": "1",
+    "change_number": "28970267",
+    "update_time": "2025-05-14 07:47:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "211501": {
+            "manifests": {
+                "public": {
+                    "gid": "2662628813571927107",
+                    "size": "73369302572",
+                    "download": "65236487216"
+                },
+                "preview": {
+                    "gid": "2662628813571927107",
+                    "size": "73369302572",
+                    "download": "65236487216"
+                }
+            },
+            "decryptionkey": "34fa6e78a3a214e7e5ff6dc1b445ed0e41ec550f955c972325b6e2f34b986752"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "18234094",
+                "timeupdated": "1745565881"
+            },
+            "preview": {
+                "buildid": "18234094",
+                "description": "early access",
+                "timeupdated": "1745562345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
