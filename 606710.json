@@ -388,7 +388,7 @@
                     "download": "6256064"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "39e070dd710b3a38878212f7d24f4cdbb9e306d3ba3c5e89ae041964de3007db"
         },
         "606714": {
             "config": {
@@ -516,7 +516,7 @@
                     "download": "3782864"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b7995ae7a569efd3c2d0a781fc0c71abfc80765ad7ded4d2efd20b8e0ae4b073"
         },
         "workshopdepot": "606710",
         "branches": {
