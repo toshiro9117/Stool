@@ -1,0 +1,47 @@
+{
+    "appid": "3036010",
+    "type": "Game",
+    "name": "推币勇者",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29047134",
+    "update_time": "2025-05-18 16:19:43",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3036011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4227711506990053694",
+                    "size": "737066867",
+                    "download": "571062896"
+                }
+            },
+            "decryptionkey": "ff480b5702269d75c1c9fa2222a2d2e343a6bed322d45e3836400771939a87a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18582726",
+                "timeupdated": "1748016367"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 6292322958620318397
+}
