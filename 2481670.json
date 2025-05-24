@@ -30,7 +30,7 @@
             "config": {
                 "optionaldlc": "3717410"
             },
-            "decryptionkey": ""
+            "decryptionkey": "a77679983de4ccdb9cd345fc9944899e9f3367787ba3f5a1c96b8ccecb283305"
         },
         "3717480": {
             "manifests": {
@@ -40,7 +40,7 @@
                     "download": "110707344"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e437367b9af9ca77ee759f2baa06e636e6fff1640112d24b77fd62990a416037"
         },
         "branches": {
             "public": {
