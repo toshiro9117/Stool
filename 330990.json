@@ -32,7 +32,7 @@
                     "download": "440537008"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b3c2ce9e24f443e6ab107a461f06aab237e618859a721813332ca30d861c9d1c"
         },
         "330993": {
             "config": {
@@ -45,7 +45,7 @@
                     "download": "434387584"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "337cc3e2177e13692c4ccb6b24560423092ae1bdffe530554334906b3419224d"
         },
         "688440": {
             "manifests": {},
