@@ -4,8 +4,8 @@
     "name": "Myth of Empires Dedicated Server",
     "schinese_name": "",
     "isfreeapp": "0",
-    "change_number": "28297794",
-    "update_time": "2025-04-04 06:06:50",
+    "change_number": "28543801",
+    "update_time": "2025-04-18 14:07:48",
     "depot": {
         "228988": {
             "config": {
@@ -17,17 +17,17 @@
         "1794811": {
             "manifests": {
                 "public": {
-                    "gid": "6333296870582528454",
-                    "size": "9941738016",
-                    "download": "8057417680"
+                    "gid": "6254384225519314808",
+                    "size": "9946513540",
+                    "download": "8061166208"
                 }
             },
             "decryptionkey": "995f1feb66b02ba661048be931face47ce493238e3af232eac70f28bb161c486"
         },
         "branches": {
             "public": {
-                "buildid": "17949753",
-                "timeupdated": "1743718004"
+                "buildid": "18140441",
+                "timeupdated": "1744956464"
             }
         }
     }
