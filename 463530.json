@@ -104,7 +104,8 @@
                     "size": "1975009462",
                     "download": "1557934464"
                 }
-            }
+            },
+            "decryptionkey": "983320607be10bce900732aa790408c9c2abdcd205be4f97f081709f9391de86"
         },
         "3402420": {
             "dlcappid": "3402420",
@@ -133,7 +134,8 @@
                     "size": "158169921",
                     "download": "154919040"
                 }
-            }
+            },
+            "decryptionkey": "675e99a0c64273da53414a089742e4a957b854368a68ac7f159f7bd5a50cf60e"
         },
         "branches": {
             "public": {
