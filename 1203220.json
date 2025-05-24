@@ -1,0 +1,63 @@
+{
+    "appid": "1203220",
+    "type": "Game",
+    "name": "NARAKA: BLADEPOINT",
+    "schinese_name": "永劫无间",
+    "isfreeapp": "1",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:20:04",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,turkish,vietnamese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1203222": {
+            "manifests": {
+                "public": {
+                    "gid": "8019264527843942697",
+                    "size": "61560794064",
+                    "download": "49717493488"
+                }
+            }
+        },
+        "1203221": {
+            "manifests": {
+                "public": {
+                    "gid": "3515385415859243163",
+                    "size": "61560794064",
+                    "download": "49716185904"
+                }
+            },
+            "decryptionkey": "788b93ea9ea92552d334bdb7fa9caf5f21f98dded4a670c54926bf0a2bd1d74f"
+        },
+        "1637170": {
+            "dlcappid": "1637170"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18557410",
+                "timeupdated": "1747868358"
+            }
+        }
+    },
+    "access_token": 11033433268150410155
+}
