@@ -1,0 +1,47 @@
+{
+    "appid": "1515640",
+    "type": "Game",
+    "name": "Arcadegeddon",
+    "schinese_name": "酷玩乱斗",
+    "isfreeapp": "1",
+    "change_number": "28998299",
+    "update_time": "2025-05-15 16:57:47",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1515641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1767608619384241154",
+                    "size": "7721299214",
+                    "download": "7126408416"
+                }
+            },
+            "decryptionkey": "7900ed37ecbfd14d823fdc731275d0ece8c1d6d9dd53634bc77de02af8715775"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18033017",
+                "timeupdated": "1744300844"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
