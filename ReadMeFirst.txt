@@ -1,1 +1,0 @@
-https://luamanifest.vercel.app/
